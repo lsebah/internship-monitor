@@ -1,0 +1,58 @@
+name: Daily Internship Scrape
+
+on:
+  schedule:
+    # Run daily at 7:00 AM UTC (9:00 AM Paris time)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        working-directory: scraper
+        run: python main.py
+
+      - name: Check for new jobs
+        id: check_new
+        run: |
+          NEW_COUNT=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('new_today',0))")
+          echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          echo "Found $NEW_COUNT new jobs today"
+
+      - name: Send push notification via ntfy.sh
+        if: steps.check_new.outputs.new_count != '0'
+        run: |
+          NEW=${{ steps.check_new.outputs.new_count }}
+          TOTAL=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('total_jobs',0))")
+          HIGH=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('high_match',0))")
+          curl -s \
+            -H "Title: ${NEW} new internship(s) found!" \
+            -H "Priority: high" \
+            -H "Tags: briefcase,sparkles" \
+            -H "Click: ${{ vars.PAGES_URL || 'https://github.com' }}" \
+            -d "${NEW} new matching internship offers detected. ${HIGH} high-match total. ${TOTAL} offers tracked." \
+            https://ntfy.sh/charles-stages-2026
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/jobs.json
+          git diff --staged --quiet || git commit -m "chore: daily scrape $(date -u +%Y-%m-%d)"
+          git push

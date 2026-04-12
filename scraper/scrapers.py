@@ -1,0 +1,219 @@
+"""
+Scraper modules for different ATS platforms.
+"""
+import hashlib
+import logging
+import re
+import time
+from urllib.parse import urljoin
+
+import requests
+from bs4 import BeautifulSoup
+
+logger = logging.getLogger(__name__)
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/html, */*",
+    "Accept-Language": "en-US,en;q=0.9,fr;q=0.8,es;q=0.7",
+}
+
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+
+def make_job_id(firm_name: str, title: str, url: str) -> str:
+    """Generate a stable unique ID for a job listing."""
+    raw = f"{firm_name}|{title}|{url}".lower().strip()
+    return hashlib.md5(raw.encode()).hexdigest()[:12]
+
+
+# ============================================================
+# WORKDAY SCRAPER
+# ============================================================
+def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from Workday API endpoint."""
+    cfg = firm["scraper"]
+    tenant = cfg["tenant"]
+    instance = cfg["instance"]
+    site = cfg["site"]
+    base_url = f"https://{tenant}.wd{instance}.myworkdayjobs.com"
+    api_url = f"{base_url}/wday/cxs/{tenant}/{site}/jobs"
+
+    all_jobs = []
+    seen_urls = set()
+
+    for term in search_terms[:5]:  # Limit search terms to avoid rate limiting
+        for city in target_cities:
+            try:
+                payload = {
+                    "appliedFacets": {},
+                    "limit": 20,
+                    "offset": 0,
+                    "searchText": f"{term} {city}",
+                }
+                resp = SESSION.post(api_url, json=payload, timeout=15)
+                if resp.status_code != 200:
+                    logger.warning(f"Workday {firm['name']}: HTTP {resp.status_code} for '{term} {city}'")
+                    continue
+
+                data = resp.json()
+                postings = data.get("jobPostings", [])
+
+                for p in postings:
+                    ext_path = p.get("externalPath", "")
+                    job_url = f"{base_url}/en-US/{site}{ext_path}" if ext_path else ""
+                    if job_url in seen_urls:
+                        continue
+                    seen_urls.add(job_url)
+
+                    job = {
+                        "id": make_job_id(firm["name"], p.get("title", ""), job_url),
+                        "bank": firm["name"],
+                        "category": firm.get("category", ""),
+                        "title": p.get("title", ""),
+                        "location": p.get("locationsText", ""),
+                        "url": job_url,
+                        "posted_date": p.get("postedOn", ""),
+                        "description": " | ".join(p.get("bulletFields", [])),
+                        "source": "workday",
+                    }
+                    all_jobs.append(job)
+
+                time.sleep(0.5)  # Rate limiting
+
+            except Exception as e:
+                logger.error(f"Workday {firm['name']} error for '{term} {city}': {e}")
+                continue
+
+    logger.info(f"Workday {firm['name']}: found {len(all_jobs)} jobs")
+    return all_jobs
+
+
+# ============================================================
+# GREENHOUSE SCRAPER
+# ============================================================
+def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from Greenhouse API."""
+    cfg = firm["scraper"]
+    board = cfg.get("board", "")
+    if not board:
+        return []
+
+    api_url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
+    all_jobs = []
+
+    try:
+        resp = SESSION.get(api_url, timeout=15)
+        if resp.status_code != 200:
+            logger.warning(f"Greenhouse {firm['name']}: HTTP {resp.status_code}")
+            return []
+
+        data = resp.json()
+        jobs_data = data.get("jobs", [])
+
+        city_patterns = [re.compile(re.escape(c), re.IGNORECASE) for c in target_cities]
+        term_patterns = [re.compile(re.escape(t), re.IGNORECASE) for t in search_terms]
+
+        for j in jobs_data:
+            title = j.get("title", "")
+            location_name = ""
+            if j.get("location"):
+                location_name = j["location"].get("name", "")
+
+            # Check if location matches
+            loc_match = any(p.search(location_name) for p in city_patterns)
+            # Check if title matches search terms
+            term_match = any(p.search(title) for p in term_patterns)
+
+            if loc_match or term_match:
+                job_url = j.get("absolute_url", "")
+                job = {
+                    "id": make_job_id(firm["name"], title, job_url),
+                    "bank": firm["name"],
+                    "category": firm.get("category", ""),
+                    "title": title,
+                    "location": location_name,
+                    "url": job_url,
+                    "posted_date": (j.get("updated_at") or "")[:10],
+                    "description": "",
+                    "source": "greenhouse",
+                }
+                all_jobs.append(job)
+
+    except Exception as e:
+        logger.error(f"Greenhouse {firm['name']} error: {e}")
+
+    logger.info(f"Greenhouse {firm['name']}: found {len(all_jobs)} jobs")
+    return all_jobs
+
+
+# ============================================================
+# LEVER SCRAPER
+# ============================================================
+def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from Lever API."""
+    cfg = firm["scraper"]
+    company = cfg.get("company", "")
+    if not company:
+        return []
+
+    api_url = f"https://api.lever.co/v0/postings/{company}"
+    all_jobs = []
+
+    try:
+        resp = SESSION.get(api_url, timeout=15)
+        if resp.status_code != 200:
+            logger.warning(f"Lever {firm['name']}: HTTP {resp.status_code}")
+            return []
+
+        postings = resp.json()
+        city_patterns = [re.compile(re.escape(c), re.IGNORECASE) for c in target_cities]
+        term_patterns = [re.compile(re.escape(t), re.IGNORECASE) for t in search_terms]
+
+        for p in postings:
+            title = p.get("text", "")
+            location_name = p.get("categories", {}).get("location", "")
+
+            loc_match = any(pat.search(location_name) for pat in city_patterns)
+            term_match = any(pat.search(title) for pat in term_patterns)
+
+            if loc_match or term_match:
+                job_url = p.get("hostedUrl", "")
+                job = {
+                    "id": make_job_id(firm["name"], title, job_url),
+                    "bank": firm["name"],
+                    "category": firm.get("category", ""),
+                    "title": title,
+                    "location": location_name,
+                    "url": job_url,
+                    "posted_date": "",
+                    "description": p.get("descriptionPlain", "")[:200],
+                    "source": "lever",
+                }
+                all_jobs.append(job)
+
+    except Exception as e:
+        logger.error(f"Lever {firm['name']} error: {e}")
+
+    logger.info(f"Lever {firm['name']}: found {len(all_jobs)} jobs")
+    return all_jobs
+
+
+# ============================================================
+# DISPATCHER
+# ============================================================
+SCRAPER_MAP = {
+    "workday": scrape_workday,
+    "greenhouse": scrape_greenhouse,
+    "lever": scrape_lever,
+}
+
+
+def scrape_firm(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Dispatch to the appropriate scraper for a firm."""
+    scraper_type = firm.get("scraper", {}).get("type", "direct_link")
+    scraper_fn = SCRAPER_MAP.get(scraper_type)
+    if scraper_fn:
+        return scraper_fn(firm, search_terms, target_cities)
+    return []

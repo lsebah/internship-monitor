@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship Monitor - Charles Sebah</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="icons/icon-192.png">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#d4a843">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="header-left">
+                <h1>Internship Monitor</h1>
+                <p class="subtitle">Finance internships tracker - Madrid | Paris | London</p>
+            </div>
+            <div class="header-right">
+                <div class="last-update" id="lastUpdate">Loading...</div>
+                <div class="header-links">
+                    <a href="https://mail.google.com/mail/u/cdsebah@gmail.com" target="_blank" class="profile-link gmail-link">Gmail</a>
+                    <a href="https://www.linkedin.com/in/charlesdsebah" target="_blank" class="profile-link">LinkedIn</a>
+                    <button id="btnNotify" class="profile-link notify-btn" onclick="setupNotifications()">Notifications</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+        <div class="stat-card">
+            <div class="stat-number" id="statTotal">-</div>
+            <div class="stat-label">Total Offers</div>
+        </div>
+        <div class="stat-card highlight">
+            <div class="stat-number" id="statNew">-</div>
+            <div class="stat-label">New Today</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="statMatch">-</div>
+            <div class="stat-label">High Match</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="statFirms">-</div>
+            <div class="stat-label">Firms Tracked</div>
+        </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters">
+        <div class="filter-row">
+            <input type="text" id="searchInput" placeholder="Search by title, firm, location..." class="search-input">
+            <select id="filterCity" class="filter-select">
+                <option value="">All Cities</option>
+                <option value="madrid">Madrid</option>
+                <option value="paris">Paris</option>
+                <option value="london">London</option>
+            </select>
+            <select id="filterCategory" class="filter-select">
+                <option value="">All Categories</option>
+                <option value="Investment Bank">Investment Banks</option>
+                <option value="Bank">Banks</option>
+                <option value="Private Bank">Private Banks</option>
+                <option value="Asset Manager">Asset Managers</option>
+                <option value="Hedge Fund">Hedge Funds</option>
+                <option value="Private Equity">Private Equity</option>
+            </select>
+            <select id="filterMatch" class="filter-select">
+                <option value="">All Scores</option>
+                <option value="80">Excellent (80+)</option>
+                <option value="60">Good (60+)</option>
+                <option value="40">Moderate (40+)</option>
+            </select>
+            <label class="toggle-label">
+                <input type="checkbox" id="filterNew"> New only
+            </label>
+        </div>
+    </section>
+
+    <!-- Tabs -->
+    <nav class="tabs">
+        <button class="tab active" data-tab="jobs">Job Listings</button>
+        <button class="tab" data-tab="links">Career Pages</button>
+        <button class="tab" data-tab="linkedin">LinkedIn & Indeed</button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Jobs Tab -->
+        <div id="tab-jobs" class="tab-content active">
+            <div class="jobs-count" id="jobsCount"></div>
+            <div class="jobs-grid" id="jobsGrid">
+                <div class="empty-state" id="emptyState">
+                    <p>No scraped jobs yet. The scraper runs daily via GitHub Actions.</p>
+                    <p>Check the <strong>Career Pages</strong> tab for direct links to all firms.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Direct Links Tab -->
+        <div id="tab-links" class="tab-content">
+            <div class="links-section" id="linksSection"></div>
+        </div>
+
+        <!-- LinkedIn Tab -->
+        <div id="tab-linkedin" class="tab-content">
+            <div class="search-links" id="searchLinks"></div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>Built for Charles Sebah - IE University BBA 2027</p>
+        <p>Data refreshed daily via GitHub Actions</p>
+    </footer>
+
+    <!-- Notification Setup Modal -->
+    <div id="notifyModal" class="modal" style="display:none">
+        <div class="modal-content">
+            <h3>Push Notifications Setup</h3>
+            <p>Recevez une notification a chaque nouvelle offre de stage.</p>
+            <div class="notify-options">
+                <div class="notify-option">
+                    <h4>Option 1 : ntfy.sh (iOS / Android)</h4>
+                    <ol>
+                        <li>Installez <a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank">ntfy (App Store)</a></li>
+                        <li>Abonnez-vous au topic : <code id="ntfyTopic">charles-stages-2026</code></li>
+                        <li>Vous recevrez une notification push a chaque nouveau match !</li>
+                    </ol>
+                    <a href="https://ntfy.sh/charles-stages-2026" target="_blank" class="apply-btn">Tester une notification</a>
+                </div>
+                <div class="notify-option">
+                    <h4>Option 2 : Notifications navigateur</h4>
+                    <button onclick="requestBrowserNotif()" class="apply-btn">Activer les notifications</button>
+                    <span id="notifStatus"></span>
+                </div>
+            </div>
+            <button onclick="closeModal()" class="modal-close">Fermer</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(reg => console.log('SW registered:', reg.scope))
+                .catch(err => console.warn('SW registration failed:', err));
+        }
+    </script>
+</body>
+</html>
