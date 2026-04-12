@@ -91,10 +91,10 @@ async function cloudLoad() {
         localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
         localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
 
-        // If local had more data, push back to cloud
-        const localChanged = mergedApps.length > cloudApps.length ||
-            Object.keys(mergedAccounts).length > Object.keys(cloudAccounts).length;
-        if (localChanged) {
+        // Always push merged data back to cloud to ensure consistency
+        const mergedStr = JSON.stringify({ applications: mergedApps, accounts: mergedAccounts });
+        const cloudStr = JSON.stringify({ applications: cloudApps, accounts: cloudAccounts });
+        if (mergedStr !== cloudStr) {
             await cloudSave();
         }
 
