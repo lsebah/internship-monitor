@@ -3,7 +3,7 @@
  * Caches assets for offline use + enables push notifications on iOS
  */
 
-const CACHE_NAME = 'internship-monitor-v2';
+const CACHE_NAME = 'internship-monitor-v3';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
