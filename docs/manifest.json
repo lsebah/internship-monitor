@@ -2,7 +2,7 @@
   "name": "Internship Monitor - Charles Sebah",
   "short_name": "Stages Finance",
   "description": "Finance internship tracker - Madrid, Paris, London",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0f1923",
   "theme_color": "#d4a843",

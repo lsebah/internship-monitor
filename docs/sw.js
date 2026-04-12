@@ -3,14 +3,14 @@
  * Caches assets for offline use + enables push notifications on iOS
  */
 
-const CACHE_NAME = 'internship-monitor-v1';
+const CACHE_NAME = 'internship-monitor-v2';
 const ASSETS_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/style.css',
-    '/app.js',
-    '/manifest.json',
-    '/data/jobs.json',
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
+    './manifest.json',
+    './data/jobs.json',
 ];
 
 // Install: cache core assets
@@ -66,10 +66,10 @@ self.addEventListener('push', (event) => {
     const title = data.title || 'New Internship Match!';
     const options = {
         body: data.body || 'New matching internship offers found.',
-        icon: '/icons/icon-192.png',
-        badge: '/icons/icon-192.png',
+        icon: './icons/icon-192.png',
+        badge: './icons/icon-192.png',
         tag: 'internship-update',
-        data: { url: data.url || '/' },
+        data: { url: data.url || './' },
         actions: [
             { action: 'view', title: 'View Offers' },
         ],
