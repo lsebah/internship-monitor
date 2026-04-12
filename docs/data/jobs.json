@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-12T16:36:44.481252+00:00",
+  "last_updated": "2026-04-12T18:56:58.810733+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-12T16:36:44.481252+00:00"
+      "timestamp": "2026-04-12T18:56:58.810733+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -17,7 +17,7 @@
     "Citi": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-12T16:36:44.481252+00:00"
+      "timestamp": "2026-04-12T18:56:58.810733+00:00"
     },
     "Bank of America": {
       "status": "link_only",
@@ -74,7 +74,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-12T16:36:44.481252+00:00"
+      "timestamp": "2026-04-12T18:56:58.810733+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -132,6 +132,10 @@
       "status": "link_only",
       "count": 0
     },
+    "Tikehau Capital": {
+      "status": "link_only",
+      "count": 0
+    },
     "Millennium Management": {
       "status": "link_only",
       "count": 0
@@ -183,7 +187,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-12T16:36:44.481252+00:00"
+      "timestamp": "2026-04-12T18:56:58.810733+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -783,6 +787,20 @@
       "has_scraper": false
     },
     {
+      "name": "Tikehau Capital",
+      "short": "TKO",
+      "category": "Asset Manager",
+      "subcategory": "European Alternative",
+      "careers_url": "https://www.tikehaucapital.com/en/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
       "name": "Millennium Management",
       "short": "MLP",
       "category": "Hedge Fund",
@@ -1220,6 +1238,6 @@
     "new_today": 0,
     "high_match": 0,
     "firms_scraped": 4,
-    "firms_total": 59
+    "firms_total": 60
   }
 }
