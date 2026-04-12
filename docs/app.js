@@ -6,8 +6,8 @@
 const NTFY_TOPIC = 'charles-stages-2026';
 const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
-const CLOUD_BLOB_ID = '019d8260-f4d8-7d35-913b-6a2c0a14a6d6';
-const CLOUD_URL = `https://jsonblob.com/api/jsonBlob/${CLOUD_BLOB_ID}`;
+const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
+const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
 let isSyncing = false;
 
 let allJobs = [];
@@ -36,7 +36,7 @@ function toggleAccount(firmName) {
     localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
     renderLinks();
     updateAccountStat();
-    cloudSave(); // Sync to cloud
+    // Data saved locally, use Sync button to share across devices
 }
 
 function getAccountCount() {
@@ -51,99 +51,81 @@ function updateAccountStat() {
 // ============================================================
 // CLOUD SYNC (jsonblob.com)
 // ============================================================
-function setSyncStatus(status) {
+function setSyncStatus(status, detail) {
     const el = document.getElementById('syncStatus');
     if (!el) return;
     const states = {
-        syncing: { text: 'Syncing...', color: 'var(--accent-orange)' },
-        synced:  { text: 'Synced', color: 'var(--accent-green)' },
-        error:   { text: 'Sync error', color: 'var(--accent-red)' },
-        offline: { text: 'Offline', color: 'var(--text-muted)' },
+        synced:   { text: 'Local', color: 'var(--accent-green)' },
+        imported: { text: 'Imported!', color: 'var(--accent-green)' },
+        error:    { text: 'Sync error', color: 'var(--accent-red)' },
     };
-    const s = states[status] || states.offline;
-    el.textContent = s.text;
+    const s = states[status] || states.synced;
+    el.textContent = detail || s.text;
     el.style.color = s.color;
 }
 
-async function cloudLoad() {
+// === SYNC VIA SHAREABLE LINK ===
+function exportData() {
+    const payload = {
+        applications: getApplications(),
+        accounts: getAccounts(),
+        exported: new Date().toISOString(),
+    };
+    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(payload))));
+    const url = window.location.origin + window.location.pathname + '#sync=' + encoded;
+
+    // Copy to clipboard
+    navigator.clipboard.writeText(url).then(() => {
+        alert('Lien de synchro copie !\n\nOuvrez ce lien sur votre autre appareil (iPhone/PC) pour synchroniser les candidatures.');
+    }).catch(() => {
+        // Fallback: show in a prompt
+        prompt('Copiez ce lien et ouvrez-le sur votre autre appareil :', url);
+    });
+}
+
+function importFromHash() {
+    const hash = window.location.hash;
+    if (!hash.startsWith('#sync=')) return false;
+
     try {
-        setSyncStatus('syncing');
-        const resp = await fetch(CLOUD_URL, {
-            headers: { 'Accept': 'application/json' },
-        });
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        const cloudData = await resp.json();
+        const encoded = hash.slice(6); // Remove '#sync='
+        const json = decodeURIComponent(escape(atob(encoded)));
+        const data = JSON.parse(json);
 
-        const localApps = getApplications();
-        const localAccounts = getAccounts();
-        const cloudApps = cloudData.applications || [];
-        const cloudAccounts = cloudData.accounts || {};
-
-        const cloudHasData = cloudApps.length > 0 || Object.keys(cloudAccounts).length > 0;
-        const localHasData = localApps.length > 0 || Object.keys(localAccounts).length > 0;
-
-        if (cloudHasData) {
-            // Merge cloud into local
-            const mergedApps = mergeApplications(localApps, cloudApps);
-            localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
-            const mergedAccounts = { ...localAccounts, ...cloudAccounts };
+        if (data.applications) {
+            const localApps = getApplications();
+            const merged = mergeApplications(localApps, data.applications);
+            localStorage.setItem(APPS_KEY, JSON.stringify(merged));
+        }
+        if (data.accounts) {
+            const localAccounts = getAccounts();
+            const mergedAccounts = { ...localAccounts, ...data.accounts };
             localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
         }
 
-        if (localHasData) {
-            // Local has data - push to cloud (covers first sync + merge back)
-            await cloudSave();
-        }
-
-        setSyncStatus('synced');
+        // Clean the URL hash
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+        setSyncStatus('imported', `Imported! (${data.applications?.length || 0} apps)`);
         return true;
     } catch (e) {
-        console.warn('Cloud load failed:', e);
+        console.error('Import failed:', e);
         setSyncStatus('error');
         return false;
     }
 }
 
-async function cloudSave() {
-    if (isSyncing) return;
-    isSyncing = true;
-    try {
-        setSyncStatus('syncing');
-        const payload = {
-            applications: getApplications(),
-            accounts: getAccounts(),
-            last_sync: new Date().toISOString(),
-        };
-        const resp = await fetch(CLOUD_URL, {
-            method: 'PUT',
-            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-            body: JSON.stringify(payload),
-        });
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        setSyncStatus('synced');
-    } catch (e) {
-        console.warn('Cloud save failed:', e);
-        setSyncStatus('error');
-    } finally {
-        isSyncing = false;
-    }
-}
-
 function mergeApplications(local, cloud) {
-    // Merge by ID, keep the most recently updated version
     const map = {};
     for (const app of cloud) map[app.id] = app;
     for (const app of local) {
         if (!map[app.id]) {
             map[app.id] = app;
         } else {
-            // Keep whichever was updated more recently
             if ((app.last_updated || '') > (map[app.id].last_updated || '')) {
                 map[app.id] = app;
             }
         }
     }
-    // Sort by date applied descending
     return Object.values(map).sort((a, b) => (b.date_applied || '').localeCompare(a.date_applied || ''));
 }
 let linkedinSearches = [];
@@ -450,6 +432,7 @@ function getDefaultFirms() {
         {name:"BC Partners",category:"Private Equity",subcategory:"European",careers_url:"https://www.bcpartners.com/careers/",search_urls:{},cities:{Madrid:false,Paris:true,London:true}},
         {name:"TPG",category:"Private Equity",subcategory:"Mega Cap",careers_url:"https://www.tpg.com/careers/",search_urls:{},cities:{Madrid:false,Paris:true,London:true}},
         {name:"Cinven",category:"Private Equity",subcategory:"European",careers_url:"https://www.cinven.com/careers/",search_urls:{},cities:{Madrid:true,Paris:true,London:true}},
+        {name:"Tikehau Capital",category:"Asset Manager",subcategory:"European Alternative",careers_url:"https://www.tikehaucapital.com/en/careers",search_urls:{},cities:{Madrid:true,Paris:true,London:true}},
     ];
 }
 
@@ -536,7 +519,7 @@ function getApplications() {
 
 function saveApplications(apps) {
     localStorage.setItem(APPS_KEY, JSON.stringify(apps));
-    cloudSave(); // Auto-sync to cloud
+    // Data saved locally, use Sync button to share across devices
 }
 
 function addApplication(e) {
@@ -685,15 +668,16 @@ document.addEventListener('click', (e) => {
 // ============================================================
 // INIT
 // ============================================================
-document.addEventListener('DOMContentLoaded', async () => {
+document.addEventListener('DOMContentLoaded', () => {
     setupListeners();
     loadData();
-    // Cloud sync: load from cloud first, then render
-    await cloudLoad();
+    // Check if URL contains sync data from another device
+    const imported = importFromHash();
     // Init application tracker
     const dateEl = document.getElementById('appDate');
     if (dateEl) dateEl.value = new Date().toISOString().slice(0, 10);
     renderApplications();
     renderLinks();
     updateAccountStat();
+    if (!imported) setSyncStatus('synced');
 });

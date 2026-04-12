@@ -467,6 +467,16 @@ FIRMS = [
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
+    {
+        "name": "Tikehau Capital",
+        "short": "TKO",
+        "category": "Asset Manager",
+        "subcategory": "European Alternative",
+        "careers_url": "https://www.tikehaucapital.com/en/careers",
+        "search_urls": {},
+        "scraper": {"type": "direct_link"},
+        "cities": {"Madrid": True, "Paris": True, "London": True},
+    },
 
     # ==========================================================
     # HEDGE FUNDS

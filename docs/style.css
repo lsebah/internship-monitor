@@ -695,6 +695,14 @@ body {
 }
 .gmail-link { border-color: #ea4335; color: #ea4335; }
 .gmail-link:hover { background: #ea4335; color: #fff; }
+.sync-btn {
+    border-color: var(--accent-orange);
+    color: var(--accent-orange);
+    background: none;
+    font-size: 13px;
+    cursor: pointer;
+}
+.sync-btn:hover { background: var(--accent-orange); color: #000; }
 .notify-btn {
     border-color: var(--accent-green);
     color: var(--accent-green);
