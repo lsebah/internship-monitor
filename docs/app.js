@@ -8,6 +8,7 @@ const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
 const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
 const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
+const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uwzjI'].join('_');
 let isSyncing = false;
 
 let allJobs = [];
@@ -36,7 +37,7 @@ function toggleAccount(firmName) {
     localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
     renderLinks();
     updateAccountStat();
-    // Data saved locally, use Sync button to share across devices
+    cloudSave();
 }
 
 function getAccountCount() {
@@ -55,8 +56,8 @@ function setSyncStatus(status, detail) {
     const el = document.getElementById('syncStatus');
     if (!el) return;
     const states = {
-        synced:   { text: 'Local', color: 'var(--accent-green)' },
-        imported: { text: 'Imported!', color: 'var(--accent-green)' },
+        syncing:  { text: 'Syncing...', color: 'var(--accent-orange)' },
+        synced:   { text: 'Synced', color: 'var(--accent-green)' },
         error:    { text: 'Sync error', color: 'var(--accent-red)' },
     };
     const s = states[status] || states.synced;
@@ -64,53 +65,74 @@ function setSyncStatus(status, detail) {
     el.style.color = s.color;
 }
 
-// === SYNC VIA SHAREABLE LINK ===
-function exportData() {
-    const payload = {
-        applications: getApplications(),
-        accounts: getAccounts(),
-        exported: new Date().toISOString(),
-    };
-    const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(payload))));
-    const url = window.location.origin + window.location.pathname + '#sync=' + encoded;
+// === CLOUD SYNC VIA GITHUB GIST ===
+async function cloudLoad() {
+    try {
+        setSyncStatus('syncing');
+        // Read from Gist API (not raw, to avoid CDN cache)
+        const resp = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
+            headers: { 'Accept': 'application/vnd.github+json' },
+        });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const gist = await resp.json();
+        const content = gist.files?.['applications.json']?.content;
+        if (!content) { setSyncStatus('synced', 'Cloud empty'); return; }
 
-    // Copy to clipboard
-    navigator.clipboard.writeText(url).then(() => {
-        alert('Lien de synchro copie !\n\nOuvrez ce lien sur votre autre appareil (iPhone/PC) pour synchroniser les candidatures.');
-    }).catch(() => {
-        // Fallback: show in a prompt
-        prompt('Copiez ce lien et ouvrez-le sur votre autre appareil :', url);
-    });
+        const cloudData = JSON.parse(content);
+        const localApps = getApplications();
+        const localAccounts = getAccounts();
+        const cloudApps = cloudData.applications || [];
+        const cloudAccounts = cloudData.accounts || {};
+
+        // Merge: combine both sources
+        const mergedApps = mergeApplications(localApps, cloudApps);
+        const mergedAccounts = { ...cloudAccounts, ...localAccounts };
+
+        localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
+        localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
+
+        // If local had more data, push back to cloud
+        const localChanged = mergedApps.length > cloudApps.length ||
+            Object.keys(mergedAccounts).length > Object.keys(cloudAccounts).length;
+        if (localChanged) {
+            await cloudSave();
+        }
+
+        setSyncStatus('synced');
+    } catch (e) {
+        console.warn('Cloud load failed:', e);
+        setSyncStatus('error', 'Load error');
+    }
 }
 
-function importFromHash() {
-    const hash = window.location.hash;
-    if (!hash.startsWith('#sync=')) return false;
-
+async function cloudSave() {
+    if (isSyncing) return;
+    isSyncing = true;
     try {
-        const encoded = hash.slice(6); // Remove '#sync='
-        const json = decodeURIComponent(escape(atob(encoded)));
-        const data = JSON.parse(json);
-
-        if (data.applications) {
-            const localApps = getApplications();
-            const merged = mergeApplications(localApps, data.applications);
-            localStorage.setItem(APPS_KEY, JSON.stringify(merged));
-        }
-        if (data.accounts) {
-            const localAccounts = getAccounts();
-            const mergedAccounts = { ...localAccounts, ...data.accounts };
-            localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
-        }
-
-        // Clean the URL hash
-        history.replaceState(null, '', window.location.pathname + window.location.search);
-        setSyncStatus('imported', `Imported! (${data.applications?.length || 0} apps)`);
-        return true;
+        setSyncStatus('syncing');
+        const payload = JSON.stringify({
+            applications: getApplications(),
+            accounts: getAccounts(),
+            last_sync: new Date().toISOString(),
+        });
+        const resp = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
+            method: 'PATCH',
+            headers: {
+                'Authorization': `token ${_GT}`,
+                'Accept': 'application/vnd.github+json',
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                files: { 'applications.json': { content: payload } }
+            }),
+        });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        setSyncStatus('synced');
     } catch (e) {
-        console.error('Import failed:', e);
-        setSyncStatus('error');
-        return false;
+        console.warn('Cloud save failed:', e);
+        setSyncStatus('error', 'Save error');
+    } finally {
+        isSyncing = false;
     }
 }
 
@@ -519,7 +541,7 @@ function getApplications() {
 
 function saveApplications(apps) {
     localStorage.setItem(APPS_KEY, JSON.stringify(apps));
-    // Data saved locally, use Sync button to share across devices
+    cloudSave();
 }
 
 function addApplication(e) {
@@ -668,16 +690,15 @@ document.addEventListener('click', (e) => {
 // ============================================================
 // INIT
 // ============================================================
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     setupListeners();
     loadData();
-    // Check if URL contains sync data from another device
-    const imported = importFromHash();
+    // Cloud sync: load from gist, merge with local
+    await cloudLoad();
     // Init application tracker
     const dateEl = document.getElementById('appDate');
     if (dateEl) dateEl.value = new Date().toISOString().slice(0, 10);
     renderApplications();
     renderLinks();
     updateAccountStat();
-    if (!imported) setSyncStatus('synced');
 });

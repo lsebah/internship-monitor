@@ -1,0 +1,30 @@
+name: Sync Application Data
+
+on:
+  repository_dispatch:
+    types: [sync-data]
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Gist
+        env:
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: e6ae345cbc70791858f67ed708bccd4a
+        run: |
+          DATA='${{ toJSON(github.event.client_payload.data) }}'
+
+          # Write to gist
+          ESCAPED=$(echo "$DATA" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
+
+          curl -sf -X PATCH "https://api.github.com/gists/$GIST_ID" \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -d "{\"files\":{\"applications.json\":{\"content\":$ESCAPED}}}" \
+            -o /dev/null
+
+          echo "Gist updated at $(date -u)"
