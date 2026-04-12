@@ -5,9 +5,44 @@
 
 const NTFY_TOPIC = 'charles-stages-2026';
 const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
+const ACCOUNTS_KEY = 'firm-accounts';
 
 let allJobs = [];
 let allLinks = [];
+
+// ============================================================
+// ACCOUNT TRACKER (localStorage)
+// ============================================================
+function getAccounts() {
+    try {
+        return JSON.parse(localStorage.getItem(ACCOUNTS_KEY)) || {};
+    } catch { return {}; }
+}
+
+function hasAccount(firmName) {
+    return !!getAccounts()[firmName];
+}
+
+function toggleAccount(firmName) {
+    const accounts = getAccounts();
+    if (accounts[firmName]) {
+        delete accounts[firmName];
+    } else {
+        accounts[firmName] = new Date().toISOString().slice(0, 10);
+    }
+    localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
+    renderLinks();
+    updateAccountStat();
+}
+
+function getAccountCount() {
+    return Object.keys(getAccounts()).length;
+}
+
+function updateAccountStat() {
+    const el = document.getElementById('statAccounts');
+    if (el) el.textContent = getAccountCount();
+}
 let linkedinSearches = [];
 let indeedSearches = [];
 
@@ -44,6 +79,7 @@ async function loadData() {
         renderJobs();
         renderLinks();
         renderSearchLinks();
+        updateAccountStat();
     } catch (e) {
         console.warn('Could not load jobs.json, using empty state:', e);
         document.getElementById('statTotal').textContent = '0';
@@ -53,6 +89,7 @@ async function loadData() {
         document.getElementById('lastUpdate').textContent = 'Awaiting first scrape';
         renderLinks();
         renderSearchLinks();
+        updateAccountStat();
     }
 }
 
@@ -166,9 +203,15 @@ function renderLinks() {
         .filter(cat => categories[cat])
         .map(cat => {
             const firms = categories[cat];
+            const accountCount = firms.filter(f => hasAccount(f.name)).length;
+            const pct = Math.round((accountCount / firms.length) * 100);
             return `
             <div class="links-category">
-                <h3>${cat}s (${firms.length})</h3>
+                <h3>
+                    ${cat}s (${firms.length})
+                    <span class="category-accounts">${accountCount}/${firms.length} comptes</span>
+                </h3>
+                <div class="category-progress-bar"><div class="category-progress-fill" style="width:${pct}%"></div></div>
                 <div class="links-grid">
                     ${firms.map(f => renderLinkCard(f)).join('')}
                 </div>
@@ -194,12 +237,23 @@ function renderLinkCard(firm) {
         buttons += `<a href="${escAttr(firstSearch)}" target="_blank" class="link-btn secondary">Search</a>`;
     }
 
+    const checked = hasAccount(firm.name);
+    const checkedClass = checked ? 'has-account' : '';
+    const checkedAttr = checked ? 'checked' : '';
+    const dateCreated = checked ? getAccounts()[firm.name] : '';
+
     return `
-    <div class="link-card">
-        <div>
-            <div class="link-firm-name">${escHtml(firm.name)}</div>
-            <div class="link-firm-sub">${escHtml(firm.subcategory || '')}</div>
-            <div class="link-cities">${cityDots}</div>
+    <div class="link-card ${checkedClass}">
+        <div class="link-card-left">
+            <label class="account-toggle" title="${checked ? 'Compte cree le ' + dateCreated : 'Marquer comme compte cree'}">
+                <input type="checkbox" ${checkedAttr} onchange="toggleAccount('${escAttr(firm.name)}')" />
+                <span class="toggle-switch"></span>
+            </label>
+            <div>
+                <div class="link-firm-name">${escHtml(firm.name)}</div>
+                <div class="link-firm-sub">${escHtml(firm.subcategory || '')}</div>
+                <div class="link-cities">${cityDots}</div>
+            </div>
         </div>
         <div class="link-actions">${buttons}</div>
     </div>`;
