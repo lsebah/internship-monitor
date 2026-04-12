@@ -428,7 +428,7 @@ function getDefaultFirms() {
         {name:"PIMCO",category:"Asset Manager",subcategory:"Global",careers_url:"https://pimco.com/en-us/careers",search_urls:{},cities:{Madrid:false,Paris:false,London:true}},
         {name:"Vanguard",category:"Asset Manager",subcategory:"Global",careers_url:"https://www.vanguardjobs.com/",search_urls:{},cities:{Madrid:false,Paris:false,London:true}},
         {name:"Millennium Management",category:"Hedge Fund",subcategory:"Multi-Strategy",careers_url:"https://www.mlp.com/careers/",search_urls:{},cities:{Madrid:false,Paris:true,London:true}},
-        {name:"Capula Investment Management",category:"Hedge Fund",subcategory:"Fixed Income",careers_url:"https://www.capula.com/careers/",search_urls:{},cities:{Madrid:false,Paris:false,London:true}},
+        {name:"Capula Investment Management",category:"Hedge Fund",subcategory:"Fixed Income",careers_url:"https://www.capulaglobal.com/working-at-capula/",search_urls:{},cities:{Madrid:false,Paris:false,London:true}},
         {name:"Point72",category:"Hedge Fund",subcategory:"Multi-Strategy",careers_url:"https://point72.com/careers/",search_urls:{},cities:{Madrid:false,Paris:true,London:true}},
         {name:"LMR Partners",category:"Hedge Fund",subcategory:"Multi-Strategy",careers_url:"https://www.lmrpartners.com/careers",search_urls:{},cities:{Madrid:false,Paris:false,London:true}},
         {name:"Citadel",category:"Hedge Fund",subcategory:"Multi-Strategy",careers_url:"https://www.citadel.com/careers/",search_urls:{campus:"https://www.citadel.com/careers/open-opportunities/"},cities:{Madrid:false,Paris:true,London:true}},

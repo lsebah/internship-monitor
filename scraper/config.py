@@ -496,7 +496,7 @@ FIRMS = [
         "short": "CAPULA",
         "category": "Hedge Fund",
         "subcategory": "Fixed Income",
-        "careers_url": "https://www.capula.com/careers/",
+        "careers_url": "https://www.capulaglobal.com/working-at-capula/",
         "search_urls": {},
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
