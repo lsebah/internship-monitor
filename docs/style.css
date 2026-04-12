@@ -512,6 +512,171 @@ body {
     color: var(--accent-blue);
 }
 
+/* Tab badge */
+.tab-badge {
+    font-size: 11px;
+    background: var(--accent-gold);
+    color: #000;
+    padding: 1px 6px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 4px;
+}
+.tab-badge:empty { display: none; }
+
+/* Application Form */
+.app-form-section {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.app-form-section h3 {
+    color: var(--accent-gold);
+    font-size: 15px;
+    margin-bottom: 12px;
+}
+.app-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+.app-form .search-input {
+    flex: 1;
+    min-width: 140px;
+    padding: 8px 12px;
+    font-size: 13px;
+}
+.app-form .apply-btn {
+    padding: 8px 20px;
+    font-size: 13px;
+}
+
+/* Pipeline Stats */
+.pipeline-stats {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+.pipe-stat {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.pipe-stat:hover { border-color: var(--accent-gold); }
+.pipe-stat.active { border-color: var(--accent-gold); background: var(--bg-hover); }
+.pipe-stat-icon { font-size: 16px; }
+.pipe-stat-count { font-size: 18px; font-weight: 700; color: var(--text-primary); }
+.pipe-stat-label { font-size: 11px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.3px; }
+
+/* Pipeline Filter Buttons */
+.pipeline-filter {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+.pipe-filter-btn {
+    padding: 6px 14px;
+    font-size: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.pipe-filter-btn:hover { border-color: var(--text-secondary); color: var(--text-primary); }
+.pipe-filter-btn.active {
+    background: var(--accent-gold);
+    color: #000;
+    border-color: var(--accent-gold);
+    font-weight: 600;
+}
+
+/* Application Cards */
+.apps-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.app-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 16px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: all 0.2s;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.app-card:hover { background: var(--bg-hover); }
+.app-card-main { min-width: 0; flex: 1; }
+.app-card-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 4px;
+}
+.app-card-firm {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--accent-blue);
+    background: rgba(74, 158, 255, 0.1);
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+.app-card-title {
+    font-size: 14px;
+    color: var(--text-primary);
+    font-weight: 500;
+}
+.app-card-meta {
+    display: flex;
+    gap: 14px;
+    font-size: 12px;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+}
+.app-card-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+}
+.status-select {
+    padding: 6px 10px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-size: 12px;
+    cursor: pointer;
+    outline: none;
+}
+.status-select option { background: var(--bg-secondary); }
+.delete-btn {
+    background: rgba(255, 69, 58, 0.1) !important;
+    color: var(--accent-red) !important;
+    font-weight: 700;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+.delete-btn:hover { background: rgba(255, 69, 58, 0.25) !important; }
+
 /* Header links group */
 .header-links {
     display: flex;
@@ -629,4 +794,9 @@ body {
     .job-actions { flex-direction: row; align-items: center; width: 100%; }
     .match-reasons { text-align: left; max-width: none; }
     .links-grid { grid-template-columns: 1fr; }
+    .app-form { flex-direction: column; }
+    .app-form .search-input { min-width: 100%; }
+    .app-card { flex-direction: column; align-items: flex-start; }
+    .app-card-actions { width: 100%; justify-content: flex-start; }
+    .pipeline-stats { flex-direction: column; }
 }

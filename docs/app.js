@@ -413,6 +413,136 @@ function setupListeners() {
 }
 
 // ============================================================
+// APPLICATION TRACKER (localStorage)
+// ============================================================
+const APPS_KEY = 'applications';
+const STATUSES = {
+    applied:     { label: 'Postule',   color: '#4a9eff', icon: '📨' },
+    in_progress: { label: 'En cours',  color: '#ff9500', icon: '⏳' },
+    interview:   { label: 'Entretien', color: '#d4a843', icon: '🎤' },
+    offer:       { label: 'Offre',     color: '#34c759', icon: '🎉' },
+    rejected:    { label: 'Refuse',    color: '#ff453a', icon: '❌' },
+};
+
+let currentPipelineFilter = 'all';
+
+function getApplications() {
+    try { return JSON.parse(localStorage.getItem(APPS_KEY)) || []; }
+    catch { return []; }
+}
+
+function saveApplications(apps) {
+    localStorage.setItem(APPS_KEY, JSON.stringify(apps));
+}
+
+function addApplication(e) {
+    e.preventDefault();
+    const apps = getApplications();
+    const app = {
+        id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+        firm: document.getElementById('appFirm').value.trim(),
+        title: document.getElementById('appTitle').value.trim(),
+        location: document.getElementById('appLocation').value.trim() || '',
+        url: document.getElementById('appUrl').value.trim() || '',
+        date_applied: document.getElementById('appDate').value || new Date().toISOString().slice(0, 10),
+        status: 'applied',
+        last_updated: new Date().toISOString().slice(0, 10),
+    };
+    apps.unshift(app);
+    saveApplications(apps);
+    document.getElementById('appForm').reset();
+    document.getElementById('appDate').value = new Date().toISOString().slice(0, 10);
+    renderApplications();
+}
+
+function updateAppStatus(appId, newStatus) {
+    const apps = getApplications();
+    const app = apps.find(a => a.id === appId);
+    if (app) {
+        app.status = newStatus;
+        app.last_updated = new Date().toISOString().slice(0, 10);
+        saveApplications(apps);
+        renderApplications();
+    }
+}
+
+function deleteApplication(appId) {
+    if (!confirm('Supprimer cette candidature ?')) return;
+    const apps = getApplications().filter(a => a.id !== appId);
+    saveApplications(apps);
+    renderApplications();
+}
+
+function filterPipeline(status) {
+    currentPipelineFilter = status;
+    document.querySelectorAll('.pipe-filter-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.status === status);
+    });
+    renderApplications();
+}
+
+function renderApplications() {
+    const apps = getApplications();
+    const filtered = currentPipelineFilter === 'all'
+        ? apps
+        : apps.filter(a => a.status === currentPipelineFilter);
+
+    // Pipeline stats
+    const statsEl = document.getElementById('pipelineStats');
+    const counts = {};
+    for (const key of Object.keys(STATUSES)) counts[key] = 0;
+    apps.forEach(a => { if (counts[a.status] !== undefined) counts[a.status]++; });
+
+    statsEl.innerHTML = Object.entries(STATUSES).map(([key, s]) => `
+        <div class="pipe-stat ${currentPipelineFilter === key ? 'active' : ''}" onclick="filterPipeline('${key}')">
+            <span class="pipe-stat-icon">${s.icon}</span>
+            <span class="pipe-stat-count">${counts[key]}</span>
+            <span class="pipe-stat-label">${s.label}</span>
+        </div>
+    `).join('');
+
+    // Badge on tab
+    const badge = document.getElementById('appsBadge');
+    if (badge) badge.textContent = apps.length > 0 ? apps.length : '';
+
+    // Applications list
+    const listEl = document.getElementById('appsList');
+    if (filtered.length === 0) {
+        listEl.innerHTML = `<div class="empty-state"><p>${apps.length === 0 ? 'Aucune candidature. Ajoutez-en une ci-dessus.' : 'Aucune candidature dans ce statut.'}</p></div>`;
+        return;
+    }
+
+    listEl.innerHTML = filtered.map(app => {
+        const s = STATUSES[app.status] || STATUSES.applied;
+        const statusOptions = Object.entries(STATUSES).map(([key, st]) =>
+            `<option value="${key}" ${key === app.status ? 'selected' : ''}>${st.icon} ${st.label}</option>`
+        ).join('');
+
+        return `
+        <div class="app-card" style="border-left: 3px solid ${s.color}">
+            <div class="app-card-main">
+                <div class="app-card-header">
+                    <span class="app-card-firm">${escHtml(app.firm)}</span>
+                    <span class="app-card-title">${escHtml(app.title)}</span>
+                </div>
+                <div class="app-card-meta">
+                    ${app.location ? `<span>${escHtml(app.location)}</span>` : ''}
+                    <span>Postule le ${app.date_applied}</span>
+                    ${app.last_updated !== app.date_applied ? `<span>MAJ ${app.last_updated}</span>` : ''}
+                </div>
+            </div>
+            <div class="app-card-actions">
+                <select class="status-select" style="border-color:${s.color}" onchange="updateAppStatus('${app.id}', this.value)">
+                    ${statusOptions}
+                </select>
+                ${app.url ? `<a href="${escAttr(app.url)}" target="_blank" class="link-btn primary">Voir</a>` : ''}
+                <button class="link-btn delete-btn" onclick="deleteApplication('${app.id}')">X</button>
+            </div>
+        </div>`;
+    }).join('');
+}
+
+// ============================================================
 // NOTIFICATIONS
 // ============================================================
 function setupNotifications() {
@@ -454,4 +584,7 @@ document.addEventListener('click', (e) => {
 document.addEventListener('DOMContentLoaded', () => {
     setupListeners();
     loadData();
+    // Init application tracker
+    document.getElementById('appDate').value = new Date().toISOString().slice(0, 10);
+    renderApplications();
 });

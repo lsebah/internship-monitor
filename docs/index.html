@@ -89,6 +89,7 @@
     <!-- Tabs -->
     <nav class="tabs">
         <button class="tab active" data-tab="jobs">Job Listings</button>
+        <button class="tab" data-tab="apps">Applications <span class="tab-badge" id="appsBadge"></span></button>
         <button class="tab" data-tab="links">Career Pages</button>
         <button class="tab" data-tab="linkedin">LinkedIn & Indeed</button>
     </nav>
@@ -104,6 +105,38 @@
                     <p>Check the <strong>Career Pages</strong> tab for direct links to all firms.</p>
                 </div>
             </div>
+        </div>
+
+        <!-- Applications Tab -->
+        <div id="tab-apps" class="tab-content">
+            <!-- Add Application Form -->
+            <div class="app-form-section">
+                <h3>Ajouter une candidature</h3>
+                <form id="appForm" class="app-form" onsubmit="addApplication(event)">
+                    <input type="text" id="appFirm" placeholder="Firme (ex: Goldman Sachs)" required class="search-input">
+                    <input type="text" id="appTitle" placeholder="Titre du poste" required class="search-input">
+                    <input type="text" id="appLocation" placeholder="Ville" class="search-input">
+                    <input type="url" id="appUrl" placeholder="Lien de l'offre (optionnel)" class="search-input">
+                    <input type="date" id="appDate" class="search-input">
+                    <button type="submit" class="apply-btn">Ajouter</button>
+                </form>
+            </div>
+
+            <!-- Pipeline Stats -->
+            <div class="pipeline-stats" id="pipelineStats"></div>
+
+            <!-- Pipeline Filter -->
+            <div class="pipeline-filter">
+                <button class="pipe-filter-btn active" data-status="all" onclick="filterPipeline('all')">Toutes</button>
+                <button class="pipe-filter-btn" data-status="applied" onclick="filterPipeline('applied')">Postule</button>
+                <button class="pipe-filter-btn" data-status="in_progress" onclick="filterPipeline('in_progress')">En cours</button>
+                <button class="pipe-filter-btn" data-status="interview" onclick="filterPipeline('interview')">Entretien</button>
+                <button class="pipe-filter-btn" data-status="offer" onclick="filterPipeline('offer')">Offre</button>
+                <button class="pipe-filter-btn" data-status="rejected" onclick="filterPipeline('rejected')">Refuse</button>
+            </div>
+
+            <!-- Applications List -->
+            <div class="apps-list" id="appsList"></div>
         </div>
 
         <!-- Direct Links Tab -->
