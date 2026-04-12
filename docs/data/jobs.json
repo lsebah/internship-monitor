@@ -1,12 +1,1225 @@
 {
-  "last_updated": null,
-  "scrape_status": {},
-  "jobs": [],
+  "last_updated": "2026-04-12T12:36:16.218235+00:00",
+  "scrape_status": {
+    "JP Morgan": {
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-12T12:36:16.218235+00:00"
+    },
+    "Goldman Sachs": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Morgan Stanley": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Citi": {
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-12T12:36:16.218235+00:00"
+    },
+    "Bank of America": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Wells Fargo": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Deutsche Bank": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Barclays": {
+      "status": "link_only",
+      "count": 0
+    },
+    "HSBC": {
+      "status": "link_only",
+      "count": 0
+    },
+    "UBS": {
+      "status": "link_only",
+      "count": 0
+    },
+    "BNP Paribas": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Societe Generale": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Credit Agricole CIB": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Natixis": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Rothschild & Co": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Lazard": {
+      "status": "link_only",
+      "count": 0
+    },
+    "BBVA": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Santander": {
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-12T12:36:16.218235+00:00"
+    },
+    "CaixaBank": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Bankinter": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Pictet": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Lombard Odier": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Julius Baer": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Edmond de Rothschild": {
+      "status": "link_only",
+      "count": 0
+    },
+    "BlackRock": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Fidelity International": {
+      "status": "link_only",
+      "count": 0
+    },
+    "State Street": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Amundi": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Schroders": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Invesco": {
+      "status": "link_only",
+      "count": 0
+    },
+    "PIMCO": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Vanguard": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Millennium Management": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Capula Investment Management": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Point72": {
+      "status": "link_only",
+      "count": 0
+    },
+    "LMR Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Citadel": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Two Sigma": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Bridgewater Associates": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Man Group": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Marshall Wace": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Brevan Howard": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Balyasny Asset Management": {
+      "status": "link_only",
+      "count": 0
+    },
+    "DE Shaw": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Blackstone": {
+      "status": "success",
+      "count": 2,
+      "timestamp": "2026-04-12T12:36:16.218235+00:00"
+    },
+    "KKR": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Apollo Global Management": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Carlyle Group": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Ardian": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Apax Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Thoma Bravo": {
+      "status": "link_only",
+      "count": 0
+    },
+    "CVC Capital Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Permira": {
+      "status": "link_only",
+      "count": 0
+    },
+    "EQT": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Eurazeo": {
+      "status": "link_only",
+      "count": 0
+    },
+    "PAI Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "BC Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "TPG": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Cinven": {
+      "status": "link_only",
+      "count": 0
+    }
+  },
+  "jobs": [
+    {
+      "id": "cb164f9fc2c5",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Private Equity H2 Off Cycle Internship (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship--London-_40745",
+      "posted_date": "",
+      "description": "40745 | Private Equity",
+      "source": "workday",
+      "first_seen": "2026-04-12",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-04-12"
+    },
+    {
+      "id": "df1453acf817",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Tactical Opportunities H2 Off Cycle Internship",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
+      "posted_date": "",
+      "description": "40609",
+      "source": "workday",
+      "first_seen": "2026-04-12",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-04-12"
+    }
+  ],
+  "direct_links": [
+    {
+      "name": "JP Morgan",
+      "short": "JPM",
+      "category": "Investment Bank",
+      "subcategory": "US Bulge Bracket",
+      "careers_url": "https://careers.jpmorgan.com/",
+      "search_urls": {
+        "internships": "https://careers.jpmorgan.com/us/en/students/programs",
+        "Madrid": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,facetsList=LOCATIONS%7CWORK_LOCATION%7CWORKPLACE_TYPE%7CTITLE%7CCATEGORIES%7CORGANIZATIONS%7CPOSTING_DATES%7CFLEX_FIELDS,limit=25,keyword=intern,locationId=300000000289498,sortBy=POSTING_DATES_DESC"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "Goldman Sachs",
+      "short": "GS",
+      "category": "Investment Bank",
+      "subcategory": "US Bulge Bracket",
+      "careers_url": "https://www.goldmansachs.com/careers/",
+      "search_urls": {
+        "students": "https://higher.gs.com/roles/students"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Morgan Stanley",
+      "short": "MS",
+      "category": "Investment Bank",
+      "subcategory": "US Bulge Bracket",
+      "careers_url": "https://www.morganstanley.com/careers/",
+      "search_urls": {
+        "students": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53515a97a3a0/candidate/jobboard/vacancy/1/adv"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Citi",
+      "short": "CITI",
+      "category": "Investment Bank",
+      "subcategory": "US Bulge Bracket",
+      "careers_url": "https://jobs.citi.com/",
+      "search_urls": {
+        "students": "https://jobs.citi.com/search-jobs/intern"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "Bank of America",
+      "short": "BofA",
+      "category": "Investment Bank",
+      "subcategory": "US Bulge Bracket",
+      "careers_url": "https://campus.bankofamerica.com/",
+      "search_urls": {
+        "campus": "https://campus.bankofamerica.com/careers/"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Wells Fargo",
+      "short": "WF",
+      "category": "Investment Bank",
+      "subcategory": "US Universal",
+      "careers_url": "https://www.wellsfargojobs.com/",
+      "search_urls": {
+        "internships": "https://www.wellsfargojobs.com/en/jobs/?search=intern&country=United+Kingdom&country=Spain&country=France"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Deutsche Bank",
+      "short": "DB",
+      "category": "Investment Bank",
+      "subcategory": "EU Universal",
+      "careers_url": "https://careers.db.com/",
+      "search_urls": {
+        "internships": "https://careers.db.com/students-graduates/",
+        "search": "https://db.recsolu.com/external/requisitions"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Barclays",
+      "short": "BARC",
+      "category": "Investment Bank",
+      "subcategory": "UK Universal",
+      "careers_url": "https://search.jobs.barclays/",
+      "search_urls": {
+        "early_careers": "https://search.jobs.barclays/search-jobs/intern"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "HSBC",
+      "short": "HSBC",
+      "category": "Investment Bank",
+      "subcategory": "UK Universal",
+      "careers_url": "https://www.hsbc.com/careers/",
+      "search_urls": {
+        "students": "https://www.hsbc.com/careers/students-and-graduates"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "UBS",
+      "short": "UBS",
+      "category": "Investment Bank",
+      "subcategory": "Swiss Universal",
+      "careers_url": "https://www.ubs.com/global/en/careers.html",
+      "search_urls": {
+        "internships": "https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5131#keyWordSearch=intern&locationSearch="
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "BNP Paribas",
+      "short": "BNPP",
+      "category": "Investment Bank",
+      "subcategory": "EU Universal",
+      "careers_url": "https://group.bnpparibas/en/careers",
+      "search_urls": {
+        "early_careers": "https://group.bnpparibas/en/careers/job-offers?type=internship"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Societe Generale",
+      "short": "SG",
+      "category": "Investment Bank",
+      "subcategory": "EU Universal",
+      "careers_url": "https://careers.societegenerale.com/",
+      "search_urls": {
+        "internships": "https://careers.societegenerale.com/en/job-offers?contract=internship"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Credit Agricole CIB",
+      "short": "CACIB",
+      "category": "Investment Bank",
+      "subcategory": "EU CIB",
+      "careers_url": "https://careers.credit-agricole.com/",
+      "search_urls": {
+        "internships": "https://careers.credit-agricole.com/en/offers?type=internship"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Natixis",
+      "short": "NAT",
+      "category": "Investment Bank",
+      "subcategory": "EU CIB",
+      "careers_url": "https://www.natixis.com/natixis/jcms/tki_5046/en/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Rothschild & Co",
+      "short": "ROTH",
+      "category": "Investment Bank",
+      "subcategory": "EU Advisory",
+      "careers_url": "https://www.rothschildandco.com/en/careers/",
+      "search_urls": {
+        "early_careers": "https://www.rothschildandco.com/en/careers/students-and-graduates/"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Lazard",
+      "short": "LAZ",
+      "category": "Investment Bank",
+      "subcategory": "Advisory",
+      "careers_url": "https://www.lazard.com/careers/",
+      "search_urls": {
+        "early_careers": "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-a4bba4c3553c/candidate/jobboard/vacancy/2/adv"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "BBVA",
+      "short": "BBVA",
+      "category": "Bank",
+      "subcategory": "Spanish Universal",
+      "careers_url": "https://www.bbva.com/en/specials/careers/",
+      "search_urls": {
+        "jobs": "https://bbva.csod.com/ux/ats/careersite/2/home?c=bbva"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Santander",
+      "short": "SAN",
+      "category": "Bank",
+      "subcategory": "Spanish Universal",
+      "careers_url": "https://www.santander.com/en/careers",
+      "search_urls": {
+        "early_careers": "https://santandercareers.wd3.myworkdayjobs.com/SantanderCareers"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "CaixaBank",
+      "short": "CABK",
+      "category": "Bank",
+      "subcategory": "Spanish Universal",
+      "careers_url": "https://www.caixabank.com/en/work-with-us.html",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": false
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Bankinter",
+      "short": "BKNT",
+      "category": "Bank",
+      "subcategory": "Spanish",
+      "careers_url": "https://www.bankinter.com/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": false
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Pictet",
+      "short": "PICT",
+      "category": "Private Bank",
+      "subcategory": "Swiss",
+      "careers_url": "https://www.group.pictet/careers",
+      "search_urls": {
+        "jobs": "https://career5.successfactors.eu/careers?company=picaborneP"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Lombard Odier",
+      "short": "LO",
+      "category": "Private Bank",
+      "subcategory": "Swiss",
+      "careers_url": "https://www.lombardodier.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Julius Baer",
+      "short": "JB",
+      "category": "Private Bank",
+      "subcategory": "Swiss",
+      "careers_url": "https://www.juliusbaer.com/en/careers/",
+      "search_urls": {
+        "jobs": "https://jobs.juliusbaer.com/"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Edmond de Rothschild",
+      "short": "EdR",
+      "category": "Private Bank",
+      "subcategory": "Swiss",
+      "careers_url": "https://www.edmond-de-rothschild.com/en/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "BlackRock",
+      "short": "BLK",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://careers.blackrock.com/",
+      "search_urls": {
+        "early_careers": "https://careers.blackrock.com/early-careers/"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Fidelity International",
+      "short": "FIL",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://www.fidelityinternational.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "State Street",
+      "short": "STT",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://careers.statestreet.com/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Amundi",
+      "short": "AMUN",
+      "category": "Asset Manager",
+      "subcategory": "European",
+      "careers_url": "https://careers.amundi.com/",
+      "search_urls": {
+        "internships": "https://careers.amundi.com/search/?q=intern"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Schroders",
+      "short": "SCHR",
+      "category": "Asset Manager",
+      "subcategory": "European",
+      "careers_url": "https://www.schroders.com/en/careers/",
+      "search_urls": {
+        "early_careers": "https://www.schroders.com/en/careers/early-careers/"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Invesco",
+      "short": "IVZ",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://careers.invesco.com/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "PIMCO",
+      "short": "PIMCO",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://pimco.com/en-us/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Vanguard",
+      "short": "VAN",
+      "category": "Asset Manager",
+      "subcategory": "Global",
+      "careers_url": "https://www.vanguardjobs.com/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Millennium Management",
+      "short": "MLP",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://www.mlp.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Capula Investment Management",
+      "short": "CAPULA",
+      "category": "Hedge Fund",
+      "subcategory": "Fixed Income",
+      "careers_url": "https://www.capula.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Point72",
+      "short": "P72",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://point72.com/careers/",
+      "search_urls": {
+        "jobs": "https://careers.point72.com/CSCareerSearch/CareerSearch.aspx"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "LMR Partners",
+      "short": "LMR",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://www.lmrpartners.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Citadel",
+      "short": "CIT",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://www.citadel.com/careers/",
+      "search_urls": {
+        "campus": "https://www.citadel.com/careers/open-opportunities/"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Two Sigma",
+      "short": "2SIG",
+      "category": "Hedge Fund",
+      "subcategory": "Quantitative",
+      "careers_url": "https://www.twosigma.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Bridgewater Associates",
+      "short": "BWA",
+      "category": "Hedge Fund",
+      "subcategory": "Macro",
+      "careers_url": "https://www.bridgewater.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Man Group",
+      "short": "MAN",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://www.man.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Marshall Wace",
+      "short": "MW",
+      "category": "Hedge Fund",
+      "subcategory": "Long/Short Equity",
+      "careers_url": "https://www.marshallwace.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Brevan Howard",
+      "short": "BH",
+      "category": "Hedge Fund",
+      "subcategory": "Macro",
+      "careers_url": "https://www.brevanhoward.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Balyasny Asset Management",
+      "short": "BAM",
+      "category": "Hedge Fund",
+      "subcategory": "Multi-Strategy",
+      "careers_url": "https://www.balyasny.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "DE Shaw",
+      "short": "DES",
+      "category": "Hedge Fund",
+      "subcategory": "Quantitative",
+      "careers_url": "https://www.deshaw.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Blackstone",
+      "short": "BX",
+      "category": "Private Equity",
+      "subcategory": "Mega Cap",
+      "careers_url": "https://www.blackstone.com/careers/",
+      "search_urls": {
+        "campus": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "KKR",
+      "short": "KKR",
+      "category": "Private Equity",
+      "subcategory": "Mega Cap",
+      "careers_url": "https://www.kkr.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Apollo Global Management",
+      "short": "APO",
+      "category": "Private Equity",
+      "subcategory": "Mega Cap",
+      "careers_url": "https://www.apollo.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Carlyle Group",
+      "short": "CG",
+      "category": "Private Equity",
+      "subcategory": "Mega Cap",
+      "careers_url": "https://www.carlyle.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Ardian",
+      "short": "ARD",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.ardian.com/en/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Apax Partners",
+      "short": "APAX",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.apax.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Thoma Bravo",
+      "short": "TB",
+      "category": "Private Equity",
+      "subcategory": "Tech-focused",
+      "careers_url": "https://www.thomabravo.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": false,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "CVC Capital Partners",
+      "short": "CVC",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.cvc.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Permira",
+      "short": "PERM",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.permira.com/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "EQT",
+      "short": "EQT",
+      "category": "Private Equity",
+      "subcategory": "Nordic",
+      "careers_url": "https://eqtgroup.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Eurazeo",
+      "short": "EURA",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.eurazeo.com/en/careers",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "PAI Partners",
+      "short": "PAI",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.paipartners.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "BC Partners",
+      "short": "BCP",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.bcpartners.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "TPG",
+      "short": "TPG",
+      "category": "Private Equity",
+      "subcategory": "Mega Cap",
+      "careers_url": "https://www.tpg.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Cinven",
+      "short": "CINV",
+      "category": "Private Equity",
+      "subcategory": "European",
+      "careers_url": "https://www.cinven.com/careers/",
+      "search_urls": {},
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    }
+  ],
+  "linkedin_searches": [
+    {
+      "name": "Finance Internships - Madrid",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=finance%20internship&location=Madrid&f_E=1"
+    },
+    {
+      "name": "Finance Internships - Paris",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=finance%20internship&location=Paris&f_E=1"
+    },
+    {
+      "name": "Finance Internships - London",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=finance%20internship&location=London&f_E=1"
+    },
+    {
+      "name": "Banking Internships - Madrid",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=banking%20intern&location=Madrid&f_E=1"
+    },
+    {
+      "name": "Private Banking Internships - Spain",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=private%20banking%20intern&location=Spain&f_E=1"
+    },
+    {
+      "name": "Asset Management Internships - Europe",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=asset%20management%20intern&location=Europe&f_E=1"
+    },
+    {
+      "name": "Stage Finance - Paris",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=stage%20finance&location=Paris&f_E=1"
+    },
+    {
+      "name": "Prácticas Finanzas - Madrid",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=prácticas%20finanzas&location=Madrid&f_E=1"
+    }
+  ],
+  "indeed_searches": [
+    {
+      "name": "Finance Intern - Madrid",
+      "url": "https://www.indeed.com/jobs?q=finance+intern&l=Madrid%2C+Spain"
+    },
+    {
+      "name": "Finance Intern - Paris",
+      "url": "https://fr.indeed.com/emplois?q=stage+finance&l=Paris"
+    },
+    {
+      "name": "Finance Intern - London",
+      "url": "https://www.indeed.co.uk/jobs?q=finance+internship&l=London"
+    }
+  ],
   "stats": {
-    "total_jobs": 0,
-    "new_today": 0,
+    "total_jobs": 2,
+    "new_today": 2,
     "high_match": 0,
-    "firms_scraped": 0,
-    "firms_total": 0
+    "firms_scraped": 4,
+    "firms_total": 59
   }
 }
