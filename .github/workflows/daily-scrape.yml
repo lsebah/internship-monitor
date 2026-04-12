@@ -2,8 +2,10 @@ name: Daily Internship Scrape
 
 on:
   schedule:
-    # Run daily at 7:00 AM UTC (9:00 AM Paris time)
-    - cron: '0 7 * * *'
+    # Run 3x daily (Paris time): 9h, 14h, 18h
+    - cron: '0 7 * * *'   # 9:00 AM Paris
+    - cron: '0 12 * * *'  # 2:00 PM Paris
+    - cron: '0 16 * * *'  # 6:00 PM Paris
   workflow_dispatch: # Allow manual trigger
 
 permissions:
