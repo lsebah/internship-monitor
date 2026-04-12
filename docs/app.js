@@ -8,7 +8,7 @@ const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
 const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
 const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
-const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uwzjI'].join('_');
+const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uWzjI'].join('_');
 let isSyncing = false;
 
 let allJobs = [];
