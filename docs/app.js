@@ -6,6 +6,9 @@
 const NTFY_TOPIC = 'charles-stages-2026';
 const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
+const CLOUD_BLOB_ID = '019d8260-f4d8-7d35-913b-6a2c0a14a6d6';
+const CLOUD_URL = `https://jsonblob.com/api/jsonBlob/${CLOUD_BLOB_ID}`;
+let isSyncing = false;
 
 let allJobs = [];
 let allLinks = [];
@@ -33,6 +36,7 @@ function toggleAccount(firmName) {
     localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
     renderLinks();
     updateAccountStat();
+    cloudSave(); // Sync to cloud
 }
 
 function getAccountCount() {
@@ -42,6 +46,96 @@ function getAccountCount() {
 function updateAccountStat() {
     const el = document.getElementById('statAccounts');
     if (el) el.textContent = getAccountCount();
+}
+
+// ============================================================
+// CLOUD SYNC (jsonblob.com)
+// ============================================================
+function setSyncStatus(status) {
+    const el = document.getElementById('syncStatus');
+    if (!el) return;
+    const states = {
+        syncing: { text: 'Syncing...', color: 'var(--accent-orange)' },
+        synced:  { text: 'Synced', color: 'var(--accent-green)' },
+        error:   { text: 'Sync error', color: 'var(--accent-red)' },
+        offline: { text: 'Offline', color: 'var(--text-muted)' },
+    };
+    const s = states[status] || states.offline;
+    el.textContent = s.text;
+    el.style.color = s.color;
+}
+
+async function cloudLoad() {
+    try {
+        setSyncStatus('syncing');
+        const resp = await fetch(CLOUD_URL, {
+            headers: { 'Accept': 'application/json' },
+        });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+
+        // Merge cloud data with local (cloud wins for applications, merge accounts)
+        if (data.applications && data.applications.length > 0) {
+            const localApps = getApplications();
+            const merged = mergeApplications(localApps, data.applications);
+            localStorage.setItem(APPS_KEY, JSON.stringify(merged));
+        }
+        if (data.accounts && Object.keys(data.accounts).length > 0) {
+            const localAccounts = getAccounts();
+            const mergedAccounts = { ...localAccounts, ...data.accounts };
+            localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
+        }
+
+        setSyncStatus('synced');
+        return true;
+    } catch (e) {
+        console.warn('Cloud load failed:', e);
+        setSyncStatus('error');
+        return false;
+    }
+}
+
+async function cloudSave() {
+    if (isSyncing) return;
+    isSyncing = true;
+    try {
+        setSyncStatus('syncing');
+        const payload = {
+            applications: getApplications(),
+            accounts: getAccounts(),
+            last_sync: new Date().toISOString(),
+        };
+        const resp = await fetch(CLOUD_URL, {
+            method: 'PUT',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify(payload),
+        });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        setSyncStatus('synced');
+    } catch (e) {
+        console.warn('Cloud save failed:', e);
+        setSyncStatus('error');
+    } finally {
+        isSyncing = false;
+    }
+}
+
+function mergeApplications(local, cloud) {
+    // Merge by ID, keep the most recently updated version
+    const map = {};
+    for (const app of cloud) map[app.id] = app;
+    for (const app of local) {
+        if (!map[app.id]) {
+            map[app.id] = app;
+        } else {
+            // Keep whichever was updated more recently
+            if ((app.last_updated || '') > (map[app.id].last_updated || '')) {
+                map[app.id] = app;
+            }
+        }
+    }
+    // Sort by date applied descending
+    return Object.values(map).sort((a, b) => (b.date_applied || '').localeCompare(a.date_applied || ''));
 }
 let linkedinSearches = [];
 let indeedSearches = [];
@@ -433,6 +527,7 @@ function getApplications() {
 
 function saveApplications(apps) {
     localStorage.setItem(APPS_KEY, JSON.stringify(apps));
+    cloudSave(); // Auto-sync to cloud
 }
 
 function addApplication(e) {
@@ -581,10 +676,15 @@ document.addEventListener('click', (e) => {
 // ============================================================
 // INIT
 // ============================================================
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     setupListeners();
     loadData();
+    // Cloud sync: load from cloud first, then render
+    await cloudLoad();
     // Init application tracker
-    document.getElementById('appDate').value = new Date().toISOString().slice(0, 10);
+    const dateEl = document.getElementById('appDate');
+    if (dateEl) dateEl.value = new Date().toISOString().slice(0, 10);
     renderApplications();
+    renderLinks();
+    updateAccountStat();
 });
