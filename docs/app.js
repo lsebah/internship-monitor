@@ -72,18 +72,27 @@ async function cloudLoad() {
             headers: { 'Accept': 'application/json' },
         });
         if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        const data = await resp.json();
+        const cloudData = await resp.json();
 
-        // Merge cloud data with local (cloud wins for applications, merge accounts)
-        if (data.applications && data.applications.length > 0) {
-            const localApps = getApplications();
-            const merged = mergeApplications(localApps, data.applications);
-            localStorage.setItem(APPS_KEY, JSON.stringify(merged));
-        }
-        if (data.accounts && Object.keys(data.accounts).length > 0) {
-            const localAccounts = getAccounts();
-            const mergedAccounts = { ...localAccounts, ...data.accounts };
+        const localApps = getApplications();
+        const localAccounts = getAccounts();
+        const cloudApps = cloudData.applications || [];
+        const cloudAccounts = cloudData.accounts || {};
+
+        const cloudHasData = cloudApps.length > 0 || Object.keys(cloudAccounts).length > 0;
+        const localHasData = localApps.length > 0 || Object.keys(localAccounts).length > 0;
+
+        if (cloudHasData) {
+            // Merge cloud into local
+            const mergedApps = mergeApplications(localApps, cloudApps);
+            localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
+            const mergedAccounts = { ...localAccounts, ...cloudAccounts };
             localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
+        }
+
+        if (localHasData) {
+            // Local has data - push to cloud (covers first sync + merge back)
+            await cloudSave();
         }
 
         setSyncStatus('synced');
