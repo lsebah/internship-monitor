@@ -258,6 +258,13 @@ function renderJobs() {
         const isNew = job.is_new ? '<span class="badge-new">NEW</span>' : '';
         const newClass = job.is_new ? 'is-new' : '';
 
+        const reqList = (job.requirements || '').trim()
+            ? (job.requirements || '').split('\n').filter(x => x.trim()).slice(0, 6)
+            : [];
+        const reqHtml = reqList.length
+            ? `<ul class="job-requirements">${reqList.map(r => `<li>${escHtml(r)}</li>`).join('')}</ul>`
+            : '';
+
         return `
         <div class="job-card ${newClass}">
             <div class="job-info">
@@ -272,6 +279,12 @@ function renderJobs() {
                     <span>${job.posted_date || 'Date N/A'}</span>
                     ${job.first_seen ? `<span>First seen: ${job.first_seen}</span>` : ''}
                 </div>
+                <div class="job-meta job-meta-extra">
+                    ${job.start_date ? `<span class="chip chip-start">Debut: ${escHtml(job.start_date)}</span>` : ''}
+                    ${job.duration ? `<span class="chip chip-duration">Duree: ${escHtml(job.duration)}</span>` : ''}
+                    ${job.time_type ? `<span class="chip chip-time">${escHtml(job.time_type)}</span>` : ''}
+                </div>
+                ${reqHtml}
             </div>
             <div class="job-actions">
                 <div class="match-score ${matchClass}">${job.match_score || 0}%</div>

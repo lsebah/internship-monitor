@@ -31,6 +31,94 @@ def make_job_id(firm_name: str, title: str, url: str) -> str:
 # ============================================================
 # WORKDAY SCRAPER
 # ============================================================
+DURATION_PATTERNS = [
+    re.compile(r"(\d{1,2}\s*[-\u2013]\s*\d{1,2}\s*(?:week|semaine)s?)", re.I),
+    re.compile(r"(\d{1,2}\s*(?:week|semaine)s?)", re.I),
+    re.compile(r"(\d{1,2}\s*(?:month|mois)s?)", re.I),
+    re.compile(r"(summer\s*(?:analyst\s*)?(?:intern(?:ship)?)?\s*(?:programme?|program)?\s*\d{4})", re.I),
+    re.compile(r"(off[\s-]?cycle\s*(?:intern(?:ship)?)?\s*(?:h[12]|spring|autumn|fall)?\s*\d{4})", re.I),
+    re.compile(r"(\b(?:H[12]|spring|summer|autumn|fall)\s+\d{4}\b)", re.I),
+]
+
+REQUIREMENT_KEYWORDS = [
+    "requirement", "qualification", "what we are looking for",
+    "what you'll need", "what you will need", "skills", "profile",
+    "you will bring", "we're looking for", "we are looking for",
+    "minimum qualification", "preferred qualification",
+]
+
+
+def _clean_html(html: str) -> str:
+    """Strip HTML tags and normalize whitespace."""
+    if not html:
+        return ""
+    text = BeautifulSoup(html, "lxml").get_text(separator="\n", strip=True)
+    return re.sub(r"\n{3,}", "\n\n", text)
+
+
+def _extract_duration(text: str) -> str:
+    """Try to extract internship duration from the description."""
+    if not text:
+        return ""
+    for pat in DURATION_PATTERNS:
+        m = pat.search(text)
+        if m:
+            return m.group(1).strip()
+    return ""
+
+
+def _extract_requirements(text: str, max_items: int = 6, max_chars: int = 600) -> str:
+    """Extract a short list of requirements from the description."""
+    if not text:
+        return ""
+    lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+    start = -1
+    for i, ln in enumerate(lines):
+        low = ln.lower()
+        if any(kw in low for kw in REQUIREMENT_KEYWORDS) and len(ln) < 120:
+            start = i + 1
+            break
+    if start < 0:
+        return ""
+    items = []
+    for ln in lines[start : start + 25]:
+        # Stop when we hit another section header
+        low = ln.lower()
+        if any(h in low for h in ["benefit", "about us", "our commitment", "diversity", "equal opportunity", "apply", "responsibilities"]):
+            break
+        if len(ln) < 8 or len(ln) > 220:
+            continue
+        items.append(ln.lstrip("\u2022*-\u2013 ").strip())
+        if len(items) >= max_items:
+            break
+    joined = "\n".join(items)
+    return joined[:max_chars]
+
+
+def _fetch_workday_detail(base_url: str, site: str, tenant: str, external_path: str, timeout: int = 12) -> dict:
+    """Fetch job detail from Workday CXS API to get start date, time type, description."""
+    if not external_path:
+        return {}
+    detail_url = f"{base_url}/wday/cxs/{tenant}/{site}{external_path}"
+    try:
+        r = SESSION.get(detail_url, timeout=timeout, headers={"Accept": "application/json"})
+        if r.status_code != 200:
+            return {}
+        info = r.json().get("jobPostingInfo", {})
+        desc_html = info.get("jobDescription", "") or ""
+        desc_text = _clean_html(desc_html)
+        return {
+            "start_date": info.get("startDate", "") or "",
+            "time_type": info.get("timeType", "") or "",
+            "description_text": desc_text,
+            "duration": _extract_duration(desc_text),
+            "requirements": _extract_requirements(desc_text),
+        }
+    except Exception as e:
+        logger.debug(f"Workday detail fetch failed for {external_path}: {e}")
+        return {}
+
+
 def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
     """Scrape jobs from Workday API endpoint."""
     cfg = firm["scraper"]
@@ -67,6 +155,9 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                         continue
                     seen_urls.add(job_url)
 
+                    detail = _fetch_workday_detail(base_url, site, tenant, ext_path)
+                    time.sleep(0.15)
+
                     job = {
                         "id": make_job_id(firm["name"], p.get("title", ""), job_url),
                         "bank": firm["name"],
@@ -76,6 +167,10 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                         "url": job_url,
                         "posted_date": p.get("postedOn", ""),
                         "description": " | ".join(p.get("bulletFields", [])),
+                        "start_date": detail.get("start_date", ""),
+                        "time_type": detail.get("time_type", ""),
+                        "duration": detail.get("duration", ""),
+                        "requirements": detail.get("requirements", ""),
                         "source": "workday",
                     }
                     all_jobs.append(job)

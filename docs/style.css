@@ -299,6 +299,28 @@ body {
     margin-right: 4px;
     opacity: 0.6;
 }
+.job-meta-extra { margin-top: 6px; gap: 8px; }
+.chip {
+    display: inline-block;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    background: var(--bg-card);
+    white-space: nowrap;
+}
+.chip-start    { border-color: rgba(74, 158, 255, 0.35); color: var(--accent-light-blue); }
+.chip-duration { border-color: rgba(212, 168, 67, 0.45); color: var(--accent-gold); }
+.chip-time     { border-color: rgba(52, 199, 89, 0.35);  color: var(--accent-green); }
+.job-requirements {
+    margin: 8px 0 0;
+    padding-left: 18px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+}
+.job-requirements li { margin: 2px 0; }
 .job-actions {
     display: flex;
     flex-direction: column;
