@@ -915,10 +915,16 @@ body {
     letter-spacing: 0.5px;
 }
 .link-btn.track-applied-btn {
-    background: var(--accent-light-blue);
+    background: var(--accent-orange);
     color: #000;
-    border: 1px solid var(--accent-light-blue);
+    border: 1px solid var(--accent-orange);
     font-weight: 700;
+    box-shadow: 0 0 0 1px rgba(255, 149, 0, 0.2);
+}
+.link-btn.track-applied-btn:hover {
+    background: #ffaa33;
+    border-color: #ffaa33;
+    opacity: 1;
 }
 
 /* Footer */
