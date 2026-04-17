@@ -125,7 +125,7 @@ FIRMS = [
             "type": "workday",
             "tenant": "citi",
             "instance": 5,
-            "site": "1",
+            "site": "2",
         },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
@@ -303,7 +303,7 @@ FIRMS = [
         },
         "scraper": {
             "type": "workday",
-            "tenant": "santandercareers",
+            "tenant": "santander",
             "instance": 3,
             "site": "SantanderCareers",
         },
