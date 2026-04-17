@@ -820,6 +820,84 @@ body {
 }
 .modal-close:hover { background: var(--bg-hover); }
 
+/* Firm profile modal */
+.profile-form { display: flex; flex-direction: column; gap: 12px; }
+.profile-form label {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 12px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+.profile-form input, .profile-form textarea {
+    padding: 8px 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-size: 13px;
+    font-family: inherit;
+    outline: none;
+    text-transform: none;
+    letter-spacing: normal;
+}
+.profile-form input:focus, .profile-form textarea:focus { border-color: var(--accent-light-blue); }
+.profile-form textarea { resize: vertical; min-height: 72px; }
+.profile-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+}
+
+/* Profile button on firm card */
+.link-btn.profile-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+}
+.link-btn.profile-btn:hover { border-color: var(--accent-light-blue); color: var(--accent-light-blue); opacity: 1; }
+.link-btn.profile-btn.filled {
+    border-color: var(--accent-gold);
+    color: var(--accent-gold);
+}
+.link-firm-profile {
+    margin-top: 4px;
+    font-size: 11px;
+    color: var(--accent-light-blue);
+    font-style: italic;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 280px;
+}
+
+/* Application reminder */
+.reminder-badge {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 2px 8px;
+    background: rgba(255, 149, 0, 0.15);
+    border: 1px solid var(--accent-orange);
+    color: var(--accent-orange);
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
+.app-card.has-reminder { background: linear-gradient(90deg, rgba(255, 149, 0, 0.06) 0%, var(--bg-card) 40%); }
+.link-btn.reminder-btn {
+    background: var(--accent-orange);
+    color: #000;
+    border: 1px solid var(--accent-orange);
+    font-weight: 700;
+}
+
 /* Footer */
 .footer {
     max-width: 1400px;

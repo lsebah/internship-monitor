@@ -185,7 +185,37 @@
         </div>
     </div>
 
-    <script src="app.js?v=9"></script>
+    <!-- Firm Profile Modal -->
+    <div id="profileModal" class="modal" style="display:none">
+        <div class="modal-content">
+            <h3>Profil : <span id="profileFirmName"></span></h3>
+            <p>Informations operationnelles sur ce cabinet (stockees en local, synchronisees via Gist).</p>
+            <div class="profile-form">
+                <label>Compte cree le
+                    <input type="date" id="profileCreatedDate">
+                </label>
+                <label>Email utilise
+                    <input type="email" id="profileEmail" placeholder="ex: charles.sebah+firm@gmail.com" autocomplete="off">
+                </label>
+                <label>Programme vise
+                    <input type="text" id="profileProgramme" placeholder="ex: Summer Analyst 2026 Madrid" autocomplete="off">
+                </label>
+                <label>URL login direct
+                    <input type="url" id="profileLoginUrl" placeholder="ex: https://careers.xxx.com/login" autocomplete="off">
+                </label>
+                <label>Notes
+                    <textarea id="profileNotes" rows="4" placeholder="Mot de passe (chiffre cote navigateur), questions du formulaire, deadlines, contacts recrutement..."></textarea>
+                </label>
+            </div>
+            <div class="profile-actions">
+                <button onclick="deleteProfile()" class="link-btn delete-btn">Supprimer</button>
+                <button onclick="closeProfile()" class="link-btn">Annuler</button>
+                <button onclick="saveProfile()" class="apply-btn">Enregistrer</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js?v=10"></script>
     <script>
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {

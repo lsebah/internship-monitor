@@ -15,11 +15,23 @@ let allJobs = [];
 let allLinks = [];
 
 // ============================================================
-// ACCOUNT TRACKER (localStorage)
+// ACCOUNT + PROFILE TRACKER (localStorage)
+// Schema: { [firmName]: { created_date, email, notes, programme, login_url } }
+// Legacy string values (just a date) are upgraded transparently on read.
 // ============================================================
 function getAccounts() {
     try {
-        return JSON.parse(localStorage.getItem(ACCOUNTS_KEY)) || {};
+        const raw = JSON.parse(localStorage.getItem(ACCOUNTS_KEY)) || {};
+        // Migrate legacy string-date values to profile objects
+        let dirty = false;
+        for (const [k, v] of Object.entries(raw)) {
+            if (typeof v === 'string') {
+                raw[k] = { created_date: v };
+                dirty = true;
+            }
+        }
+        if (dirty) localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(raw));
+        return raw;
     } catch { return {}; }
 }
 
@@ -27,12 +39,35 @@ function hasAccount(firmName) {
     return !!getAccounts()[firmName];
 }
 
+function getProfile(firmName) {
+    return getAccounts()[firmName] || null;
+}
+
+function setProfile(firmName, profile) {
+    const accounts = getAccounts();
+    if (!profile || (!profile.created_date && !profile.email && !profile.notes && !profile.programme && !profile.login_url)) {
+        delete accounts[firmName];
+    } else {
+        accounts[firmName] = {
+            created_date: profile.created_date || new Date().toISOString().slice(0, 10),
+            email: profile.email || '',
+            notes: profile.notes || '',
+            programme: profile.programme || '',
+            login_url: profile.login_url || '',
+        };
+    }
+    localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
+    renderLinks();
+    updateAccountStat();
+    cloudSave();
+}
+
 function toggleAccount(firmName) {
     const accounts = getAccounts();
     if (accounts[firmName]) {
         delete accounts[firmName];
     } else {
-        accounts[firmName] = new Date().toISOString().slice(0, 10);
+        accounts[firmName] = { created_date: new Date().toISOString().slice(0, 10) };
     }
     localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(accounts));
     renderLinks();
@@ -43,6 +78,52 @@ function toggleAccount(firmName) {
 function getAccountCount() {
     return Object.keys(getAccounts()).length;
 }
+
+// ============================================================
+// PROFILE MODAL
+// ============================================================
+let _profileFirm = null;
+
+function openProfile(firmName) {
+    _profileFirm = firmName;
+    const p = getProfile(firmName) || {};
+    document.getElementById('profileFirmName').textContent = firmName;
+    document.getElementById('profileCreatedDate').value = p.created_date || new Date().toISOString().slice(0, 10);
+    document.getElementById('profileEmail').value = p.email || '';
+    document.getElementById('profileProgramme').value = p.programme || '';
+    document.getElementById('profileLoginUrl').value = p.login_url || '';
+    document.getElementById('profileNotes').value = p.notes || '';
+    document.getElementById('profileModal').style.display = 'flex';
+}
+
+function closeProfile() {
+    document.getElementById('profileModal').style.display = 'none';
+    _profileFirm = null;
+}
+
+function saveProfile() {
+    if (!_profileFirm) return;
+    setProfile(_profileFirm, {
+        created_date: document.getElementById('profileCreatedDate').value,
+        email: document.getElementById('profileEmail').value.trim(),
+        programme: document.getElementById('profileProgramme').value.trim(),
+        login_url: document.getElementById('profileLoginUrl').value.trim(),
+        notes: document.getElementById('profileNotes').value.trim(),
+    });
+    closeProfile();
+}
+
+function deleteProfile() {
+    if (!_profileFirm) return;
+    if (!confirm(`Supprimer le profil pour ${_profileFirm} ?`)) return;
+    setProfile(_profileFirm, null);
+    closeProfile();
+}
+
+window.openProfile = openProfile;
+window.closeProfile = closeProfile;
+window.saveProfile = saveProfile;
+window.deleteProfile = deleteProfile;
 
 function updateAccountStat() {
     const el = document.getElementById('statAccounts');
@@ -357,10 +438,12 @@ function renderLinkCard(firm) {
         buttons += `<a href="${escAttr(firstSearch)}" target="_blank" class="link-btn secondary">Search</a>`;
     }
 
-    const checked = hasAccount(firm.name);
+    const profile = getProfile(firm.name);
+    const checked = !!profile;
     const checkedClass = checked ? 'has-account' : '';
     const checkedAttr = checked ? 'checked' : '';
-    const dateCreated = checked ? getAccounts()[firm.name] : '';
+    const dateCreated = profile ? profile.created_date : '';
+    const hasDetails = profile && (profile.email || profile.programme || profile.notes || profile.login_url);
 
     return `
     <div class="link-card ${checkedClass}">
@@ -373,9 +456,13 @@ function renderLinkCard(firm) {
                 <div class="link-firm-name">${escHtml(firm.name)}</div>
                 <div class="link-firm-sub">${escHtml(firm.subcategory || '')}</div>
                 <div class="link-cities">${cityDots}</div>
+                ${profile && profile.email ? `<div class="link-firm-profile" title="${escAttr(profile.notes || '')}">${escHtml(profile.email)}${profile.programme ? ' · ' + escHtml(profile.programme) : ''}</div>` : ''}
             </div>
         </div>
-        <div class="link-actions">${buttons}</div>
+        <div class="link-actions">
+            ${buttons}
+            <button class="link-btn profile-btn ${hasDetails ? 'filled' : ''}" onclick="openProfile('${escAttr(firm.name)}')" title="Profil & notes">Profil</button>
+        </div>
     </div>`;
 }
 
@@ -625,6 +712,38 @@ function updateAppStatus(appId, newStatus) {
     }
 }
 
+function markFollowedUp(appId) {
+    const apps = getApplications();
+    const app = apps.find(a => a.id === appId);
+    if (app) {
+        const today = new Date().toISOString().slice(0, 10);
+        app.last_reminder = today;
+        app.last_updated = today;
+        saveApplications(apps);
+        renderApplications();
+    }
+}
+window.markFollowedUp = markFollowedUp;
+
+function daysBetween(dateA, dateB) {
+    if (!dateA || !dateB) return 0;
+    const a = new Date(dateA + 'T00:00:00');
+    const b = new Date(dateB + 'T00:00:00');
+    return Math.floor((b - a) / (1000 * 60 * 60 * 24));
+}
+
+function reminderState(app) {
+    // Nudge if "applied" for >= 7 days without follow-up, or 7 days since last follow-up.
+    if (app.status !== 'applied') return null;
+    const today = new Date().toISOString().slice(0, 10);
+    const ref = app.last_reminder || app.date_applied;
+    const days = daysBetween(ref, today);
+    if (days >= 7) {
+        return { days, overdue: days - 7, sinceFollowUp: !!app.last_reminder };
+    }
+    return null;
+}
+
 function deleteApplication(appId) {
     if (!confirm('Supprimer cette candidature ?')) return;
     const apps = getApplications().filter(a => a.id !== appId);
@@ -677,23 +796,33 @@ function renderApplications() {
             `<option value="${key}" ${key === app.status ? 'selected' : ''}>${st.icon} ${st.label}</option>`
         ).join('');
 
+        const reminder = reminderState(app);
+        const reminderBadge = reminder
+            ? `<span class="reminder-badge" title="${reminder.sinceFollowUp ? 'Dernière relance' : 'Postulé'} il y a ${reminder.days} jours">Relance ? (${reminder.days}j)</span>`
+            : '';
+        const followUpBtn = reminder
+            ? `<button class="link-btn reminder-btn" onclick="markFollowedUp('${app.id}')" title="Marquer comme relance aujourd'hui">Relancé</button>`
+            : '';
+
         return `
-        <div class="app-card" style="border-left: 3px solid ${s.color}">
+        <div class="app-card ${reminder ? 'has-reminder' : ''}" style="border-left: 3px solid ${reminder ? 'var(--accent-orange)' : s.color}">
             <div class="app-card-main">
                 <div class="app-card-header">
                     <span class="app-card-firm">${escHtml(app.firm)}</span>
                     <span class="app-card-title">${escHtml(app.title)}</span>
+                    ${reminderBadge}
                 </div>
                 <div class="app-card-meta">
                     ${app.location ? `<span>${escHtml(app.location)}</span>` : ''}
                     <span>Postule le ${app.date_applied}</span>
-                    ${app.last_updated !== app.date_applied ? `<span>MAJ ${app.last_updated}</span>` : ''}
+                    ${app.last_reminder ? `<span>Relance ${app.last_reminder}</span>` : (app.last_updated !== app.date_applied ? `<span>MAJ ${app.last_updated}</span>` : '')}
                 </div>
             </div>
             <div class="app-card-actions">
                 <select class="status-select" style="border-color:${s.color}" onchange="updateAppStatus('${app.id}', this.value)">
                     ${statusOptions}
                 </select>
+                ${followUpBtn}
                 ${app.url ? `<a href="${escAttr(app.url)}" target="_blank" class="link-btn primary">Voir</a>` : ''}
                 <button class="link-btn delete-btn" onclick="deleteApplication('${app.id}')">X</button>
             </div>

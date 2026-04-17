@@ -235,10 +235,9 @@ FIRMS = [
         "short": "CACIB",
         "category": "Investment Bank",
         "subcategory": "EU CIB",
-        "careers_url": "https://www.ca-cib.com/en/careers/students-and-young-graduates",
+        "careers_url": "https://groupecreditagricole.jobs/fr/nos-offres/contrats/579/localisations/74-79/",
         "search_urls": {
-            "students": "https://www.ca-cib.com/en/careers/students-and-young-graduates",
-            "jobs_portal": "https://jobs.ca-cib.com/homepage.aspx?LCID=2057",
+            "internships": "https://groupecreditagricole.jobs/fr/nos-offres/contrats/579/localisations/74-79/",
         },
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
