@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-17T12:05:58.107018+00:00",
+  "last_updated": "2026-04-17T12:54:04.933423+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-17T12:05:58.107018+00:00"
+      "timestamp": "2026-04-17T12:54:04.933423+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -16,8 +16,8 @@
     },
     "Citi": {
       "status": "success",
-      "count": 38,
-      "timestamp": "2026-04-17T12:05:58.107018+00:00"
+      "count": 39,
+      "timestamp": "2026-04-17T12:54:04.933423+00:00"
     },
     "Bank of America": {
       "status": "link_only",
@@ -74,7 +74,7 @@
     "Santander": {
       "status": "success",
       "count": 55,
-      "timestamp": "2026-04-17T12:05:58.107018+00:00"
+      "timestamp": "2026-04-17T12:54:04.933423+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -187,7 +187,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-17T12:05:58.107018+00:00"
+      "timestamp": "2026-04-17T12:54:04.933423+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -2309,9 +2309,9 @@
       "short": "HSBC",
       "category": "Investment Bank",
       "subcategory": "UK Universal",
-      "careers_url": "https://www.hsbc.com/careers/",
+      "careers_url": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme?programme-type=internship-programme",
       "search_urls": {
-        "students": "https://www.hsbc.com/careers/students-and-graduates"
+        "students": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme?programme-type=internship-programme"
       },
       "cities": {
         "Madrid": true,
@@ -2373,9 +2373,9 @@
       "short": "CACIB",
       "category": "Investment Bank",
       "subcategory": "EU CIB",
-      "careers_url": "https://careers.credit-agricole.com/",
+      "careers_url": "https://groupecreditagricole.jobs/fr/nos-offres/contrats/579/localisations/74-79/",
       "search_urls": {
-        "internships": "https://careers.credit-agricole.com/en/offers?type=internship"
+        "internships": "https://groupecreditagricole.jobs/fr/nos-offres/contrats/579/localisations/74-79/"
       },
       "cities": {
         "Madrid": true,
