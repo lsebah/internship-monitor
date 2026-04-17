@@ -148,12 +148,21 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                 data = resp.json()
                 postings = data.get("jobPostings", [])
 
+                city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+
                 for p in postings:
                     ext_path = p.get("externalPath", "")
                     job_url = f"{base_url}/en-US/{site}{ext_path}" if ext_path else ""
                     if job_url in seen_urls:
                         continue
                     seen_urls.add(job_url)
+
+                    # Geography guard: Workday's searchText is fuzzy and returns
+                    # global results ("intern Madrid" brings back Manila, Sao Paulo,
+                    # etc.). Only keep jobs whose location text mentions a target city.
+                    location_text = p.get("locationsText", "") or ""
+                    if not any(pat.search(location_text) for pat in city_patterns):
+                        continue
 
                     detail = _fetch_workday_detail(base_url, site, tenant, ext_path)
                     time.sleep(0.15)
