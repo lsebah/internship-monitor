@@ -298,18 +298,24 @@ function getFilters() {
     };
 }
 
-const INTERN_TITLE_RX = /(intern(ship)?|stage\b|stagiaire|pr[aá]cticas|becario|trainee|placement|summer analyst|working student|apprentice|graduate programme|off[- ]cycle)/i;
+const INTERN_TITLE_RX = /(\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|\bworking student\b|\bapprentice\b|\bgraduate programme\b|\boff[- ]cycle\b)/i;
+const TARGET_CITY_RX = /\b(madrid|paris|par[ií]s|london|londres)\b/i;
 
 function isInternshipJob(job) {
     const haystack = `${job.title || ''} ${job.duration || ''} ${job.description || ''} ${job.time_type || ''}`;
     return INTERN_TITLE_RX.test(haystack);
 }
 
+function isInTargetCity(job) {
+    return TARGET_CITY_RX.test(job.location || '');
+}
+
 function filterJobs(jobs) {
     const f = getFilters();
     return jobs.filter(job => {
-        // Hard rule: only internships / stages show up in this tab.
+        // Hard rule: only internships / stages in Madrid / Paris / London.
         if (!isInternshipJob(job)) return false;
+        if (!isInTargetCity(job)) return false;
         if (f.search) {
             const haystack = `${job.title} ${job.bank} ${job.location} ${job.category}`.toLowerCase();
             if (!haystack.includes(f.search)) return false;

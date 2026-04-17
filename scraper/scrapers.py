@@ -150,9 +150,10 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
 
                 city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
                 intern_rx = re.compile(
-                    r"intern(ship)?|stage\b|stagiaire|pr[aá]cticas|becario|trainee|"
-                    r"placement|summer analyst|working student|apprentice|"
-                    r"graduate programme|off[- ]cycle",
+                    r"\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|"
+                    r"\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|"
+                    r"\bworking student\b|\bapprentice\b|\bgraduate programme\b|"
+                    r"\boff[- ]cycle\b",
                     re.I,
                 )
 
