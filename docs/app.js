@@ -714,7 +714,7 @@ function statFilter(kind) {
         switchTab('jobs');
         renderJobs();
     } else if (kind === 'match') {
-        if (match) match.value = '80';
+        if (match) match.value = '60';
         if (isNew) isNew.checked = false;
         switchTab('jobs');
         renderJobs();
