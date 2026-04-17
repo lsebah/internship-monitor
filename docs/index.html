@@ -37,26 +37,26 @@
 
     <!-- Stats Bar -->
     <section class="stats-bar">
-        <div class="stat-card">
+        <button class="stat-card stat-clickable" onclick="statFilter('all')" title="Afficher toutes les offres">
             <div class="stat-number" id="statTotal">-</div>
             <div class="stat-label">Total Offers</div>
-        </div>
-        <div class="stat-card highlight">
+        </button>
+        <button class="stat-card stat-clickable highlight" onclick="statFilter('new')" title="Filtrer sur les offres du jour">
             <div class="stat-number" id="statNew">-</div>
             <div class="stat-label">New Today</div>
-        </div>
-        <div class="stat-card">
+        </button>
+        <button class="stat-card stat-clickable" onclick="statFilter('match')" title="Filtrer sur match >= 70">
             <div class="stat-number" id="statMatch">-</div>
             <div class="stat-label">High Match</div>
-        </div>
-        <div class="stat-card">
+        </button>
+        <button class="stat-card stat-clickable" onclick="statFilter('firms')" title="Voir les pages carrieres">
             <div class="stat-number" id="statFirms">-</div>
             <div class="stat-label">Firms Tracked</div>
-        </div>
-        <div class="stat-card">
+        </button>
+        <button class="stat-card stat-clickable" onclick="statFilter('apps')" title="Voir mes candidatures">
             <div class="stat-number" id="statAccounts">0</div>
             <div class="stat-label">Accounts Created</div>
-        </div>
+        </button>
     </section>
 
     <!-- Filters -->
@@ -185,7 +185,7 @@
         </div>
     </div>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=9"></script>
     <script>
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {

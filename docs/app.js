@@ -525,13 +525,50 @@ function setupListeners() {
     // Tabs
     document.querySelectorAll('.tab').forEach(tab => {
         tab.addEventListener('click', () => {
-            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-            tab.classList.add('active');
-            document.getElementById(`tab-${tab.dataset.tab}`).classList.add('active');
+            switchTab(tab.dataset.tab);
         });
     });
 }
+
+function switchTab(tabName) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tabName));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    const el = document.getElementById(`tab-${tabName}`);
+    if (el) el.classList.add('active');
+}
+
+// Stat-bubble one-click filters
+function statFilter(kind) {
+    const search = document.getElementById('searchInput');
+    const city = document.getElementById('filterCity');
+    const cat = document.getElementById('filterCategory');
+    const match = document.getElementById('filterMatch');
+    const isNew = document.getElementById('filterNew');
+
+    if (kind === 'all') {
+        if (search) search.value = '';
+        if (city) city.value = '';
+        if (cat) cat.value = '';
+        if (match) match.value = '0';
+        if (isNew) isNew.checked = false;
+        switchTab('jobs');
+        renderJobs();
+    } else if (kind === 'new') {
+        if (isNew) isNew.checked = true;
+        switchTab('jobs');
+        renderJobs();
+    } else if (kind === 'match') {
+        if (match) match.value = '80';
+        if (isNew) isNew.checked = false;
+        switchTab('jobs');
+        renderJobs();
+    } else if (kind === 'firms') {
+        switchTab('links');
+    } else if (kind === 'apps') {
+        switchTab('apps');
+    }
+}
+window.statFilter = statFilter;
 
 // ============================================================
 // APPLICATION TRACKER (localStorage)

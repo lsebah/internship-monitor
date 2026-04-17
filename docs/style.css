@@ -108,6 +108,19 @@ body {
     padding: 16px 20px;
     text-align: center;
 }
+.stat-clickable {
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    transition: transform 0.12s, border-color 0.12s, background 0.12s;
+}
+.stat-clickable:hover {
+    border-color: var(--accent-light-blue);
+    background: var(--bg-hover);
+    transform: translateY(-1px);
+}
+.stat-clickable:active { transform: translateY(0); }
+.stat-clickable:focus-visible { outline: 2px solid var(--accent-light-blue); outline-offset: 2px; }
 .stat-card.highlight {
     border-color: var(--accent-gold);
     background: linear-gradient(135deg, var(--bg-card) 0%, #2a2a1a 100%);
