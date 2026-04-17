@@ -898,6 +898,29 @@ body {
     font-weight: 700;
 }
 
+/* Job card - applied state */
+.job-card.is-applied {
+    background: linear-gradient(90deg, rgba(52, 199, 89, 0.08) 0%, var(--bg-card) 60%);
+    border-color: rgba(52, 199, 89, 0.4);
+}
+.badge-applied {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 1px 8px;
+    background: var(--accent-green);
+    color: #000;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+.link-btn.track-applied-btn {
+    background: var(--accent-light-blue);
+    color: #000;
+    border: 1px solid var(--accent-light-blue);
+    font-weight: 700;
+}
+
 /* Footer */
 .footer {
     max-width: 1400px;

@@ -348,14 +348,18 @@ function renderJobs() {
             ? `<ul class="job-requirements">${reqList.map(r => `<li>${escHtml(r)}</li>`).join('')}</ul>`
             : '';
 
+        const applied = isJobApplied(job.id);
+        const appliedClass = applied ? 'is-applied' : '';
+
         return `
-        <div class="job-card ${newClass}">
+        <div class="job-card ${newClass} ${appliedClass}" data-job-id="${escAttr(job.id)}">
             <div class="job-info">
                 <div class="job-header">
                     <span class="job-title">${escHtml(job.title)}</span>
                     <span class="job-bank">${escHtml(job.bank)}</span>
                     <span class="job-category-tag">${escHtml(job.category)}</span>
                     ${isNew}
+                    ${applied ? '<span class="badge-applied">POSTULE</span>' : ''}
                 </div>
                 <div class="job-meta">
                     <span>${escHtml(job.location || 'Location TBD')}</span>
@@ -375,11 +379,57 @@ function renderJobs() {
                     <div class="match-bar-fill ${matchClass}" style="width:${job.match_score || 0}%"></div>
                 </div>
                 ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Apply</a>` : ''}
+                ${applied
+                    ? `<button class="link-btn" onclick="unmarkJobApplied('${escAttr(job.id)}')" title="Annuler le suivi">Applied &check;</button>`
+                    : `<button class="link-btn primary track-applied-btn" onclick="markJobApplied('${escAttr(job.id)}')" title="Ajouter au suivi Applications">J'ai postule</button>`}
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
         </div>`;
     }).join('');
 }
+
+// ============================================================
+// JOB -> APPLICATION LINK
+// Each job has a stable `id` (md5 of firm+title+url). When the user
+// clicks "J'ai postule" on a job card, we push an entry into the
+// Applications list with job_id so we can round-trip the state.
+// ============================================================
+function isJobApplied(jobId) {
+    if (!jobId) return false;
+    return getApplications().some(a => a.job_id === jobId);
+}
+
+function markJobApplied(jobId) {
+    const job = allJobs.find(j => j.id === jobId);
+    if (!job) return;
+    const apps = getApplications();
+    if (apps.some(a => a.job_id === jobId)) return;
+    const today = new Date().toISOString().slice(0, 10);
+    apps.unshift({
+        id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
+        job_id: jobId,
+        firm: job.bank || '',
+        title: job.title || '',
+        location: job.location || '',
+        url: job.url || '',
+        date_applied: today,
+        status: 'applied',
+        last_updated: today,
+    });
+    saveApplications(apps);
+    renderApplications();
+    renderJobs();
+}
+window.markJobApplied = markJobApplied;
+
+function unmarkJobApplied(jobId) {
+    if (!confirm('Retirer cette candidature du suivi Applications ?')) return;
+    const apps = getApplications().filter(a => a.job_id !== jobId);
+    saveApplications(apps);
+    renderApplications();
+    renderJobs();
+}
+window.unmarkJobApplied = unmarkJobApplied;
 
 // ============================================================
 // RENDERING - DIRECT LINKS
