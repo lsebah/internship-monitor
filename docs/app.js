@@ -84,13 +84,15 @@ function getAccountCount() {
 // ============================================================
 let _profileFirm = null;
 
+const DEFAULT_PROGRAMME = '6 month internship starting January 2027 - Finance / CIB / Markets';
+
 function openProfile(firmName) {
     _profileFirm = firmName;
     const p = getProfile(firmName) || {};
     document.getElementById('profileFirmName').textContent = firmName;
     document.getElementById('profileCreatedDate').value = p.created_date || new Date().toISOString().slice(0, 10);
     document.getElementById('profileEmail').value = p.email || '';
-    document.getElementById('profileProgramme').value = p.programme || '';
+    document.getElementById('profileProgramme').value = p.programme || DEFAULT_PROGRAMME;
     document.getElementById('profileLoginUrl').value = p.login_url || '';
     document.getElementById('profileNotes').value = p.notes || '';
     document.getElementById('profileModal').style.display = 'flex';
