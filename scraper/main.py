@@ -70,21 +70,39 @@ def merge_jobs(existing_jobs: list, new_jobs: list, today: str) -> list:
 
         merged[jid] = job
 
-    # Keep existing jobs that weren't scraped this time (might still be active)
-    # but mark them as not seen today
-    for jid, job in existing_map.items():
-        if jid not in merged:
-            # Keep for 14 days after last seen
-            last_seen = job.get("last_seen", today)
-            try:
-                days_since = (datetime.strptime(today, "%Y-%m-%d") -
-                              datetime.strptime(last_seen, "%Y-%m-%d")).days
-            except ValueError:
-                days_since = 0
+    # Retain stale intern/stage jobs up to 14 days after last seen, but purge
+    # entries that fail the current intern + geography filters (they were
+    # collected before the filters existed).
+    import re
+    from config import TARGET_CITIES
+    intern_rx = re.compile(
+        r"intern(ship)?|stage\b|stagiaire|pr[aá]cticas|becario|trainee|"
+        r"placement|summer analyst|working student|apprentice|"
+        r"graduate programme|off[- ]cycle",
+        re.I,
+    )
+    city_rx = re.compile("|".join(re.escape(c) for c in TARGET_CITIES), re.I)
 
-            if days_since <= 14:
-                job["is_new"] = False
-                merged[jid] = job
+    for jid, job in existing_map.items():
+        if jid in merged:
+            continue
+        title = job.get("title", "") or ""
+        location = job.get("location", "") or ""
+        if not intern_rx.search(title):
+            continue  # purge: not an internship title
+        if not city_rx.search(location):
+            continue  # purge: outside target cities
+
+        last_seen = job.get("last_seen", today)
+        try:
+            days_since = (datetime.strptime(today, "%Y-%m-%d") -
+                          datetime.strptime(last_seen, "%Y-%m-%d")).days
+        except ValueError:
+            days_since = 0
+
+        if days_since <= 14:
+            job["is_new"] = False
+            merged[jid] = job
 
     return list(merged.values())
 
