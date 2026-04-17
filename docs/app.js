@@ -398,7 +398,7 @@ function renderJobs() {
                 ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Apply</a>` : ''}
                 ${applied
                     ? `<button class="link-btn" onclick="unmarkJobApplied('${escAttr(job.id)}')" title="Annuler le suivi">Applied &check;</button>`
-                    : `<button class="link-btn primary track-applied-btn" onclick="markJobApplied('${escAttr(job.id)}')" title="Ajouter au suivi Applications">J'ai postule</button>`}
+                    : `<button class="link-btn primary track-applied-btn" onclick="markJobApplied('${escAttr(job.id)}')" title="Ajouter au suivi Applications">Apply ?</button>`}
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
         </div>`;
