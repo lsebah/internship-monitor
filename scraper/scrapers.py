@@ -149,6 +149,12 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                 postings = data.get("jobPostings", [])
 
                 city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+                intern_rx = re.compile(
+                    r"intern(ship)?|stage\b|stagiaire|pr[aá]cticas|becario|trainee|"
+                    r"placement|summer analyst|working student|apprentice|"
+                    r"graduate programme|off[- ]cycle",
+                    re.I,
+                )
 
                 for p in postings:
                     ext_path = p.get("externalPath", "")
@@ -162,6 +168,13 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                     # etc.). Only keep jobs whose location text mentions a target city.
                     location_text = p.get("locationsText", "") or ""
                     if not any(pat.search(location_text) for pat in city_patterns):
+                        continue
+
+                    # Programme guard: only keep intern / stage titles. Workday's
+                    # searchText also returns full-time / SVP / Director roles
+                    # that just contain the word "intern" somewhere else.
+                    title_text = p.get("title", "") or ""
+                    if not intern_rx.search(title_text):
                         continue
 
                     detail = _fetch_workday_detail(base_url, site, tenant, ext_path)

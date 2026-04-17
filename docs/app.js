@@ -128,8 +128,10 @@ window.saveProfile = saveProfile;
 window.deleteProfile = deleteProfile;
 
 function updateAccountStat() {
-    const el = document.getElementById('statAccounts');
-    if (el) el.textContent = getAccountCount();
+    // The last bubble now counts saved Applications instead of firms with
+    // an account created. The label in index.html is "Applications".
+    const el = document.getElementById('statAppsCount');
+    if (el) el.textContent = getApplications().length;
 }
 
 // ============================================================
@@ -296,9 +298,18 @@ function getFilters() {
     };
 }
 
+const INTERN_TITLE_RX = /(intern(ship)?|stage\b|stagiaire|pr[aá]cticas|becario|trainee|placement|summer analyst|working student|apprentice|graduate programme|off[- ]cycle)/i;
+
+function isInternshipJob(job) {
+    const haystack = `${job.title || ''} ${job.duration || ''} ${job.description || ''} ${job.time_type || ''}`;
+    return INTERN_TITLE_RX.test(haystack);
+}
+
 function filterJobs(jobs) {
     const f = getFilters();
     return jobs.filter(job => {
+        // Hard rule: only internships / stages show up in this tab.
+        if (!isInternshipJob(job)) return false;
         if (f.search) {
             const haystack = `${job.title} ${job.bank} ${job.location} ${job.category}`.toLowerCase();
             if (!haystack.includes(f.search)) return false;
@@ -731,6 +742,7 @@ function getApplications() {
 function saveApplications(apps) {
     localStorage.setItem(APPS_KEY, JSON.stringify(apps));
     cloudSave();
+    updateAccountStat();
 }
 
 function addApplication(e) {
