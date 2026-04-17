@@ -25,7 +25,26 @@ PROFILE = {
         "trading", "sales & trading", "financial markets",
     ],
     "linkedin": "https://www.linkedin.com/in/charlesdsebah",
+    # Target programme: 6-month internship starting January 2027 in Finance / CIB / Markets
+    "target_duration_months": 6,
+    "target_start_date": "2027-01",
 }
+
+# Keywords that signal a 6-month / long-format programme (off-cycle H1/H2).
+DURATION_KEYWORDS = [
+    "6 month", "6-month", "six month", "six-month",
+    "6 mois", "6-mois", "six mois",
+    "6 meses", "seis meses",
+    "off-cycle", "off cycle",
+    "spring internship", "h1 internship", "h1 2027",
+]
+
+# Keywords that signal a January/H1 2027 start.
+START_2027_KEYWORDS = [
+    "january 2027", "jan 2027", "janvier 2027", "enero 2027",
+    "h1 2027", "spring 2027", "winter 2027",
+    "2027 spring", "2027 h1",
+]
 
 # ============================================================
 # SEARCH CONFIGURATION

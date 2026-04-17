@@ -3,7 +3,10 @@ Profile matching engine.
 Scores job listings against Charles's profile.
 """
 import re
-from config import PROFILE, TARGET_CITIES, TARGET_COUNTRIES, DEPARTMENT_KEYWORDS, EXCLUDE_KEYWORDS
+from config import (
+    PROFILE, TARGET_CITIES, TARGET_COUNTRIES, DEPARTMENT_KEYWORDS, EXCLUDE_KEYWORDS,
+    DURATION_KEYWORDS, START_2027_KEYWORDS,
+)
 
 
 def score_job(job: dict) -> dict:
@@ -14,7 +17,10 @@ def score_job(job: dict) -> dict:
     title = (job.get("title") or "").lower()
     location = (job.get("location") or "").lower()
     description = (job.get("description") or "").lower()
-    combined = f"{title} {location} {description}"
+    duration = (job.get("duration") or "").lower()
+    requirements = (job.get("requirements") or "").lower()
+    start_date = (job.get("start_date") or "").lower()
+    combined = f"{title} {location} {description} {duration} {requirements} {start_date}"
 
     # --- Exclusion check ---
     for kw in EXCLUDE_KEYWORDS:
@@ -77,6 +83,34 @@ def score_job(job: dict) -> dict:
         if kw in combined:
             score += 10
             reasons.append("Level: Undergraduate")
+            break
+
+    # --- Duration match (0-15 points): target is 6-month / off-cycle ---
+    for kw in DURATION_KEYWORDS:
+        if kw in combined:
+            score += 15
+            reasons.append("Duration: 6-month / off-cycle")
+            break
+
+    # --- Start date match (0-15 points): target is January 2027 ---
+    for kw in START_2027_KEYWORDS:
+        if kw in combined:
+            score += 15
+            reasons.append("Start: Jan 2027")
+            break
+    # Also accept start_date field if it lands in Jan 2027
+    if start_date.startswith("2027-01") and "Start: Jan 2027" not in reasons:
+        score += 15
+        reasons.append("Start: Jan 2027 (field)")
+
+    # --- CIB / Markets strong signals (0-10 points, stacked with domain) ---
+    cib_keywords = ["cib", "corporate & investment", "markets",
+                    "s&t", "sales and trading", "sales & trading",
+                    "equities", "fixed income", "derivatives"]
+    for kw in cib_keywords:
+        if kw in combined:
+            score += 10
+            reasons.append("CIB / Markets")
             break
 
     # Cap at 100
