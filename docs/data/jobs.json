@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-17T11:54:17.547334+00:00",
+  "last_updated": "2026-04-17T12:05:58.107018+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-17T11:54:17.547334+00:00"
+      "timestamp": "2026-04-17T12:05:58.107018+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -16,8 +16,8 @@
     },
     "Citi": {
       "status": "success",
-      "count": 94,
-      "timestamp": "2026-04-17T11:54:17.547334+00:00"
+      "count": 38,
+      "timestamp": "2026-04-17T12:05:58.107018+00:00"
     },
     "Bank of America": {
       "status": "link_only",
@@ -73,8 +73,8 @@
     },
     "Santander": {
       "status": "success",
-      "count": 71,
-      "timestamp": "2026-04-17T11:54:17.547334+00:00"
+      "count": 55,
+      "timestamp": "2026-04-17T12:05:58.107018+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -187,7 +187,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-17T11:54:17.547334+00:00"
+      "timestamp": "2026-04-17T12:05:58.107018+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -256,6 +256,10 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship--London-_40745",
       "posted_date": "",
       "description": "40745 | Private Equity",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
       "source": "workday",
       "first_seen": "2026-04-12",
       "is_new": false,
@@ -278,9 +282,13 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris--France-2026_25908794",
       "posted_date": "Posted 30+ Days Ago",
       "description": "25908794",
+      "start_date": "2025-09-30",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Who we think will be a great fit...",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: Paris",
@@ -300,6 +308,10 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
       "posted_date": "",
       "description": "40609",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
       "source": "workday",
       "first_seen": "2026-04-12",
       "is_new": false,
@@ -321,9 +333,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Sales---Trade---Working-Capital-Transaction-Banking-MD_Req1547573-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1547573",
+      "start_date": "2026-03-04",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Experience in front office of an Investment Bank, or an equivalent origination position exposed to clients in a corporate, law firms or consultancy firm (Required)\nStructuring background in Investment Banking products (Leveraged Finance, Structured Finance, Markets, Project Finance, etc.) (Required)\nProven ability to independently lead high performance teams.\nProven ability to define commercial strategy and agile monitoring until successful execution.\nFinancial and Risk analysis (Preferred)\nSoft Skills",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 40,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -342,9 +358,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Customer-Strategy-Analyst_Req1556578-1",
       "posted_date": "Posted 10 Days Ago",
       "description": "Req1556578",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Proficiency in SQL and Excel for data extraction and analysis. (Required)\nExperience with data visualization tools (e.g., Power BI, Tableau) to build dashboards and reports. (Required)\nFamiliarity with data models, data structures and analytical frameworks is a plus. (Preferred)\nSoft Skills\nStrong analytical and problem-solving skills, with the ability to translate data into actionable insights.\nAbility to connect data analysis with business impact and decision-making.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -363,9 +383,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Cards-Operations-Specialist---Banking-Operations--Openbank-_Req1545401",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1545401",
+      "start_date": "2026-02-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -384,9 +408,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Business-Banking-Platform-Owner-Global_Req1539165-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1539165",
+      "start_date": "2026-03-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Solid understanding of omnichannel models and their operational implications. (Required).\nProven ability to translate business strategy into scalable, executable solutions. (Required).\nSoft Skills\nStrong executive communication and structuring skills to support senior decision-making.\nWE VALUE YOUR IMPACT\nYour contribution matters",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -405,9 +433,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Senior-Portfolio-Manager---Alternative-Investments--Vice-President_Req1515568",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1515568",
+      "start_date": "2026-03-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Deep understanding of structured finance.\nStrong computer skills in Excel, PowerPoint, Python, Reuters and Bloomberg.\nConsiderable experience in managing different economic cycles and its impact in financial credit structures.\nRigorous analysis and presentation skills in risk management and organization.\nExcellent attention to detail to credit, legal and structuring legal frameworks.\nSoft Skills",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -426,9 +458,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Sucursal-Paris/Sales---Trade---Working-Capital-Transaction-Banking-Analyst-III_Req1513308-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1513308",
+      "start_date": "2025-12-02",
+      "time_type": "",
+      "duration": "",
+      "requirements": "Commercial capacity and drive are a must, the same as excellent time management skills and\nadaptability to work under pressure with multiple priorities\nContinuous improvement & innovation mind set\nAction oriented individual with the willingness to take responsibility and initiative, fast learning and\nadaptable, curiosity to take an interest in different sectors and develop expertise\nAptitude for customer service and proactive approach to customer relations",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Paris",
@@ -447,9 +483,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Infrastructure-Research-Manager_Req1545052-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1545052",
+      "start_date": "2026-02-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Strategic leadership and ability to engage with an investment team in credit and equity . (Required)\nFundraising experience and LP engagement. (Required)\nAbility to formulate research outlooks on macro infrastructure and specific geographies, sectors and asset classes (Required)\nAbility to translate macro events into investment conviction documents and action. (Required)\nAbility to write clear engaging reports which offer insight and are differentiated (Required)\nWillingness to express and justify views and “take others on the journey” (Required)",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -468,9 +508,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Professional-for-Infrastructure-fund_Req1513662-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1513662",
+      "start_date": "2026-03-04",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Strong knowledge of Infrastructure & Energy financing and investment, with a proven capacity to structure and manage complex private credit transactions. (Required)\nDemonstrated ability to manage private credit investments through different economic cycles, with proven insight into the implications for financial credit structures and portfolio resilience. (Required)\nSoft Skills\nStrong interpersonal capabilities, with the ability to build trust and credibility with senior management, peers, investors, and counterparties.\nSelf-motivated, results-oriented, and committed to exceeding objectives an",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -489,9 +533,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/M-A-Analyst---Energy_Req1563210",
       "posted_date": "Posted Yesterday",
       "description": "Req1563210",
+      "start_date": "2026-04-16",
+      "time_type": "",
+      "duration": "",
+      "requirements": "Advanced financial modelling and valuation skills, with a strong grasp of accounting and corporate finance fundamentals\nProven ability to produce high-quality client-facing materials, with excellent attention to detail and quality control\nFamiliarity with Bloomberg, Capital IQ, FactSet, Refinitiv, Mergermarket, Infralogic or similar tools (Preferred)\nSoft Skills\nStrong analytical, communication and presentation skills\nWE VALUE YOUR IMPACT",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -510,9 +558,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Scaled-Accounts-Manager---Openbank-Pay_Req1560716-1",
       "posted_date": "Posted 10 Days Ago",
       "description": "Req1560716",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Fluent English.\nNice to have:\nExperience working with CRM or merchant performance tools.\nExposure to pan-European merchant portfolios.\nBackground in scalable commercial models.\nWhat do we offer?",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -530,9 +582,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/CX---X-Sell-Manager---Openbank-Pay_Req1560718-1",
       "posted_date": "Posted 10 Days Ago",
       "description": "Req1560718",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Experience working with data segmentation and propensity models.\nSolid understanding of credit products and digital customer journeys.\nFluent English.\nNice to have:\nExperience with marketing automation tools (Adobe, etc.).\nExposure to embedded finance or cobranded ecosystems.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -550,9 +606,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Platform-Lead_Req1550356",
       "posted_date": "Posted 11 Days Ago",
       "description": "Req1550356",
+      "start_date": "2026-04-06",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -570,9 +630,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Engagement-Specialist---Customer-Interactions_Req1557283-1",
       "posted_date": "Posted 11 Days Ago",
       "description": "Req1557283",
+      "start_date": "2026-04-06",
+      "time_type": "",
+      "duration": "",
+      "requirements": "Conocimiento del ecosistema del marketing digital, canales de comunicación con clientes y métricas básicas de desempeño (Obligatorio)\nConocimiento básico de principales herramientas de gestión y análisis de resultados como PowerBI, Google Analytics… (Obligatorio)\nNociones básicas de programación / data analyst (Preferido)\nHabilidades blancas\n(Soft skills)\nMucha proactividad y energía para aportar nuevas ideas y poner en práctica nuevas acciones de comunicación con clientes.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -590,9 +654,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Artificial-Intelligence-Lead---Insurance-Domain_Req1554435-1",
       "posted_date": "Posted 16 Days Ago",
       "description": "Req1554435",
+      "start_date": "2026-04-01",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Expert-level knowledge of machine learning algorithms and predictive modeling.\nStrong understanding of GenAI, LLM applications, and prompt engineering in regulated environments.\nProficiency in Python and AI development frameworks.\nExperience with cloud AI platforms (AWS, Azure, GCP).\nKnowledge of MLOps, model governance, and model risk management frameworks.\nUnderstanding of actuarial modeling and insurance risk assessment processes.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -610,9 +678,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/iOS-Junior-Developer---SDS_Req1550421",
       "posted_date": "Posted 21 Days Ago",
       "description": "Req1550421",
+      "start_date": "2026-03-27",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -630,9 +702,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Project-Manager-Prevencin-del-Fraude---SDS_Req1550041",
       "posted_date": "Posted 21 Days Ago",
       "description": "Req1550041",
+      "start_date": "2026-03-27",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Experiencia demostrada en la gestión integral de proyectos tecnológicos complejos, liderando iniciativas end-to-end y asegurando una ejecución eficiente, alineada con objetivos de negocio, regulatorios y tecnológicos.\nCapacidad para interpretar y analizar métricas técnicas (tiempos de respuesta, estabilidad, consumo de recursos), asegurando soluciones robustas y escalables en producción.\nConocimiento práctico de herramientas de gestión y delivery como Jira, Confluence, MS Project o similares, facilitando la planificación estructurada, seguimiento de dependencias y control de riesgos.\nExperienc",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -650,9 +726,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Responsable-PBC-Cumplimiento_Req1546012-1",
       "posted_date": "Posted 22 Days Ago",
       "description": "Req1546012",
+      "start_date": "2026-03-26",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -670,9 +750,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Release-Manager-HHCC--Canales-Asistidos----SDS_Req1555597",
       "posted_date": "Posted 22 Days Ago",
       "description": "Req1555597",
+      "start_date": "2026-03-26",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Conocimiento sólido de procesos y marcos de Release Management, Change Management y DevOps/SRE en entornos regulados.\nExperiencia con herramientas CI/CD (GitLab CI, Jenkins, GitHub Actions) para orquestar pipelines de build y despliegue.\nFamiliaridad con entornos de microservicios, contenedores y orquestación (Docker, Kubernetes).\nGestión de despliegues en entornos híbridos\ny cloud (AWS, GCP o Azure).\nDominio de estrategias de despliegue: blue/green, canary, rolling.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -690,9 +774,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Artificial-Intelligence-Transformation-Manager_Req1556147",
       "posted_date": "Posted 23 Days Ago",
       "description": "Req1556147",
+      "start_date": "2026-03-25",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Business Case & Performance Management\nOversee the development of robust business cases for AI initiatives, including:\nValue drivers (revenue, efficiency, CX, capability building)\nAdoption effort and implementation complexity\nRisks and organizational dependencies\nDefine and monitor KPIs / OKRs to track:",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -710,9 +798,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Customer-Interactions-Channel-Integration-Lead_Req1555518",
       "posted_date": "Posted 23 Days Ago",
       "description": "Req1555518",
+      "start_date": "2026-03-25",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Ensure alignment between strategic priorities and market needs.\nB. Channel Influence & Integration\nInfluence the evolution of customer interaction channels by embedding CI capabilities into their roadmaps.\nProvide clear business requirements to channel, platform, and domain teams.\nEnsure CI capabilities are consistently integrated into channel strategies.\nC. Target Design & Operating Model Alignment",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -730,9 +822,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Operations-Specialist-for-Onboarding---Customer-Department---Openbank_Req1544888",
       "posted_date": "Posted 24 Days Ago",
       "description": "Req1544888",
+      "start_date": "2026-03-24",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -750,9 +846,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/AI-Adoption-Specialist---SDS-WM-I_Req1550583",
       "posted_date": "Posted 25 Days Ago",
       "description": "Req1550583",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "3. AI Project Oversight & Follow-up\nMonitor and track AI initiatives end-to-end (from ideation to deployment)\nEnsure delivery progress, impact measurement, and alignment with business KPIs\nCoordinate with AI CoEs and global teams to deploy AI products within WMI\n4. Data Initiatives & Governance\nContribute to data governance frameworks, ensuring data quality, consistency, and compliance",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -770,9 +870,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Senior-Investor-Coordination-and-Reporting_Req1539164-1",
       "posted_date": "Posted 25 Days Ago",
       "description": "Req1539164",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Experience preparing high-quality investor reports and marketing materials.\nProficiency in the use of generative AI tools (e.g. ChatGPT) for reporting, advisory and workflow optimisation.\nInvestor relations support and investment team coordination\nFamiliarity with SFDR and ESG-related frameworks is a plus. (Preferred)\nSoft Skills\nStrong organisational and coordination skills.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -792,7 +896,7 @@
       "description": "25880875",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -811,9 +915,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Key-Account-Marketing-Manager---Openbank-Pay_Req1564257",
       "posted_date": "Posted 3 Days Ago",
       "description": "Req1564257",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -831,9 +939,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Application-Security-Engineer--S-SDLC----Cybersecurity--ODS-_Req1503840-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1503840",
+      "start_date": "2026-03-12",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Organized and detail-oriented approach to work.\nWhat do we offer?\nJoining a dynamic and agile company undergoing international expansion.\nWorking in start-up mode with the support of the Santander Group.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -851,9 +963,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Head-of-Applied-Science-Commercial-Intelligence---Data-Science---BI--OPENBANK-_Req1534692-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1534692",
+      "start_date": "2026-03-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "with the ability to translate business issues into analytical solutions, and\nexperience managing a team of Data Scientist.\nSuccessfully managed\nthe end-to-end delivery\nof insights and value, including\nresourcing, budgeting and",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -871,9 +987,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/CRO---Experimentation-Lead-Sr-Analyst_Req1547640",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1547640",
+      "start_date": "2026-03-03",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Hands-on experience designing, executing and analyzing A/B and multivariate tests.\nStrong knowledge of digital analytics tools (Google Analytics 4, Adobe Target or similar). (Required)\nWorking knowledge of HTML, CSS and JavaScript to understand implementation constraints. (Required)\nStrong analytical rigor combined with pragmatic execution mindset. (Required)\nStrong analytical mindset, attention to detail and ability to detect subtle trends and performance drivers. (Required)\nSolid knowledge of",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -891,9 +1011,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Growth-and-Performance-Lead-Sr-Analyst_Req1547643",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1547643",
+      "start_date": "2026-03-03",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Strong hands-on experience with: Google Ads, Meta Ads, Campaign Manager 360, Google Analytics 4, Tag management tools. (Required)\nStrong knowledge of\npaid media strategy, execution and optimization\nacross digital channels. (Required)\nUnderstanding of SEO and organic growth principles. (Required)\nFamiliarity with AI-driven search environments and emerging digital acquisition channels. (Required)",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -911,9 +1035,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/AI-Program-Manager----Copilot-for-Agents_Req1542846-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1542846",
+      "start_date": "2026-03-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "AI Program Manager – AI for Agents\nto help scale and industrialize AI-powered products that support and empower Santander employees globally.\nThis role sits at the intersection of product, technology, and business, ensuring that AI initiatives move from concept to scalable, secure, and value-generating products adopted across countries.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -931,9 +1059,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Junior-Back-End-Software-Engineering---Santander-Digital-Services_Req1510743",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1510743",
+      "start_date": "2026-02-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -951,9 +1083,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Data-Science-Talent-Program_Req1553255",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1553255",
+      "start_date": "2026-03-12",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -971,9 +1107,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/IT-Project-Manager-Financiacin-a-Largo-Plazo_Req1542546",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1542546",
+      "start_date": "2026-02-12",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -991,9 +1131,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/IT-Project-Manager-Specialist_Req1548180",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1548180",
+      "start_date": "2026-02-27",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1011,9 +1155,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Junior-Back-End-Engineer---SDS_Req1550953",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1550953",
+      "start_date": "2026-03-17",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1031,9 +1179,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/IT-Payments-Specialist---Santander-Digital-Services_Req1535056",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1535056",
+      "start_date": "2026-01-29",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Buen manejo de herramientas informáticas Microsoft Office. (Obligatorio).\nBuen manejo de herramienta JIRA. (Obligatorio).\nConocimientos en: Java development, microservicios y APIs, SpringBoot, Openshift. (Obligatorio)\nConocimientos plataformas mainframe. (Deseable)\nValorables conocimientos en BigData (Phyton, Spark, etc). (Deseable)\nConocimientos de la arquitectura y metodologias Santander. (Obligatorio)",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1051,9 +1203,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Experto-en-Agentes-Conversacionales-IA---Data---IA_Req1544651-1",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1544651",
+      "start_date": "2026-02-17",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "NLP: intent classification, entity extraction, slot filling, diálogo basado en reglas + ML.\nLLM: prompting, RAG, embeddings, evaluación de respuestas, guardrails, safety filters.\nProgramación: Python y/o JavaScript/TypeScript (valorable), Git, tests básicos.\nIntegración: APIs REST, OAuth/SSO (conceptos), webhooks, Postman.\nDatos: SQL básico/intermedio, preparación de datos, etiquetado, versionado.\nKnowledge management: KB, taxonomías, versionado de contenidos, búsqueda semántica.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1071,9 +1227,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Junior-Software-Engineer-Banca-Privada_Req1554152",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1554152",
+      "start_date": "2026-03-17",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1091,9 +1251,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Front-End-Software-Engineer_Req1545710",
       "posted_date": "Posted 30+ Days Ago",
       "description": "Req1545710",
+      "start_date": "2026-02-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1111,9 +1275,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/IA-Data-Scientist---Simplificacin_Req1542464-1",
       "posted_date": "Posted 7 Days Ago",
       "description": "Req1542464",
+      "start_date": "2026-04-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1131,9 +1299,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/Legal-Counsel---Legal--Openbank-_Req1562507",
       "posted_date": "Posted 9 Days Ago",
       "description": "Req1562507",
+      "start_date": "2026-04-08",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1151,9 +1323,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/Customer-Experience-Advisor---S1---Retail-Banking---Cricklewood---Harlesden-branches_Req1564857",
       "posted_date": "Posted Yesterday",
       "description": "Req1564857",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Openness to a broad range of activities even if outside of standard expectations (Preferred)\nAbility to grow, adapt and change accommodating business needs and priorities (Preferred)\nWE VALUE YOUR IMPACT\nAt Santander, your contribution matters. We recognise the difference you make every day, and we make sure you feel valued, supported and rewarded in return.\nHere, recognition goes beyond pay. It’s about the pride you feel in your work, the impact you have on customers and communities, and the opportunities you have to grow and thrive — personally and professionally.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -1172,9 +1348,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madrid/CLOUD-SECURITY-AUTOMATION-ENGINEER---ODS_Req1564858",
       "posted_date": "Posted Yesterday",
       "description": "Req1564858",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Professional Experience\n4-6 years of experience\nin cloud engineering, DevOps, platform security, or security automation roles.\n(Required)\nHands-on experience building automation in\nenvironments and translating operational needs into scalable solutions.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: Madrid (preferred)"
@@ -1192,9 +1372,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/SCUK-Commercial-Manager--Tesla_Req1562154-1",
       "posted_date": "Posted 10 Days Ago",
       "description": "Req1562154",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "What are the next steps:",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -1214,7 +1398,7 @@
       "description": "Req1508654",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -1233,9 +1417,13 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Citi-Commercial-Bank--CCB---EMEA---UK-Consumer--Retail---Healthcare-Head_26953618",
       "posted_date": "Posted 3 Days Ago",
       "description": "26953618",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Skills & Competencies\nHighly focused, able to rapidly determine key priorities, clearly communicate those priorities and ensure resources are properly aligned\nStrong execution skills, results-driven with sound financial acumen\nSharp business focus, demonstrating innovative approaches and entrepreneurial mindset\nA team player. Proven ability to collaborate effectively with peers and partners, fostering strong relationships to ensure robust client delivery\nSkilled in managing and leading teams through complex organisational change, and recognised for attracting, developing, and retaining top tal",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -1253,9 +1441,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Sucursal-Paris/Banker--CIB--Wealth---Private--Expert-I_Req1564432",
       "posted_date": "Posted 3 Days Ago",
       "description": "Req1564432",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Associate/VP: min 4-years of experience in Corporate & Investment Banking in coverage, product team or within a treasury/markets division of a Financial Institution. Insurance sector knowledge is a plus\nStrong understanding of Financial Institutions and good knowledge of corporate banking products (particulary financial markets) and familiarity with Investment banking\nProven commercial mindset and ability to build and maintain long-term client relationships\nExcellent communication and interpersonal skills, with the ability to operate in a demanding and international environment\nStrong executio",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: Paris"
@@ -1273,9 +1465,13 @@
       "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/London/HCUK-Remarketing-Development-Manager_Req1563909-2",
       "posted_date": "Posted 3 Days Ago",
       "description": "Req1563909",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Able to engage with internal and external stakeholders in order to reach mutually beneficial business outcomes.\nInnovative Thinking:\nAble to think outside the box, creating innovative solutions to deliver on our strategic plans.\nRequired Experience and Expertise\nThe ideal candidate should have:\nWorked within motor related financial services / vehicle remarketing with a full working knowledge of fleet vehicle remarketing.",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -1293,9 +1489,13 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Underwriter---C13---LONDON_26931810",
       "posted_date": "Posted 30+ Days Ago",
       "description": "26931810",
+      "start_date": "2026-02-26",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Previous credit authority experience. Prior experience working in a regulatory and compliance policy environment\nDemonstrated knowledge of intermediate accounting theory and its practical application in the credit underwriting process\nExcellent organizational skills, prioritizing capabilities, attention to detail, and the ability to complete assignments within required deadlines in a fast-paced environment\nEffective inter-personal and written/verbal communication skills\nThorough problem recognition and resolution skills\nTypically deals with complex and variable issues with substantial potentia",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -1313,9 +1513,13 @@
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Production-Engineering-Manager_26943979",
       "posted_date": "Posted 30+ Days Ago",
       "description": "26943979",
+      "start_date": "2026-03-10",
+      "time_type": "Full time",
+      "duration": "6 month",
+      "requirements": "Technical Proficiency: Possess a strong understanding of SRE principles, DevOps practices, and relevant technologies to effectively guide and support engineering teams.\nProject Management: Ability to manage multiple projects simultaneously, set priorities, allocate resources, and ensure timely completion within budget constraints.\nAnalytical Thinking: Demonstrate a data-driven approach to problem-solving and decision-making, utilising metrics, and performance indicators to assess team efficiency and identify improvement opportunities.\nLeadership: Exhibit strong leadership qualities, fostering ",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -1335,7 +1539,7 @@
       "description": "25888135",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 20,
       "match_reasons": [
         "Type: Internship/Stage"
@@ -1355,7 +1559,7 @@
       "description": "24790857",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 20,
       "match_reasons": [
         "Type: Internship/Stage"
@@ -1375,7 +1579,7 @@
       "description": "Req1542311",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 20,
       "match_reasons": [
         "Type: Internship/Stage"
@@ -1395,7 +1599,7 @@
       "description": "26952288",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 15,
       "match_reasons": [
         "Country: United Kingdom"
@@ -1415,7 +1619,7 @@
       "description": "25878132",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 10,
       "match_reasons": [
         "Domain: banking, audit"
@@ -1435,7 +1639,7 @@
       "description": "25915651",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 10,
       "match_reasons": [
         "Domain: risk, portfolio"
@@ -1455,7 +1659,7 @@
       "description": "Req1508459",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 10,
       "match_reasons": [
         "Domain: banking, private banking"
@@ -1475,7 +1679,7 @@
       "description": "26951915",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: banking"
@@ -1495,7 +1699,7 @@
       "description": "26940010",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: finance"
@@ -1515,7 +1719,7 @@
       "description": "25871837",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: finance"
@@ -1535,7 +1739,7 @@
       "description": "25871279",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: finance"
@@ -1555,7 +1759,7 @@
       "description": "25909174",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: finance"
@@ -1575,7 +1779,7 @@
       "description": "25909074",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: finance"
@@ -1595,7 +1799,7 @@
       "description": "26938940",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: trading"
@@ -1615,7 +1819,7 @@
       "description": "25831375",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: risk"
@@ -1635,7 +1839,7 @@
       "description": "Req1545091",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 5,
       "match_reasons": [
         "Domain: compliance"
@@ -1655,7 +1859,7 @@
       "description": "Req1553991",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1673,7 +1877,7 @@
       "description": "Req1561108",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1691,7 +1895,7 @@
       "description": "Req1552375",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1709,7 +1913,7 @@
       "description": "Req1563362",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1727,7 +1931,7 @@
       "description": "25921684",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1745,7 +1949,7 @@
       "description": "25850012",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1763,7 +1967,7 @@
       "description": "25901181",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1781,7 +1985,7 @@
       "description": "25854735",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1799,7 +2003,7 @@
       "description": "25833174",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1817,7 +2021,7 @@
       "description": "Req1544768",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1835,7 +2039,7 @@
       "description": "Req1545737",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1853,7 +2057,7 @@
       "description": "Req1514135",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1871,7 +2075,7 @@
       "description": "Req1563469",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1889,7 +2093,7 @@
       "description": "Req1549954",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1907,7 +2111,7 @@
       "description": "26945580",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1925,7 +2129,7 @@
       "description": "26952801",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1943,7 +2147,7 @@
       "description": "26954380",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -1961,7 +2165,7 @@
       "description": "Req1560919",
       "source": "workday",
       "first_seen": "2026-04-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 0,
       "match_reasons": [],
       "match_class": "minimal",
@@ -2913,7 +3117,7 @@
   ],
   "stats": {
     "total_jobs": 87,
-    "new_today": 85,
+    "new_today": 0,
     "high_match": 0,
     "firms_scraped": 4,
     "firms_total": 60
