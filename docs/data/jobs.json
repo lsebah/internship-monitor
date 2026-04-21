@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-21T08:57:04.419440+00:00",
+  "last_updated": "2026-04-21T12:58:10.546504+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-21T08:57:04.419440+00:00"
+      "timestamp": "2026-04-21T12:58:10.546504+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -17,7 +17,7 @@
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-21T08:57:04.419440+00:00"
+      "timestamp": "2026-04-21T12:58:10.546504+00:00"
     },
     "Bank of America": {
       "status": "link_only",
@@ -74,7 +74,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-21T08:57:04.419440+00:00"
+      "timestamp": "2026-04-21T12:58:10.546504+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -187,7 +187,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-21T08:57:04.419440+00:00"
+      "timestamp": "2026-04-21T12:58:10.546504+00:00"
     },
     "KKR": {
       "status": "link_only",
