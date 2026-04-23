@@ -319,19 +319,124 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
 
 
 # ============================================================
+# ORACLE HCM SCRAPER (Oracle Recruiting Cloud)
+# ============================================================
+def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from Oracle HCM Cloud (Oracle Recruiting Cloud)."""
+    cfg = firm["scraper"]
+    domain = cfg.get("domain", "")
+    site_number = cfg.get("site_number", "")
+    job_url_template = cfg.get("job_url_template", "")
+    if not domain or not site_number:
+        logger.warning(f"Oracle HCM {firm['name']}: missing domain or site_number")
+        return []
+
+    api_url = f"https://{domain}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+    all_jobs = []
+    seen_ids = set()
+    city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+    intern_rx = re.compile(
+        r"\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|"
+        r"\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|"
+        r"\bworking student\b|\bapprentice\b|\bgraduate programme\b|"
+        r"\boff[- ]cycle\b",
+        re.I,
+    )
+
+    for term in search_terms[:3]:
+        finder = (
+            f"findReqs;siteNumber={site_number},"
+            f"facetsList=LOCATIONS%7CTITLE%7CCATEGORIES%7CPOSTING_DATES,"
+            f"limit=50,keyword={term},sortBy=POSTING_DATES_DESC"
+        )
+        params = {
+            "onlyData": "true",
+            "expand": "requisitionList.secondaryLocations",
+            "finder": finder,
+        }
+        try:
+            resp = SESSION.get(api_url, params=params, timeout=15,
+                               headers={"Accept": "application/json"})
+            if resp.status_code != 200:
+                logger.warning(f"Oracle HCM {firm['name']}: HTTP {resp.status_code} for '{term}'")
+                continue
+            data = resp.json()
+            items = data.get("items", [])
+            if not items:
+                continue
+            reqs = items[0].get("requisitionList", [])
+
+            for r in reqs:
+                rid = str(r.get("Id", ""))
+                if not rid or rid in seen_ids:
+                    continue
+                seen_ids.add(rid)
+
+                title = r.get("Title", "") or ""
+                primary_loc = r.get("PrimaryLocation", "") or ""
+                secondary_locs = r.get("secondaryLocations", []) or []
+                all_locs_text = primary_loc + " | " + " | ".join(
+                    s.get("Name", "") for s in secondary_locs if isinstance(s, dict)
+                )
+
+                if not any(p.search(all_locs_text) for p in city_patterns):
+                    continue
+                if not intern_rx.search(title):
+                    continue
+
+                job_url = (job_url_template.format(id=rid)
+                           if job_url_template
+                           else f"https://{domain}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{rid}")
+
+                job = {
+                    "id": make_job_id(firm["name"], title, job_url),
+                    "bank": firm["name"],
+                    "category": firm.get("category", ""),
+                    "title": title,
+                    "location": all_locs_text.strip(" |"),
+                    "url": job_url,
+                    "posted_date": (r.get("PostedDate") or "")[:10],
+                    "description": r.get("ShortDescriptionStr", "") or "",
+                    "start_date": "",
+                    "time_type": r.get("JobSchedule", "") or "",
+                    "duration": "",
+                    "requirements": "",
+                    "source": "oracle_hcm",
+                }
+                all_jobs.append(job)
+            time.sleep(0.3)
+        except Exception as e:
+            logger.error(f"Oracle HCM {firm['name']} error for '{term}': {e}")
+            continue
+
+    logger.info(f"Oracle HCM {firm['name']}: found {len(all_jobs)} jobs")
+    return all_jobs
+
+
+# ============================================================
 # DISPATCHER
 # ============================================================
 SCRAPER_MAP = {
     "workday": scrape_workday,
     "greenhouse": scrape_greenhouse,
     "lever": scrape_lever,
+    "oracle_hcm": scrape_oracle_hcm,
 }
+
+
+class UnsupportedScraperError(Exception):
+    """Raised when a firm's scraper type has no implementation."""
 
 
 def scrape_firm(firm: dict, search_terms: list, target_cities: list) -> list:
     """Dispatch to the appropriate scraper for a firm."""
     scraper_type = firm.get("scraper", {}).get("type", "direct_link")
+    if scraper_type == "direct_link":
+        return []
     scraper_fn = SCRAPER_MAP.get(scraper_type)
-    if scraper_fn:
-        return scraper_fn(firm, search_terms, target_cities)
-    return []
+    if scraper_fn is None:
+        raise UnsupportedScraperError(
+            f"No scraper implementation for type '{scraper_type}' "
+            f"(firm: {firm.get('name','?')})"
+        )
+    return scraper_fn(firm, search_terms, target_cities)

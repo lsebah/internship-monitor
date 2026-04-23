@@ -142,6 +142,9 @@ def main():
     all_new_jobs = []
     scrape_status = {}
     firms_scraped = 0
+    firms_failed = 0
+    firms_empty = 0
+    failures = []
 
     for firm in FIRMS:
         scraper_type = firm.get("scraper", {}).get("type", "direct_link")
@@ -159,13 +162,18 @@ def main():
                 "timestamp": now_iso,
             }
             firms_scraped += 1
+            if len(jobs) == 0:
+                firms_empty += 1
+                logger.warning(f"  -> {firm['name']}: 0 jobs (endpoint reachable, no matches)")
         except Exception as e:
-            logger.error(f"Failed to scrape {firm['name']}: {e}")
+            logger.error(f"Failed to scrape {firm['name']}: {type(e).__name__}: {e}")
             scrape_status[firm["name"]] = {
                 "status": "error",
-                "error": str(e),
+                "error": f"{type(e).__name__}: {e}",
                 "timestamp": now_iso,
             }
+            firms_failed += 1
+            failures.append(f"  - {firm['name']} ({scraper_type}): {type(e).__name__}: {e}")
 
     # Merge with existing data
     merged_jobs = merge_jobs(existing_jobs, all_new_jobs, today)
@@ -193,13 +201,25 @@ def main():
             "new_today": new_today,
             "high_match": high_match,
             "firms_scraped": firms_scraped,
+            "firms_failed": firms_failed,
+            "firms_empty": firms_empty,
             "firms_total": len(FIRMS),
         },
     }
 
     save_data(output)
 
-    logger.info(f"Done! {len(display_jobs)} jobs total, {new_today} new today, {high_match} high match")
+    logger.info("=" * 60)
+    logger.info(
+        f"Done! {len(display_jobs)} jobs total, {new_today} new today, "
+        f"{high_match} high match | firms: {firms_scraped} scraped "
+        f"({firms_empty} empty, {firms_failed} failed)"
+    )
+    if failures:
+        logger.warning(f"Failures ({len(failures)}):")
+        for f in failures:
+            logger.warning(f)
+    logger.info("=" * 60)
     return output
 
 

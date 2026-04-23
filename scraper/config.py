@@ -104,7 +104,12 @@ FIRMS = [
             "internships": "https://careers.jpmorgan.com/us/en/students/programs",
             "Madrid": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1001,facetsList=LOCATIONS%7CWORK_LOCATION%7CWORKPLACE_TYPE%7CTITLE%7CCATEGORIES%7CORGANIZATIONS%7CPOSTING_DATES%7CFLEX_FIELDS,limit=25,keyword=intern,locationId=300000000289498,sortBy=POSTING_DATES_DESC",
         },
-        "scraper": {"type": "oracle_hcm"},
+        "scraper": {
+            "type": "oracle_hcm",
+            "domain": "jpmc.fa.oraclecloud.com",
+            "site_number": "CX_1001",
+            "job_url_template": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/{id}",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -184,9 +189,14 @@ FIRMS = [
         "careers_url": "https://careers.db.com/",
         "search_urls": {
             "internships": "https://careers.db.com/students-graduates/",
-            "search": "https://db.recsolu.com/external/requisitions",
+            "search": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "db",
+            "instance": 3,
+            "site": "DBWebsite",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -198,7 +208,12 @@ FIRMS = [
         "search_urls": {
             "early_careers": "https://search.jobs.barclays/search-jobs/intern",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "barclays",
+            "instance": 3,
+            "site": "External_Career_Site_Barclays",
+        },
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -409,7 +424,12 @@ FIRMS = [
         "search_urls": {
             "early_careers": "https://careers.blackrock.com/early-careers/",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "blackrock",
+            "instance": 1,
+            "site": "BlackRock_Professional",
+        },
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -462,8 +482,15 @@ FIRMS = [
         "category": "Asset Manager",
         "subcategory": "Global",
         "careers_url": "https://careers.invesco.com/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "invesco",
+            "instance": 1,
+            "site": "IVZ",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -580,8 +607,10 @@ FIRMS = [
         "category": "Hedge Fund",
         "subcategory": "Multi-Strategy",
         "careers_url": "https://www.man.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.eu.greenhouse.io/mangroup",
+        },
+        "scraper": {"type": "greenhouse", "board": "mangroup"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -590,8 +619,10 @@ FIRMS = [
         "category": "Hedge Fund",
         "subcategory": "Long/Short Equity",
         "careers_url": "https://www.marshallwace.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.greenhouse.io/marshallwace",
+        },
+        "scraper": {"type": "greenhouse", "board": "marshallwace"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -771,8 +802,10 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "Mega Cap",
         "careers_url": "https://www.tpg.com/careers/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.greenhouse.io/tpgcareers",
+        },
+        "scraper": {"type": "greenhouse", "board": "tpgcareers"},
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
