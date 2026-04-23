@@ -453,6 +453,159 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
 
 
 # ============================================================
+# OLEEO / TALENTLINK SCRAPER (*.tal.net)
+# ============================================================
+# Two content surfaces are used, depending on the deployment:
+#   - Atom feed at /vx/mobile-0/appcentre-*/brand-N/candidate/jobboard/vacancy/V/feed
+#     Each <entry> contains a title + a structured content div with
+#     "City:", "Program country:", "Program type:" lines.
+#   - HTML list at /vx/.../candidate/jobboard/vacancy/V/adv
+#     Posting links appear as /opp/{numeric-id}-{slug}; the slug
+#     contains role + city (e.g. "2026-Investment-Banking-Off-Cycle-Internship-Milan").
+
+_OLEEO_OPP_RX = re.compile(r'/opp/(\d+)-([A-Za-z0-9\-]+)')
+_OLEEO_ENTRY_RX = re.compile(r'<entry[^>]*>(.+?)</entry>', re.S)
+_OLEEO_TITLE_RX = re.compile(r'<title[^>]*>([^<]+)</title>', re.S)
+_OLEEO_HREF_RX = re.compile(r'<link[^>]*rel="alternate"[^>]*href="([^"]+)"')
+_OLEEO_CITY_RX = re.compile(r'City:\s*([^<\r\n]+?)(?:<|\n|$)', re.I)
+_OLEEO_COUNTRY_RX = re.compile(r'Program country:\s*([^<\r\n]+?)(?:<|\n|$)', re.I)
+_OLEEO_TYPE_RX = re.compile(r'Program type:\s*([^<\r\n]+?)(?:<|\n|$)', re.I)
+_OLEEO_DESC_RX = re.compile(r'Program description:\s*([^<\r\n]+?)(?:<|\n|$)', re.I)
+
+
+def _oleeo_from_feed(firm: dict, feed_url: str, target_cities: list) -> list:
+    try:
+        r = SESSION.get(feed_url, timeout=15)
+    except Exception as e:
+        logger.error(f"Oleeo {firm['name']} feed error: {e}")
+        return []
+    if r.status_code != 200:
+        logger.warning(f"Oleeo {firm['name']} feed: HTTP {r.status_code}")
+        return []
+
+    jobs = []
+    city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+    for block in _OLEEO_ENTRY_RX.findall(r.text):
+        t = _OLEEO_TITLE_RX.search(block)
+        href = _OLEEO_HREF_RX.search(block)
+        if not t or not href:
+            continue
+        title = t.group(1).strip()
+        url = href.group(1).strip()
+
+        city = (_OLEEO_CITY_RX.search(block) or [None, ""])[1] \
+               if _OLEEO_CITY_RX.search(block) else ""
+        country = (_OLEEO_COUNTRY_RX.search(block) or [None, ""])[1] \
+                  if _OLEEO_COUNTRY_RX.search(block) else ""
+        prog_type = (_OLEEO_TYPE_RX.search(block) or [None, ""])[1] \
+                    if _OLEEO_TYPE_RX.search(block) else ""
+        desc = (_OLEEO_DESC_RX.search(block) or [None, ""])[1] \
+               if _OLEEO_DESC_RX.search(block) else ""
+        location_text = f"{city} {country}".strip()
+
+        if not any(p.search(location_text) or p.search(title) for p in city_patterns):
+            continue
+        if not WORKDAY_INTERN_RX.search(title) and "intern" not in prog_type.lower():
+            continue
+
+        jobs.append({
+            "id": make_job_id(firm["name"], title, url),
+            "bank": firm["name"],
+            "category": firm.get("category", ""),
+            "title": title,
+            "location": location_text,
+            "url": url,
+            "posted_date": "",
+            "description": desc,
+            "start_date": "",
+            "time_type": prog_type,
+            "duration": "",
+            "requirements": "",
+            "source": "oleeo",
+        })
+    return jobs
+
+
+_OLEEO_ROW_RX = re.compile(
+    r'<a[^>]*class="subject"[^>]*href="([^"]+/opp/(\d+)-[^"]*)"[^>]*>\s*([^<]+?)\s*</a>'
+    r'.*?<td[^>]*class="comm_list_tbody"[^>]*>\s*([^<]+?)\s*</td>',
+    re.S,
+)
+
+
+def _oleeo_from_list(firm: dict, list_url: str, base: str, target_cities: list) -> list:
+    try:
+        r = SESSION.get(list_url, timeout=15)
+    except Exception as e:
+        logger.error(f"Oleeo {firm['name']} list error: {e}")
+        return []
+    if r.status_code != 200:
+        logger.warning(f"Oleeo {firm['name']} list: HTTP {r.status_code}")
+        return []
+
+    jobs = []
+    seen = set()
+    city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+
+    for m in _OLEEO_ROW_RX.finditer(r.text):
+        href, opp_id, title, location = m.group(1), m.group(2), m.group(3), m.group(4)
+        if opp_id in seen:
+            continue
+        seen.add(opp_id)
+        title = title.strip()
+        location = location.strip()
+
+        if not any(p.search(location) or p.search(title) for p in city_patterns):
+            continue
+        if not WORKDAY_INTERN_RX.search(title):
+            continue
+
+        full_url = href if href.startswith("http") else base.rstrip("/") + href
+        jobs.append({
+            "id": make_job_id(firm["name"], title, full_url),
+            "bank": firm["name"],
+            "category": firm.get("category", ""),
+            "title": title,
+            "location": location,
+            "url": full_url,
+            "posted_date": "",
+            "description": "",
+            "start_date": "",
+            "time_type": "",
+            "duration": "",
+            "requirements": "",
+            "source": "oleeo",
+        })
+    return jobs
+
+
+def scrape_oleeo(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from Oleeo / TalentLink (*.tal.net) deployments."""
+    cfg = firm["scraper"]
+    feed_url = cfg.get("feed_url", "")
+    list_url = cfg.get("list_url", "")
+    base = cfg.get("base", "")
+
+    jobs = []
+    if feed_url:
+        jobs.extend(_oleeo_from_feed(firm, feed_url, target_cities))
+    if list_url and base:
+        jobs.extend(_oleeo_from_list(firm, list_url, base, target_cities))
+
+    # Dedupe by URL
+    seen = set()
+    unique = []
+    for j in jobs:
+        if j["url"] in seen:
+            continue
+        seen.add(j["url"])
+        unique.append(j)
+
+    logger.info(f"Oleeo {firm['name']}: found {len(unique)} jobs")
+    return unique
+
+
+# ============================================================
 # DISPATCHER
 # ============================================================
 SCRAPER_MAP = {
@@ -460,6 +613,7 @@ SCRAPER_MAP = {
     "greenhouse": scrape_greenhouse,
     "lever": scrape_lever,
     "oracle_hcm": scrape_oracle_hcm,
+    "oleeo": scrape_oleeo,
 }
 
 

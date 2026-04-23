@@ -133,7 +133,11 @@ FIRMS = [
         "search_urls": {
             "students": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53515a97a3a0/candidate/jobboard/vacancy/1/adv",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "oleeo",
+            "list_url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-53515a97a3a0/candidate/jobboard/vacancy/1/adv",
+            "base": "https://morganstanley.tal.net",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -160,9 +164,13 @@ FIRMS = [
         "subcategory": "US Bulge Bracket",
         "careers_url": "https://campus.bankofamerica.com/",
         "search_urls": {
-            "campus": "https://campus.bankofamerica.com/careers/",
+            "campus": "https://bankcampuscareers.tal.net/",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "oleeo",
+            "feed_url": "https://bankcampuscareers.tal.net/vx/mobile-0/appcentre-1/brand-1/candidate/jobboard/vacancy/1/feed",
+            "base": "https://bankcampuscareers.tal.net",
+        },
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -307,7 +315,12 @@ FIRMS = [
         "search_urls": {
             "early_careers": "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-a4bba4c3553c/candidate/jobboard/vacancy/2/adv",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "oleeo",
+            "feed_url": "https://lazard-careers.tal.net/vx/mobile-0/appcentre-1/brand-4/candidate/jobboard/vacancy/2/feed",
+            "list_url": "https://lazard-careers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-a4bba4c3553c/candidate/jobboard/vacancy/2/adv",
+            "base": "https://lazard-careers.tal.net",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
 
