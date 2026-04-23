@@ -119,8 +119,24 @@ def _fetch_workday_detail(base_url: str, site: str, tenant: str, external_path: 
         return {}
 
 
+WORKDAY_INTERN_RX = re.compile(
+    r"\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|"
+    r"\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|"
+    r"\bsummer associate\b|\bworking student\b|\bapprentice\b|"
+    r"\bgraduate programme?\b|\bgraduate analyst\b|\banalyst programme?\b|"
+    r"\brotational programme?\b|\bearly career\b|\boff[- ]cycle\b",
+    re.I,
+)
+
+
 def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
-    """Scrape jobs from Workday API endpoint."""
+    """Scrape jobs from Workday API endpoint.
+
+    Strategy: for each search term, paginate across all matching results
+    (no city in the query — cities are filtered locally against
+    locationsText, because embedding city in searchText drops many
+    valid postings that list the city only in structured facets).
+    """
     cfg = firm["scraper"]
     tenant = cfg["tenant"]
     instance = cfg["instance"]
@@ -130,63 +146,59 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
 
     all_jobs = []
     seen_urls = set()
+    city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+    page_size = 20
+    max_pages = 10  # safety cap: 200 postings per term
 
-    for term in search_terms[:5]:  # Limit search terms to avoid rate limiting
-        for city in target_cities:
+    for term in search_terms:
+        offset = 0
+        pages = 0
+        while pages < max_pages:
             try:
                 payload = {
                     "appliedFacets": {},
-                    "limit": 20,
-                    "offset": 0,
-                    "searchText": f"{term} {city}",
+                    "limit": page_size,
+                    "offset": offset,
+                    "searchText": term,
                 }
                 resp = SESSION.post(api_url, json=payload, timeout=15)
                 if resp.status_code != 200:
-                    logger.warning(f"Workday {firm['name']}: HTTP {resp.status_code} for '{term} {city}'")
-                    continue
+                    logger.warning(
+                        f"Workday {firm['name']}: HTTP {resp.status_code} "
+                        f"for '{term}' offset={offset}"
+                    )
+                    break
 
                 data = resp.json()
                 postings = data.get("jobPostings", [])
-
-                city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
-                intern_rx = re.compile(
-                    r"\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|"
-                    r"\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|"
-                    r"\bworking student\b|\bapprentice\b|\bgraduate programme\b|"
-                    r"\boff[- ]cycle\b",
-                    re.I,
-                )
+                total = data.get("total", 0)
+                if not postings:
+                    break
 
                 for p in postings:
                     ext_path = p.get("externalPath", "")
                     job_url = f"{base_url}/en-US/{site}{ext_path}" if ext_path else ""
-                    if job_url in seen_urls:
+                    if not job_url or job_url in seen_urls:
                         continue
                     seen_urls.add(job_url)
 
-                    # Geography guard: Workday's searchText is fuzzy and returns
-                    # global results ("intern Madrid" brings back Manila, Sao Paulo,
-                    # etc.). Only keep jobs whose location text mentions a target city.
                     location_text = p.get("locationsText", "") or ""
                     if not any(pat.search(location_text) for pat in city_patterns):
                         continue
 
-                    # Programme guard: only keep intern / stage titles. Workday's
-                    # searchText also returns full-time / SVP / Director roles
-                    # that just contain the word "intern" somewhere else.
                     title_text = p.get("title", "") or ""
-                    if not intern_rx.search(title_text):
+                    if not WORKDAY_INTERN_RX.search(title_text):
                         continue
 
                     detail = _fetch_workday_detail(base_url, site, tenant, ext_path)
-                    time.sleep(0.15)
+                    time.sleep(0.1)
 
                     job = {
-                        "id": make_job_id(firm["name"], p.get("title", ""), job_url),
+                        "id": make_job_id(firm["name"], title_text, job_url),
                         "bank": firm["name"],
                         "category": firm.get("category", ""),
-                        "title": p.get("title", ""),
-                        "location": p.get("locationsText", ""),
+                        "title": title_text,
+                        "location": location_text,
                         "url": job_url,
                         "posted_date": p.get("postedOn", ""),
                         "description": " | ".join(p.get("bulletFields", [])),
@@ -198,11 +210,16 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                     }
                     all_jobs.append(job)
 
-                time.sleep(0.5)  # Rate limiting
-
+                offset += page_size
+                pages += 1
+                if offset >= total:
+                    break
+                time.sleep(0.3)
             except Exception as e:
-                logger.error(f"Workday {firm['name']} error for '{term} {city}': {e}")
-                continue
+                logger.error(
+                    f"Workday {firm['name']} error for '{term}' offset={offset}: {e}"
+                )
+                break
 
     logger.info(f"Workday {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs
@@ -231,7 +248,6 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
         jobs_data = data.get("jobs", [])
 
         city_patterns = [re.compile(re.escape(c), re.IGNORECASE) for c in target_cities]
-        term_patterns = [re.compile(re.escape(t), re.IGNORECASE) for t in search_terms]
 
         for j in jobs_data:
             title = j.get("title", "")
@@ -239,25 +255,33 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
             if j.get("location"):
                 location_name = j["location"].get("name", "")
 
-            # Check if location matches
-            loc_match = any(p.search(location_name) for p in city_patterns)
-            # Check if title matches search terms
-            term_match = any(p.search(title) for p in term_patterns)
+            # Require an intern/graduate-style title (filters out senior roles
+            # that would slip through on a city match alone).
+            if not WORKDAY_INTERN_RX.search(title):
+                continue
 
-            if loc_match or term_match:
-                job_url = j.get("absolute_url", "")
-                job = {
-                    "id": make_job_id(firm["name"], title, job_url),
-                    "bank": firm["name"],
-                    "category": firm.get("category", ""),
-                    "title": title,
-                    "location": location_name,
-                    "url": job_url,
-                    "posted_date": (j.get("updated_at") or "")[:10],
-                    "description": "",
-                    "source": "greenhouse",
-                }
-                all_jobs.append(job)
+            # Require a target city in the location text. If location is blank
+            # or global ("Remote", "Worldwide"), accept — some firms skip the
+            # city field but the title still signals a target geography.
+            loc_lower = location_name.lower()
+            is_global = (not location_name
+                         or loc_lower in ("remote", "worldwide", "global", "europe"))
+            if not is_global and not any(p.search(location_name) for p in city_patterns):
+                continue
+
+            job_url = j.get("absolute_url", "")
+            job = {
+                "id": make_job_id(firm["name"], title, job_url),
+                "bank": firm["name"],
+                "category": firm.get("category", ""),
+                "title": title,
+                "location": location_name,
+                "url": job_url,
+                "posted_date": (j.get("updated_at") or "")[:10],
+                "description": "",
+                "source": "greenhouse",
+            }
+            all_jobs.append(job)
 
     except Exception as e:
         logger.error(f"Greenhouse {firm['name']} error: {e}")
@@ -287,29 +311,33 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
 
         postings = resp.json()
         city_patterns = [re.compile(re.escape(c), re.IGNORECASE) for c in target_cities]
-        term_patterns = [re.compile(re.escape(t), re.IGNORECASE) for t in search_terms]
 
         for p in postings:
             title = p.get("text", "")
-            location_name = p.get("categories", {}).get("location", "")
+            location_name = p.get("categories", {}).get("location", "") or ""
 
-            loc_match = any(pat.search(location_name) for pat in city_patterns)
-            term_match = any(pat.search(title) for pat in term_patterns)
+            if not WORKDAY_INTERN_RX.search(title):
+                continue
 
-            if loc_match or term_match:
-                job_url = p.get("hostedUrl", "")
-                job = {
-                    "id": make_job_id(firm["name"], title, job_url),
-                    "bank": firm["name"],
-                    "category": firm.get("category", ""),
-                    "title": title,
-                    "location": location_name,
-                    "url": job_url,
-                    "posted_date": "",
-                    "description": p.get("descriptionPlain", "")[:200],
-                    "source": "lever",
-                }
-                all_jobs.append(job)
+            loc_lower = location_name.lower()
+            is_global = (not location_name
+                         or loc_lower in ("remote", "worldwide", "global", "europe"))
+            if not is_global and not any(pat.search(location_name) for pat in city_patterns):
+                continue
+
+            job_url = p.get("hostedUrl", "")
+            job = {
+                "id": make_job_id(firm["name"], title, job_url),
+                "bank": firm["name"],
+                "category": firm.get("category", ""),
+                "title": title,
+                "location": location_name,
+                "url": job_url,
+                "posted_date": "",
+                "description": p.get("descriptionPlain", "")[:200],
+                "source": "lever",
+            }
+            all_jobs.append(job)
 
     except Exception as e:
         logger.error(f"Lever {firm['name']} error: {e}")
@@ -335,79 +363,90 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
     all_jobs = []
     seen_ids = set()
     city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
-    intern_rx = re.compile(
-        r"\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|"
-        r"\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|"
-        r"\bworking student\b|\bapprentice\b|\bgraduate programme\b|"
-        r"\boff[- ]cycle\b",
-        re.I,
-    )
+    page_size = 50
+    max_pages = 4  # 200 per term
 
-    for term in search_terms[:3]:
-        finder = (
-            f"findReqs;siteNumber={site_number},"
-            f"facetsList=LOCATIONS%7CTITLE%7CCATEGORIES%7CPOSTING_DATES,"
-            f"limit=50,keyword={term},sortBy=POSTING_DATES_DESC"
-        )
-        params = {
-            "onlyData": "true",
-            "expand": "requisitionList.secondaryLocations",
-            "finder": finder,
-        }
-        try:
-            resp = SESSION.get(api_url, params=params, timeout=15,
-                               headers={"Accept": "application/json"})
-            if resp.status_code != 200:
-                logger.warning(f"Oracle HCM {firm['name']}: HTTP {resp.status_code} for '{term}'")
-                continue
-            data = resp.json()
-            items = data.get("items", [])
-            if not items:
-                continue
-            reqs = items[0].get("requisitionList", [])
+    for term in search_terms:
+        offset = 0
+        pages = 0
+        while pages < max_pages:
+            finder = (
+                f"findReqs;siteNumber={site_number},"
+                f"facetsList=LOCATIONS%7CTITLE%7CCATEGORIES%7CPOSTING_DATES,"
+                f"limit={page_size},offset={offset},keyword={term},"
+                f"sortBy=POSTING_DATES_DESC"
+            )
+            params = {
+                "onlyData": "true",
+                "expand": "requisitionList.secondaryLocations",
+                "finder": finder,
+            }
+            try:
+                resp = SESSION.get(api_url, params=params, timeout=15,
+                                   headers={"Accept": "application/json"})
+                if resp.status_code != 200:
+                    logger.warning(
+                        f"Oracle HCM {firm['name']}: HTTP {resp.status_code} "
+                        f"for '{term}' offset={offset}"
+                    )
+                    break
+                data = resp.json()
+                items = data.get("items", [])
+                if not items:
+                    break
+                reqs = items[0].get("requisitionList", [])
+                if not reqs:
+                    break
 
-            for r in reqs:
-                rid = str(r.get("Id", ""))
-                if not rid or rid in seen_ids:
-                    continue
-                seen_ids.add(rid)
+                for r in reqs:
+                    rid = str(r.get("Id", ""))
+                    if not rid or rid in seen_ids:
+                        continue
+                    seen_ids.add(rid)
 
-                title = r.get("Title", "") or ""
-                primary_loc = r.get("PrimaryLocation", "") or ""
-                secondary_locs = r.get("secondaryLocations", []) or []
-                all_locs_text = primary_loc + " | " + " | ".join(
-                    s.get("Name", "") for s in secondary_locs if isinstance(s, dict)
+                    title = r.get("Title", "") or ""
+                    primary_loc = r.get("PrimaryLocation", "") or ""
+                    secondary_locs = r.get("secondaryLocations", []) or []
+                    all_locs_text = primary_loc + " | " + " | ".join(
+                        s.get("Name", "") for s in secondary_locs if isinstance(s, dict)
+                    )
+
+                    if not any(p.search(all_locs_text) for p in city_patterns):
+                        continue
+                    if not WORKDAY_INTERN_RX.search(title):
+                        continue
+
+                    job_url = (job_url_template.format(id=rid)
+                               if job_url_template
+                               else f"https://{domain}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{rid}")
+
+                    job = {
+                        "id": make_job_id(firm["name"], title, job_url),
+                        "bank": firm["name"],
+                        "category": firm.get("category", ""),
+                        "title": title,
+                        "location": all_locs_text.strip(" |"),
+                        "url": job_url,
+                        "posted_date": (r.get("PostedDate") or "")[:10],
+                        "description": r.get("ShortDescriptionStr", "") or "",
+                        "start_date": "",
+                        "time_type": r.get("JobSchedule", "") or "",
+                        "duration": "",
+                        "requirements": "",
+                        "source": "oracle_hcm",
+                    }
+                    all_jobs.append(job)
+
+                offset += page_size
+                pages += 1
+                if len(reqs) < page_size:
+                    break
+                time.sleep(0.3)
+            except Exception as e:
+                logger.error(
+                    f"Oracle HCM {firm['name']} error for '{term}' offset={offset}: {e}"
                 )
-
-                if not any(p.search(all_locs_text) for p in city_patterns):
-                    continue
-                if not intern_rx.search(title):
-                    continue
-
-                job_url = (job_url_template.format(id=rid)
-                           if job_url_template
-                           else f"https://{domain}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{rid}")
-
-                job = {
-                    "id": make_job_id(firm["name"], title, job_url),
-                    "bank": firm["name"],
-                    "category": firm.get("category", ""),
-                    "title": title,
-                    "location": all_locs_text.strip(" |"),
-                    "url": job_url,
-                    "posted_date": (r.get("PostedDate") or "")[:10],
-                    "description": r.get("ShortDescriptionStr", "") or "",
-                    "start_date": "",
-                    "time_type": r.get("JobSchedule", "") or "",
-                    "duration": "",
-                    "requirements": "",
-                    "source": "oracle_hcm",
-                }
-                all_jobs.append(job)
-            time.sleep(0.3)
-        except Exception as e:
-            logger.error(f"Oracle HCM {firm['name']} error for '{term}': {e}")
-            continue
+                break
 
     logger.info(f"Oracle HCM {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-23T12:58:20.697331+00:00",
+  "last_updated": "2026-04-23T15:20:57.055658+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-04-23T12:58:20.697331+00:00"
+      "count": 2,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -17,7 +17,7 @@
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-23T12:58:20.697331+00:00"
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Bank of America": {
       "status": "link_only",
@@ -28,12 +28,14 @@
       "count": 0
     },
     "Deutsche Bank": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 6,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Barclays": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 2,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -74,7 +76,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-23T12:58:20.697331+00:00"
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -101,8 +103,9 @@
       "count": 0
     },
     "BlackRock": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Fidelity International": {
       "status": "link_only",
@@ -121,8 +124,9 @@
       "count": 0
     },
     "Invesco": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -165,12 +169,14 @@
       "count": 0
     },
     "Man Group": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Marshall Wace": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -187,7 +193,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-23T12:58:20.697331+00:00"
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -238,8 +244,9 @@
       "count": 0
     },
     "TPG": {
-      "status": "link_only",
-      "count": 0
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-04-23T15:20:57.055658+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -247,6 +254,174 @@
     }
   },
   "jobs": [
+    {
+      "id": "80d335e7d644",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - Paris",
+      "location": "Paris, Paris, France",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701326",
+      "posted_date": "2026-02-01",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "cac819fd4bca",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701294",
+      "posted_date": "2026-02-01",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "eb0e9c327961",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "FX Risk Management Sales Intern (f/m/x)",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0430018",
+      "posted_date": "Posted 16 Days Ago",
+      "description": "R0430018",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nStrong commitment and autonomy.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk, sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "2c349f3d2beb",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Corporate Banking Coverage Intern (f/m/x)",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Corporate-Banking-Coverage-Intern--f-m-x-_R0425559",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "R0425559",
+      "start_date": "2026-03-18",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Strong interest for the Financial Industry.\nMust be eligible to work in France with a valid convention de stage.\nGood verbal and written communication capabilities in French and English is mandatory.\nClient oriented.\nGood spirit of analysis, synthesis, and rigor.\nReactivity and dynamism.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, corporate banking",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "6fab9843fec9",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Internship - Product Management DWS France",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Internship---Product-Management-DWS-France_R0412663",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "R0412663",
+      "start_date": "2025-11-20",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Ability to work independently as well as in a team\nGood relationship and communication skills\nCritical thinking and attention to detail\nGood MS-Office Skills, knowledge in process automation is an asset (Power Automate, Power Query, Office Scripts and other automation tools).\nFluency in French and English; German is an asset\nYou are enrolled in your penultimate or last year of study, or on a gap year in between your Bachelor’s and Master’s degree.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Languages: French, English",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "ed6a4e50c9cd",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
+      "location": "Paris, Origami",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR-0000070810",
+      "start_date": "2025-12-02",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
     {
       "id": "cb164f9fc2c5",
       "bank": "Blackstone",
@@ -268,6 +443,90 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance, equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "bc09885b9a57",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Credit Sales Desk Intern",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "R0430056",
+      "start_date": "2026-04-21",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "b0b3df6aba25",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Intern Rates Sales",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern-Rates-Sales_R0432677",
+      "posted_date": "Posted Today",
+      "description": "R0432677",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nStrong commitment and autonomy.\nStrong interest and knowledge in financial products and industry.\nGood spirit of analysis, synthesis and rigour.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "6a5a8b461e1c",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Structured Products Sales Intern",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Products-Sales-Intern_R0431014",
+      "posted_date": "Posted Today",
+      "description": "R0431014",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
@@ -325,6 +584,52 @@
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "cc6a40636508",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Sales, Trading and Structuring Graduate Programme 2026 Paris",
+      "location": "Paris, Origami",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Graduate-Programme-2026-Paris_JR-0000070817",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR-0000070817",
+      "start_date": "2025-10-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: trading, sales",
+        "CIB / Markets"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-04-23"
+    },
+    {
+      "id": "ce21cba33866",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Solutions Graduate Analyst",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4846429101",
+      "posted_date": "2026-04-21",
+      "description": "",
+      "source": "greenhouse",
+      "first_seen": "2026-04-23",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "low",
       "excluded": false,
       "last_seen": "2026-04-23"
     }
@@ -435,14 +740,14 @@
       "careers_url": "https://careers.db.com/",
       "search_urls": {
         "internships": "https://careers.db.com/students-graduates/",
-        "search": "https://db.recsolu.com/external/requisitions"
+        "search": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite"
       },
       "cities": {
         "Madrid": true,
         "Paris": true,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "Barclays",
@@ -458,7 +763,7 @@
         "Paris": true,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "HSBC",
@@ -720,7 +1025,7 @@
         "Paris": true,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "Fidelity International",
@@ -788,13 +1093,15 @@
       "category": "Asset Manager",
       "subcategory": "Global",
       "careers_url": "https://careers.invesco.com/",
-      "search_urls": {},
+      "search_urls": {
+        "workday": "https://invesco.wd1.myworkdayjobs.com/IVZ"
+      },
       "cities": {
         "Madrid": true,
         "Paris": true,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "PIMCO",
@@ -946,13 +1253,15 @@
       "category": "Hedge Fund",
       "subcategory": "Multi-Strategy",
       "careers_url": "https://www.man.com/careers",
-      "search_urls": {},
+      "search_urls": {
+        "greenhouse": "https://job-boards.eu.greenhouse.io/mangroup"
+      },
       "cities": {
         "Madrid": false,
         "Paris": false,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "Marshall Wace",
@@ -960,13 +1269,15 @@
       "category": "Hedge Fund",
       "subcategory": "Long/Short Equity",
       "careers_url": "https://www.marshallwace.com/careers",
-      "search_urls": {},
+      "search_urls": {
+        "greenhouse": "https://job-boards.greenhouse.io/marshallwace"
+      },
       "cities": {
         "Madrid": false,
         "Paris": false,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "Brevan Howard",
@@ -1200,13 +1511,15 @@
       "category": "Private Equity",
       "subcategory": "Mega Cap",
       "careers_url": "https://www.tpg.com/careers/",
-      "search_urls": {},
+      "search_urls": {
+        "greenhouse": "https://job-boards.greenhouse.io/tpgcareers"
+      },
       "cities": {
         "Madrid": false,
         "Paris": true,
         "London": true
       },
-      "has_scraper": false
+      "has_scraper": true
     },
     {
       "name": "Cinven",
@@ -1272,10 +1585,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 3,
-    "new_today": 0,
-    "high_match": 3,
-    "firms_scraped": 4,
+    "total_jobs": 14,
+    "new_today": 11,
+    "high_match": 12,
+    "firms_scraped": 11,
+    "firms_failed": 0,
+    "firms_empty": 5,
     "firms_total": 60
   }
 }

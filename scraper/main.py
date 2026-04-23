@@ -154,7 +154,7 @@ def main():
 
         logger.info(f"Scraping {firm['name']} ({scraper_type})...")
         try:
-            jobs = scrape_firm(firm, SEARCH_TERMS[:8], TARGET_CITIES)
+            jobs = scrape_firm(firm, SEARCH_TERMS, TARGET_CITIES)
             all_new_jobs.extend(jobs)
             scrape_status[firm["name"]] = {
                 "status": "success",
