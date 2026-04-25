@@ -9,7 +9,7 @@ import sys
 from datetime import datetime, timezone
 
 from config import FIRMS, SEARCH_TERMS, TARGET_CITIES, LINKEDIN_SEARCHES, INDEED_SEARCHES
-from scrapers import scrape_firm
+from scrapers import scrape_firm, make_job_id
 from matcher import score_job, classify_match
 
 logging.basicConfig(
@@ -22,12 +22,43 @@ DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "docs", "data", "jobs.
 
 
 def load_existing_data() -> dict:
-    """Load existing job data from JSON file."""
+    """Load existing job data from JSON file.
+
+    Re-keys every stored job through the current ``make_job_id`` formula so
+    historical entries created with URL-based hashes (which broke on
+    Oleeo / Workday session tokens) collapse onto the same canonical ID.
+    Duplicates are merged, preserving the oldest first_seen and the most
+    recent last_seen + URL.
+    """
     try:
         with open(DATA_PATH, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return {"last_updated": None, "jobs": [], "scrape_status": {}, "stats": {}}
+
+    seen: dict[str, dict] = {}
+    for j in data.get("jobs", []):
+        new_id = make_job_id(j.get("bank", ""), j.get("title", ""), j.get("location", ""))
+        j["id"] = new_id
+        if new_id not in seen:
+            seen[new_id] = j
+            continue
+        existing = seen[new_id]
+        # Keep oldest first_seen
+        if (j.get("first_seen") or "") and (
+            not existing.get("first_seen")
+            or j["first_seen"] < existing["first_seen"]
+        ):
+            existing["first_seen"] = j["first_seen"]
+        # Keep newest last_seen and refresh URL/posted_date with the freshest
+        if (j.get("last_seen") or "") > (existing.get("last_seen") or ""):
+            existing["last_seen"] = j["last_seen"]
+            if j.get("url"):
+                existing["url"] = j["url"]
+            if j.get("posted_date"):
+                existing["posted_date"] = j["posted_date"]
+    data["jobs"] = list(seen.values())
+    return data
 
 
 def save_data(data: dict):

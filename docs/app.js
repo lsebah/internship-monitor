@@ -329,7 +329,7 @@ function filterJobs(jobs) {
         if (!isInternshipJob(job)) return false;
         if (!isInTargetCity(job)) return false;
 
-        const status = getJobStatus(job.id);
+        const status = getJobStatus(job);
         if (viewMode === 'trash') {
             if (status !== 'trashed') return false;
         } else {
@@ -386,7 +386,7 @@ function renderJobs() {
             ? `<ul class="job-requirements">${reqList.map(r => `<li>${escHtml(r)}</li>`).join('')}</ul>`
             : '';
 
-        const status = getJobStatus(job.id);
+        const status = getJobStatus(job);
         const applied = status === 'applied';
         const trashed = status === 'trashed';
         const cardStateClass = applied ? 'is-applied' : (trashed ? 'is-trashed' : '');
@@ -437,9 +437,18 @@ function renderJobs() {
 // clicks "J'ai postule" on a job card, we push an entry into the
 // Applications list with job_id so we can round-trip the state.
 // ============================================================
-function isJobApplied(jobId) {
-    if (!jobId) return false;
-    return getApplications().some(a => a.job_id === jobId);
+function isJobApplied(jobId, job) {
+    const apps = getApplications();
+    if (jobId && apps.some(a => a.job_id === jobId)) return true;
+    // Legacy fallback: scraper-side ID formula changed (URL → firm+title+location).
+    // Match historical applications by firm+title so the badge survives.
+    if (job) {
+        const norm = (s) => (s || '').replace(/\s+/g, ' ').trim().toLowerCase();
+        const f = norm(job.bank);
+        const t = norm(job.title);
+        if (f && t && apps.some(a => norm(a.firm) === f && norm(a.title) === t)) return true;
+    }
+    return false;
 }
 
 // Per-job interest state ('trashed'). 'applied' lives in the Applications
@@ -470,9 +479,11 @@ function setJobInterest(jobId, value) {
     cloudSave();
 }
 
-function getJobStatus(jobId) {
-    if (isJobApplied(jobId)) return 'applied';
-    if (getInterests()[jobId] === 'trashed') return 'trashed';
+function getJobStatus(jobOrId, jobObj) {
+    const jobId = (typeof jobOrId === 'string') ? jobOrId : (jobOrId && jobOrId.id);
+    const job = jobObj || (typeof jobOrId === 'object' ? jobOrId : null);
+    if (isJobApplied(jobId, job)) return 'applied';
+    if (jobId && getInterests()[jobId] === 'trashed') return 'trashed';
     return 'not_yet';
 }
 

@@ -22,9 +22,17 @@ SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
 
 
-def make_job_id(firm_name: str, title: str, url: str) -> str:
-    """Generate a stable unique ID for a job listing."""
-    raw = f"{firm_name}|{title}|{url}".lower().strip()
+def make_job_id(firm_name: str, title: str, location: str = "") -> str:
+    """Generate a stable unique ID for a job listing.
+
+    Hashes only fields that don't carry session tokens. Earlier versions
+    included the URL, which broke for ATS deployments (Oleeo / Workday)
+    that embed per-session ``xf-XXXXXX`` tokens — every scrape re-rolled
+    the URL and produced a "new" job each time.
+    """
+    norm_title = re.sub(r"\s+", " ", (title or "")).strip().lower()
+    norm_loc = re.sub(r"\s+", " ", (location or "")).strip().lower()
+    raw = f"{firm_name}|{norm_title}|{norm_loc}".lower()
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
 
@@ -194,7 +202,7 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                     time.sleep(0.1)
 
                     job = {
-                        "id": make_job_id(firm["name"], title_text, job_url),
+                        "id": make_job_id(firm["name"], title_text, location_text),
                         "bank": firm["name"],
                         "category": firm.get("category", ""),
                         "title": title_text,
@@ -271,7 +279,7 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
 
             job_url = j.get("absolute_url", "")
             job = {
-                "id": make_job_id(firm["name"], title, job_url),
+                "id": make_job_id(firm["name"], title, location_name),
                 "bank": firm["name"],
                 "category": firm.get("category", ""),
                 "title": title,
@@ -327,7 +335,7 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
 
             job_url = p.get("hostedUrl", "")
             job = {
-                "id": make_job_id(firm["name"], title, job_url),
+                "id": make_job_id(firm["name"], title, location_name),
                 "bank": firm["name"],
                 "category": firm.get("category", ""),
                 "title": title,
@@ -421,7 +429,7 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
                                else f"https://{domain}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{rid}")
 
                     job = {
-                        "id": make_job_id(firm["name"], title, job_url),
+                        "id": make_job_id(firm["name"], title, all_locs_text),
                         "bank": firm["name"],
                         "category": firm.get("category", ""),
                         "title": title,
@@ -509,7 +517,7 @@ def _oleeo_from_feed(firm: dict, feed_url: str, target_cities: list) -> list:
             continue
 
         jobs.append({
-            "id": make_job_id(firm["name"], title, url),
+            "id": make_job_id(firm["name"], title, location_text),
             "bank": firm["name"],
             "category": firm.get("category", ""),
             "title": title,
@@ -562,7 +570,7 @@ def _oleeo_from_list(firm: dict, list_url: str, base: str, target_cities: list) 
 
         full_url = href if href.startswith("http") else base.rstrip("/") + href
         jobs.append({
-            "id": make_job_id(firm["name"], title, full_url),
+            "id": make_job_id(firm["name"], title, location),
             "bank": firm["name"],
             "category": firm.get("category", ""),
             "title": title,
