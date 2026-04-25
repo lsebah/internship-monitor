@@ -421,9 +421,9 @@ function renderJobs() {
                 </div>
                 ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Voir</a>` : ''}
                 <div class="job-status-group" role="group">
-                    <button type="button" class="status-btn ${status === 'applied' ? 'active applied' : ''}" onclick="markJobApplied('${jid}')" title="J'ai postulé">Applied</button>
-                    <button type="button" class="status-btn ${status === 'not_yet' ? 'active not-yet' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Not Yet</button>
-                    <button type="button" class="status-btn ${status === 'trashed' ? 'active trashed' : ''}" onclick="setJobTrashed('${jid}')" title="Mettre à la corbeille">Corbeille</button>
+                    <button type="button" class="status-btn type-applied ${status === 'applied' ? 'active' : ''}" onclick="markJobApplied('${jid}')" title="J'ai postulé">Applied</button>
+                    <button type="button" class="status-btn type-not-yet ${status === 'not_yet' ? 'active' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Not Yet</button>
+                    <button type="button" class="status-btn type-trashed ${status === 'trashed' ? 'active' : ''}" onclick="setJobTrashed('${jid}')" title="Mettre à la corbeille">Corbeille</button>
                 </div>
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
