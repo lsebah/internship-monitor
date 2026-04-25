@@ -6,6 +6,7 @@
 const NTFY_TOPIC = 'charles-stages-2026';
 const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
+const INTERESTS_KEY = 'job-interests';
 const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
 const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
 const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uWzjI'].join('_');
@@ -132,6 +133,8 @@ function updateAccountStat() {
     // an account created. The label in index.html is "Applications".
     const el = document.getElementById('statAppsCount');
     if (el) el.textContent = getApplications().length;
+    const trash = document.getElementById('statTrashCount');
+    if (trash) trash.textContent = getTrashedCount();
 }
 
 // ============================================================
@@ -166,19 +169,23 @@ async function cloudLoad() {
         const cloudData = JSON.parse(content);
         const localApps = getApplications();
         const localAccounts = getAccounts();
+        const localInterests = getInterests();
         const cloudApps = cloudData.applications || [];
         const cloudAccounts = cloudData.accounts || {};
+        const cloudInterests = cloudData.interests || {};
 
         // Merge: combine both sources
         const mergedApps = mergeApplications(localApps, cloudApps);
         const mergedAccounts = { ...cloudAccounts, ...localAccounts };
+        const mergedInterests = { ...cloudInterests, ...localInterests };
 
         localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
         localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
+        localStorage.setItem(INTERESTS_KEY, JSON.stringify(mergedInterests));
 
         // Always push merged data back to cloud to ensure consistency
-        const mergedStr = JSON.stringify({ applications: mergedApps, accounts: mergedAccounts });
-        const cloudStr = JSON.stringify({ applications: cloudApps, accounts: cloudAccounts });
+        const mergedStr = JSON.stringify({ applications: mergedApps, accounts: mergedAccounts, interests: mergedInterests });
+        const cloudStr = JSON.stringify({ applications: cloudApps, accounts: cloudAccounts, interests: cloudInterests });
         if (mergedStr !== cloudStr) {
             await cloudSave();
         }
@@ -198,6 +205,7 @@ async function cloudSave() {
         const payload = JSON.stringify({
             applications: getApplications(),
             accounts: getAccounts(),
+            interests: getInterests(),
             last_sync: new Date().toISOString(),
         });
         const resp = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
@@ -288,6 +296,8 @@ async function loadData() {
 // ============================================================
 // FILTERING
 // ============================================================
+let viewMode = 'normal'; // 'normal' | 'trash'
+
 function getFilters() {
     return {
         search: document.getElementById('searchInput').value.toLowerCase().trim(),
@@ -295,6 +305,8 @@ function getFilters() {
         category: document.getElementById('filterCategory').value,
         minScore: parseInt(document.getElementById('filterMatch').value) || 0,
         newOnly: document.getElementById('filterNew').checked,
+        hideApplied: document.getElementById('hideApplied')?.checked ?? false,
+        hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
 }
 
@@ -316,6 +328,15 @@ function filterJobs(jobs) {
         // Hard rule: only internships / stages in Madrid / Paris / London.
         if (!isInternshipJob(job)) return false;
         if (!isInTargetCity(job)) return false;
+
+        const status = getJobStatus(job.id);
+        if (viewMode === 'trash') {
+            if (status !== 'trashed') return false;
+        } else {
+            if (f.hideApplied && status === 'applied') return false;
+            if (f.hideTrashed && status === 'trashed') return false;
+        }
+
         if (f.search) {
             const haystack = `${job.title} ${job.bank} ${job.location} ${job.category}`.toLowerCase();
             if (!haystack.includes(f.search)) return false;
@@ -365,11 +386,14 @@ function renderJobs() {
             ? `<ul class="job-requirements">${reqList.map(r => `<li>${escHtml(r)}</li>`).join('')}</ul>`
             : '';
 
-        const applied = isJobApplied(job.id);
-        const appliedClass = applied ? 'is-applied' : '';
+        const status = getJobStatus(job.id);
+        const applied = status === 'applied';
+        const trashed = status === 'trashed';
+        const cardStateClass = applied ? 'is-applied' : (trashed ? 'is-trashed' : '');
+        const jid = escAttr(job.id);
 
         return `
-        <div class="job-card ${newClass} ${appliedClass}" data-job-id="${escAttr(job.id)}">
+        <div class="job-card ${newClass} ${cardStateClass}" data-job-id="${jid}">
             <div class="job-info">
                 <div class="job-header">
                     <span class="job-title">${escHtml(job.title)}</span>
@@ -395,10 +419,12 @@ function renderJobs() {
                 <div class="match-bar">
                     <div class="match-bar-fill ${matchClass}" style="width:${job.match_score || 0}%"></div>
                 </div>
-                ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Apply</a>` : ''}
-                ${applied
-                    ? `<button class="link-btn" onclick="unmarkJobApplied('${escAttr(job.id)}')" title="Annuler le suivi">Applied &check;</button>`
-                    : `<button class="link-btn primary track-applied-btn" onclick="markJobApplied('${escAttr(job.id)}')" title="Ajouter au suivi Applications">Apply ?</button>`}
+                ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Voir</a>` : ''}
+                <div class="job-status-group" role="group">
+                    <button type="button" class="status-btn ${status === 'applied' ? 'active applied' : ''}" onclick="markJobApplied('${jid}')" title="J'ai postulé">Applied</button>
+                    <button type="button" class="status-btn ${status === 'not_yet' ? 'active not-yet' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Not Yet</button>
+                    <button type="button" class="status-btn ${status === 'trashed' ? 'active trashed' : ''}" onclick="setJobTrashed('${jid}')" title="Mettre à la corbeille">Corbeille</button>
+                </div>
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
         </div>`;
@@ -416,11 +442,54 @@ function isJobApplied(jobId) {
     return getApplications().some(a => a.job_id === jobId);
 }
 
+// Per-job interest state ('trashed'). 'applied' lives in the Applications
+// list; default ('Not Yet') is the absence of any entry here. Legacy values
+// of 'not_interested' are migrated transparently on read.
+function getInterests() {
+    try {
+        const raw = JSON.parse(localStorage.getItem(INTERESTS_KEY)) || {};
+        let dirty = false;
+        for (const [k, v] of Object.entries(raw)) {
+            if (v === 'not_interested') {
+                raw[k] = 'trashed';
+                dirty = true;
+            }
+        }
+        if (dirty) localStorage.setItem(INTERESTS_KEY, JSON.stringify(raw));
+        return raw;
+    }
+    catch { return {}; }
+}
+
+function setJobInterest(jobId, value) {
+    const m = getInterests();
+    if (!value) delete m[jobId];
+    else m[jobId] = value;
+    localStorage.setItem(INTERESTS_KEY, JSON.stringify(m));
+    updateAccountStat();
+    cloudSave();
+}
+
+function getJobStatus(jobId) {
+    if (isJobApplied(jobId)) return 'applied';
+    if (getInterests()[jobId] === 'trashed') return 'trashed';
+    return 'not_yet';
+}
+
+function getTrashedCount() {
+    return Object.values(getInterests()).filter(v => v === 'trashed').length;
+}
+
 function markJobApplied(jobId) {
     const job = allJobs.find(j => j.id === jobId);
     if (!job) return;
+    // Switching to "Applied" overrides any prior "Pas d'Interet" flag.
+    if (getInterests()[jobId]) setJobInterest(jobId, null);
     const apps = getApplications();
-    if (apps.some(a => a.job_id === jobId)) return;
+    if (apps.some(a => a.job_id === jobId)) {
+        renderJobs();
+        return;
+    }
     const today = new Date().toISOString().slice(0, 10);
     apps.unshift({
         id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
@@ -438,6 +507,26 @@ function markJobApplied(jobId) {
     renderJobs();
 }
 window.markJobApplied = markJobApplied;
+
+function setJobTrashed(jobId) {
+    const apps = getApplications();
+    const filtered = apps.filter(a => a.job_id !== jobId);
+    if (filtered.length !== apps.length) saveApplications(filtered);
+    setJobInterest(jobId, 'trashed');
+    renderApplications();
+    renderJobs();
+}
+window.setJobTrashed = setJobTrashed;
+
+function setJobNotYet(jobId) {
+    const apps = getApplications();
+    const filtered = apps.filter(a => a.job_id !== jobId);
+    if (filtered.length !== apps.length) saveApplications(filtered);
+    if (getInterests()[jobId]) setJobInterest(jobId, null);
+    renderApplications();
+    renderJobs();
+}
+window.setJobNotYet = setJobNotYet;
 
 function unmarkJobApplied(jobId) {
     if (!confirm('Retirer cette candidature du suivi Applications ?')) return;
@@ -676,7 +765,10 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    document.getElementById('filterNew').addEventListener('change', renderJobs);
+    ['filterNew', 'hideApplied', 'hideTrashed'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.addEventListener('change', renderJobs);
+    });
 
     // Tabs
     document.querySelectorAll('.tab').forEach(tab => {
@@ -695,11 +787,18 @@ function switchTab(tabName) {
 
 // Stat-bubble one-click filters
 function statFilter(kind) {
+    document.querySelectorAll('.stats-bar .stat-card').forEach(b => {
+        b.classList.toggle('highlight', b.dataset.stat === kind);
+    });
+
     const search = document.getElementById('searchInput');
     const city = document.getElementById('filterCity');
     const cat = document.getElementById('filterCategory');
     const match = document.getElementById('filterMatch');
     const isNew = document.getElementById('filterNew');
+
+    // Reset trash view by default; only the 'trash' branch re-enables it.
+    viewMode = 'normal';
 
     if (kind === 'all') {
         if (search) search.value = '';
@@ -722,6 +821,11 @@ function statFilter(kind) {
         switchTab('links');
     } else if (kind === 'apps') {
         switchTab('apps');
+    } else if (kind === 'trash') {
+        viewMode = 'trash';
+        if (isNew) isNew.checked = false;
+        switchTab('jobs');
+        renderJobs();
     }
 }
 window.statFilter = statFilter;
