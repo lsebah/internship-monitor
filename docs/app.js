@@ -466,6 +466,7 @@ function setJobInterest(jobId, value) {
     if (!value) delete m[jobId];
     else m[jobId] = value;
     localStorage.setItem(INTERESTS_KEY, JSON.stringify(m));
+    updateAccountStat();
     cloudSave();
 }
 
