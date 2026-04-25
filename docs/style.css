@@ -956,7 +956,7 @@ body {
     color: #000;
     border-color: var(--accent-green);
 }
-.status-btn.active.not-interested {
+.status-btn.active.trashed {
     background: var(--accent-red);
     color: #fff;
     border-color: var(--accent-red);
@@ -967,10 +967,10 @@ body {
     border-color: var(--accent-orange);
 }
 
-.job-card.is-not-interested {
+.job-card.is-trashed {
     opacity: 0.55;
 }
-.job-card.is-not-interested .job-title {
+.job-card.is-trashed .job-title {
     text-decoration: line-through;
     text-decoration-color: var(--accent-red);
 }

@@ -57,6 +57,10 @@
             <div class="stat-number" id="statAppsCount">0</div>
             <div class="stat-label">Applications</div>
         </button>
+        <button class="stat-card stat-clickable" data-stat="trash" onclick="statFilter('trash')" title="Voir les offres mises a la corbeille">
+            <div class="stat-number" id="statTrashCount">0</div>
+            <div class="stat-label">Corbeille</div>
+        </button>
     </section>
 
     <!-- Filters -->
@@ -86,6 +90,12 @@
             </select>
             <label class="toggle-label">
                 <input type="checkbox" id="filterNew"> New only
+            </label>
+            <label class="toggle-label">
+                <input type="checkbox" id="hideApplied" checked> Masquer Applied
+            </label>
+            <label class="toggle-label">
+                <input type="checkbox" id="hideTrashed" checked> Masquer Corbeille
             </label>
         </div>
     </section>
@@ -215,7 +225,7 @@
         </div>
     </div>
 
-    <script src="app.js?v=19"></script>
+    <script src="app.js?v=20"></script>
     <script>
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {

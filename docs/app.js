@@ -133,6 +133,8 @@ function updateAccountStat() {
     // an account created. The label in index.html is "Applications".
     const el = document.getElementById('statAppsCount');
     if (el) el.textContent = getApplications().length;
+    const trash = document.getElementById('statTrashCount');
+    if (trash) trash.textContent = getTrashedCount();
 }
 
 // ============================================================
@@ -294,6 +296,8 @@ async function loadData() {
 // ============================================================
 // FILTERING
 // ============================================================
+let viewMode = 'normal'; // 'normal' | 'trash'
+
 function getFilters() {
     return {
         search: document.getElementById('searchInput').value.toLowerCase().trim(),
@@ -301,6 +305,8 @@ function getFilters() {
         category: document.getElementById('filterCategory').value,
         minScore: parseInt(document.getElementById('filterMatch').value) || 0,
         newOnly: document.getElementById('filterNew').checked,
+        hideApplied: document.getElementById('hideApplied')?.checked ?? false,
+        hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
 }
 
@@ -322,6 +328,15 @@ function filterJobs(jobs) {
         // Hard rule: only internships / stages in Madrid / Paris / London.
         if (!isInternshipJob(job)) return false;
         if (!isInTargetCity(job)) return false;
+
+        const status = getJobStatus(job.id);
+        if (viewMode === 'trash') {
+            if (status !== 'trashed') return false;
+        } else {
+            if (f.hideApplied && status === 'applied') return false;
+            if (f.hideTrashed && status === 'trashed') return false;
+        }
+
         if (f.search) {
             const haystack = `${job.title} ${job.bank} ${job.location} ${job.category}`.toLowerCase();
             if (!haystack.includes(f.search)) return false;
@@ -373,8 +388,8 @@ function renderJobs() {
 
         const status = getJobStatus(job.id);
         const applied = status === 'applied';
-        const notInterested = status === 'not_interested';
-        const cardStateClass = applied ? 'is-applied' : (notInterested ? 'is-not-interested' : '');
+        const trashed = status === 'trashed';
+        const cardStateClass = applied ? 'is-applied' : (trashed ? 'is-trashed' : '');
         const jid = escAttr(job.id);
 
         return `
@@ -407,8 +422,8 @@ function renderJobs() {
                 ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Voir</a>` : ''}
                 <div class="job-status-group" role="group">
                     <button type="button" class="status-btn ${status === 'applied' ? 'active applied' : ''}" onclick="markJobApplied('${jid}')" title="J'ai postulé">Applied</button>
-                    <button type="button" class="status-btn ${status === 'not_interested' ? 'active not-interested' : ''}" onclick="setJobNotInterested('${jid}')" title="Pas intéressé">Pas d'Intérêt</button>
-                    <button type="button" class="status-btn ${status === 'not_yet' ? 'active not-yet' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Pas encore</button>
+                    <button type="button" class="status-btn ${status === 'not_yet' ? 'active not-yet' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Not Yet</button>
+                    <button type="button" class="status-btn ${status === 'trashed' ? 'active trashed' : ''}" onclick="setJobTrashed('${jid}')" title="Mettre à la corbeille">Corbeille</button>
                 </div>
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
@@ -427,10 +442,22 @@ function isJobApplied(jobId) {
     return getApplications().some(a => a.job_id === jobId);
 }
 
-// Per-job interest state (e.g. 'not_interested'). 'applied' lives in the
-// Applications list; default ('Pas encore') is the absence of any entry here.
+// Per-job interest state ('trashed'). 'applied' lives in the Applications
+// list; default ('Not Yet') is the absence of any entry here. Legacy values
+// of 'not_interested' are migrated transparently on read.
 function getInterests() {
-    try { return JSON.parse(localStorage.getItem(INTERESTS_KEY)) || {}; }
+    try {
+        const raw = JSON.parse(localStorage.getItem(INTERESTS_KEY)) || {};
+        let dirty = false;
+        for (const [k, v] of Object.entries(raw)) {
+            if (v === 'not_interested') {
+                raw[k] = 'trashed';
+                dirty = true;
+            }
+        }
+        if (dirty) localStorage.setItem(INTERESTS_KEY, JSON.stringify(raw));
+        return raw;
+    }
     catch { return {}; }
 }
 
@@ -444,8 +471,12 @@ function setJobInterest(jobId, value) {
 
 function getJobStatus(jobId) {
     if (isJobApplied(jobId)) return 'applied';
-    if (getInterests()[jobId] === 'not_interested') return 'not_interested';
+    if (getInterests()[jobId] === 'trashed') return 'trashed';
     return 'not_yet';
+}
+
+function getTrashedCount() {
+    return Object.values(getInterests()).filter(v => v === 'trashed').length;
 }
 
 function markJobApplied(jobId) {
@@ -476,15 +507,15 @@ function markJobApplied(jobId) {
 }
 window.markJobApplied = markJobApplied;
 
-function setJobNotInterested(jobId) {
+function setJobTrashed(jobId) {
     const apps = getApplications();
     const filtered = apps.filter(a => a.job_id !== jobId);
     if (filtered.length !== apps.length) saveApplications(filtered);
-    setJobInterest(jobId, 'not_interested');
+    setJobInterest(jobId, 'trashed');
     renderApplications();
     renderJobs();
 }
-window.setJobNotInterested = setJobNotInterested;
+window.setJobTrashed = setJobTrashed;
 
 function setJobNotYet(jobId) {
     const apps = getApplications();
@@ -733,7 +764,10 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    document.getElementById('filterNew').addEventListener('change', renderJobs);
+    ['filterNew', 'hideApplied', 'hideTrashed'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.addEventListener('change', renderJobs);
+    });
 
     // Tabs
     document.querySelectorAll('.tab').forEach(tab => {
@@ -762,6 +796,9 @@ function statFilter(kind) {
     const match = document.getElementById('filterMatch');
     const isNew = document.getElementById('filterNew');
 
+    // Reset trash view by default; only the 'trash' branch re-enables it.
+    viewMode = 'normal';
+
     if (kind === 'all') {
         if (search) search.value = '';
         if (city) city.value = '';
@@ -783,6 +820,11 @@ function statFilter(kind) {
         switchTab('links');
     } else if (kind === 'apps') {
         switchTab('apps');
+    } else if (kind === 'trash') {
+        viewMode = 'trash';
+        if (isNew) isNew.checked = false;
+        switchTab('jobs');
+        renderJobs();
     }
 }
 window.statFilter = statFilter;
