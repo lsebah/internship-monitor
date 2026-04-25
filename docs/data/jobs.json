@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-24T16:53:51.122839+00:00",
+  "last_updated": "2026-04-25T08:08:58.991462+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -13,17 +13,17 @@
     "Morgan Stanley": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Wells Fargo": {
       "status": "link_only",
@@ -32,12 +32,12 @@
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -70,7 +70,7 @@
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -79,7 +79,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -108,7 +108,7 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Fidelity International": {
       "status": "link_only",
@@ -129,7 +129,7 @@
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -174,12 +174,12 @@
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -196,7 +196,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -249,7 +249,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-24T16:53:51.122839+00:00"
+      "timestamp": "2026-04-25T08:08:58.991462+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -283,7 +283,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "cac819fd4bca",
@@ -311,7 +311,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "eb0e9c327961",
@@ -320,7 +320,7 @@
       "title": "FX Risk Management Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0430018",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "description": "R0430018",
       "start_date": "2026-04-07",
       "time_type": "Full time",
@@ -339,7 +339,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "2c349f3d2beb",
@@ -367,7 +367,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "6fab9843fec9",
@@ -395,7 +395,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "ed6a4e50c9cd",
@@ -423,7 +423,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "cb164f9fc2c5",
@@ -450,35 +450,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-24"
-    },
-    {
-      "id": "bc09885b9a57",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Credit Sales Desk Intern",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
-      "posted_date": "Posted 3 Days Ago",
-      "description": "R0430056",
-      "start_date": "2026-04-21",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales",
-        "Languages: French, English",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "b0b3df6aba25",
@@ -487,7 +459,7 @@
       "title": "Intern Rates Sales",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern-Rates-Sales_R0432677",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "description": "R0432677",
       "start_date": "2026-04-23",
       "time_type": "Full time",
@@ -506,7 +478,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "6a5a8b461e1c",
@@ -515,7 +487,7 @@
       "title": "Structured Products Sales Intern",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Products-Sales-Intern_R0431014",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "description": "R0431014",
       "start_date": "2026-04-23",
       "time_type": "Full time",
@@ -534,7 +506,116 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "bc09885b9a57",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Credit Sales Desk Intern",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
+      "posted_date": "Posted 4 Days Ago",
+      "description": "R0430056",
+      "start_date": "2026-04-21",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "febbee8cfdf1",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-25",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "53a1acfaca73",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Sales &amp; Trading Off Cycle Internship Business Control Unit (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/19793-2026-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-25",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "0331d2a8a8d4",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Investment Banking Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/19741-2026-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-25",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
     },
     {
       "id": "69e8e24071ea",
@@ -551,7 +632,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
@@ -578,7 +659,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
@@ -605,7 +686,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -966,15 +1047,15 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
-      "id": "1b8575600565",
+      "id": "384fc98b74f0",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7e9ced2aafaf/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -982,7 +1063,7 @@
       "duration": "",
       "requirements": "",
       "source": "oleeo",
-      "first_seen": "2026-04-24",
+      "first_seen": "2026-04-25",
       "is_new": true,
       "match_score": 65,
       "match_reasons": [
@@ -993,7 +1074,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "df1453acf817",
@@ -1016,6 +1097,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "1b8575600565",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7e9ced2aafaf/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-24",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
@@ -1131,6 +1239,58 @@
       "last_seen": "2026-04-23"
     },
     {
+      "id": "62597b3e4f53",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Investment Management Off-cycle Internship - Real Estate Investing (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-25",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
+      "id": "37b38c6afb9c",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Investment Management Off-cycle Internship Program – Parametric EMEA (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8825fa7fe4e0/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-25",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-04-25"
+    },
+    {
       "id": "dc58aceae825",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -1145,7 +1305,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -1171,7 +1331,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -1414,7 +1574,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "3e6db746f276",
@@ -1423,7 +1583,7 @@
       "title": "Banking Graduate Programme 2026 Paris",
       "location": "Paris, Origami",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Banking-Graduate-Programme-2026-Paris_JR-0000066814",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "JR-0000066814",
       "start_date": "2026-04-24",
       "time_type": "Full time",
@@ -1439,7 +1599,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     },
     {
       "id": "ce21cba33866",
@@ -1459,7 +1619,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-25"
     }
   ],
   "direct_links": [
@@ -2413,9 +2573,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 45,
+    "total_jobs": 51,
     "new_today": 6,
-    "high_match": 42,
+    "high_match": 48,
     "firms_scraped": 14,
     "firms_failed": 0,
     "firms_empty": 7,
