@@ -37,23 +37,23 @@
 
     <!-- Stats Bar -->
     <section class="stats-bar">
-        <button class="stat-card stat-clickable" onclick="statFilter('all')" title="Afficher toutes les offres">
+        <button class="stat-card stat-clickable" data-stat="all" onclick="statFilter('all')" title="Afficher toutes les offres">
             <div class="stat-number" id="statTotal">-</div>
             <div class="stat-label">Total Offers</div>
         </button>
-        <button class="stat-card stat-clickable highlight" onclick="statFilter('new')" title="Filtrer sur les offres du jour">
+        <button class="stat-card stat-clickable" data-stat="new" onclick="statFilter('new')" title="Filtrer sur les offres du jour">
             <div class="stat-number" id="statNew">-</div>
             <div class="stat-label">New Today</div>
         </button>
-        <button class="stat-card stat-clickable" onclick="statFilter('match')" title="Filtrer sur match >= 70">
+        <button class="stat-card stat-clickable" data-stat="match" onclick="statFilter('match')" title="Filtrer sur match >= 70">
             <div class="stat-number" id="statMatch">-</div>
             <div class="stat-label">High Match</div>
         </button>
-        <button class="stat-card stat-clickable" onclick="statFilter('firms')" title="Voir les pages carrieres">
+        <button class="stat-card stat-clickable" data-stat="firms" onclick="statFilter('firms')" title="Voir les pages carrieres">
             <div class="stat-number" id="statFirms">-</div>
             <div class="stat-label">Firms Tracked</div>
         </button>
-        <button class="stat-card stat-clickable" onclick="statFilter('apps')" title="Voir mes candidatures">
+        <button class="stat-card stat-clickable" data-stat="apps" onclick="statFilter('apps')" title="Voir mes candidatures">
             <div class="stat-number" id="statAppsCount">0</div>
             <div class="stat-label">Applications</div>
         </button>
@@ -215,7 +215,7 @@
         </div>
     </div>
 
-    <script src="app.js?v=18"></script>
+    <script src="app.js?v=19"></script>
     <script>
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {

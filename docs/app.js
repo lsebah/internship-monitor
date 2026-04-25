@@ -6,6 +6,7 @@
 const NTFY_TOPIC = 'charles-stages-2026';
 const NTFY_URL = `https://ntfy.sh/${NTFY_TOPIC}`;
 const ACCOUNTS_KEY = 'firm-accounts';
+const INTERESTS_KEY = 'job-interests';
 const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
 const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
 const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uWzjI'].join('_');
@@ -166,19 +167,23 @@ async function cloudLoad() {
         const cloudData = JSON.parse(content);
         const localApps = getApplications();
         const localAccounts = getAccounts();
+        const localInterests = getInterests();
         const cloudApps = cloudData.applications || [];
         const cloudAccounts = cloudData.accounts || {};
+        const cloudInterests = cloudData.interests || {};
 
         // Merge: combine both sources
         const mergedApps = mergeApplications(localApps, cloudApps);
         const mergedAccounts = { ...cloudAccounts, ...localAccounts };
+        const mergedInterests = { ...cloudInterests, ...localInterests };
 
         localStorage.setItem(APPS_KEY, JSON.stringify(mergedApps));
         localStorage.setItem(ACCOUNTS_KEY, JSON.stringify(mergedAccounts));
+        localStorage.setItem(INTERESTS_KEY, JSON.stringify(mergedInterests));
 
         // Always push merged data back to cloud to ensure consistency
-        const mergedStr = JSON.stringify({ applications: mergedApps, accounts: mergedAccounts });
-        const cloudStr = JSON.stringify({ applications: cloudApps, accounts: cloudAccounts });
+        const mergedStr = JSON.stringify({ applications: mergedApps, accounts: mergedAccounts, interests: mergedInterests });
+        const cloudStr = JSON.stringify({ applications: cloudApps, accounts: cloudAccounts, interests: cloudInterests });
         if (mergedStr !== cloudStr) {
             await cloudSave();
         }
@@ -198,6 +203,7 @@ async function cloudSave() {
         const payload = JSON.stringify({
             applications: getApplications(),
             accounts: getAccounts(),
+            interests: getInterests(),
             last_sync: new Date().toISOString(),
         });
         const resp = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
@@ -365,11 +371,14 @@ function renderJobs() {
             ? `<ul class="job-requirements">${reqList.map(r => `<li>${escHtml(r)}</li>`).join('')}</ul>`
             : '';
 
-        const applied = isJobApplied(job.id);
-        const appliedClass = applied ? 'is-applied' : '';
+        const status = getJobStatus(job.id);
+        const applied = status === 'applied';
+        const notInterested = status === 'not_interested';
+        const cardStateClass = applied ? 'is-applied' : (notInterested ? 'is-not-interested' : '');
+        const jid = escAttr(job.id);
 
         return `
-        <div class="job-card ${newClass} ${appliedClass}" data-job-id="${escAttr(job.id)}">
+        <div class="job-card ${newClass} ${cardStateClass}" data-job-id="${jid}">
             <div class="job-info">
                 <div class="job-header">
                     <span class="job-title">${escHtml(job.title)}</span>
@@ -395,10 +404,12 @@ function renderJobs() {
                 <div class="match-bar">
                     <div class="match-bar-fill ${matchClass}" style="width:${job.match_score || 0}%"></div>
                 </div>
-                ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Apply</a>` : ''}
-                ${applied
-                    ? `<button class="link-btn" onclick="unmarkJobApplied('${escAttr(job.id)}')" title="Annuler le suivi">Applied &check;</button>`
-                    : `<button class="link-btn primary track-applied-btn" onclick="markJobApplied('${escAttr(job.id)}')" title="Ajouter au suivi Applications">Apply ?</button>`}
+                ${job.url ? `<a href="${escAttr(job.url)}" target="_blank" class="apply-btn">Voir</a>` : ''}
+                <div class="job-status-group" role="group">
+                    <button type="button" class="status-btn ${status === 'applied' ? 'active applied' : ''}" onclick="markJobApplied('${jid}')" title="J'ai postulé">Applied</button>
+                    <button type="button" class="status-btn ${status === 'not_interested' ? 'active not-interested' : ''}" onclick="setJobNotInterested('${jid}')" title="Pas intéressé">Pas d'Intérêt</button>
+                    <button type="button" class="status-btn ${status === 'not_yet' ? 'active not-yet' : ''}" onclick="setJobNotYet('${jid}')" title="Pas encore décidé">Pas encore</button>
+                </div>
                 <div class="match-reasons">${escHtml(reasons)}</div>
             </div>
         </div>`;
@@ -416,11 +427,37 @@ function isJobApplied(jobId) {
     return getApplications().some(a => a.job_id === jobId);
 }
 
+// Per-job interest state (e.g. 'not_interested'). 'applied' lives in the
+// Applications list; default ('Pas encore') is the absence of any entry here.
+function getInterests() {
+    try { return JSON.parse(localStorage.getItem(INTERESTS_KEY)) || {}; }
+    catch { return {}; }
+}
+
+function setJobInterest(jobId, value) {
+    const m = getInterests();
+    if (!value) delete m[jobId];
+    else m[jobId] = value;
+    localStorage.setItem(INTERESTS_KEY, JSON.stringify(m));
+    cloudSave();
+}
+
+function getJobStatus(jobId) {
+    if (isJobApplied(jobId)) return 'applied';
+    if (getInterests()[jobId] === 'not_interested') return 'not_interested';
+    return 'not_yet';
+}
+
 function markJobApplied(jobId) {
     const job = allJobs.find(j => j.id === jobId);
     if (!job) return;
+    // Switching to "Applied" overrides any prior "Pas d'Interet" flag.
+    if (getInterests()[jobId]) setJobInterest(jobId, null);
     const apps = getApplications();
-    if (apps.some(a => a.job_id === jobId)) return;
+    if (apps.some(a => a.job_id === jobId)) {
+        renderJobs();
+        return;
+    }
     const today = new Date().toISOString().slice(0, 10);
     apps.unshift({
         id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
@@ -438,6 +475,26 @@ function markJobApplied(jobId) {
     renderJobs();
 }
 window.markJobApplied = markJobApplied;
+
+function setJobNotInterested(jobId) {
+    const apps = getApplications();
+    const filtered = apps.filter(a => a.job_id !== jobId);
+    if (filtered.length !== apps.length) saveApplications(filtered);
+    setJobInterest(jobId, 'not_interested');
+    renderApplications();
+    renderJobs();
+}
+window.setJobNotInterested = setJobNotInterested;
+
+function setJobNotYet(jobId) {
+    const apps = getApplications();
+    const filtered = apps.filter(a => a.job_id !== jobId);
+    if (filtered.length !== apps.length) saveApplications(filtered);
+    if (getInterests()[jobId]) setJobInterest(jobId, null);
+    renderApplications();
+    renderJobs();
+}
+window.setJobNotYet = setJobNotYet;
 
 function unmarkJobApplied(jobId) {
     if (!confirm('Retirer cette candidature du suivi Applications ?')) return;
@@ -695,6 +752,10 @@ function switchTab(tabName) {
 
 // Stat-bubble one-click filters
 function statFilter(kind) {
+    document.querySelectorAll('.stats-bar .stat-card').forEach(b => {
+        b.classList.toggle('highlight', b.dataset.stat === kind);
+    });
+
     const search = document.getElementById('searchInput');
     const city = document.getElementById('filterCity');
     const cat = document.getElementById('filterCategory');
