@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-25T16:39:10.227924+00:00",
+  "last_updated": "2026-04-26T08:19:59.474206+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -13,17 +13,17 @@
     "Morgan Stanley": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Wells Fargo": {
       "status": "link_only",
@@ -32,12 +32,12 @@
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -70,7 +70,7 @@
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -79,7 +79,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -108,7 +108,7 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Fidelity International": {
       "status": "link_only",
@@ -129,7 +129,7 @@
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -174,12 +174,12 @@
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -196,7 +196,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -249,7 +249,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-04-25T16:39:10.227924+00:00"
+      "timestamp": "2026-04-26T08:19:59.474206+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -257,6 +257,62 @@
     }
   },
   "jobs": [
+    {
+      "id": "2a6f08273db1",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - Paris",
+      "location": "Paris, Paris, France",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701326",
+      "posted_date": "2026-02-01",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-04-26",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-26"
+    },
+    {
+      "id": "d40c5c2c73a1",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2026 Commercial & Investment Banking - Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701294",
+      "posted_date": "2026-02-01",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-04-26",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-04-26"
+    },
     {
       "id": "6c5a14f8857a",
       "bank": "JP Morgan",
@@ -320,7 +376,7 @@
       "title": "FX Risk Management Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0430018",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "description": "R0430018",
       "start_date": "2026-04-07",
       "time_type": "Full time",
@@ -339,7 +395,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "32399efb74e0",
@@ -367,7 +423,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "c60ebd6f02f7",
@@ -395,7 +451,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "1ed43e16d422",
@@ -423,7 +479,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "610d71816869",
@@ -450,7 +506,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "fd0dad02323b",
@@ -459,7 +515,7 @@
       "title": "Intern Rates Sales",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern-Rates-Sales_R0432677",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "description": "R0432677",
       "start_date": "2026-04-23",
       "time_type": "Full time",
@@ -478,7 +534,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "63c66d23eb8a",
@@ -487,7 +543,7 @@
       "title": "Structured Products Sales Intern",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Products-Sales-Intern_R0431014",
-      "posted_date": "Posted 2 Days Ago",
+      "posted_date": "Posted 3 Days Ago",
       "description": "R0431014",
       "start_date": "2026-04-23",
       "time_type": "Full time",
@@ -506,7 +562,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "c5624e391328",
@@ -515,7 +571,7 @@
       "title": "Credit Sales Desk Intern",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "description": "R0430056",
       "start_date": "2026-04-21",
       "time_type": "Full time",
@@ -534,7 +590,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "a47f960611c9",
@@ -542,7 +598,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -551,7 +607,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
@@ -561,7 +617,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "fd3923586895",
@@ -569,7 +625,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship Business Control Unit (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/19793-2026-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/19793-2026-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -578,7 +634,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
@@ -588,7 +644,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "f6a4743bf8ca",
@@ -596,7 +652,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Banking Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/19741-2026-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/19741-2026-Investment-Banking-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -605,7 +661,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -615,7 +671,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "c8fcbc0ee543",
@@ -642,7 +698,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "88e46ec629be",
@@ -650,7 +706,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -659,7 +715,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: Paris",
@@ -669,7 +725,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "7158cd1f6ad9",
@@ -696,7 +752,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "39c136df5349",
@@ -704,7 +760,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Real Estate Investing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -713,7 +769,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -722,7 +778,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "912ac17a3ec7",
@@ -730,7 +786,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship Program – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-d943305332a2/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af41d094aee2/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -739,7 +795,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-04-23",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -748,7 +804,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "814408ca8426",
@@ -774,7 +830,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "896b284b5c03",
@@ -783,7 +839,7 @@
       "title": "Banking Graduate Programme 2026 Paris",
       "location": "Paris, Origami",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Banking-Graduate-Programme-2026-Paris_JR-0000066814",
-      "posted_date": "Posted Yesterday",
+      "posted_date": "Posted 2 Days Ago",
       "description": "JR-0000066814",
       "start_date": "2026-04-24",
       "time_type": "Full time",
@@ -799,7 +855,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "id": "f656b9b1205d",
@@ -819,7 +875,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     }
   ],
   "direct_links": [
@@ -1773,9 +1829,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 21,
-    "new_today": 6,
-    "high_match": 18,
+    "total_jobs": 23,
+    "new_today": 2,
+    "high_match": 20,
     "firms_scraped": 14,
     "firms_failed": 0,
     "firms_empty": 7,
