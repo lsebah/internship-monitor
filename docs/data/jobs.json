@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-05T09:12:04.703454+00:00",
+  "last_updated": "2026-05-05T13:08:27.420207+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Goldman Sachs": {
       "status": "link_only",
@@ -13,17 +13,17 @@
     "Morgan Stanley": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Wells Fargo": {
       "status": "link_only",
@@ -32,12 +32,12 @@
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -70,7 +70,7 @@
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -79,7 +79,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -108,7 +108,7 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Fidelity International": {
       "status": "link_only",
@@ -129,7 +129,7 @@
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -174,12 +174,12 @@
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -196,7 +196,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -249,7 +249,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T09:12:04.703454+00:00"
+      "timestamp": "2026-05-05T13:08:27.420207+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -339,7 +339,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "f94620042a82",
@@ -367,7 +367,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "8335cf19c130",
@@ -423,7 +423,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "06f9cfe7daec",
@@ -836,7 +836,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "2cf7d998e683",
@@ -917,7 +917,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "c65abc301ee0",
@@ -944,7 +944,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-04"
+      "last_seen": "2026-05-05"
     },
     {
       "id": "342741a9d9e7",
@@ -1033,7 +1033,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15099d3b6276/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-74baeaae486f/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
