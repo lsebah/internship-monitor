@@ -3,7 +3,7 @@
  * Network-first for app shell, cache-first for assets, push notifications on iOS.
  * Bump CACHE_NAME whenever app.js/index.html/style.css change substantially.
  */
-const CACHE_NAME = 'internship-monitor-v6';
+const CACHE_NAME = 'internship-monitor-v7';
 
 self.addEventListener('install', e => {
     self.skipWaiting();
