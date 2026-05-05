@@ -418,6 +418,10 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
                     all_locs_text = primary_loc + " | " + " | ".join(
                         s.get("Name", "") for s in secondary_locs if isinstance(s, dict)
                     )
+                    # Use the same canonical form for both id and stored value;
+                    # otherwise a trailing " | " (no secondary locs) made every
+                    # rescrape compute a fresh id and treat the job as new.
+                    clean_loc = all_locs_text.strip(" |")
 
                     if not any(p.search(all_locs_text) for p in city_patterns):
                         continue
@@ -429,11 +433,11 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
                                else f"https://{domain}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{rid}")
 
                     job = {
-                        "id": make_job_id(firm["name"], title, all_locs_text),
+                        "id": make_job_id(firm["name"], title, clean_loc),
                         "bank": firm["name"],
                         "category": firm.get("category", ""),
                         "title": title,
-                        "location": all_locs_text.strip(" |"),
+                        "location": clean_loc,
                         "url": job_url,
                         "posted_date": (r.get("PostedDate") or "")[:10],
                         "description": r.get("ShortDescriptionStr", "") or "",
