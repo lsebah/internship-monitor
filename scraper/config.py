@@ -121,7 +121,12 @@ FIRMS = [
         "search_urls": {
             "students": "https://higher.gs.com/roles/students",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "oracle_hcm",
+            "domain": "hdpc.fa.us2.oraclecloud.com",
+            "site_number": "CampusHiring",
+            "job_url_template": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/{id}",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -182,7 +187,12 @@ FIRMS = [
         "search_urls": {
             "internships": "https://www.wellsfargojobs.com/en/jobs/?search=intern&country=United+Kingdom&country=Spain&country=France",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "wf",
+            "instance": 1,
+            "site": "WellsFargoJobs",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
 
@@ -303,7 +313,12 @@ FIRMS = [
         "search_urls": {
             "early_careers": "https://www.rothschildandco.com/en/careers/students-and-graduates/",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "rothschildandco",
+            "instance": 3,
+            "site": "RothschildAndCo_Lateral",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -398,8 +413,15 @@ FIRMS = [
         "category": "Private Bank",
         "subcategory": "Swiss",
         "careers_url": "https://www.lombardodier.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "lombardodier",
+            "instance": 3,
+            "site": "Lombard_Odier_Careers",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -410,8 +432,14 @@ FIRMS = [
         "careers_url": "https://www.juliusbaer.com/en/careers/",
         "search_urls": {
             "jobs": "https://jobs.juliusbaer.com/",
+            "workday": "https://juliusbaer.wd3.myworkdayjobs.com/External",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "juliusbaer",
+            "instance": 3,
+            "site": "External",
+        },
         "cities": {"Madrid": True, "Paris": False, "London": True},
     },
     {
@@ -451,8 +479,15 @@ FIRMS = [
         "category": "Asset Manager",
         "subcategory": "Global",
         "careers_url": "https://www.fidelityinternational.com/careers/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://fil.wd3.myworkdayjobs.com/001",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "fil",
+            "instance": 3,
+            "site": "001",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -461,8 +496,15 @@ FIRMS = [
         "category": "Asset Manager",
         "subcategory": "Global",
         "careers_url": "https://careers.statestreet.com/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://statestreet.wd1.myworkdayjobs.com/Global",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "statestreet",
+            "instance": 1,
+            "site": "Global",
+        },
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -486,7 +528,12 @@ FIRMS = [
         "search_urls": {
             "early_careers": "https://www.schroders.com/en/careers/early-careers/",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "oracle_hcm",
+            "domain": "ekbq.fa.em2.oraclecloud.com",
+            "site_number": "CX_2",
+            "job_url_template": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/{id}",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -522,8 +569,15 @@ FIRMS = [
         "category": "Asset Manager",
         "subcategory": "Global",
         "careers_url": "https://www.vanguardjobs.com/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "vanguard",
+            "instance": 5,
+            "site": "vanguard_external",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -567,9 +621,9 @@ FIRMS = [
         "subcategory": "Multi-Strategy",
         "careers_url": "https://point72.com/careers/",
         "search_urls": {
-            "jobs": "https://careers.point72.com/CSCareerSearch/CareerSearch.aspx",
+            "greenhouse": "https://job-boards.greenhouse.io/point72",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {"type": "greenhouse", "board": "point72"},
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -591,6 +645,7 @@ FIRMS = [
         "search_urls": {
             "campus": "https://www.citadel.com/careers/open-opportunities/",
         },
+        # Citadel uses a private/gated Greenhouse board — public API returns 404.
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
@@ -601,6 +656,7 @@ FIRMS = [
         "subcategory": "Quantitative",
         "careers_url": "https://www.twosigma.com/careers/",
         "search_urls": {},
+        # Two Sigma uses a private/gated Greenhouse board — public API returns 404.
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
@@ -610,8 +666,10 @@ FIRMS = [
         "category": "Hedge Fund",
         "subcategory": "Macro",
         "careers_url": "https://www.bridgewater.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.greenhouse.io/bridgewater89",
+        },
+        "scraper": {"type": "greenhouse", "board": "bridgewater89"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -654,8 +712,15 @@ FIRMS = [
         "category": "Hedge Fund",
         "subcategory": "Multi-Strategy",
         "careers_url": "https://www.balyasny.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://bamfunds.wd1.myworkdayjobs.com/External",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "bamfunds",
+            "instance": 1,
+            "site": "External",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -695,7 +760,11 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "Mega Cap",
         "careers_url": "https://www.kkr.com/careers",
-        "search_urls": {},
+        "search_urls": {
+            "workday": "https://kkr.wd5.myworkdayjobs.com/External_Career",
+        },
+        # KKR's Workday tenant currently redirects to a maintenance page (HTTP 403 on API).
+        # Re-enable once the migration completes.
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
@@ -705,8 +774,15 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "Mega Cap",
         "careers_url": "https://www.apollo.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "athene",
+            "instance": 5,
+            "site": "Apollo_Careers",
+        },
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -725,8 +801,15 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "European",
         "careers_url": "https://www.ardian.com/en/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "workday": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "ardian",
+            "instance": 103,
+            "site": "ArdianCareers",
+        },
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -735,8 +818,10 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "European",
         "careers_url": "https://www.apax.com/careers/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "lever": "https://jobs.lever.co/apax",
+        },
+        "scraper": {"type": "lever", "company": "apax"},
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
@@ -765,8 +850,10 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "European",
         "careers_url": "https://www.permira.com/careers",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.eu.greenhouse.io/permiraexternalprivate",
+        },
+        "scraper": {"type": "greenhouse", "board": "permiraexternalprivate"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -775,8 +862,10 @@ FIRMS = [
         "category": "Private Equity",
         "subcategory": "Nordic",
         "careers_url": "https://eqtgroup.com/careers/",
-        "search_urls": {},
-        "scraper": {"type": "direct_link"},
+        "search_urls": {
+            "greenhouse": "https://job-boards.eu.greenhouse.io/eqtpartners",
+        },
+        "scraper": {"type": "greenhouse", "board": "eqtpartners"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
