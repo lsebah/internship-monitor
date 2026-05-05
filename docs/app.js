@@ -305,6 +305,7 @@ function getFilters() {
         category: document.getElementById('filterCategory').value,
         minScore: parseInt(document.getElementById('filterMatch').value) || 0,
         newOnly: document.getElementById('filterNew').checked,
+        afterSept2026: document.getElementById('filterAfterSept2026')?.checked ?? false,
         hideApplied: document.getElementById('hideApplied')?.checked ?? false,
         hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
@@ -313,6 +314,40 @@ function getFilters() {
 const INTERN_TITLE_RX = /(\bintern(ship)?\b|\bstage\b|\bstagiaire\b|\bpr[aá]cticas\b|\bbecario\b|\btrainee\b|\bplacement\b|\bsummer analyst\b|\bworking student\b|\bapprentice\b|\bgraduate programme\b|\boff[- ]cycle\b)/i;
 const TARGET_CITY_RX = /\b(madrid|paris|par[ií]s|london|londres)\b/i;
 
+// Title patterns that mark a stage as starting BEFORE September 2026
+// (i.e. already-running or about-to-start internships Charles can't take).
+// Permissive on purpose: only excludes when the timing is unambiguous.
+const PRE_SEPT_2026_RX = new RegExp([
+    '\\bsummer\\s*2026\\b', '\\b2026\\s*summer\\b',
+    '\\bspring\\s*2026\\b', '\\b2026\\s*spring\\b',
+    '\\bh1\\s*2026\\b', '\\b2026\\s*h1\\b',
+    '\\bwinter\\s*2026\\b',
+    // Months explicitly before September 2026 (EN/FR/ES)
+    '\\b(january|jan|janvier|enero)\\s*2026\\b',
+    '\\b(february|feb|fevrier|f[eé]vrier|febrero)\\s*2026\\b',
+    '\\b(march|mar|mars|marzo)\\s*2026\\b',
+    '\\b(april|apr|avril|abril)\\s*2026\\b',
+    '\\b(may|mai|mayo)\\s*2026\\b',
+    '\\b(june|jun|juin|junio)\\s*2026\\b',
+    '\\b(july|jul|juillet|julio)\\s*2026\\b',
+    '\\b(august|aug|aout|ao[uû]t|agosto)\\s*2026\\b',
+].join('|'), 'i');
+
+// Date-range patterns that mean the stage starts before September,
+// regardless of which year is in the title. Only used when the title
+// also mentions 2026 (so we don't exclude e.g. "January - June 2027").
+const PRE_SEPT_RANGE_RX = new RegExp([
+    'january\\s*[-–to/]+\\s*(june|jun)',           // Jan-Jun
+    'jan\\s*[-–to/]+\\s*jun',
+    'february\\s*[-–to/]+\\s*(july|jul)',          // Feb-Jul
+    'march\\s*[-–to/]+\\s*(august|aug)',           // Mar-Aug
+    'april\\s*[-–to/]+\\s*(september|sept|sep)',   // Apr-Sep (starts Apr)
+    'may\\s*[-–to/]+\\s*(october|oct)',            // May-Oct (starts May)
+    'june\\s*[-–to/]+\\s*(november|nov)',          // Jun-Nov (starts Jun)
+    'july\\s*[-–to/]+\\s*(december|dec)',          // Jul-Dec (starts Jul)
+    'august\\s*[-–to/]+\\s*(january|jan)',         // Aug-Jan (starts Aug)
+].join('|'), 'i');
+
 function isInternshipJob(job) {
     const haystack = `${job.title || ''} ${job.duration || ''} ${job.description || ''} ${job.time_type || ''}`;
     return INTERN_TITLE_RX.test(haystack);
@@ -320,6 +355,24 @@ function isInternshipJob(job) {
 
 function isInTargetCity(job) {
     return TARGET_CITY_RX.test(job.location || '');
+}
+
+function startsAfterSept2026(job) {
+    // If the ATS gave us a parseable start_date, trust it.
+    const sd = (job.start_date || '').trim();
+    if (sd) {
+        const m = sd.match(/(\d{4})-(\d{2})/);
+        if (m) {
+            const ym = parseInt(m[1]) * 100 + parseInt(m[2]);
+            return ym >= 202609;
+        }
+    }
+    // Otherwise rely on title/description heuristic.
+    const haystack = `${job.title || ''} ${job.description || ''} ${job.duration || ''}`;
+    if (PRE_SEPT_2026_RX.test(haystack)) return false;
+    // Date ranges are only damning when the program is for 2026 specifically.
+    if (/\b2026\b/.test(haystack) && PRE_SEPT_RANGE_RX.test(haystack)) return false;
+    return true;
 }
 
 function filterJobs(jobs) {
@@ -345,6 +398,7 @@ function filterJobs(jobs) {
         if (f.category && job.category !== f.category) return false;
         if (f.minScore && (job.match_score || 0) < f.minScore) return false;
         if (f.newOnly && !job.is_new) return false;
+        if (f.afterSept2026 && !startsAfterSept2026(job)) return false;
         return true;
     });
 }
@@ -776,7 +830,7 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    ['filterNew', 'hideApplied', 'hideTrashed'].forEach(id => {
+    ['filterNew', 'filterAfterSept2026', 'hideApplied', 'hideTrashed'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener('change', renderJobs);
     });

@@ -91,6 +91,9 @@
             <label class="toggle-label">
                 <input type="checkbox" id="filterNew"> New only
             </label>
+            <label class="toggle-label" title="Cache les stages Summer/Spring/H1 2026 ou debutant entre janvier et aout 2026">
+                <input type="checkbox" id="filterAfterSept2026"> Sept 2026+
+            </label>
             <label class="toggle-label">
                 <input type="checkbox" id="hideApplied" checked> Masquer Applied
             </label>
@@ -225,7 +228,7 @@
         </div>
     </div>
 
-    <script src="app.js?v=22"></script>
+    <script src="app.js?v=24"></script>
     <script>
         // Register Service Worker for PWA, with auto-update on new deploy.
         if ('serviceWorker' in navigator) {
