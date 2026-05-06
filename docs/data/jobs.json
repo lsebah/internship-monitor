@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-05T18:38:49.797698+00:00",
+  "last_updated": "2026-05-06T09:31:41.607423+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 19,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
-      "count": 6,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "count": 5,
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 46,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-05T18:38:49.797698+00:00"
+      "timestamp": "2026-05-06T09:31:41.607423+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -274,6 +274,34 @@
     }
   },
   "jobs": [
+    {
+      "id": "11bf4f436f2f",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Paris – Five Arrows –Global Compliance Internship – Janvier 2027– 6 mois",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Paris---Five-Arrows--Global-Compliance-Internship---Janvier-2027--6-mois_JR015475",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015475",
+      "start_date": "2026-03-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Preferably holding a master’s degree in law (or currently pursuing one), preferably with a focus on financial regulation,\nbanking & finance\nor compliance,\nCertification in compliance, regulatory and/or AML CFT matters will be considered as an asset,\nPrior experience in\nor regulator",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, compliance",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
     {
       "id": "eef530ac48c2",
       "bank": "Goldman Sachs",
@@ -300,7 +328,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "98836783533b",
@@ -328,7 +356,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "d23c22f2c608",
@@ -356,7 +384,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "6c5a14f8857a",
@@ -384,7 +412,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f94620042a82",
@@ -412,7 +440,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "ecd710d7c273",
@@ -440,20 +468,76 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "11bf4f436f2f",
-      "bank": "Rothschild & Co",
+      "id": "06f9cfe7daec",
+      "bank": "Deutsche Bank",
       "category": "Investment Bank",
-      "title": "Paris – Five Arrows –Global Compliance Internship – Janvier 2027– 6 mois",
+      "title": "FX Risk Management Sales Intern (f/m/x)",
       "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Paris---Five-Arrows--Global-Compliance-Internship---Janvier-2027--6-mois_JR015475",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0430018",
+      "posted_date": "Posted 29 Days Ago",
+      "description": "R0430018",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nStrong commitment and autonomy.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk, sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "1ed43e16d422",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
+      "location": "Paris, Origami",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810",
       "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015475",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
+      "description": "JR-0000070810",
+      "start_date": "2025-12-02",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "6c37709d0321",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Group Finance - Capital Markets Stage - Mars 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance---Capital-Markets-Stage---Mars-2026---Paris--H-F-_JR1001664-1",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2025-11-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-05",
@@ -462,13 +546,13 @@
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: compliance",
+        "Domain: finance, capital markets",
         "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
+        "CIB / Markets"
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "32399efb74e0",
@@ -526,6 +610,33 @@
       "last_seen": "2026-04-27"
     },
     {
+      "id": "610d71816869",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Private Equity H2 Off Cycle Internship (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship--London-_40745",
+      "posted_date": "",
+      "description": "40745 | Private Equity",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
+      "source": "workday",
+      "first_seen": "2026-04-12",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
       "id": "1c9a6ed355db",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -550,7 +661,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "cdcdf2030ae0",
@@ -577,34 +688,147 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "610d71816869",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Private Equity H2 Off Cycle Internship (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Private-Equity-H2-Off-Cycle-Internship--London-_40745",
-      "posted_date": "",
-      "description": "40745 | Private Equity",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
+      "id": "fd0dad02323b",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Intern Rates Sales",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern-Rates-Sales_R0432677",
+      "posted_date": "Posted 13 Days Ago",
+      "description": "R0432677",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nStrong commitment and autonomy.\nStrong interest and knowledge in financial products and industry.\nGood spirit of analysis, synthesis and rigour.",
       "source": "workday",
-      "first_seen": "2026-04-12",
+      "first_seen": "2026-04-23",
       "is_new": false,
-      "match_score": 70,
+      "match_score": 75,
       "match_reasons": [
-        "Location: London",
+        "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: equity, private equity",
+        "Domain: sales",
+        "Languages: French, English",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "63c66d23eb8a",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Structured Products Sales Intern",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Products-Sales-Intern_R0431014",
+      "posted_date": "Posted 13 Days Ago",
+      "description": "R0431014",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "c5624e391328",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Credit Sales Desk Intern",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
+      "posted_date": "Posted 15 Days Ago",
+      "description": "R0430056",
+      "start_date": "2026-04-21",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Must be eligible to work in France.\nMust be able to provide an internship agreement.\nGood verbal and written communication capabilities in French and English is mandatory.\nGood spirit of analysis, synthesis and rigour.\nStrong interest and knowledge in financial product and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "9efd432a4d66",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Conformité Market Abuse – Equipe Global Advisory, Markets & Ethics – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Market-Abuse---Equipe-Global-Advisory--Markets---Ethics---Juillet-2026_JR015105",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015105",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: advisory",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "7698ed5d3743",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Structured Finance Sponsors Coverage Group Intern (f/m/x)",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Finance-Sponsors-Coverage-Group-Intern--f-m-x-_R0431007",
+      "posted_date": "Posted 9 Days Ago",
+      "description": "R0431007",
+      "start_date": "2026-04-27",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Good verbal and written communication capabilities in French and English is mandatory.\nMust be able to provide an internship agreement.\nMust be eligible to work in France.\nGood spirit of analysis, synthesis and rigor.\nStrong interest and knowledge in financial products and industry.\nTeamplayer.",
+      "source": "workday",
+      "first_seen": "2026-04-27",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Languages: French, English",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f6a4743bf8ca",
@@ -712,7 +936,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "1069fde398f6",
@@ -739,7 +963,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "9dddb89ef634",
@@ -766,7 +990,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "294b65dcf83b",
@@ -793,7 +1017,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f730748eeb67",
@@ -820,7 +1044,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "0df08051c57b",
@@ -847,7 +1071,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "c65abc301ee0",
@@ -874,7 +1098,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "342741a9d9e7",
@@ -931,31 +1155,193 @@
       "last_seen": "2026-05-03"
     },
     {
-      "id": "1ed43e16d422",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
-      "location": "Paris, Origami",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR-0000070810",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
+      "id": "7e0dbc60667c",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance-General Partners Luxembourg Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-General-Partners-Luxembourg-Stage---Septembre-2026-I-Paris--M-F-_JR1001915",
+      "posted_date": "Posted 15 Days Ago",
+      "description": "",
+      "start_date": "2026-04-21",
+      "time_type": "Full time",
+      "duration": "6 mois",
       "requirements": "",
       "source": "workday",
-      "first_seen": "2026-04-23",
+      "first_seen": "2026-05-05",
       "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: trading, sales",
+        "Domain: finance, fund",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "5ce97a828454",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Infrastructure Stage - Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Infrastructure-Stage---Septembre-2026-I-Paris--H-F-_JR1001944",
+      "posted_date": "Posted 20 Days Ago",
+      "description": "",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "7224ecee4a1e",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Buyout Stage - Juillet 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Juillet-2026-I-Paris--M-F-_JR1001742",
+      "posted_date": "Posted 20 Days Ago",
+      "description": "",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "e4f55f89e761",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Cross Functional Stage - Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Cross-Functional-Stage---Septembre-2026-I-Paris--H-F-_JR1001905",
+      "posted_date": "Posted 20 Days Ago",
+      "description": "",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "c8fcbc0ee543",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris--France-2026_25908794",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "25908794",
+      "start_date": "2025-09-30",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Who we think will be a great fit...",
+      "source": "workday",
+      "first_seen": "2026-04-17",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, corporate banking",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "23f84773435a",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Private Equity - Banque Privée – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Private-Equity---Banque-Prive---Juillet-2026_JR015110",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015110",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "2477cbbad637",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste Banquier Conseil - Equipe Corporate Banking Paris – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Equipe-Corporate-Banking-Paris---Juillet-2026_JR014867",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014867",
+      "start_date": "2025-12-09",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, corporate banking",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "88e46ec629be",
@@ -963,7 +1349,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-2fcccb856805/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-55e0737ae96c/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -982,7 +1368,34 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "7158cd1f6ad9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Tactical Opportunities H2 Off Cycle Internship",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
+      "posted_date": "",
+      "description": "40609",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
+      "source": "workday",
+      "first_seen": "2026-04-12",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "dd65a8c0fdee",
@@ -1009,7 +1422,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "233646196f92",
@@ -1036,20 +1449,20 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "6c37709d0321",
+      "id": "053634d649da",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "Group Finance - Capital Markets Stage - Mars 2026 | Paris (H/F)",
+      "title": "Group Finance Treasury Stage - Septembre 2026 I Paris (H/F)",
       "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance---Capital-Markets-Stage---Mars-2026---Paris--H-F-_JR1001664-1",
-      "posted_date": "Posted 30+ Days Ago",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance-Treasury-Stage---Septembre-2026-I-Paris--H-F-_JR1001958",
+      "posted_date": "Posted 12 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
+      "start_date": "2026-04-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-05",
@@ -1058,38 +1471,201 @@
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: finance, capital markets",
-        "CIB / Markets"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "7158cd1f6ad9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Tactical Opportunities H2 Off Cycle Internship",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
-      "posted_date": "",
-      "description": "40609",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-12",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
+        "Domain: finance",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "e8348eab831f",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Employees' investments Fund Administrative Assistant Stage - Septembre 2026 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Employees--investments-Fund-Administrative-Assistant-Stage---Septembre-2026---Paris--M-F-_JR1001912",
+      "posted_date": "Posted 14 Days Ago",
+      "description": "",
+      "start_date": "2026-04-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: fund",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "a6f39d398aac",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Portfolio Monitoring Intern - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Juillet-2026_JR015655",
+      "posted_date": "Posted 16 Days Ago",
+      "description": "JR015655",
+      "start_date": "2026-04-20",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: portfolio",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "299fb8b6c528",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Compliance KYC – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Juillet-2026_JR015108",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015108",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "7a6b2010d876",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Financial Crime Compliance - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Financial-Crime-Compliance---Juillet-2026_JR015041",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015041",
+      "start_date": "2026-01-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "0b5091fe96b6",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Group Regulatory Affairs & Compliance – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Regulatory-Affairs---Compliance---Juillet-2026_JR015040",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015040",
+      "start_date": "2026-01-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "d9ab6325f258",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Group Compliance & Tax Transparency – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Compliance---Tax-Transparency---Juillet-2026_JR015035",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015035",
+      "start_date": "2026-01-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "b17c342767e9",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Compliance KYC - Janvier 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Janvier-2026_JR014192",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014192",
+      "start_date": "2025-08-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "39c136df5349",
@@ -1167,7 +1743,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "9db903d1015b",
@@ -1193,7 +1769,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "6e22b44b6c72",
@@ -1219,7 +1795,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "7cb49b0f582b",
@@ -1245,20 +1821,20 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "9efd432a4d66",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Conformité Market Abuse – Equipe Global Advisory, Markets & Ethics – Juillet 2026",
+      "id": "cdce8a3adad3",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Sustainability Real Assets Stage - Septembre 2026 I Paris (H/F)",
       "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Market-Abuse---Equipe-Global-Advisory--Markets---Ethics---Juillet-2026_JR015105",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015105",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Septembre-2026-I-Paris--H-F-_JR1001949",
+      "posted_date": "Posted 13 Days Ago",
+      "description": "",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-05",
@@ -1267,12 +1843,1026 @@
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: advisory",
-        "CIB / Markets"
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "d1e1d6ac3028",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Intern - Start Date ASAP | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Fund-Finance-Intern---Start-Date-ASAP---London_JR1001952",
+      "posted_date": "Posted 14 Days Ago",
+      "description": "",
+      "start_date": "2026-04-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Understand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, compliance"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "944cbf9fa00f",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Buyout Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Buyout-Stage---Septembre-2026-I-Paris--M-F-_JR1001971",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "",
+      "start_date": "2026-05-04",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "53928eca5fad",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Foudation Engagement & Communication Stage - Juillet 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Juillet-2026-I-Paris--M-F-_JR1001761",
+      "posted_date": "Posted 20 Days Ago",
+      "description": "",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "c1a5ba68c31a",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Corporate Development Stage - Septembre 2026  | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Coporate-Development-Stage---Septembre-2026----Paris--H-F-_JR1001722",
+      "posted_date": "Posted 21 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "1e5c818b0715",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Valuation Stage - Juillet 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Valuation-Stage---Juillet-2026---Paris--H-F-_JR1001942-1",
+      "posted_date": "Posted 21 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "532e830561aa",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Digital Transformation Stage - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Septembre-2026---Paris--H-F-_JR1001911",
+      "posted_date": "Posted 21 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "1246ea26b25b",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
+      "posted_date": "Posted 21 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "2a6758e66b71",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste Marchés Financiers - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Marchs-Financiers---Juillet-2026_JR015612",
+      "posted_date": "Posted 26 Days Ago",
+      "description": "JR015612",
+      "start_date": "2026-04-10",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "fb594cdd7e86",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant Négociateur - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-Ngociateur_JR015604",
+      "posted_date": "Posted 27 Days Ago",
+      "description": "JR015604",
+      "start_date": "2026-04-09",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "f3b4871fe3f5",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Data Science Stage - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Data-Science-Stage---Septembre-2026---Paris--H-F-_JR1001910",
+      "posted_date": "Posted 27 Days Ago",
+      "description": "",
+      "start_date": "2026-04-09",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "d5a4298450f8",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Controlling Support Functions – WAM division - Juin 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Controlling-Support-Functions---WAM-division---Juin-2026_JR015374",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015374",
+      "start_date": "2026-03-06",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "0b14b84bac13",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Chargé(e) de communication - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Charg-e--de-communication---Juillet-2026_JR015228",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015228",
+      "start_date": "2026-02-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "df7caa25aaff",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Trailer fees operations – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Trailer-fee-operations---Juillet-2026_JR015096",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015096",
+      "start_date": "2026-01-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "398d0dc9ddaf",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste ESG Obligataire - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-ESG-Obligataire---Juillet-2026_JR015123",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015123",
+      "start_date": "2026-01-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "e30bf148363b",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Middle-Office Pôle Evènement Cash et Titres – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Ple-Evnement-Cash-et-Titres---Juillet-2026_JR015117",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015117",
+      "start_date": "2026-01-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "57c243b74200",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Business Development – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Juillet-2026_JR015109",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015109",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "e7a1e22c35d1",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Investment Analyst - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Investment-Analyst---Juillet-2026_JR015104",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015104",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "102df8421382",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) gestion de portefeuilles - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--gestion-de-portefeuilles_JR015103",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015103",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "651eef028e62",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Economie - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Economie---Juillet-2026_JR015102",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015102",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "70a0a10a7492",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste Financier Buy Side - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Financier-Buy-Side---Juillet-2026_JR015101",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015101",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "b99ae95dbf17",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Conformité Banque d'Affaires - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Banque-d-Affaires---Juillet-2026_JR015100",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015100",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "5f7ee3b6d156",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste RFP - Appels d’offres – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-RFP---Appels-d-offres---Juillet-2026_JR015095",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015095",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "425d9b94e18c",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Gestion Obligataire – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Gestion-Obligataire---Juillet-2026_JR015094",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015094",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "db68fcb7e4eb",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Risques de marché – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Risques-de-march---Juillet-2026_JR015093",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015093",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "708d01915510",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Ingénierie Patrimoniale – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Ingnierie-Patrimoniale---Juillet-2026_JR015088",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015088",
+      "start_date": "2026-01-21",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "978ce57c57d5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Contrôle de Gestion - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Contrle-de-Gestion---Juillet-2026_JR015061",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015061",
+      "start_date": "2026-01-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "18dad24d5bf0",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Family Office – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Family-Office---Juillet-2026_JR015043",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015043",
+      "start_date": "2026-01-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "5509a09c94f5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Back-Office – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Back-Office---Juillet-2026_JR015039",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015039",
+      "start_date": "2026-01-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "b953740cf8d5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stagiaire Contrôle Permanent Bancaire – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Contrle-Permanent-Bancaire---Juillet-2026_JR015034",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015034",
+      "start_date": "2026-01-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "251d6c6f061b",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Banquier Privé - Bordeaux - Janvier 2026",
+      "location": "Paris (Messine-29)",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris-Messine-29/Stage-Assistant-e--Banquier-Priv---Bordeaux---Janvier-2026_JR014182",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014182",
+      "start_date": "2025-12-19",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "3e12d5c9f646",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Direction Gouvernance et Droit des Sociétés – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Direction-Gouvernance-et-Droit-des-Socits---Juillet-2026_JR014836",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014836",
+      "start_date": "2025-12-05",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "ad73f7df5b5f",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage - Business Analyst Projet - Janvier 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Business-Analyst-Projet---Janvier-2026_JR014672",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014672",
+      "start_date": "2025-11-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "c71dece991fe",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Data Analyst - Banque Privée - Janvier 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR014190",
+      "start_date": "2025-08-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "de919a852324",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Affaires Publiques et Gouvernementales Stage - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Affaires-Publiques-et-Gouvernementales-Stage---Spetembre-2026---Paris--H-F-_JR1001781",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-02-20",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "93f1759d30ca",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Secondaries & Primaries Data Science Intern - July 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-26",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Highly motivated with the ability to work autonomously and in a team environment.\nExcellent communication skills with the ability to present complex technical concepts in a clear and concise manner.\nExperience in developing AI tools is advantageous\nEducation and Experience:\nAt least 2nd year student, pursuing a degree in Data Science, Statistics, Mathematics, Operations Research, or related field.\nPrevious internship or project experience in data science or a related field.",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: research",
+        "Level: Undergraduate"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "f2f7be4eb937",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "IT-Documents & Privacy Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris La Défense",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Documents---Privacy-Stage---Septembre-2026-I-Paris--M-F-_JR1001916",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-27",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "96112c44e45f",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Infrastructure Nature-Based Solutions Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Septembre-2026-I-Paris--M-F-_JR1001908",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "e7a530d3bb66",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Infrastructure Nature-Based Solutions Stage - Juillet 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Juillet-2025-I-Paris--M-F-_JR1001906",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "d3646a6b168f",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Public Affairs Apprentice - Septembre 2026 - Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Public-Affairs-Apprentice---Septembre-2026---Paris--H-F-_JR1001822",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-24",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Etudiant en Master en Grande Ecole ou en Université, avec spécialisation finances, affaires publiques, sciences politiques ou relations internationales\nConnaissances solides obligatoires de l’actualité financière, économique et géopolitique\nCompétences Requises :\nConnaissance du Private Equity, des affaires internationales et des relations investisseurs\nIntégrité, prise d’initiative, curiosité et capacités de recherche\nEsprit de synthèse et capacités de rédaction en français et anglais",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "4d3f5433d8e6",
@@ -1294,189 +2884,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "d1e1d6ac3028",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Intern - Start Date ASAP | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Fund-Finance-Intern---Start-Date-ASAP---London_JR1001952",
-      "posted_date": "Posted 13 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "7e0dbc60667c",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance-General Partners Luxembourg Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-General-Partners-Luxembourg-Stage---Septembre-2026-I-Paris--M-F-_JR1001915",
-      "posted_date": "Posted 14 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "5ce97a828454",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Infrastructure Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Infrastructure-Stage---Septembre-2026-I-Paris--H-F-_JR1001944",
-      "posted_date": "Posted 19 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "7224ecee4a1e",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Buyout Stage - Juillet 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Juillet-2026-I-Paris--M-F-_JR1001742",
-      "posted_date": "Posted 19 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "e4f55f89e761",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Cross Functional Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Cross-Functional-Stage---Septembre-2026-I-Paris--H-F-_JR1001905",
-      "posted_date": "Posted 19 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "06f9cfe7daec",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "FX Risk Management Sales Intern (f/m/x)",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0430018",
-      "posted_date": "Posted 28 Days Ago",
-      "description": "R0430018",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: risk, sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "c8fcbc0ee543",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris--France-2026_25908794",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "25908794",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-17",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "b095737f8e83",
@@ -1487,8 +2895,8 @@
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Mandat-Private-Equity-Banque-Prive---Juillet-2026_JR015112",
       "posted_date": "Posted 30+ Days Ago",
       "description": "JR015112",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -1502,59 +2910,33 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "23f84773435a",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Private Equity - Banque Privée – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Private-Equity---Banque-Prive---Juillet-2026_JR015110",
+      "id": "df6f1d49eafc",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern_JR1000177",
       "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015110",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
+      "description": "",
+      "start_date": "2024-03-18",
+      "time_type": "Full time",
+      "duration": "24 months",
+      "requirements": "High analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nBusiness, Economics, Finance, Science, or Maths degree either completed or due to be completed from a leading business school / university.\nMinimum 2:1",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
       "match_score": 55,
       "match_reasons": [
-        "Location: Paris",
+        "Location: London",
         "Type: Internship/Stage",
-        "Domain: equity, private equity"
+        "Domain: finance, economics"
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "2477cbbad637",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste Banquier Conseil - Equipe Corporate Banking Paris – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Equipe-Corporate-Banking-Paris---Juillet-2026_JR014867",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014867",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "de3e838c9593",
@@ -1576,319 +2958,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "053634d649da",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Group Finance Treasury Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance-Treasury-Stage---Septembre-2026-I-Paris--H-F-_JR1001958",
-      "posted_date": "Posted 11 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "fd0dad02323b",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Intern Rates Sales",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern-Rates-Sales_R0432677",
-      "posted_date": "Posted 12 Days Ago",
-      "description": "R0432677",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "63c66d23eb8a",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Structured Products Sales Intern",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Products-Sales-Intern_R0431014",
-      "posted_date": "Posted 12 Days Ago",
-      "description": "R0431014",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "e8348eab831f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Employees' investments Fund Administrative Assistant Stage - Septembre 2026 | Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Employees--investments-Fund-Administrative-Assistant-Stage---Septembre-2026---Paris--M-F-_JR1001912",
-      "posted_date": "Posted 13 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "c5624e391328",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Credit Sales Desk Intern",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Credit-Sales-Desk-Intern_R0430056",
-      "posted_date": "Posted 14 Days Ago",
-      "description": "R0430056",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "a6f39d398aac",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Portfolio Monitoring Intern - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Juillet-2026_JR015655",
-      "posted_date": "Posted 15 Days Ago",
-      "description": "JR015655",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: portfolio"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "299fb8b6c528",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Compliance KYC – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Juillet-2026_JR015108",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015108",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "7a6b2010d876",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Financial Crime Compliance - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Financial-Crime-Compliance---Juillet-2026_JR015041",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015041",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "0b5091fe96b6",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Group Regulatory Affairs & Compliance – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Regulatory-Affairs---Compliance---Juillet-2026_JR015040",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015040",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "d9ab6325f258",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Group Compliance & Tax Transparency – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Compliance---Tax-Transparency---Juillet-2026_JR015035",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015035",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "b17c342767e9",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Compliance KYC - Janvier 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Janvier-2026_JR014192",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014192",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "7698ed5d3743",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Structured Finance Sponsors Coverage Group Intern (f/m/x)",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Finance-Sponsors-Coverage-Group-Intern--f-m-x-_R0431007",
-      "posted_date": "Posted 8 Days Ago",
-      "description": "R0431007",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-27",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "83748e5ed0f8",
@@ -1914,7 +2984,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "2694e9555222",
@@ -1940,7 +3010,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "6dda2f6ee80d",
@@ -1961,7 +3031,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f4422ad60fba",
@@ -1982,7 +3052,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "8ec41d50e2ea",
@@ -2003,32 +3073,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "cdce8a3adad3",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Sustainability Real Assets Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Septembre-2026-I-Paris--H-F-_JR1001949",
-      "posted_date": "Posted 12 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "4fe9962445b4",
@@ -2037,10 +3082,10 @@
       "title": "Stage Marketing Produit - Juillet 2026",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Marketing-Produit---Juillet-2026_JR015674",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "description": "JR015674",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-22",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -2053,7 +3098,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "45eaf5337ef6",
@@ -2062,11 +3107,11 @@
       "title": "External Events Assistant Stage - Fin Août 2026 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/External-Events-Assistant-Stage---Fin-Aot-2026-I-Paris--M-F-_JR1001743",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
+      "start_date": "2026-04-22",
+      "time_type": "Full time",
+      "duration": "4 mois",
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-05",
@@ -2078,132 +3123,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "53928eca5fad",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Foudation Engagement & Communication Stage - Juillet 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Juillet-2026-I-Paris--M-F-_JR1001761",
-      "posted_date": "Posted 19 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "c1a5ba68c31a",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Corporate Development Stage - Septembre 2026  | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Coporate-Development-Stage---Septembre-2026----Paris--H-F-_JR1001722",
-      "posted_date": "Posted 20 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "1e5c818b0715",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Valuation Stage - Juillet 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Valuation-Stage---Juillet-2026---Paris--H-F-_JR1001942-1",
-      "posted_date": "Posted 20 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "532e830561aa",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Digital Transformation Stage - Septembre 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Septembre-2026---Paris--H-F-_JR1001911",
-      "posted_date": "Posted 20 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "1246ea26b25b",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
-      "posted_date": "Posted 20 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "a550b6d5abad",
@@ -2212,12 +3132,12 @@
       "title": "Co-Investment Intern - September 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Co-Investment-Intern---September-2026---London_JR1001939",
-      "posted_date": "Posted 21 Days Ago",
+      "posted_date": "Posted 22 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
       "duration": "",
-      "requirements": "",
+      "requirements": "Intellectual rigor and discipline; ability to organize and perform work efficiently\nExcellent analytical skills, with high level of attention to detail\nStrong knowledge of financial statement analysis, financial modelling, valuation\nProficiency in Excel, Word and PowerPoint\nEducation and Experience:\nDegree either completed or due to complete from leading business school or university",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -2228,69 +3148,44 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
-      "id": "2a6758e66b71",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste Marchés Financiers - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Marchs-Financiers---Juillet-2026_JR015612",
-      "posted_date": "Posted 25 Days Ago",
-      "description": "JR015612",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "fb594cdd7e86",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant Négociateur - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-Ngociateur_JR015604",
-      "posted_date": "Posted 26 Days Ago",
-      "description": "JR015604",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "f3b4871fe3f5",
+      "id": "3e63d02b6886",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "Data Science Stage - Septembre 2026 | Paris (H/F)",
+      "title": "Assistant Apprentice - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Data-Science-Stage---Septembre-2026---Paris--H-F-_JR1001910",
-      "posted_date": "Posted 26 Days Ago",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Assistant-Apprentice---Septembre-2026---Paris--H-F-_JR1001838",
+      "posted_date": "Posted 23 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "BTS SAM – Support à l’Action Managériale\nCompétences Requises :\nMaîtrise des suites logiciels bureautiques (Outlook & Word) et d’internet\nBonne connaissance des logiciels Teams, Excel et PowerPoint\nLa connaissance de SAP Concur est un plus\nTrès bon niveau d’anglais, à l’écrit et à l’oral",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "09fdfbb3e894",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Produits Structurés – Juin 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Produits-Structurs---Juin-2026_JR015526",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015526",
+      "start_date": "2026-03-27",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -2303,7 +3198,132 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "fc00e301e373",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Middle-Office Production - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Production---Juillet-2026_JR015118",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015118",
+      "start_date": "2026-01-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "26d6a2b841c3",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Client Service - Investor Relations – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Client-Service---Investor-Relations---Juillet-2026_JR015106",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015106",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "a9d67a8088c6",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR012488",
+      "start_date": "2024-09-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "d220770d172e",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-24",
+      "time_type": "Full time",
+      "duration": "3 semaines",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "61c6374476a0",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - April 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1001772",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-02-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "To enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "c60ebd6f02f7",
@@ -2320,881 +3340,6 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "09fdfbb3e894",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Produits Structurés – Juin 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Produits-Structurs---Juin-2026_JR015526",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015526",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "d5a4298450f8",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Controlling Support Functions – WAM division - Juin 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Controlling-Support-Functions---WAM-division---Juin-2026_JR015374",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015374",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "0b14b84bac13",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Chargé(e) de communication - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Charg-e--de-communication---Juillet-2026_JR015228",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015228",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "df7caa25aaff",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Trailer fees operations – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Trailer-fee-operations---Juillet-2026_JR015096",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015096",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "398d0dc9ddaf",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste ESG Obligataire - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-ESG-Obligataire---Juillet-2026_JR015123",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015123",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "fc00e301e373",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Middle-Office Production - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Production---Juillet-2026_JR015118",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015118",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "e30bf148363b",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Middle-Office Pôle Evènement Cash et Titres – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Ple-Evnement-Cash-et-Titres---Juillet-2026_JR015117",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015117",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "57c243b74200",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Business Development – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Juillet-2026_JR015109",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015109",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "e7a1e22c35d1",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Investment Analyst - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Investment-Analyst---Juillet-2026_JR015104",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015104",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "26d6a2b841c3",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Client Service - Investor Relations – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Client-Service---Investor-Relations---Juillet-2026_JR015106",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015106",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "102df8421382",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) gestion de portefeuilles - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--gestion-de-portefeuilles_JR015103",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015103",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "651eef028e62",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Economie - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Economie---Juillet-2026_JR015102",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015102",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "70a0a10a7492",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste Financier Buy Side - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Financier-Buy-Side---Juillet-2026_JR015101",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015101",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "b99ae95dbf17",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Conformité Banque d'Affaires - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Banque-d-Affaires---Juillet-2026_JR015100",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015100",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "5f7ee3b6d156",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste RFP - Appels d’offres – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-RFP---Appels-d-offres---Juillet-2026_JR015095",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015095",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "425d9b94e18c",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Gestion Obligataire – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Gestion-Obligataire---Juillet-2026_JR015094",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015094",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "db68fcb7e4eb",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Risques de marché – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Risques-de-march---Juillet-2026_JR015093",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015093",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "708d01915510",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Ingénierie Patrimoniale – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Ingnierie-Patrimoniale---Juillet-2026_JR015088",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015088",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "978ce57c57d5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Contrôle de Gestion - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Contrle-de-Gestion---Juillet-2026_JR015061",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015061",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "18dad24d5bf0",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Family Office – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Family-Office---Juillet-2026_JR015043",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015043",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "5509a09c94f5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Back-Office – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Back-Office---Juillet-2026_JR015039",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015039",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "b953740cf8d5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stagiaire Contrôle Permanent Bancaire – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Contrle-Permanent-Bancaire---Juillet-2026_JR015034",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015034",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "251d6c6f061b",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Banquier Privé - Bordeaux - Janvier 2026",
-      "location": "Paris (Messine-29)",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris-Messine-29/Stage-Assistant-e--Banquier-Priv---Bordeaux---Janvier-2026_JR014182",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014182",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "3e12d5c9f646",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Direction Gouvernance et Droit des Sociétés – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Direction-Gouvernance-et-Droit-des-Socits---Juillet-2026_JR014836",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014836",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "ad73f7df5b5f",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage - Business Analyst Projet - Janvier 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Business-Analyst-Projet---Janvier-2026_JR014672",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014672",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "c71dece991fe",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Data Analyst - Banque Privée - Janvier 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Data-Analyst---Banque-Prive---Janvier-2026_JR014190",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR014190",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "a9d67a8088c6",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR012488",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "de919a852324",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Affaires Publiques et Gouvernementales Stage - Septembre 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Affaires-Publiques-et-Gouvernementales-Stage---Spetembre-2026---Paris--H-F-_JR1001781",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "d220770d172e",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Internal & CSR Communication Apprentice - Septembre 2026 - Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Internal---CSR-Communication-Apprentice_JR1001828",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "df6f1d49eafc",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern_JR1000177",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "61c6374476a0",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern - April 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1001772",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "93f1759d30ca",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Secondaries & Primaries Data Science Intern - July 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "f2f7be4eb937",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "IT-Documents & Privacy Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris La Défense",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Documents---Privacy-Stage---Septembre-2026-I-Paris--M-F-_JR1001916",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "96112c44e45f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Infrastructure Nature-Based Solutions Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Septembre-2026-I-Paris--M-F-_JR1001908",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "e7a530d3bb66",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Infrastructure Nature-Based Solutions Stage - Juillet 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Juillet-2025-I-Paris--M-F-_JR1001906",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
       "is_new": false,
       "match_score": 45,
       "match_reasons": [
@@ -3238,12 +3383,12 @@
       "title": "Summer Internship Program – Charles River Development Product Management Intern",
       "location": "London, England",
       "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Summer-Internship-Program---Charles-River-Development-Product-Management-Intern_R-784228-1",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "R-784228",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-05-05",
+      "time_type": "Full time",
       "duration": "",
-      "requirements": "",
+      "requirements": "A buddy who can offer you their experience, knowledge and guidance throughout your internship.\nDedicated networking events for the Interns\nLeadership and business-related sessions with Senior Management\nPossibility to grow your professional network by joining an Employee Committees include: Professional PWN, Families Network, Disability & Inclusion Network, Pride & Friends Network, Environmental Sustainability Network\nProgram dates: 22June 2026 – 28-August 2026\nwork from the office 4 days a week.",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -3254,32 +3399,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "944cbf9fa00f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Buyout Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Buyout-Stage---Septembre-2026-I-Paris--M-F-_JR1001971",
-      "posted_date": "Posted Yesterday",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "fe8479d39a5f",
@@ -3304,7 +3424,32 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "896b284b5c03",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Banking Graduate Programme 2026 Paris",
+      "location": "Paris, Origami",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Banking-Graduate-Programme-2026-Paris_JR-0000066814",
+      "posted_date": "Posted 12 Days Ago",
+      "description": "JR-0000066814",
+      "start_date": "2026-04-24",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their ass",
+      "source": "workday",
+      "first_seen": "2026-04-24",
+      "is_new": false,
+      "match_score": 35,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-05-06"
     },
     {
       "id": "80e4afba7ddf",
@@ -3313,10 +3458,10 @@
       "title": "Fund Finance Real Estate - Fund Administrative Apprentice - Septembre 2026 | Paris",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Real-Estate---Fund-Administrative-Apprentice---Septembre-2026---Paris_JR1001833-1",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-17",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3329,7 +3474,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "37411bee6b91",
@@ -3340,8 +3485,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance---Secondaries---Primaries-Apprentice---Septembre-2026---Paris--H-F-_JR1001835",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-24",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3354,7 +3499,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "b896064e146b",
@@ -3365,8 +3510,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance---Infrastructure-Apprentice---Septembre-2026---Paris--M-F-_JR1001832",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-16",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3379,7 +3524,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "9856e5ea3dae",
@@ -3390,8 +3535,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Co-Investment-Apprentice---Septembre-2026---Paris--M-F-_JR1001819",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-11",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3404,7 +3549,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "981c756ac860",
@@ -3429,32 +3574,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "896b284b5c03",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Banking Graduate Programme 2026 Paris",
-      "location": "Paris, Origami",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Banking-Graduate-Programme-2026-Paris_JR-0000066814",
-      "posted_date": "Posted 11 Days Ago",
-      "description": "JR-0000066814",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-04-24",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: Paris",
-        "Domain: banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f42204b8c228",
@@ -3463,12 +3583,12 @@
       "title": "IT Business Analyst Apprentice - Direct Funds - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Business-Analyst-Apprentice---Direct-Funds---Septembre-2026---Paris--H-F-_JR1001932-1",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
       "duration": "",
-      "requirements": "",
+      "requirements": "Curiosité & envie d’apprendre\nAutonomie progressive\nProactivité\nEsprit d’équipe\nCompétences techniques (non essentielles)\nConnaissance d’outils BI (Power BI, Tableau)",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -3479,7 +3599,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "7cd5fe98e3d5",
@@ -3488,10 +3608,10 @@
       "title": "IT Business Analyst Apprentice - Cashflow fund modelling - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Business-Analyst-Apprentice---Cashflow-fund-modelling---Septembre-2026---Paris--H-F-_JR1001868",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-07",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3504,7 +3624,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "a13473d947b7",
@@ -3515,8 +3635,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Risk---Cybersecurity-Apprentice---Septembre-2026---Paris--H-F-_JR1001930",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-02",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3529,7 +3649,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "5aa60d2835b3",
@@ -3553,7 +3673,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "d65ff1c1a27e",
@@ -3577,7 +3697,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f656b9b1205d",
@@ -3597,7 +3717,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "053d5e55ea31",
@@ -3606,10 +3726,10 @@
       "title": "IT Business Analyst Apprentice - Secondaries & Primaries - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Business-Analyst-Apprentice---Secondaries---Primaries---Septembre-2026---Paris--H-F-_JR1001861",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-24",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3621,7 +3741,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "5a128776a6a2",
@@ -3630,10 +3750,10 @@
       "title": "Sustainability Apprentice - Data & AI",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Apprentice---Data---AI_JR1001821",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3645,7 +3765,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "91d9dc797f67",
@@ -3654,34 +3774,10 @@
       "title": "HR Administration Apprentice - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/HR-Administration-Apprentice---Septembre-2026---Paris--H-F-_JR1001854",
-      "posted_date": "Posted 21 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "3e63d02b6886",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Assistant Apprentice - Septembre 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Assistant-Apprentice---Septembre-2026---Paris--H-F-_JR1001838",
       "posted_date": "Posted 22 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-14",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3693,7 +3789,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "efce9a12de0e",
@@ -3702,10 +3798,10 @@
       "title": "Business Analyst Apprentice (eFront / iCredit) - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Fullstack-Developer-Apprentice--iCredit-Debtmanager----Septembre-2026---Paris--H-F-_JR1001865",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-13",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3717,7 +3813,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "9a1b6495c2ff",
@@ -3728,8 +3824,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Accounting-Apprentice---Septembre-2026---Paris--H-F-_JR1001837",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-18",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3741,7 +3837,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "f7c45f277735",
@@ -3752,8 +3848,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Press---Influence-Apprentice---Septembre-2026---Paris--H-F-_JR1001829",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-17",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3765,7 +3861,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "74701622d546",
@@ -3776,8 +3872,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Assistant-Apprentice---Septembre-2026---Paris--H-F-_JR1001858",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-18",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3789,7 +3885,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "a136d84f4cf6",
@@ -3800,8 +3896,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investment-Solutions-Implementation-Apprentice_JR1001823",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-02",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3813,31 +3909,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
-    },
-    {
-      "id": "d3646a6b168f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Public Affairs Apprentice - Septembre 2026 - Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Public-Affairs-Apprentice---Septembre-2026---Paris--H-F-_JR1001822",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "01ea0130b80f",
@@ -3848,8 +3920,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Software-Engineering-Apprentice-DevFactory---Septembre-2026---Paris--H-F-_JR1001867",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-04-03",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3861,7 +3933,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "dc7e744df391",
@@ -3872,8 +3944,8 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Business-Analyst-Apprentice---September-2025---Paris--M-F-_JR1001142",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2025-06-18",
+      "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
@@ -3885,7 +3957,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     },
     {
       "id": "e427c68159b4",
@@ -3896,10 +3968,10 @@
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Project-Apprentice---Septembre-2026---Paris--H-F-_JR1001825",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "",
-      "time_type": "",
+      "start_date": "2026-03-20",
+      "time_type": "Full time",
       "duration": "",
-      "requirements": "",
+      "requirements": "Bac +2/+3\nExpérience en gestion de projets informatiques préférable\nCompétences Requises :\nMaitrise de l’anglais indispensable\nTravail en équipe\nOrganisation",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -3909,7 +3981,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-05"
+      "last_seen": "2026-05-06"
     }
   ],
   "direct_links": [
@@ -4890,7 +4962,7 @@
   "stats": {
     "total_jobs": 143,
     "new_today": 0,
-    "high_match": 37,
+    "high_match": 97,
     "firms_scraped": 31,
     "firms_failed": 0,
     "firms_empty": 17,
