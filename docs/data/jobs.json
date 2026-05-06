@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-06T09:31:41.607423+00:00",
+  "last_updated": "2026-05-06T13:27:28.826730+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 19,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "count": 20,
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 46,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T09:31:41.607423+00:00"
+      "timestamp": "2026-05-06T13:27:28.826730+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -1349,7 +1349,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-55e0737ae96c/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-44fb1450a677/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3070,6 +3070,32 @@
       "match_reasons": [
         "Location: London",
         "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "b236cae7884c",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management | Private Credit | Seasonal/Off-Cycle | Pipeline",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/166820",
+      "posted_date": "2026-05-06",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-06",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Domain: asset management",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -4960,8 +4986,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 143,
-    "new_today": 0,
+    "total_jobs": 144,
+    "new_today": 1,
     "high_match": 97,
     "firms_scraped": 31,
     "firms_failed": 0,
