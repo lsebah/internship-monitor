@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-06T13:27:28.826730+00:00",
+  "last_updated": "2026-05-06T17:28:20.103663+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -162,8 +162,8 @@
     },
     "Point72": {
       "status": "success",
-      "count": 4,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "count": 3,
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 46,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "count": 42,
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-06T13:27:28.826730+00:00"
+      "timestamp": "2026-05-06T17:28:20.103663+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -1349,7 +1349,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-44fb1450a677/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cbeea50a6d96/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1954,6 +1954,32 @@
       "last_seen": "2026-05-06"
     },
     {
+      "id": "1246ea26b25b",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
+      "posted_date": "Posted 21 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
       "id": "1e5c818b0715",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -1986,32 +2012,6 @@
       "title": "Digital Transformation Stage - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Septembre-2026---Paris--H-F-_JR1001911",
-      "posted_date": "Posted 21 Days Ago",
-      "description": "",
-      "start_date": "2026-04-15",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-06"
-    },
-    {
-      "id": "1246ea26b25b",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
       "posted_date": "Posted 21 Days Ago",
       "description": "",
       "start_date": "2026-04-15",
@@ -3013,27 +3013,6 @@
       "last_seen": "2026-05-06"
     },
     {
-      "id": "6dda2f6ee80d",
-      "bank": "Point72",
-      "category": "Hedge Fund",
-      "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - EMEA",
-      "location": "Dubai, London",
-      "url": "https://boards.greenhouse.io/point72/jobs/8435134002?gh_jid=8435134002",
-      "posted_date": "2026-03-31",
-      "description": "",
-      "source": "greenhouse",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-05-06"
-    },
-    {
       "id": "f4422ad60fba",
       "bank": "Point72",
       "category": "Hedge Fund",
@@ -3048,6 +3027,27 @@
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "6dda2f6ee80d",
+      "bank": "Point72",
+      "category": "Hedge Fund",
+      "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - EMEA",
+      "location": "Dubai, London",
+      "url": "https://boards.greenhouse.io/point72/jobs/8435134002?gh_jid=8435134002",
+      "posted_date": "2026-03-31",
+      "description": "",
+      "source": "greenhouse",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
         "Type: Internship/Stage"
       ],
       "match_class": "moderate",
@@ -3090,7 +3090,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-05-06",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -3866,30 +3866,6 @@
       "last_seen": "2026-05-06"
     },
     {
-      "id": "f7c45f277735",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Press & Influence Apprentice - Septembre 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Press---Influence-Apprentice---Septembre-2026---Paris--H-F-_JR1001829",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "2026-03-17",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-06"
-    },
-    {
       "id": "74701622d546",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3899,30 +3875,6 @@
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
       "start_date": "2026-03-18",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-06"
-    },
-    {
-      "id": "a136d84f4cf6",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investment Solutions Implementation Apprentice - Septembre 2026 - Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investment-Solutions-Implementation-Apprentice_JR1001823",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "2026-04-02",
       "time_type": "Full time",
       "duration": "",
       "requirements": "",
@@ -3971,6 +3923,54 @@
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
       "start_date": "2025-06-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "f7c45f277735",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Press & Influence Apprentice - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Press---Influence-Apprentice---Septembre-2026---Paris--H-F-_JR1001829",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-03-17",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-05-06"
+    },
+    {
+      "id": "a136d84f4cf6",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investment Solutions Implementation Apprentice - Septembre 2026 - Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investment-Solutions-Implementation-Apprentice_JR1001823",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-04-02",
       "time_type": "Full time",
       "duration": "",
       "requirements": "",
@@ -4987,7 +4987,7 @@
   ],
   "stats": {
     "total_jobs": 144,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 97,
     "firms_scraped": 31,
     "firms_failed": 0,
