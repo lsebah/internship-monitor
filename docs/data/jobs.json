@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-11T10:40:48.526784+00:00",
+  "last_updated": "2026-05-11T14:23:14.000589+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 19,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 3,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "count": 4,
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "State Street": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "count": 1,
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "count": 0,
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 40,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "count": 41,
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-11T10:40:48.526784+00:00"
+      "timestamp": "2026-05-11T14:23:14.000589+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -1377,7 +1377,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6195e2eeca6a/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a1b6de4f0732/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1404,7 +1404,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6195e2eeca6a/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a1b6de4f0732/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1723,12 +1723,38 @@
       "last_seen": "2026-05-11"
     },
     {
+      "id": "754e62a10b0e",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a1b6de4f0732/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-05-11",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-11"
+    },
+    {
       "id": "39c136df5349",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Real Estate Investing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6195e2eeca6a/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a1b6de4f0732/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1983,32 +2009,6 @@
       "last_seen": "2026-05-11"
     },
     {
-      "id": "1246ea26b25b",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
-      "posted_date": "Posted 26 Days Ago",
-      "description": "",
-      "start_date": "2026-04-15",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-11"
-    },
-    {
       "id": "1e5c818b0715",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2041,6 +2041,32 @@
       "title": "Digital Transformation Stage - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Septembre-2026---Paris--H-F-_JR1001911",
+      "posted_date": "Posted 26 Days Ago",
+      "description": "",
+      "start_date": "2026-04-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-11"
+    },
+    {
+      "id": "1246ea26b25b",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
       "posted_date": "Posted 26 Days Ago",
       "description": "",
       "start_date": "2026-04-15",
@@ -2920,6 +2946,32 @@
       "last_seen": "2026-05-11"
     },
     {
+      "id": "e53c5322da7e",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Infrastructure Intern - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Intern---Juillet-2026---Paris--H-F-_JR1001684",
+      "posted_date": "Posted Today",
+      "description": "",
+      "start_date": "2026-05-11",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-11",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-11"
+    },
+    {
       "id": "4d3f5433d8e6",
       "bank": "Point72",
       "category": "Hedge Fund",
@@ -3483,6 +3535,31 @@
       "last_seen": "2026-04-30"
     },
     {
+      "id": "16442be41b52",
+      "bank": "State Street",
+      "category": "Asset Manager",
+      "title": "Summer Internship Program – Charles River Development – Marketing Intern",
+      "location": "London, England",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/London-England/Summer-Internship-Program---Charles-River-Development---Marketing-Intern_R-784005-1",
+      "posted_date": "Posted Today",
+      "description": "R-784005",
+      "start_date": "2026-05-11",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "A buddy who can offer you their experience, knowledge and guidance throughout your internship.\nDedicated networking events for the Interns\nLeadership and business-related sessions with Senior Management\nPossibility to grow your professional network by joining an Employee Committees include: Professional PWN, Families Network, Disability & Inclusion Network, Pride & Friends Network, Environmental Sustainability Network\nProgram dates: 22 June 2026 – 28 August 2026\nwork from the office 4 days a week.",
+      "source": "workday",
+      "first_seen": "2026-05-11",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-05-11"
+    },
+    {
       "id": "fe8479d39a5f",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -3775,26 +3852,6 @@
       "match_score": 25,
       "match_reasons": [
         "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-11"
-    },
-    {
-      "id": "f656b9b1205d",
-      "bank": "Man Group",
-      "category": "Hedge Fund",
-      "title": "Solutions Graduate Analyst",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4846429101",
-      "posted_date": "2026-05-01",
-      "description": "",
-      "source": "greenhouse",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: London"
       ],
       "match_class": "low",
       "excluded": false,
@@ -5065,9 +5122,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 147,
-    "new_today": 0,
-    "high_match": 99,
+    "total_jobs": 149,
+    "new_today": 3,
+    "high_match": 101,
     "firms_scraped": 31,
     "firms_failed": 0,
     "firms_empty": 19,
