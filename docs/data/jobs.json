@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-22T14:12:56.075880+00:00",
+  "last_updated": "2026-05-22T17:49:53.507854+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "count": 7,
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 42,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-22T14:12:56.075880+00:00"
+      "timestamp": "2026-05-22T17:49:53.507854+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -1128,6 +1128,87 @@
       "last_seen": "2026-05-22"
     },
     {
+      "id": "595b31f890ae",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-05-08",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-22"
+    },
+    {
+      "id": "88e46ec629be",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-22"
+    },
+    {
+      "id": "967d2d8b5b3b",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2026 Quantitative Finance Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/19885-2026-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-05-22",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-22"
+    },
+    {
       "id": "7158cd1f6ad9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1153,60 +1234,6 @@
       "match_class": "good",
       "excluded": false,
       "last_seen": "2026-05-22"
-    },
-    {
-      "id": "595b31f890ae",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-05-08",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-21"
-    },
-    {
-      "id": "88e46ec629be",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: risk",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-21"
     },
     {
       "id": "dd65a8c0fdee",
@@ -1511,7 +1538,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1529,7 +1556,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-21"
+      "last_seen": "2026-05-22"
     },
     {
       "id": "28426ec9c8f2",
@@ -1537,7 +1564,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship – Channel Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1555,7 +1582,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-21"
+      "last_seen": "2026-05-22"
     },
     {
       "id": "39c136df5349",
@@ -1563,7 +1590,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Real Estate Investing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1581,7 +1608,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-21"
+      "last_seen": "2026-05-22"
     },
     {
       "id": "912ac17a3ec7",
@@ -1589,7 +1616,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship Program – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-34e0b29c306b/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9e98fc8a7ead/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1607,7 +1634,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-21"
+      "last_seen": "2026-05-22"
     },
     {
       "id": "b61899a481d2",
@@ -4921,12 +4948,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 141,
-    "new_today": 0,
-    "high_match": 97,
+    "total_jobs": 142,
+    "new_today": 1,
+    "high_match": 98,
     "firms_scraped": 31,
     "firms_failed": 0,
-    "firms_empty": 20,
+    "firms_empty": 19,
     "firms_total": 60
   }
 }
