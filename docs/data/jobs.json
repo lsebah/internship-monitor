@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-23T16:56:54.892614+00:00",
+  "last_updated": "2026-05-24T09:24:07.569039+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 42,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-23T16:56:54.892614+00:00"
+      "timestamp": "2026-05-24T09:24:07.569039+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -300,7 +300,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "eef530ac48c2",
@@ -328,7 +328,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "98836783533b",
@@ -356,7 +356,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d23c22f2c608",
@@ -384,7 +384,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "6c5a14f8857a",
@@ -468,7 +468,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "1ed43e16d422",
@@ -496,7 +496,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "6c37709d0321",
@@ -524,7 +524,7 @@
       ],
       "match_class": "excellent",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "06f9cfe7daec",
@@ -579,7 +579,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "cdcdf2030ae0",
@@ -606,7 +606,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "63c66d23eb8a",
@@ -746,7 +746,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "380fec08812c",
@@ -773,7 +773,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "1069fde398f6",
@@ -800,7 +800,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "9dddb89ef634",
@@ -827,7 +827,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "294b65dcf83b",
@@ -854,7 +854,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "0df08051c57b",
@@ -881,7 +881,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "c65abc301ee0",
@@ -908,7 +908,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7e0dbc60667c",
@@ -917,7 +917,7 @@
       "title": "Fund Finance-General Partners Luxembourg Stage - Septembre 2026 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-General-Partners-Luxembourg-Stage---Septembre-2026-I-Paris--M-F-_JR1001915",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "description": "",
       "start_date": "2026-05-13",
       "time_type": "Full time",
@@ -935,7 +935,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "c8fcbc0ee543",
@@ -962,7 +962,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "23f84773435a",
@@ -989,7 +989,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "2477cbbad637",
@@ -1016,7 +1016,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "5ce97a828454",
@@ -1043,7 +1043,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7224ecee4a1e",
@@ -1070,7 +1070,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "595b31f890ae",
@@ -1078,7 +1078,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1097,7 +1097,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "88e46ec629be",
@@ -1105,7 +1105,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1124,7 +1124,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "967d2d8b5b3b",
@@ -1132,7 +1132,7 @@
       "category": "Investment Bank",
       "title": "2026 Quantitative Finance Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/19885-2026-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/19885-2026-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1151,7 +1151,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7158cd1f6ad9",
@@ -1178,7 +1178,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "dd65a8c0fdee",
@@ -1205,7 +1205,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "233646196f92",
@@ -1268,7 +1268,7 @@
       "title": "Group Finance Treasury Stage - Septembre 2026 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance-Treasury-Stage---Septembre-2026-I-Paris--H-F-_JR1001958",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "",
       "start_date": "2026-04-24",
       "time_type": "Full time",
@@ -1286,7 +1286,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "299fb8b6c528",
@@ -1313,7 +1313,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7a6b2010d876",
@@ -1340,7 +1340,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "0b5091fe96b6",
@@ -1367,7 +1367,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d9ab6325f258",
@@ -1394,7 +1394,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b17c342767e9",
@@ -1421,7 +1421,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "e8348eab831f",
@@ -1448,7 +1448,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "0747d7aac996",
@@ -1457,7 +1457,7 @@
       "title": "Intern - TRX team",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Intern---TRX-team_R0436461",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "description": "R0436461",
       "start_date": "2026-05-18",
       "time_type": "Full time",
@@ -1475,7 +1475,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "754e62a10b0e",
@@ -1483,7 +1483,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1501,7 +1501,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "28426ec9c8f2",
@@ -1509,7 +1509,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship – Channel Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1527,7 +1527,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "39c136df5349",
@@ -1535,7 +1535,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Real Estate Investing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/21148-2026-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1553,7 +1553,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "912ac17a3ec7",
@@ -1561,7 +1561,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship Program – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3294bc2a4a6e/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3632e9bc9384/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1579,7 +1579,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b61899a481d2",
@@ -1605,7 +1605,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "9db903d1015b",
@@ -1631,7 +1631,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "6e22b44b6c72",
@@ -1657,7 +1657,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7cb49b0f582b",
@@ -1683,7 +1683,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "e53c5322da7e",
@@ -1692,7 +1692,7 @@
       "title": "Infrastructure Intern - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Intern---Juillet-2026---Paris--H-F-_JR1001684",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "description": "",
       "start_date": "2026-05-13",
       "time_type": "Full time",
@@ -1709,7 +1709,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d17d56d6485f",
@@ -1718,7 +1718,7 @@
       "title": "Secondaries & Primaries IT Project Management Intern - September 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-IT-Project-Management-Intern---September-2026---London_JR1001984",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "description": "",
       "start_date": "2026-05-13",
       "time_type": "Full time",
@@ -1735,7 +1735,33 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
+    },
+    {
+      "id": "377e1a5c1a78",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations-Client Solution Stage - Juillet/Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Client-Solution-Stage---Juillet-2026-I-Paris--H-F-_JR1001782",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "",
+      "start_date": "2026-05-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-22",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-24"
     },
     {
       "id": "944cbf9fa00f",
@@ -1744,7 +1770,7 @@
       "title": "Buyout Stage - Septembre 2026 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Buyout-Stage---Septembre-2026-I-Paris--M-F-_JR1001971",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "description": "",
       "start_date": "2026-05-04",
       "time_type": "Full time",
@@ -1761,7 +1787,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "53928eca5fad",
@@ -1790,32 +1816,6 @@
       "last_seen": "2026-05-13"
     },
     {
-      "id": "cdce8a3adad3",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Sustainability Real Assets Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Septembre-2026-I-Paris--H-F-_JR1001949",
-      "posted_date": "Posted 30 Days Ago",
-      "description": "",
-      "start_date": "2026-04-23",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-23"
-    },
-    {
       "id": "fb594cdd7e86",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1839,7 +1839,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d5a4298450f8",
@@ -1865,7 +1865,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "0b14b84bac13",
@@ -1891,7 +1891,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "df7caa25aaff",
@@ -1917,7 +1917,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "398d0dc9ddaf",
@@ -1943,7 +1943,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "e30bf148363b",
@@ -1969,7 +1969,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "57c243b74200",
@@ -1995,7 +1995,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "e7a1e22c35d1",
@@ -2021,7 +2021,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "102df8421382",
@@ -2047,7 +2047,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "651eef028e62",
@@ -2073,7 +2073,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "70a0a10a7492",
@@ -2099,7 +2099,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b99ae95dbf17",
@@ -2125,7 +2125,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "5f7ee3b6d156",
@@ -2151,7 +2151,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "425d9b94e18c",
@@ -2177,7 +2177,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "db68fcb7e4eb",
@@ -2203,7 +2203,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "708d01915510",
@@ -2229,7 +2229,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "978ce57c57d5",
@@ -2255,7 +2255,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "18dad24d5bf0",
@@ -2281,7 +2281,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "5509a09c94f5",
@@ -2307,7 +2307,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b953740cf8d5",
@@ -2333,7 +2333,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "251d6c6f061b",
@@ -2359,7 +2359,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "3e12d5c9f646",
@@ -2385,7 +2385,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "ad73f7df5b5f",
@@ -2411,7 +2411,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "c71dece991fe",
@@ -2437,7 +2437,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "de919a852324",
@@ -2463,7 +2463,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d1e1d6ac3028",
@@ -2489,7 +2489,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "93f1759d30ca",
@@ -2516,7 +2516,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "c1a5ba68c31a",
@@ -2542,7 +2542,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "1e5c818b0715",
@@ -2568,7 +2568,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "f3b4871fe3f5",
@@ -2594,7 +2594,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "532e830561aa",
@@ -2620,7 +2620,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "1246ea26b25b",
@@ -2646,7 +2646,33 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
+    },
+    {
+      "id": "cdce8a3adad3",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Sustainability Real Assets Stage - Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Septembre-2026-I-Paris--H-F-_JR1001949",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-04-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-24"
     },
     {
       "id": "96112c44e45f",
@@ -2672,7 +2698,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "e7a530d3bb66",
@@ -2698,7 +2724,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d3646a6b168f",
@@ -2724,7 +2750,7 @@
       ],
       "match_class": "good",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "f2f7be4eb937",
@@ -2805,32 +2831,6 @@
       "last_seen": "2026-05-21"
     },
     {
-      "id": "377e1a5c1a78",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations-Client Solution Stage - Juillet/Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Client-Solution-Stage---Juillet-2026-I-Paris--H-F-_JR1001782",
-      "posted_date": "Posted Yesterday",
-      "description": "",
-      "start_date": "2026-05-22",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-22",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-23"
-    },
-    {
       "id": "4d3f5433d8e6",
       "bank": "Point72",
       "category": "Hedge Fund",
@@ -2876,7 +2876,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "df6f1d49eafc",
@@ -2902,7 +2902,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "545bd477145a",
@@ -2911,7 +2911,7 @@
       "title": "Corporate Finance Intern - July 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Corporate-Finance-Intern---July-2026---London_JR1001986",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "",
       "start_date": "2026-05-15",
       "time_type": "Full time",
@@ -2928,7 +2928,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "de3e838c9593",
@@ -2950,7 +2950,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "42fc731126a2",
@@ -2959,7 +2959,7 @@
       "title": "Trainee - Real Estate Fund Management - 12 Month FTC - (Investment 20/20 Programme)",
       "location": "London, London",
       "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/London-London/Trainee---Real-Estate-Fund-Management---12-Month-FTC----Investment-20-20-Programme-_R-13572-1",
-      "posted_date": "Posted 10 Days Ago",
+      "posted_date": "Posted 11 Days Ago",
       "description": "R-13572",
       "start_date": "2026-05-13",
       "time_type": "Full time",
@@ -2976,7 +2976,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d4620d1c5b6b",
@@ -2985,7 +2985,7 @@
       "title": "Secondaries and Primaries Intern - September 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries-and-Primaries-Intern---September-2026---London_JR1001992",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "description": "",
       "start_date": "2026-05-19",
       "time_type": "Full time",
@@ -3002,7 +3002,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "83748e5ed0f8",
@@ -3028,7 +3028,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "2694e9555222",
@@ -3054,7 +3054,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "a92510c0711e",
@@ -3080,7 +3080,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b236cae7884c",
@@ -3127,7 +3127,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "3f11dbf7cd2a",
@@ -3136,7 +3136,7 @@
       "title": "Trainee, Investment Operations - 12 Month FTC - (Investment 20/20 Programme)",
       "location": "London, London",
       "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/London-London/Trainee--Investment-Operations---12-Month-FTC----Investment-20-20-Programme-_R-13513-1",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "description": "R-13513",
       "start_date": "2026-05-12",
       "time_type": "Full time",
@@ -3152,7 +3152,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "eb3ce19b289e",
@@ -3161,7 +3161,7 @@
       "title": "Trainee Client Investment Solutions Analyst - 12 Month FTC - (Investment 20/20 Programme)",
       "location": "London, London",
       "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/London-London/Trainee-Client-Investment-Solutions-Analyst---12-Month-FTC----Investment-20-20-Programme-_R-13846-1",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "description": "R-13846",
       "start_date": "2026-05-12",
       "time_type": "Full time",
@@ -3177,7 +3177,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "ef04ca7c5a56",
@@ -3186,7 +3186,7 @@
       "title": "Trainee - European Living investments - 12 Month FTC - (Investment 20/20 Programme)",
       "location": "London, London",
       "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/London-London/Trainee---European-Living-investments---12-Month-FTC----Investment-20-20-Programme-_R-13937-1",
-      "posted_date": "Posted 12 Days Ago",
+      "posted_date": "Posted 13 Days Ago",
       "description": "R-13937",
       "start_date": "2026-05-11",
       "time_type": "Full time",
@@ -3202,7 +3202,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "16442be41b52",
@@ -3252,7 +3252,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "09fdfbb3e894",
@@ -3277,7 +3277,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "fc00e301e373",
@@ -3302,7 +3302,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "26d6a2b841c3",
@@ -3327,7 +3327,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "a9d67a8088c6",
@@ -3352,7 +3352,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d220770d172e",
@@ -3377,7 +3377,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "a550b6d5abad",
@@ -3402,7 +3402,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "45eaf5337ef6",
@@ -3427,7 +3427,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "3e63d02b6886",
@@ -3452,7 +3452,7 @@
       ],
       "match_class": "moderate",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "fe8479d39a5f",
@@ -3477,7 +3477,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "37411bee6b91",
@@ -3502,7 +3502,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "b896064e146b",
@@ -3527,7 +3527,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "9856e5ea3dae",
@@ -3552,7 +3552,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "80e4afba7ddf",
@@ -3577,7 +3577,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "981c756ac860",
@@ -3602,7 +3602,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "7cd5fe98e3d5",
@@ -3627,7 +3627,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "f42204b8c228",
@@ -3661,7 +3661,7 @@
       "title": "IT Risk & Cybersecurity Apprentice - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/IT-Risk---Cybersecurity-Apprentice---Septembre-2026---Paris--H-F-_JR1001930",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "description": "",
       "start_date": "2026-05-18",
       "time_type": "Full time",
@@ -3677,7 +3677,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "d65ff1c1a27e",
@@ -3701,7 +3701,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "896f99913c66",
@@ -3710,7 +3710,7 @@
       "title": "Business Analyst Apprentice (GRC) - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Business-Analyst-Apprentice--GRC----Septembre-2026---Paris--H-F-_JR1001856",
-      "posted_date": "Posted 11 Days Ago",
+      "posted_date": "Posted 12 Days Ago",
       "description": "",
       "start_date": "2026-05-12",
       "time_type": "Full time",
@@ -3725,7 +3725,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "053d5e55ea31",
@@ -3752,6 +3752,30 @@
       "last_seen": "2026-05-13"
     },
     {
+      "id": "23c39341c1f9",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Talent Acquisition & HR Development Apprentice - Septembre 2026 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Talent-Acquisition---HR-Development-Apprentice---Septembre-2026---Paris--H-F-_JR1001976",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "",
+      "start_date": "2026-05-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-07",
+      "is_new": false,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-05-24"
+    },
+    {
       "id": "9a1b6495c2ff",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3773,7 +3797,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "5a128776a6a2",
@@ -3797,7 +3821,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "01ea0130b80f",
@@ -3821,7 +3845,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "efce9a12de0e",
@@ -3845,7 +3869,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     },
     {
       "id": "dc7e744df391",
@@ -3869,31 +3893,7 @@
       ],
       "match_class": "low",
       "excluded": false,
-      "last_seen": "2026-05-23"
-    },
-    {
-      "id": "23c39341c1f9",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Talent Acquisition & HR Development Apprentice - Septembre 2026 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Talent-Acquisition---HR-Development-Apprentice---Septembre-2026---Paris--H-F-_JR1001976",
-      "posted_date": "Posted Yesterday",
-      "description": "",
-      "start_date": "2026-05-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-07",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-05-23"
+      "last_seen": "2026-05-24"
     }
   ],
   "direct_links": [
