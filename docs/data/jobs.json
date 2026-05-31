@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-05-31T13:10:51.944123+00:00",
+  "last_updated": "2026-05-31T17:04:11.925811+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 6,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "count": 0,
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-05-31T13:10:51.944123+00:00"
+      "timestamp": "2026-05-31T17:04:11.925811+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -1071,6 +1071,33 @@
       "last_seen": "2026-05-31"
     },
     {
+      "id": "7158cd1f6ad9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Tactical Opportunities H2 Off Cycle Internship",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
+      "posted_date": "",
+      "description": "40609",
+      "start_date": "2026-03-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
+      "source": "workday",
+      "first_seen": "2026-04-12",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-05-31"
+    },
+    {
       "id": "595b31f890ae",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -1139,33 +1166,6 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-05-22",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-05-31"
-    },
-    {
-      "id": "7158cd1f6ad9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Tactical Opportunities H2 Off Cycle Internship",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Tactical-Opportunities-H2-Off-Cycle-Internship_40609",
-      "posted_date": "",
-      "description": "40609",
-      "start_date": "2026-03-23",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Blackstone seeks to hire individuals who are highly motivated, intelligent, and have demonstrated excellence in prior endeavours. In addition to strong analytical and quantitative skills, the successful\ncandidate should (have):\nStrong verbal and written communication skills\nProficiency in accounting and finance concepts\nExcellent attention to detail\nA desire to work in a collaborative team environment with dynamic roles and willingness to contribute to a positive culture",
-      "source": "workday",
-      "first_seen": "2026-04-12",
       "is_new": false,
       "match_score": 65,
       "match_reasons": [
@@ -4823,7 +4823,7 @@
     "high_match": 92,
     "firms_scraped": 31,
     "firms_failed": 0,
-    "firms_empty": 18,
+    "firms_empty": 19,
     "firms_total": 60
   }
 }
