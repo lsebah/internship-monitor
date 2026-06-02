@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-06-02T11:23:23.600795+00:00",
+  "last_updated": "2026-06-02T15:56:23.763843+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 7,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "count": 8,
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 40,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "count": 39,
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-02T11:23:23.600795+00:00"
+      "timestamp": "2026-06-02T15:56:23.763843+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -471,34 +471,6 @@
       "last_seen": "2026-06-02"
     },
     {
-      "id": "1ed43e16d422",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
-      "location": "Paris, Origami",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR-0000070810",
-      "start_date": "2025-12-02",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.",
-      "source": "workday",
-      "first_seen": "2026-04-23",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: trading, sales",
-        "Duration: 6-month / off-cycle",
-        "CIB / Markets"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "last_seen": "2026-06-02"
-    },
-    {
       "id": "6c37709d0321",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -553,6 +525,34 @@
       "match_class": "excellent",
       "excluded": false,
       "last_seen": "2026-05-19"
+    },
+    {
+      "id": "1ed43e16d422",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2026 Paris",
+      "location": "Paris, Origami",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2026-Paris_JR-0000070810",
+      "posted_date": "Posted Today",
+      "description": "JR-0000070810",
+      "start_date": "2026-06-02",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.",
+      "source": "workday",
+      "first_seen": "2026-04-23",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle",
+        "CIB / Markets"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "last_seen": "2026-06-02"
     },
     {
       "id": "610d71816869",
@@ -670,7 +670,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -697,7 +697,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1102,7 +1102,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1453,7 +1453,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1479,7 +1479,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship – Channel Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1505,7 +1505,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship Program – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/21095-2026-Investment-Management-Off-cycle-Internship-Program-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3357,7 +3357,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-04ff13c9b1d1/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-13438ac982ac/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3721,17 +3721,17 @@
       "last_seen": "2026-06-02"
     },
     {
-      "id": "36dacf664ebd",
+      "id": "9ecef162bb79",
       "bank": "Man Group",
       "category": "Hedge Fund",
-      "title": "Talent Acquisition Apprentice ",
+      "title": "Investment Specialists Apprentice",
       "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101",
-      "posted_date": "2026-06-01",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4799141101",
+      "posted_date": "2026-06-02",
       "description": "",
       "source": "greenhouse",
-      "first_seen": "2026-06-01",
-      "is_new": false,
+      "first_seen": "2026-06-02",
+      "is_new": true,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -3741,24 +3741,20 @@
       "last_seen": "2026-06-02"
     },
     {
-      "id": "896f99913c66",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Business Analyst Apprentice (GRC) - Septembre 2026 | Paris (H/F)",
-      "location": "Paris La Défense",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Business-Analyst-Apprentice--GRC----Septembre-2026---Paris--H-F-_JR1001856",
-      "posted_date": "Posted 21 Days Ago",
+      "id": "36dacf664ebd",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Talent Acquisition Apprentice ",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4799143101",
+      "posted_date": "2026-06-02",
       "description": "",
-      "start_date": "2026-05-12",
-      "time_type": "Full time",
-      "duration": "3 semaines",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-12",
+      "source": "greenhouse",
+      "first_seen": "2026-06-01",
       "is_new": false,
       "match_score": 25,
       "match_reasons": [
-        "Location: Paris"
+        "Location: London"
       ],
       "match_class": "low",
       "excluded": false,
@@ -3923,6 +3919,30 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-27",
+      "is_new": false,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-06-02"
+    },
+    {
+      "id": "896f99913c66",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Business Analyst Apprentice (GRC) - Septembre 2026 | Paris (H/F)",
+      "location": "Paris La Défense",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Business-Analyst-Apprentice--GRC----Septembre-2026---Paris--H-F-_JR1001856",
+      "posted_date": "Posted Today",
+      "description": "",
+      "start_date": "2026-06-02",
+      "time_type": "Full time",
+      "duration": "3 semaines",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-12",
       "is_new": false,
       "match_score": 25,
       "match_reasons": [
@@ -4909,8 +4929,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 142,
-    "new_today": 0,
+    "total_jobs": 143,
+    "new_today": 1,
     "high_match": 93,
     "firms_scraped": 31,
     "firms_failed": 0,
