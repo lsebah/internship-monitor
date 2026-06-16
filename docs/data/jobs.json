@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-06-16T16:20:32.721517+00:00",
+  "last_updated": "2026-06-16T19:32:42.211031+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,13 +67,13 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 39,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "count": 28,
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 42,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-16T16:20:32.721517+00:00"
+      "timestamp": "2026-06-16T19:32:42.211031+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -809,7 +809,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -836,7 +836,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1155,33 +1155,6 @@
       "last_seen": "2026-06-16"
     },
     {
-      "id": "23f84773435a",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Private Equity - Banque Privée – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Private-Equity---Banque-Prive---Juillet-2026_JR015110",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015110",
-      "start_date": "2026-01-22",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
       "id": "2477cbbad637",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1290,6 +1263,33 @@
       "last_seen": "2026-06-16"
     },
     {
+      "id": "23f84773435a",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Private Equity - Banque Privée – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Private-Equity---Banque-Prive---Juillet-2026_JR015110",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015110",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
       "id": "ee773e219955",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -1322,7 +1322,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1349,7 +1349,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1753,7 +1753,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1779,7 +1779,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship – Channel Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2087,32 +2087,6 @@
       "last_seen": "2026-06-16"
     },
     {
-      "id": "0b14b84bac13",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Chargé(e) de communication - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Charg-e--de-communication---Juillet-2026_JR015228",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015228",
-      "start_date": "2026-02-12",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
       "id": "df7caa25aaff",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2122,58 +2096,6 @@
       "posted_date": "Posted 30+ Days Ago",
       "description": "JR015096",
       "start_date": "2026-01-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "398d0dc9ddaf",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste ESG Obligataire - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-ESG-Obligataire---Juillet-2026_JR015123",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015123",
-      "start_date": "2026-01-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "e30bf148363b",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Middle-Office Pôle Evènement Cash et Titres – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Ple-Evnement-Cash-et-Titres---Juillet-2026_JR015117",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015117",
-      "start_date": "2026-01-23",
       "time_type": "Full time",
       "duration": "6 mois",
       "requirements": "",
@@ -2225,32 +2147,6 @@
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Investment-Analyst---Juillet-2026_JR015104",
       "posted_date": "Posted 30+ Days Ago",
       "description": "JR015104",
-      "start_date": "2026-01-22",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "102df8421382",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) gestion de portefeuilles - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--gestion-de-portefeuilles_JR015103",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015103",
       "start_date": "2026-01-22",
       "time_type": "Full time",
       "duration": "6 mois",
@@ -2347,32 +2243,6 @@
       "last_seen": "2026-06-16"
     },
     {
-      "id": "5f7ee3b6d156",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste RFP - Appels d’offres – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-RFP---Appels-d-offres---Juillet-2026_JR015095",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015095",
-      "start_date": "2026-01-22",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
       "id": "425d9b94e18c",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2434,58 +2304,6 @@
       "posted_date": "Posted 30+ Days Ago",
       "description": "JR015088",
       "start_date": "2026-01-21",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "5509a09c94f5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Back-Office – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Back-Office---Juillet-2026_JR015039",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015039",
-      "start_date": "2026-01-12",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "b953740cf8d5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stagiaire Contrôle Permanent Bancaire – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Contrle-Permanent-Bancaire---Juillet-2026_JR015034",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015034",
-      "start_date": "2026-01-12",
       "time_type": "Full time",
       "duration": "6 mois",
       "requirements": "",
@@ -2816,6 +2634,188 @@
       "last_seen": "2026-06-16"
     },
     {
+      "id": "0b14b84bac13",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Chargé(e) de communication - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Charg-e--de-communication---Juillet-2026_JR015228",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015228",
+      "start_date": "2026-02-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "398d0dc9ddaf",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste ESG Obligataire - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-ESG-Obligataire---Juillet-2026_JR015123",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015123",
+      "start_date": "2026-01-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "e30bf148363b",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Middle-Office Pôle Evènement Cash et Titres – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Ple-Evnement-Cash-et-Titres---Juillet-2026_JR015117",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015117",
+      "start_date": "2026-01-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "102df8421382",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) gestion de portefeuilles - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--gestion-de-portefeuilles_JR015103",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015103",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "5f7ee3b6d156",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste RFP - Appels d’offres – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-RFP---Appels-d-offres---Juillet-2026_JR015095",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015095",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "5509a09c94f5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Back-Office – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Back-Office---Juillet-2026_JR015039",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015039",
+      "start_date": "2026-01-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "b953740cf8d5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stagiaire Contrôle Permanent Bancaire – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Contrle-Permanent-Bancaire---Juillet-2026_JR015034",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015034",
+      "start_date": "2026-01-12",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
       "id": "18dad24d5bf0",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3102,32 +3102,6 @@
       "last_seen": "2026-06-16"
     },
     {
-      "id": "b095737f8e83",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Mandat Private Equity Banque Privée - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Mandat-Private-Equity-Banque-Prive---Juillet-2026_JR015112",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015112",
-      "start_date": "2026-01-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
       "id": "df6f1d49eafc",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3174,6 +3148,32 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance, corporate finance"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "b095737f8e83",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Mandat Private Equity Banque Privée - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Mandat-Private-Equity-Banque-Prive---Juillet-2026_JR015112",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015112",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3294,7 +3294,7 @@
       "requirements": "Understand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "source": "workday",
       "first_seen": "2026-06-16",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -3480,71 +3480,21 @@
       "last_seen": "2026-06-16"
     },
     {
-      "id": "4fe9962445b4",
+      "id": "0efdd07d615f",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
-      "title": "Stage Marketing Produit - Juillet 2026",
+      "title": "Stage Reporting RH & Rémunérations - Janvier 2026",
       "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Marketing-Produit---Juillet-2026_JR015674",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Reporting-RH---Rmunrations---Janvier-2026_JR014587",
       "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015674",
-      "start_date": "2026-04-22",
+      "description": "JR014587",
+      "start_date": "2025-10-22",
       "time_type": "Full time",
       "duration": "",
       "requirements": "",
       "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "fc00e301e373",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Middle-Office Production - Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Production---Juillet-2026_JR015118",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015118",
-      "start_date": "2026-01-23",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-06-16"
-    },
-    {
-      "id": "26d6a2b841c3",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Client Service - Investor Relations – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Client-Service---Investor-Relations---Juillet-2026_JR015106",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015106",
-      "start_date": "2026-01-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
+      "first_seen": "2026-06-16",
+      "is_new": true,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -3655,6 +3605,81 @@
       "last_seen": "2026-06-16"
     },
     {
+      "id": "4fe9962445b4",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Marketing Produit - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Marketing-Produit---Juillet-2026_JR015674",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015674",
+      "start_date": "2026-04-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "fc00e301e373",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Middle-Office Production - Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Middle-Office-Production---Juillet-2026_JR015118",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015118",
+      "start_date": "2026-01-23",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
+      "id": "26d6a2b841c3",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Client Service - Investor Relations – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Client-Service---Investor-Relations---Juillet-2026_JR015106",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015106",
+      "start_date": "2026-01-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-06-16"
+    },
+    {
       "id": "09fdfbb3e894",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3710,7 +3735,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-15cf53b75ce5/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-b0b384ebfc4d/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5306,7 +5331,7 @@
     }
   ],
   "stats": {
-    "total_jobs": 157,
+    "total_jobs": 158,
     "new_today": 1,
     "high_match": 103,
     "firms_scraped": 31,
