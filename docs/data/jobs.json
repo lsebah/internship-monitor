@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-06-24T14:03:26.772729+00:00",
+  "last_updated": "2026-06-24T17:51:57.807758+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,13 +67,13 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 17,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "count": 18,
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 45,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "count": 44,
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-06-24T14:03:26.772729+00:00"
+      "timestamp": "2026-06-24T17:51:57.807758+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -917,7 +917,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -944,7 +944,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1425,12 +1425,39 @@
       "last_seen": "2026-06-16"
     },
     {
+      "id": "32d6c1ea2b2a",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Equity Sales – Rothschild & Co Redburn – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Equity-Sales---Rothschild---Co-Redburn---Septembre-2026_JR016055",
+      "posted_date": "Posted Today",
+      "description": "JR016055",
+      "start_date": "2026-06-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-24",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales, equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-06-24"
+    },
+    {
       "id": "595b31f890ae",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1457,7 +1484,7 @@
       "category": "Investment Bank",
       "title": "2026 Risk Management Off-Cycle Internship Program (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/19994-2026-Risk-Management-Off-Cycle-Internship-Program-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1807,7 +1834,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off Cycle Internship - European Real Estate Debt (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/21243-2026-Investment-Management-Off-Cycle-Internship-European-Real-Estate-Debt-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1833,7 +1860,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship – Channel Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/21235-2026-Investment-Management-Off-cycle-Internship-Channel-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3271,7 +3298,7 @@
       "requirements": "Strong analytical and problem-solving skills, with curiosity and willingness to\nGood communication and collaboration skills, with the ability to work\neffectively in a team environment\nAbility to manage tasks, prioritize learning objectives, and meet agreed\ntimelines\nGrowth mindset with strong interest in machine learning, AI, and emerging",
       "source": "workday",
       "first_seen": "2026-06-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -3506,18 +3533,18 @@
       "last_seen": "2026-06-24"
     },
     {
-      "id": "45eaf5337ef6",
+      "id": "3e63d02b6886",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "External Events Assistant Stage - Fin Août 2026 I Paris (M/F)",
+      "title": "Assistant Apprentice - Septembre 2026 | Paris (H/F)",
       "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/External-Events-Assistant-Stage---Fin-Aot-2026-I-Paris--M-F-_JR1001743",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Assistant-Apprentice---Septembre-2026---Paris--H-F-_JR1001838",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "2026-04-22",
+      "start_date": "2026-04-13",
       "time_type": "Full time",
-      "duration": "4 mois",
-      "requirements": "",
+      "duration": "",
+      "requirements": "BTS SAM – Support à l’Action Managériale\nCompétences Requises :\nMaîtrise des suites logiciels bureautiques (Outlook & Word) et d’internet\nBonne connaissance des logiciels Teams, Excel et PowerPoint\nLa connaissance de SAP Concur est un plus\nTrès bon niveau d’anglais, à l’écrit et à l’oral",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -3531,18 +3558,18 @@
       "last_seen": "2026-06-24"
     },
     {
-      "id": "3e63d02b6886",
+      "id": "45eaf5337ef6",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "Assistant Apprentice - Septembre 2026 | Paris (H/F)",
+      "title": "External Events Assistant Stage - Fin Août 2026 I Paris (M/F)",
       "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Assistant-Apprentice---Septembre-2026---Paris--H-F-_JR1001838",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/External-Events-Assistant-Stage---Fin-Aot-2026-I-Paris--M-F-_JR1001743",
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
-      "start_date": "2026-04-13",
+      "start_date": "2026-04-22",
       "time_type": "Full time",
-      "duration": "",
-      "requirements": "BTS SAM – Support à l’Action Managériale\nCompétences Requises :\nMaîtrise des suites logiciels bureautiques (Outlook & Word) et d’internet\nBonne connaissance des logiciels Teams, Excel et PowerPoint\nLa connaissance de SAP Concur est un plus\nTrès bon niveau d’anglais, à l’écrit et à l’oral",
+      "duration": "4 mois",
+      "requirements": "",
       "source": "workday",
       "first_seen": "2026-05-05",
       "is_new": false,
@@ -3661,7 +3688,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8c28ae539073/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5912df2439b8/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5227,9 +5254,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 154,
+    "total_jobs": 155,
     "new_today": 1,
-    "high_match": 101,
+    "high_match": 102,
     "firms_scraped": 31,
     "firms_failed": 0,
     "firms_empty": 19,
