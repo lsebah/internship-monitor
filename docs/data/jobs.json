@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-13T10:32:34.721999+00:00",
+  "last_updated": "2026-07-13T14:00:51.432776+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 18,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 35,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -243,13 +243,13 @@
     },
     "Permira": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "count": 2,
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-13T10:32:34.721999+00:00"
+      "timestamp": "2026-07-13T14:00:51.432776+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -942,7 +942,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6960f796ee81/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c27004d974b1/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -969,7 +969,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6960f796ee81/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c27004d974b1/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1504,6 +1504,59 @@
       "last_seen": "2026-07-02"
     },
     {
+      "id": "e075559b8c63",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
+      "posted_date": "",
+      "description": "43155 | Real Estate",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior endeavours\nThe successful candidate must\nStrong verbal and written communication skills",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, capital markets",
+        "CIB / Markets"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-13"
+    },
+    {
+      "id": "eee20292241e",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
+      "posted_date": "",
+      "description": "43613 | Infrastructure",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, asset management, equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-13"
+    },
+    {
       "id": "e5927bf7e591",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1552,59 +1605,6 @@
         "Type: Internship/Stage",
         "Domain: strategy",
         "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-13"
-    },
-    {
-      "id": "e075559b8c63",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-      "posted_date": "",
-      "description": "43155 | Real Estate",
-      "start_date": "2026-06-15",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior endeavours\nThe successful candidate must\nStrong verbal and written communication skills",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, capital markets",
-        "CIB / Markets"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-13"
-    },
-    {
-      "id": "eee20292241e",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-      "posted_date": "",
-      "description": "43613 | Infrastructure",
-      "start_date": "2026-06-15",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, asset management, equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -1808,7 +1808,7 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
       "posted_date": "",
       "description": "43199 | Real Estate",
-      "start_date": "2026-06-15",
+      "start_date": "2026-07-13",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
@@ -2467,7 +2467,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-07-13",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -2513,7 +2513,7 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
       "posted_date": "",
       "description": "43192 | Strategic Partners",
-      "start_date": "2026-06-15",
+      "start_date": "2026-07-13",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors",
@@ -2639,7 +2639,7 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
       "posted_date": "",
       "description": "43862 | Credit",
-      "start_date": "2026-07-06",
+      "start_date": "2026-07-13",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
@@ -2665,7 +2665,7 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
       "posted_date": "",
       "description": "43623 | Strategic Partners",
-      "start_date": "2026-06-15",
+      "start_date": "2026-07-13",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
@@ -2834,6 +2834,31 @@
       "last_seen": "2026-06-30"
     },
     {
+      "id": "72b675c610c3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
+      "posted_date": "",
+      "description": "43864 | Credit",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
+      "source": "workday",
+      "first_seen": "2026-07-06",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-07-13"
+    },
+    {
       "id": "4ddccad034f9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2859,31 +2884,6 @@
       "last_seen": "2026-07-13"
     },
     {
-      "id": "72b675c610c3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
-      "posted_date": "",
-      "description": "43864 | Credit",
-      "start_date": "2026-07-06",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
-      "source": "workday",
-      "first_seen": "2026-07-06",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "last_seen": "2026-07-13"
-    },
-    {
       "id": "3c68a19025d4",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2892,7 +2892,7 @@
       "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
       "posted_date": "",
       "description": "43188 | Real Estate",
-      "start_date": "2026-06-15",
+      "start_date": "2026-07-13",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior\nendeavours\nThe successful candidate must",
@@ -3074,6 +3074,27 @@
       "last_seen": "2026-07-13"
     },
     {
+      "id": "7ee21939e99a",
+      "bank": "Permira",
+      "category": "Private Equity",
+      "title": "Intern, Investment Professional, Technology",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/permiraexternalprivate/jobs/4839744101",
+      "posted_date": "2026-07-13",
+      "description": "",
+      "source": "greenhouse",
+      "first_seen": "2026-07-13",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "last_seen": "2026-07-13"
+    },
+    {
       "id": "0efdd07d615f",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3179,7 +3200,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6960f796ee81/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c27004d974b1/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4586,7 +4607,7 @@
     }
   ],
   "stats": {
-    "total_jobs": 129,
+    "total_jobs": 130,
     "new_today": 1,
     "high_match": 82,
     "firms_scraped": 31,
