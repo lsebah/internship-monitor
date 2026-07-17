@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-17T09:14:43.821810+00:00",
+  "last_updated": "2026-07-17T13:00:13.587424+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,12 +68,12 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "BBVA": {
       "status": "link_only",
@@ -82,7 +82,7 @@
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -99,12 +99,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,17 +113,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,12 +132,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -146,7 +146,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -163,7 +163,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -180,17 +180,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -199,7 +199,7 @@
     "Balyasny Asset Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "DE Shaw": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 36,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "count": 35,
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-17T09:14:43.821810+00:00"
+      "timestamp": "2026-07-17T13:00:13.587424+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -887,7 +887,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-03dfa0ad4a9f/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c13730166936/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -914,7 +914,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-03dfa0ad4a9f/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c13730166936/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1448,6 +1448,60 @@
       "last_seen": "2026-07-17"
     },
     {
+      "id": "da3dd93dad64",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
+      "posted_date": "",
+      "description": "43842 | Credit",
+      "start_date": "2026-07-17",
+      "time_type": "Full time",
+      "duration": "H2 2026",
+      "requirements": "The successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA collaborative mindset, solid work ethic, and the ability to contribute effectively to team objectives\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nExcellent attention to detail",
+      "source": "workday",
+      "first_seen": "2026-07-02",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: strategy",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
+      "id": "e5927bf7e591",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit H2 Off Cycle Intern (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-H2-Off-Cycle-Intern--London-_43860",
+      "posted_date": "",
+      "description": "43860 | Credit",
+      "start_date": "2026-07-17",
+      "time_type": "Full time",
+      "duration": "H2 2026",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-07-06",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
       "id": "e075559b8c63",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1495,60 +1549,6 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance, asset management, equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-17"
-    },
-    {
-      "id": "e5927bf7e591",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit H2 Off Cycle Intern (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-H2-Off-Cycle-Intern--London-_43860",
-      "posted_date": "",
-      "description": "43860 | Credit",
-      "start_date": "2026-07-06",
-      "time_type": "Full time",
-      "duration": "H2 2026",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-07-06",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-17"
-    },
-    {
-      "id": "da3dd93dad64",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
-      "posted_date": "",
-      "description": "43842 | Credit",
-      "start_date": "2026-07-02",
-      "time_type": "Full time",
-      "duration": "H2 2026",
-      "requirements": "The successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA collaborative mindset, solid work ethic, and the ability to contribute effectively to team objectives\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nExcellent attention to detail",
-      "source": "workday",
-      "first_seen": "2026-07-02",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: strategy",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -1636,33 +1636,6 @@
       "last_seen": "2026-07-17"
     },
     {
-      "id": "0b5091fe96b6",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Group Regulatory Affairs & Compliance – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Regulatory-Affairs---Compliance---Juillet-2026_JR015040",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "JR015040",
-      "start_date": "2026-01-13",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: compliance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-17"
-    },
-    {
       "id": "b17c342767e9",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1717,6 +1690,86 @@
       "last_seen": "2026-07-17"
     },
     {
+      "id": "0b5091fe96b6",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Group Regulatory Affairs & Compliance – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Regulatory-Affairs---Compliance---Juillet-2026_JR015040",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "JR015040",
+      "start_date": "2026-01-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
+      "id": "88dfec0d0a99",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Group Regulatory Affairs & Compliance – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Regulatory-Affairs---Compliance---Septembre-2026_JR016169",
+      "posted_date": "Posted Today",
+      "description": "JR016169",
+      "start_date": "2026-07-17",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-17",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
+      "id": "4061826fc949",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit & Insurance, Private Credit Strategies –Off Cycle Intern (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Private-Credit-Strategies--Off-Cycle-Intern--London-_43521",
+      "posted_date": "",
+      "description": "43521 | Credit",
+      "start_date": "2026-07-17",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "A demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail\nGood judgement\nContribute to a positive culture\nHigh interest in investing",
+      "source": "workday",
+      "first_seen": "2026-06-09",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
       "id": "6c1011e407fd",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1738,32 +1791,6 @@
         "Type: Internship/Stage",
         "Domain: capital markets",
         "CIB / Markets"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "last_seen": "2026-07-17"
-    },
-    {
-      "id": "4061826fc949",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit & Insurance, Private Credit Strategies –Off Cycle Intern (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Private-Credit-Strategies--Off-Cycle-Intern--London-_43521",
-      "posted_date": "",
-      "description": "43521 | Credit",
-      "start_date": "2026-06-09",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "A demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail\nGood judgement\nContribute to a positive culture\nHigh interest in investing",
-      "source": "workday",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2987,7 +3014,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-03dfa0ad4a9f/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c13730166936/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3249,30 +3276,6 @@
       "last_seen": "2026-07-17"
     },
     {
-      "id": "5a128776a6a2",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Sustainability Apprentice - Data & AI",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Apprentice---Data---AI_JR1001821",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "2026-04-16",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "last_seen": "2026-07-17"
-    },
-    {
       "id": "69052c2cefc4",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3354,6 +3357,30 @@
       "posted_date": "Posted 30+ Days Ago",
       "description": "",
       "start_date": "2025-06-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "last_seen": "2026-07-17"
+    },
+    {
+      "id": "5a128776a6a2",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Sustainability Apprentice - Data & AI",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Apprentice---Data---AI_JR1001821",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "2026-04-16",
       "time_type": "Full time",
       "duration": "",
       "requirements": "",
@@ -4369,9 +4396,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 121,
-    "new_today": 0,
-    "high_match": 76,
+    "total_jobs": 122,
+    "new_today": 1,
+    "high_match": 77,
     "firms_scraped": 31,
     "firms_failed": 0,
     "firms_empty": 18,
