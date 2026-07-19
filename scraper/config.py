@@ -721,12 +721,9 @@ FIRMS = [
         "search_urls": {
             "workday": "https://bamfunds.wd1.myworkdayjobs.com/External",
         },
-        "scraper": {
-            "type": "workday",
-            "tenant": "bamfunds",
-            "instance": 1,
-            "site": "External",
-        },
+        # Workday tenant now returns HTTP 401 (gated behind auth) — no public
+        # API to scrape. Kept as a direct link until the board reopens.
+        "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": False, "London": True},
     },
     {
@@ -926,6 +923,101 @@ FIRMS = [
         "scraper": {"type": "direct_link"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
+
+    # ==========================================================
+    # ADVISORY BOUTIQUES / NEW LEADS (report §7 — Jan 2027 off-cycle)
+    # ==========================================================
+    {
+        "name": "Evercore",
+        "short": "EVR",
+        "category": "Investment Bank",
+        "subcategory": "Elite Boutique",
+        "careers_url": "https://www.evercore.com/careers/",
+        "search_urls": {
+            "early_careers": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/jobboard/vacancy/1/adv",
+        },
+        # Evercore runs an Oleeo/TalentLink board (evercore.tal.net). The list
+        # surface exposes /opp/{id}-{slug} rows the oleeo scraper understands.
+        "scraper": {
+            "type": "oleeo",
+            "list_url": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/jobboard/vacancy/1/adv",
+            "base": "https://evercore.tal.net",
+        },
+        "cities": {"Madrid": False, "Paris": True, "London": True},
+    },
+    {
+        "name": "Houlihan Lokey",
+        "short": "HL",
+        "category": "Investment Bank",
+        "subcategory": "Advisory / Restructuring",
+        "careers_url": "https://hl.wd1.myworkdayjobs.com/HL_Careers",
+        "search_urls": {
+            "workday": "https://hl.wd1.myworkdayjobs.com/HL_Careers",
+        },
+        "scraper": {
+            "type": "workday",
+            "tenant": "hl",
+            "instance": 1,
+            "site": "HL_Careers",
+        },
+        "cities": {"Madrid": True, "Paris": True, "London": True},
+    },
+    {
+        "name": "Clipperton",
+        "short": "CLIP",
+        "category": "Investment Bank",
+        "subcategory": "Tech M&A Boutique",
+        "careers_url": "https://clipperton.workable.com/",
+        "search_urls": {
+            "workable": "https://clipperton.workable.com/",
+        },
+        "scraper": {"type": "workable", "subdomain": "clipperton"},
+        "cities": {"Madrid": False, "Paris": True, "London": True},
+    },
+    {
+        "name": "Alantra",
+        "short": "ALN",
+        "category": "Investment Bank",
+        "subcategory": "European Advisory",
+        "careers_url": "https://www.alantra.com/join-us/",
+        "search_urls": {
+            "wttj": "https://www.welcometothejungle.com/en/companies/alantra/jobs",
+        },
+        "scraper": {"type": "direct_link"},
+        "cities": {"Madrid": True, "Paris": True, "London": True},
+    },
+    {
+        "name": "Scalene Partners",
+        "short": "SCAL",
+        "category": "Investment Bank",
+        "subcategory": "M&A Boutique",
+        "careers_url": "https://www.welcometothejungle.com/fr/companies/scalene-partners/jobs",
+        "search_urls": {},
+        "scraper": {"type": "direct_link"},
+        "cities": {"Madrid": False, "Paris": True, "London": False},
+    },
+    {
+        "name": "Avolta Partners",
+        "short": "AVOL",
+        "category": "Investment Bank",
+        "subcategory": "M&A Boutique",
+        "careers_url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs",
+        "search_urls": {},
+        "scraper": {"type": "direct_link"},
+        "cities": {"Madrid": False, "Paris": True, "London": False},
+    },
+    {
+        "name": "Arcano Partners",
+        "short": "ARC",
+        "category": "Investment Bank",
+        "subcategory": "Spanish Advisory / AM",
+        "careers_url": "https://talento.arcanopartners.com/jobs",
+        "search_urls": {
+            "jobs": "https://talento.arcanopartners.com/jobs",
+        },
+        "scraper": {"type": "direct_link"},
+        "cities": {"Madrid": True, "Paris": False, "London": False},
+    },
 ]
 
 # ============================================================
@@ -978,5 +1070,44 @@ INDEED_SEARCHES = [
     {
         "name": "Finance Intern - London",
         "url": "https://www.indeed.co.uk/jobs?q=finance+internship&l=London",
+    },
+]
+
+# Generalist jobboards that cannot be scraped reliably (bot protection / auth),
+# surfaced as one-click pre-filled searches instead. Channel choices follow the
+# report §7.5 ranking (eFinancialCareers best for markets/PB across all 3 cities;
+# WTTJ strong for Paris; InfoJobs for Madrid; Bright Network for London).
+JOBBOARD_SEARCHES = [
+    {
+        "name": "eFinancialCareers - Internships Madrid",
+        "url": "https://www.efinancialcareers.com/search?q=internship&location=Madrid",
+    },
+    {
+        "name": "eFinancialCareers - Internships Paris",
+        "url": "https://www.efinancialcareers.fr/search?q=stage&location=Paris",
+    },
+    {
+        "name": "eFinancialCareers - Internships London",
+        "url": "https://www.efinancialcareers.co.uk/search?q=off-cycle+internship&location=London",
+    },
+    {
+        "name": "Welcome to the Jungle - Stage Finance Paris",
+        "url": "https://www.welcometothejungle.com/fr/jobs?query=stage%20finance&aroundQuery=Paris",
+    },
+    {
+        "name": "Welcome to the Jungle - Stage M&A Janvier 2027",
+        "url": "https://www.welcometothejungle.com/fr/jobs?query=stage%20M%26A%20janvier%202027",
+    },
+    {
+        "name": "InfoJobs - Prácticas Finanzas Madrid",
+        "url": "https://www.infojobs.net/ofertas-trabajo/practicas-finanzas/madrid",
+    },
+    {
+        "name": "Glassdoor - Finance Internship Madrid",
+        "url": "https://www.glassdoor.com/Job/madrid-finance-internship-jobs-SRCH_IL.0,6_IC2664319_KO7,25.htm",
+    },
+    {
+        "name": "Bright Network - Off-Cycle Internships UK",
+        "url": "https://www.brightnetwork.co.uk/search/?query=off-cycle+internship",
     },
 ]
