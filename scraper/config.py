@@ -350,8 +350,14 @@ FIRMS = [
         "careers_url": "https://www.bbva.com/en/specials/careers/",
         "search_urls": {
             "jobs": "https://bbva.csod.com/ux/ats/careersite/2/home?c=bbva",
+            "workday": "https://bbva.wd3.myworkdayjobs.com/es/BBVA",
         },
-        "scraper": {"type": "direct_link"},
+        "scraper": {
+            "type": "workday",
+            "tenant": "bbva",
+            "instance": 3,
+            "site": "BBVA",
+        },
         "cities": {"Madrid": True, "Paris": False, "London": True},
     },
     {
