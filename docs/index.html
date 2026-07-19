@@ -63,6 +63,10 @@
         </button>
     </section>
 
+    <!-- Scrape health banner: surfaces firms whose ATS endpoint failed on the
+         last scrape, so a broken scraper no longer hides as "0 offers". -->
+    <div id="scrapeHealth" class="scrape-health" style="display:none"></div>
+
     <!-- Filters -->
     <section class="filters">
         <div class="filter-row">
@@ -98,8 +102,9 @@
                 <input type="checkbox" id="hideApplied" checked> Masquer Applied
             </label>
             <label class="toggle-label">
-                <input type="checkbox" id="hideTrashed" checked> Masquer Corbeille
+                <input type="checkbox" id="hideTrashed"> Masquer Corbeille
             </label>
+            <button type="button" class="filter-select" id="resetTrashBtn" onclick="resetTrash()" title="Remet toutes les offres en 'Not Yet' (efface les statuts Corbeille). Utile si un ancien tri a tout masqué.">Réinitialiser Corbeille</button>
         </div>
     </section>
 

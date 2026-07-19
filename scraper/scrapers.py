@@ -12,6 +12,20 @@ from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
 
+
+class ScrapeError(Exception):
+    """Raised when a firm's endpoint could not be reached at all.
+
+    Distinguishes a genuinely-empty result (endpoint answered 200, no matching
+    postings) from a broken scraper (403/404/5xx/network/proxy failure). Before
+    this existed, every transport failure was swallowed and reported to the
+    dashboard as ``success, count=0`` — so a firm whose ATS moved or blocked us
+    looked identical to a firm that simply had no open internships, and
+    ``firms_failed`` was always ~0 while a third of the firms silently returned
+    nothing.
+    """
+
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Accept": "application/json, text/html, */*",
@@ -115,12 +129,22 @@ def _fetch_workday_detail(base_url: str, site: str, tenant: str, external_path: 
         info = r.json().get("jobPostingInfo", {})
         desc_html = info.get("jobDescription", "") or ""
         desc_text = _clean_html(desc_html)
+        # Full location list, used to rescue multi-location postings whose
+        # summary "locationsText" is just a "N Locations" placeholder.
+        locs = [info.get("location", "") or ""]
+        for extra in (info.get("additionalLocations", []) or []):
+            if isinstance(extra, str):
+                locs.append(extra)
+            elif isinstance(extra, dict):
+                locs.append(extra.get("locationName", "") or extra.get("name", "") or "")
+        detail_locations = " | ".join(x for x in locs if x)
         return {
             "start_date": info.get("startDate", "") or "",
             "time_type": info.get("timeType", "") or "",
             "description_text": desc_text,
             "duration": _extract_duration(desc_text),
             "requirements": _extract_requirements(desc_text),
+            "detail_locations": detail_locations,
         }
     except Exception as e:
         logger.debug(f"Workday detail fetch failed for {external_path}: {e}")
@@ -155,8 +179,14 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
     all_jobs = []
     seen_urls = set()
     city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+    # A "N Locations" / "Multiple Locations" placeholder means the posting spans
+    # several offices — the city is not in the summary text, only in the detail.
+    multi_loc_rx = re.compile(r"\b\d+\s+locations\b|\bmultiple\s+locations\b", re.I)
     page_size = 20
     max_pages = 10  # safety cap: 200 postings per term
+
+    got_response = False   # at least one HTTP 200 came back
+    last_error = None      # remember the failure to raise if nothing succeeded
 
     for term in search_terms:
         offset = 0
@@ -171,12 +201,14 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                 }
                 resp = SESSION.post(api_url, json=payload, timeout=15)
                 if resp.status_code != 200:
+                    last_error = f"HTTP {resp.status_code}"
                     logger.warning(
                         f"Workday {firm['name']}: HTTP {resp.status_code} "
                         f"for '{term}' offset={offset}"
                     )
                     break
 
+                got_response = True
                 data = resp.json()
                 postings = data.get("jobPostings", [])
                 total = data.get("total", 0)
@@ -190,23 +222,43 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                         continue
                     seen_urls.add(job_url)
 
-                    location_text = p.get("locationsText", "") or ""
-                    if not any(pat.search(location_text) for pat in city_patterns):
-                        continue
-
                     title_text = p.get("title", "") or ""
                     if not WORKDAY_INTERN_RX.search(title_text):
+                        continue
+
+                    location_text = p.get("locationsText", "") or ""
+                    city_in_summary = any(pat.search(location_text) for pat in city_patterns)
+                    is_multi = bool(multi_loc_rx.search(location_text)) or not location_text
+
+                    # Skip early only when the summary names a *specific*
+                    # non-target city. For multi-location placeholders we defer
+                    # the decision until after the detail fetch reveals the
+                    # full office list (big banks post one req across cities).
+                    if not city_in_summary and not is_multi:
                         continue
 
                     detail = _fetch_workday_detail(base_url, site, tenant, ext_path)
                     time.sleep(0.1)
 
+                    detail_locs = detail.get("detail_locations", "")
+                    if not city_in_summary:
+                        # Multi-location placeholder: require a target city in
+                        # the detail's full location list, else drop it.
+                        if not any(pat.search(detail_locs) for pat in city_patterns):
+                            continue
+
+                    # Prefer the richer detail location when the summary was a
+                    # placeholder, so the stored value names the real city.
+                    stored_loc = location_text
+                    if (is_multi or not city_in_summary) and detail_locs:
+                        stored_loc = detail_locs
+
                     job = {
-                        "id": make_job_id(firm["name"], title_text, location_text),
+                        "id": make_job_id(firm["name"], title_text, stored_loc),
                         "bank": firm["name"],
                         "category": firm.get("category", ""),
                         "title": title_text,
-                        "location": location_text,
+                        "location": stored_loc,
                         "url": job_url,
                         "posted_date": p.get("postedOn", ""),
                         "description": " | ".join(p.get("bulletFields", [])),
@@ -223,11 +275,18 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                 if offset >= total:
                     break
                 time.sleep(0.3)
+            except ScrapeError:
+                raise
             except Exception as e:
+                last_error = f"{type(e).__name__}: {e}"
                 logger.error(
                     f"Workday {firm['name']} error for '{term}' offset={offset}: {e}"
                 )
                 break
+
+    # Never got a single successful response → the endpoint is broken, not empty.
+    if not got_response and last_error:
+        raise ScrapeError(f"Workday {firm['name']} unreachable: {last_error}")
 
     logger.info(f"Workday {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs
@@ -250,7 +309,7 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
         resp = SESSION.get(api_url, timeout=15)
         if resp.status_code != 200:
             logger.warning(f"Greenhouse {firm['name']}: HTTP {resp.status_code}")
-            return []
+            raise ScrapeError(f"Greenhouse {firm['name']} unreachable: HTTP {resp.status_code}")
 
         data = resp.json()
         jobs_data = data.get("jobs", [])
@@ -291,8 +350,11 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
             }
             all_jobs.append(job)
 
+    except ScrapeError:
+        raise
     except Exception as e:
         logger.error(f"Greenhouse {firm['name']} error: {e}")
+        raise ScrapeError(f"Greenhouse {firm['name']} unreachable: {type(e).__name__}: {e}")
 
     logger.info(f"Greenhouse {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs
@@ -315,7 +377,7 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
         resp = SESSION.get(api_url, timeout=15)
         if resp.status_code != 200:
             logger.warning(f"Lever {firm['name']}: HTTP {resp.status_code}")
-            return []
+            raise ScrapeError(f"Lever {firm['name']} unreachable: HTTP {resp.status_code}")
 
         postings = resp.json()
         city_patterns = [re.compile(re.escape(c), re.IGNORECASE) for c in target_cities]
@@ -347,8 +409,11 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
             }
             all_jobs.append(job)
 
+    except ScrapeError:
+        raise
     except Exception as e:
         logger.error(f"Lever {firm['name']} error: {e}")
+        raise ScrapeError(f"Lever {firm['name']} unreachable: {type(e).__name__}: {e}")
 
     logger.info(f"Lever {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs
@@ -374,6 +439,9 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
     page_size = 50
     max_pages = 4  # 200 per term
 
+    got_response = False
+    last_error = None
+
     for term in search_terms:
         offset = 0
         pages = 0
@@ -393,11 +461,13 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
                 resp = SESSION.get(api_url, params=params, timeout=15,
                                    headers={"Accept": "application/json"})
                 if resp.status_code != 200:
+                    last_error = f"HTTP {resp.status_code}"
                     logger.warning(
                         f"Oracle HCM {firm['name']}: HTTP {resp.status_code} "
                         f"for '{term}' offset={offset}"
                     )
                     break
+                got_response = True
                 data = resp.json()
                 items = data.get("items", [])
                 if not items:
@@ -454,11 +524,17 @@ def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> li
                 if len(reqs) < page_size:
                     break
                 time.sleep(0.3)
+            except ScrapeError:
+                raise
             except Exception as e:
+                last_error = f"{type(e).__name__}: {e}"
                 logger.error(
                     f"Oracle HCM {firm['name']} error for '{term}' offset={offset}: {e}"
                 )
                 break
+
+    if not got_response and last_error:
+        raise ScrapeError(f"Oracle HCM {firm['name']} unreachable: {last_error}")
 
     logger.info(f"Oracle HCM {firm['name']}: found {len(all_jobs)} jobs")
     return all_jobs
@@ -490,10 +566,10 @@ def _oleeo_from_feed(firm: dict, feed_url: str, target_cities: list) -> list:
         r = SESSION.get(feed_url, timeout=15)
     except Exception as e:
         logger.error(f"Oleeo {firm['name']} feed error: {e}")
-        return []
+        raise ScrapeError(f"Oleeo {firm['name']} feed unreachable: {type(e).__name__}: {e}")
     if r.status_code != 200:
         logger.warning(f"Oleeo {firm['name']} feed: HTTP {r.status_code}")
-        return []
+        raise ScrapeError(f"Oleeo {firm['name']} feed unreachable: HTTP {r.status_code}")
 
     jobs = []
     city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
@@ -550,10 +626,10 @@ def _oleeo_from_list(firm: dict, list_url: str, base: str, target_cities: list) 
         r = SESSION.get(list_url, timeout=15)
     except Exception as e:
         logger.error(f"Oleeo {firm['name']} list error: {e}")
-        return []
+        raise ScrapeError(f"Oleeo {firm['name']} list unreachable: {type(e).__name__}: {e}")
     if r.status_code != 200:
         logger.warning(f"Oleeo {firm['name']} list: HTTP {r.status_code}")
-        return []
+        raise ScrapeError(f"Oleeo {firm['name']} list unreachable: HTTP {r.status_code}")
 
     jobs = []
     seen = set()
@@ -599,10 +675,27 @@ def scrape_oleeo(firm: dict, search_terms: list, target_cities: list) -> list:
     base = cfg.get("base", "")
 
     jobs = []
+    surfaces = 0          # configured surfaces (feed / list)
+    surfaces_ok = 0       # surfaces that answered without a transport error
+    last_error = None
     if feed_url:
-        jobs.extend(_oleeo_from_feed(firm, feed_url, target_cities))
+        surfaces += 1
+        try:
+            jobs.extend(_oleeo_from_feed(firm, feed_url, target_cities))
+            surfaces_ok += 1
+        except ScrapeError as e:
+            last_error = str(e)
     if list_url and base:
-        jobs.extend(_oleeo_from_list(firm, list_url, base, target_cities))
+        surfaces += 1
+        try:
+            jobs.extend(_oleeo_from_list(firm, list_url, base, target_cities))
+            surfaces_ok += 1
+        except ScrapeError as e:
+            last_error = str(e)
+
+    # Every configured surface failed to respond → broken, not empty.
+    if surfaces > 0 and surfaces_ok == 0:
+        raise ScrapeError(last_error or f"Oleeo {firm['name']} unreachable")
 
     # Dedupe by URL
     seen = set()
