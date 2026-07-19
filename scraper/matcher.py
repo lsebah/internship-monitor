@@ -131,15 +131,20 @@ def score_job(job: dict) -> dict:
     # --- CIB / Markets strong signals (0-10 points, stacked with domain) ---
     # "structuring" / "structured products" is Charles's single most
     # differentiating keyword (his CMF experience) — it was previously unscored.
+    # Markets in the broad sense — structuring is ONE flavour, not the only one.
+    # Equities, FICC, rates, FX, commodities and brokerage all count equally.
     cib_keywords = ["cib", "corporate & investment", "markets",
                     "s&t", "sales and trading", "sales & trading",
-                    "equities", "fixed income", "derivatives",
+                    "equities", "cash equities", "equity derivatives",
+                    "fixed income", "ficc", "rates", "credit trading",
+                    "fx", "foreign exchange", "commodities", "flow",
+                    "derivatives", "brokerage", "execution", "market making",
                     "structuring", "structured product", "structured solutions",
                     "structured note", "structured finance"]
     for kw in cib_keywords:
         if kw in combined:
             score += 10
-            reasons.append("CIB / Markets / Structuration")
+            reasons.append("Markets (Equities / FICC / Structuration)")
             break
 
     # --- Preferred track (0-10): corporate finance / banking / IBD ---
