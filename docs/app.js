@@ -9,7 +9,13 @@ const ACCOUNTS_KEY = 'firm-accounts';
 const INTERESTS_KEY = 'job-interests';
 const GIST_ID = 'e6ae345cbc70791858f67ed708bccd4a';
 const GIST_RAW_URL = `https://gist.githubusercontent.com/lsebah/${GIST_ID}/raw/applications.json`;
-const _GT = ['ghp','vpNNbqjViNQjwuaWiqkf4ym7v298tk3uWzjI'].join('_');
+// Cloud sync is READ-ONLY from the browser. A write token must never live in
+// client code on a public repo (the previous inline ghp_ token was exposed to
+// anyone reading the page source and must be revoked). Writes, if ever needed,
+// go through the server-side `sync-data.yml` workflow whose secret never
+// reaches the browser. Until then, application statuses persist per-device in
+// localStorage and the cloud copy is loaded (merged) but not overwritten.
+const CLOUD_WRITE_ENABLED = false;
 let isSyncing = false;
 
 let allJobs = [];
@@ -198,6 +204,12 @@ async function cloudLoad() {
 }
 
 async function cloudSave() {
+    // Writing to the Gist requires a credential that cannot be safely shipped
+    // in client-side code on a public site. Persist locally and skip the push.
+    if (!CLOUD_WRITE_ENABLED) {
+        setSyncStatus('synced', 'Local (offline sync)');
+        return;
+    }
     if (isSyncing) return;
     isSyncing = true;
     try {
@@ -211,7 +223,6 @@ async function cloudSave() {
         const resp = await fetch(`https://api.github.com/gists/${GIST_ID}`, {
             method: 'PATCH',
             headers: {
-                'Authorization': `token ${_GT}`,
                 'Accept': 'application/vnd.github+json',
                 'Content-Type': 'application/json',
             },
@@ -260,6 +271,8 @@ async function loadData() {
         linkedinSearches = data.linkedin_searches || [];
         indeedSearches = data.indeed_searches || [];
 
+        renderScrapeHealth(data.scrape_status || {}, data.stats || {});
+
         // Update stats
         const stats = data.stats || {};
         document.getElementById('statTotal').textContent = stats.total_jobs || allJobs.length;
@@ -291,6 +304,29 @@ async function loadData() {
         renderSearchLinks();
         updateAccountStat();
     }
+}
+
+// ============================================================
+// SCRAPE HEALTH BANNER
+// ============================================================
+function renderScrapeHealth(status, stats) {
+    const el = document.getElementById('scrapeHealth');
+    if (!el) return;
+    const failed = Object.entries(status)
+        .filter(([, v]) => v && v.status === 'error')
+        .map(([name]) => name);
+
+    if (failed.length === 0) {
+        el.style.display = 'none';
+        el.innerHTML = '';
+        return;
+    }
+    el.style.display = 'block';
+    const names = failed.slice(0, 12).join(', ') + (failed.length > 12 ? '…' : '');
+    el.innerHTML =
+        `<strong>⚠ ${failed.length} source(s) de scraping en échec au dernier passage</strong> — ` +
+        `leurs offres ne sont pas à jour : ${escHtml(names)}. ` +
+        `Vérifie ces firmes directement via leur page carrière (onglet « Career Pages »).`;
 }
 
 // ============================================================
@@ -544,6 +580,24 @@ function getJobStatus(jobOrId, jobObj) {
 function getTrashedCount() {
     return Object.values(getInterests()).filter(v => v === 'trashed').length;
 }
+
+// Clear all "Corbeille" (trashed) flags at once. A prior bulk/accidental reset
+// had marked ~100% of offers as trashed, which — combined with "Masquer
+// Corbeille" — hid nearly every offer. This restores them all to "Not Yet".
+function resetTrash() {
+    const n = getTrashedCount();
+    if (n === 0) { alert('Aucune offre en Corbeille.'); return; }
+    if (!confirm(`Remettre ${n} offre(s) de la Corbeille vers "Not Yet" ?`)) return;
+    const m = getInterests();
+    for (const k of Object.keys(m)) {
+        if (m[k] === 'trashed') delete m[k];
+    }
+    localStorage.setItem(INTERESTS_KEY, JSON.stringify(m));
+    updateAccountStat();
+    cloudSave();
+    renderJobs();
+}
+window.resetTrash = resetTrash;
 
 function markJobApplied(jobId) {
     const job = allJobs.find(j => j.id === jobId);

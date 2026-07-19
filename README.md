@@ -38,6 +38,22 @@ internship-monitor/
 - **Hedge Funds** : Millennium, Capula, Point72, LMR, Citadel, Two Sigma, Bridgewater, Man Group, Marshall Wace, Brevan Howard, Balyasny, DE Shaw
 - **Private Equity** : Blackstone, KKR, Apollo, Carlyle, Ardian, Apax, Thoma Bravo, CVC, Permira, EQT, Eurazeo, PAI, BC Partners, TPG, Cinven
 
+## Fiabilité du scraping
+
+- **Échecs visibles** : un endpoint ATS injoignable (403/404/réseau) est désormais
+  remonté comme `error` (et non plus masqué en `success, count=0`). Le compteur
+  `firms_failed` est fiable, un bandeau d'alerte s'affiche sur le site, et une
+  notification ntfy part quand une source casse.
+- **Postes multi-villes** : les offres Workday affichées « N Locations » sont
+  rattrapées via le détail de l'offre au lieu d'être jetées.
+- **Refresh automatique** : scrape 3×/jour + un cron hebdomadaire de secours
+  (lundi) qui garantit au moins un rafraîchissement par semaine.
+- **`direct_link`** : ~29 firmes (banques privées, banques espagnoles…) n'ont pas
+  d'API publique exploitable — elles restent en candidature directe via leur page
+  carrière (onglet « Career Pages »), c'est volontaire.
+- **Synchro cloud** : lecture seule côté navigateur. Aucun token n'est stocké dans
+  le code client ; les statuts de candidature persistent localement par appareil.
+
 ## Lancer en local
 
 ```bash

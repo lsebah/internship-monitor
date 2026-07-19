@@ -6,6 +6,11 @@ on:
     - cron: '0 7 * * *'   # 9:00 AM Paris
     - cron: '0 12 * * *'  # 2:00 PM Paris
     - cron: '0 16 * * *'  # 6:00 PM Paris
+    # Weekly safety net (Monday 8:00 Paris). GitHub disables scheduled
+    # workflows after 60 days of repo inactivity; the daily commits normally
+    # keep it alive, but this guarantees at least one refresh per week even if
+    # the daily jobs are ever paused.
+    - cron: '0 6 * * 1'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -36,6 +41,34 @@ jobs:
           NEW_COUNT=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('new_today',0))")
           echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
           echo "Found $NEW_COUNT new jobs today"
+
+      - name: Scrape health check
+        id: health
+        run: |
+          FAILED=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('firms_failed',0))")
+          TOTAL=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); print(d.get('stats',{}).get('total_jobs',0))")
+          FAILED_NAMES=$(python -c "import json; d=json.load(open('docs/data/jobs.json')); s=d.get('scrape_status',{}); print(', '.join(n for n,v in s.items() if v.get('status')=='error') or 'none')")
+          echo "failed_count=$FAILED" >> $GITHUB_OUTPUT
+          echo "failed_names=$FAILED_NAMES" >> $GITHUB_OUTPUT
+          echo "Firms failed: $FAILED ($FAILED_NAMES)"
+          # A healthy run finds some offers; zero total means the scrape is
+          # broken end-to-end (all endpoints down / blocked), not just quiet.
+          if [ "$TOTAL" = "0" ]; then
+            echo "::warning::Scrape produced 0 total offers — likely broken, not empty."
+          fi
+          if [ "$FAILED" != "0" ]; then
+            echo "::warning::$FAILED firm(s) failed to scrape: $FAILED_NAMES"
+          fi
+
+      - name: Alert on scrape failures via ntfy.sh
+        if: steps.health.outputs.failed_count != '0'
+        run: |
+          curl -s \
+            -H "Title: Scrape health: ${{ steps.health.outputs.failed_count }} firm(s) failing" \
+            -H "Priority: default" \
+            -H "Tags: warning" \
+            -d "Sources en echec: ${{ steps.health.outputs.failed_names }}. Verifie leur page carriere directement." \
+            https://ntfy.sh/charles-stages-2026 || true
 
       - name: Send push notification via ntfy.sh
         if: steps.check_new.outputs.new_count != '0'

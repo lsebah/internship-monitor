@@ -1028,3 +1028,17 @@ body {
     .app-card-actions { width: 100%; justify-content: flex-start; }
     .pipeline-stats { flex-direction: column; }
 }
+
+/* Scrape health banner — shown when one or more ATS endpoints failed */
+.scrape-health {
+    max-width: 1400px;
+    margin: 0 auto 16px;
+    padding: 12px 16px;
+    background: rgba(255, 149, 0, 0.12);
+    border: 1px solid var(--accent-orange);
+    border-radius: 8px;
+    color: var(--accent-orange);
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.scrape-health strong { color: var(--accent-orange); }
