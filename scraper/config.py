@@ -954,12 +954,9 @@ FIRMS = [
         "search_urls": {
             "workday": "https://hl.wd1.myworkdayjobs.com/HL_Careers",
         },
-        "scraper": {
-            "type": "workday",
-            "tenant": "hl",
-            "instance": 1,
-            "site": "HL_Careers",
-        },
+        # Guessed Workday tenant/site returned an error — no confirmed public
+        # endpoint. Kept as a direct link until the real CXS path is verified.
+        "scraper": {"type": "direct_link"},
         "cities": {"Madrid": True, "Paris": True, "London": True},
     },
     {
@@ -971,7 +968,10 @@ FIRMS = [
         "search_urls": {
             "workable": "https://clipperton.workable.com/",
         },
-        "scraper": {"type": "workable", "subdomain": "clipperton"},
+        # Workable SPI endpoint for this subdomain returned an error (board may
+        # not expose the public API). Kept as a direct link; the Jan-2027 role
+        # is still reachable via the careers page + jobboard searches.
+        "scraper": {"type": "direct_link"},
         "cities": {"Madrid": False, "Paris": True, "London": True},
     },
     {
