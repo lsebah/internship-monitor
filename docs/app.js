@@ -256,6 +256,7 @@ function mergeApplications(local, cloud) {
 }
 let linkedinSearches = [];
 let indeedSearches = [];
+let jobboardSearches = [];
 
 // ============================================================
 // DATA LOADING
@@ -270,6 +271,7 @@ async function loadData() {
         allLinks = data.direct_links || [];
         linkedinSearches = data.linkedin_searches || [];
         indeedSearches = data.indeed_searches || [];
+        jobboardSearches = data.jobboard_searches || [];
 
         renderScrapeHealth(data.scrape_status || {}, data.stats || {});
 
@@ -342,6 +344,7 @@ function getFilters() {
         minScore: parseInt(document.getElementById('filterMatch').value) || 0,
         newOnly: document.getElementById('filterNew').checked,
         afterSept2026: document.getElementById('filterAfterSept2026')?.checked ?? false,
+        jan2027Only: document.getElementById('filterJan2027')?.checked ?? false,
         hideApplied: document.getElementById('hideApplied')?.checked ?? false,
         hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
@@ -393,6 +396,28 @@ function isInTargetCity(job) {
     return TARGET_CITY_RX.test(job.location || '');
 }
 
+// Explicit "starts January 2027" signals (EN/FR/ES), incl. Jan-Jun ranges.
+const JAN_2027_RX = new RegExp([
+    '\\b(january|jan|janvier|enero)\\s*2027\\b',
+    '\\b2027\\s*(january|jan|janvier|enero)\\b',
+    '\\bh1\\s*2027\\b', '\\b2027\\s*h1\\b',
+    '\\b(january|jan|janvier|enero)\\s*[-–to/]+\\s*(june|jun|juin|junio)\\s*2027\\b',
+    '\\benero\\s*[-–/]+\\s*junio\\s*2027\\b',
+    '\\bwinter\\s*2027\\b', '\\bspring\\s*2027\\b',
+].join('|'), 'i');
+
+function startsJan2027(job) {
+    // Trust a parseable ATS start_date first.
+    const sd = (job.start_date || '').trim();
+    const m = sd.match(/(\d{4})-(\d{2})/);
+    if (m) {
+        const ym = parseInt(m[1]) * 100 + parseInt(m[2]);
+        return ym === 202701 || ym === 202612; // Jan 2027 (or very-late Dec 2026)
+    }
+    const haystack = `${job.title || ''} ${job.description || ''} ${job.duration || ''} ${job.start_date || ''}`;
+    return JAN_2027_RX.test(haystack);
+}
+
 function startsAfterSept2026(job) {
     // If the ATS gave us a parseable start_date, trust it.
     const sd = (job.start_date || '').trim();
@@ -435,6 +460,7 @@ function filterJobs(jobs) {
         if (f.minScore && (job.match_score || 0) < f.minScore) return false;
         if (f.newOnly && !job.is_new) return false;
         if (f.afterSept2026 && !startsAfterSept2026(job)) return false;
+        if (f.jan2027Only && !startsJan2027(job)) return false;
         return true;
     });
 }
@@ -751,20 +777,25 @@ function renderSearchLinks() {
 
     const li = linkedinSearches.length > 0 ? linkedinSearches : getDefaultLinkedIn();
     const ind = indeedSearches.length > 0 ? indeedSearches : getDefaultIndeed();
+    const jb = jobboardSearches;
+
+    const grid = (arr) => `<div class="search-grid">${arr.map(s =>
+        `<a href="${escAttr(s.url)}" target="_blank" class="search-card">${escHtml(s.name)}</a>`
+    ).join('')}</div>`;
 
     section.innerHTML = `
     <div class="search-group">
         <h3>LinkedIn Job Searches</h3>
-        <div class="search-grid">
-            ${li.map(s => `<a href="${escAttr(s.url)}" target="_blank" class="search-card">${escHtml(s.name)}</a>`).join('')}
-        </div>
+        ${grid(li)}
     </div>
     <div class="search-group">
         <h3>Indeed Job Searches</h3>
-        <div class="search-grid">
-            ${ind.map(s => `<a href="${escAttr(s.url)}" target="_blank" class="search-card">${escHtml(s.name)}</a>`).join('')}
-        </div>
-    </div>`;
+        ${grid(ind)}
+    </div>
+    ${jb.length ? `<div class="search-group">
+        <h3>Jobboards spécialisés <span class="search-hint">(non scrapables — recherches pré-remplies)</span></h3>
+        ${grid(jb)}
+    </div>` : ''}`;
 }
 
 // ============================================================
@@ -884,7 +915,7 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    ['filterNew', 'filterAfterSept2026', 'hideApplied', 'hideTrashed'].forEach(id => {
+    ['filterNew', 'filterAfterSept2026', 'filterJan2027', 'hideApplied', 'hideTrashed'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener('change', renderJobs);
     });

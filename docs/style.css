@@ -1042,3 +1042,11 @@ body {
     line-height: 1.4;
 }
 .scrape-health strong { color: var(--accent-orange); }
+
+/* Hint next to the jobboards heading (non-scrapable sources) */
+.search-hint {
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--text-secondary, #8a99a8);
+    margin-left: 6px;
+}

@@ -420,6 +420,77 @@ def scrape_lever(firm: dict, search_terms: list, target_cities: list) -> list:
 
 
 # ============================================================
+# WORKABLE SCRAPER (apply.workable.com)
+# ============================================================
+def scrape_workable(firm: dict, search_terms: list, target_cities: list) -> list:
+    """Scrape jobs from a Workable-hosted board via its public SPI endpoint.
+
+    Used by boutiques (e.g. Clipperton) whose board lives at
+    ``{subdomain}.workable.com``. The SPI returns structured location fields,
+    so we filter on city the same way as the other ATS scrapers.
+    """
+    cfg = firm["scraper"]
+    subdomain = cfg.get("subdomain", "")
+    if not subdomain:
+        return []
+
+    api_url = f"https://{subdomain}.workable.com/spi/v3/jobs"
+    all_jobs = []
+    city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
+
+    try:
+        resp = SESSION.get(api_url, timeout=15, headers={"Accept": "application/json"})
+        if resp.status_code != 200:
+            logger.warning(f"Workable {firm['name']}: HTTP {resp.status_code}")
+            raise ScrapeError(f"Workable {firm['name']} unreachable: HTTP {resp.status_code}")
+
+        data = resp.json()
+        postings = data.get("jobs", []) or data.get("results", [])
+
+        for p in postings:
+            title = p.get("title", "") or ""
+            loc = p.get("location", {}) or {}
+            location_name = (
+                loc.get("location_str")
+                or " ".join(x for x in [loc.get("city", ""), loc.get("country", "")] if x)
+                or ""
+            )
+
+            if not WORKDAY_INTERN_RX.search(title):
+                continue
+            loc_lower = location_name.lower()
+            is_global = (not location_name
+                         or loc_lower in ("remote", "worldwide", "global", "europe"))
+            if not is_global and not any(pat.search(location_name) for pat in city_patterns):
+                continue
+
+            shortcode = p.get("shortcode", "")
+            job_url = p.get("url", "") or (
+                f"https://{subdomain}.workable.com/j/{shortcode}" if shortcode else ""
+            )
+            all_jobs.append({
+                "id": make_job_id(firm["name"], title, location_name),
+                "bank": firm["name"],
+                "category": firm.get("category", ""),
+                "title": title,
+                "location": location_name,
+                "url": job_url,
+                "posted_date": (p.get("published_on") or p.get("created_at") or "")[:10],
+                "description": (p.get("description", "") or "")[:200],
+                "source": "workable",
+            })
+
+    except ScrapeError:
+        raise
+    except Exception as e:
+        logger.error(f"Workable {firm['name']} error: {e}")
+        raise ScrapeError(f"Workable {firm['name']} unreachable: {type(e).__name__}: {e}")
+
+    logger.info(f"Workable {firm['name']}: found {len(all_jobs)} jobs")
+    return all_jobs
+
+
+# ============================================================
 # ORACLE HCM SCRAPER (Oracle Recruiting Cloud)
 # ============================================================
 def scrape_oracle_hcm(firm: dict, search_terms: list, target_cities: list) -> list:
@@ -719,6 +790,7 @@ SCRAPER_MAP = {
     "lever": scrape_lever,
     "oracle_hcm": scrape_oracle_hcm,
     "oleeo": scrape_oleeo,
+    "workable": scrape_workable,
 }
 
 

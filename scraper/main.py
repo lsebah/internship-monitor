@@ -8,7 +8,10 @@ import os
 import sys
 from datetime import datetime, timezone
 
-from config import FIRMS, SEARCH_TERMS, TARGET_CITIES, LINKEDIN_SEARCHES, INDEED_SEARCHES
+from config import (
+    FIRMS, SEARCH_TERMS, TARGET_CITIES,
+    LINKEDIN_SEARCHES, INDEED_SEARCHES, JOBBOARD_SEARCHES,
+)
 from scrapers import scrape_firm, make_job_id
 from matcher import score_job, classify_match
 
@@ -227,6 +230,7 @@ def main():
         "direct_links": build_direct_links(),
         "linkedin_searches": LINKEDIN_SEARCHES,
         "indeed_searches": INDEED_SEARCHES,
+        "jobboard_searches": JOBBOARD_SEARCHES,
         "stats": {
             "total_jobs": len(display_jobs),
             "new_today": new_today,
