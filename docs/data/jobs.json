@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-19T18:46:02.262384+00:00",
+  "last_updated": "2026-07-19T19:54:50.828714+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 36,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,17 +275,15 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "timestamp": "2026-07-19T19:54:50.828714+00:00"
     },
     "Houlihan Lokey": {
-      "status": "error",
-      "error": "ScrapeError: Workday Houlihan Lokey unreachable: HTTP 404",
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "status": "link_only",
+      "count": 0
     },
     "Clipperton": {
-      "status": "error",
-      "error": "ScrapeError: Workable Clipperton unreachable: HTTP 401",
-      "timestamp": "2026-07-19T18:46:02.262384+00:00"
+      "status": "link_only",
+      "count": 0
     },
     "Alantra": {
       "status": "link_only",
@@ -365,6 +363,214 @@
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "1856094da58c",
+      "bank": "Evercore",
+      "category": "Investment Bank",
+      "title": "Off-Cycle Internship – Telecoms Team (January–June 2027)",
+      "location": "Paris, France",
+      "url": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-b317e3c9c730/candidate/so/pm/1/pl/2/opp/3145-Paris-Off-Cycle-Internship-Telecoms-Team-January-June-2027/en-GB",
+      "posted_date": "",
+      "description": "Off-cycle investment banking internship, Telecoms M&A advisory team, January to June 2027, 6 months. Open to penultimate-year students. Deadline 19/09/2026.",
+      "start_date": "2027-01",
+      "duration": "6-month off-cycle internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, M&A",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "eaf15de635b4",
+      "bank": "Alantra",
+      "category": "Investment Bank",
+      "title": "Stage M&A – Janvier/Mars 2027",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/en/companies/alantra/jobs/stage-m-a-janvier-mars-2027_paris",
+      "posted_date": "",
+      "description": "Stage M&A / corporate finance advisory, 6 mois, démarrage janvier ou mars 2027. Ouvert aux étudiants en avant-dernière année.",
+      "start_date": "2027-01",
+      "duration": "6-month internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "cb34666f4458",
+      "bank": "Clipperton",
+      "category": "Investment Bank",
+      "title": "Technology M&A Analyst Internship (January/March 2027)",
+      "location": "Paris, France",
+      "url": "https://clipperton.workable.com/jobs/5775228",
+      "posted_date": "",
+      "description": "Technology M&A advisory internship, 6 months, starting January or March 2027. Open to penultimate-year students pursuing a Bachelor's or Master's.",
+      "start_date": "2027-01",
+      "duration": "6-month internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A, advisory",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "2d5f32a4d4c2",
+      "bank": "Arcano Partners",
+      "category": "Investment Bank",
+      "title": "Prácticas semestrales Banca de Inversión (Enero–Junio 2027)",
+      "location": "Madrid, Spain",
+      "url": "https://talento.arcanopartners.com/jobs/7882300-practicas-semestrales-banca-de-inversion-enero-junio-2027",
+      "posted_date": "",
+      "description": "Prácticas semestrales en Banca de Inversión / corporate finance, enero a junio 2027, 6 meses. Abierto a estudiantes de grado (bachelor).",
+      "start_date": "2027-01",
+      "duration": "6-month internship (enero-junio)",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: finance, corporate finance",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "5314bc393228",
+      "bank": "Lazard",
+      "category": "Investment Bank",
+      "title": "Financial Advisory Off-Cycle Internship – January 2027 (6 months)",
+      "location": "London, United Kingdom",
+      "url": "https://www.lazard.com/careers/students/",
+      "posted_date": "",
+      "description": "Financial advisory (M&A) off-cycle internship, January 2027, 6 months. Open to penultimate-year students.",
+      "start_date": "2027-01",
+      "duration": "6-month off-cycle internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: M&A, advisory",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "c45709783b54",
+      "bank": "UBS",
+      "category": "Investment Bank",
+      "title": "2027 Off-Cycle Internship – Global Banking",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=348155",
+      "posted_date": "",
+      "description": "Global Banking (investment banking / advisory) off-cycle internship 2027, London. Application window closes 3 August 2026. Open to penultimate-year students.",
+      "start_date": "2027-01",
+      "duration": "6-month off-cycle internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, advisory",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "1a57ab42d64a",
+      "bank": "UBS",
+      "category": "Private Bank",
+      "title": "2027 Off-Cycle Internship – Global Wealth Management",
+      "location": "London, United Kingdom",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=348157",
+      "posted_date": "",
+      "description": "Global Wealth Management off-cycle internship 2027, London. Closes 3 August 2026. Wealth management / private banking. Open to penultimate-year students.",
+      "start_date": "2027-01",
+      "duration": "6-month off-cycle internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, wealth management, private banking",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027 (field)"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -1022,6 +1228,64 @@
       "last_seen": "2026-07-19"
     },
     {
+      "id": "508fe019a909",
+      "bank": "Scalene Partners",
+      "category": "Investment Bank",
+      "title": "Stage Analyste M&A – Janvier 2027",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/fr/companies/scalene-partners/jobs/stage-analyste-m-a-janvier-2027_paris",
+      "posted_date": "",
+      "description": "Stage analyste M&A, démarrage 3 janvier 2027, 6 mois. Boutique de conseil en fusions-acquisitions.",
+      "start_date": "2027-01",
+      "duration": "6-month internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
+      "id": "8d1fc50ef910",
+      "bank": "Avolta Partners",
+      "category": "Investment Bank",
+      "title": "Stage M&A – Levée de fonds (Janvier 2027)",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-m-a-levee-de-fonds-janvier-2027_paris",
+      "posted_date": "",
+      "description": "Stage M&A et levée de fonds tech, démarrage fin décembre 2026 / janvier 2027, 6 mois.",
+      "start_date": "2026-12",
+      "duration": "6-month internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": true,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-19"
+    },
+    {
       "id": "ecd710d7c273",
       "bank": "JP Morgan",
       "category": "Investment Bank",
@@ -1436,7 +1700,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f98053bb0e02/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-856b3c5d4994/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2371,7 +2635,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f98053bb0e02/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-856b3c5d4994/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3243,7 +3507,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f98053bb0e02/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-856b3c5d4994/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4750,7 +5014,7 @@
         "Paris": true,
         "London": true
       },
-      "has_scraper": true
+      "has_scraper": false
     },
     {
       "name": "Clipperton",
@@ -4766,7 +5030,7 @@
         "Paris": true,
         "London": true
       },
-      "has_scraper": true
+      "has_scraper": false
     },
     {
       "name": "Alantra",
@@ -5038,11 +5302,11 @@
     }
   ],
   "stats": {
-    "total_jobs": 125,
-    "new_today": 0,
-    "high_match": 97,
+    "total_jobs": 134,
+    "new_today": 9,
+    "high_match": 106,
     "firms_scraped": 32,
-    "firms_failed": 2,
+    "firms_failed": 0,
     "firms_empty": 20,
     "firms_total": 76
   }
