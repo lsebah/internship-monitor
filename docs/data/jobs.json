@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-19T18:15:41.822809+00:00",
+  "last_updated": "2026-07-19T18:32:19.457381+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,26 +181,25 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
       "count": 0
     },
     "Balyasny Asset Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Balyasny Asset Management unreachable: HTTP 401",
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "status": "link_only",
+      "count": 0
     },
     "DE Shaw": {
       "status": "link_only",
@@ -209,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -218,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -227,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 36,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -245,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -267,9 +266,40 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-19T18:15:41.822809+00:00"
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
     },
     "Cinven": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Evercore": {
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
+    },
+    "Houlihan Lokey": {
+      "status": "error",
+      "error": "ScrapeError: Workday Houlihan Lokey unreachable: HTTP 404",
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
+    },
+    "Clipperton": {
+      "status": "error",
+      "error": "ScrapeError: Workable Clipperton unreachable: HTTP 401",
+      "timestamp": "2026-07-19T18:32:19.457381+00:00"
+    },
+    "Alantra": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Scalene Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Avolta Partners": {
+      "status": "link_only",
+      "count": 0
+    },
+    "Arcano Partners": {
       "status": "link_only",
       "count": 0
     }
@@ -915,7 +945,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-90e80df26f9b/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af53ffb95fa0/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -942,7 +972,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-90e80df26f9b/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af53ffb95fa0/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2617,7 +2647,7 @@
       "requirements": "Strong programming skills in any general-purpose programming language (i.e., C++, C#, Java, Python)\nExcellent interpersonal and communication skills, both written and verbal\nAbility to work well in a lean team environment\nStrong work ethic, intellectual curiosity, good professional judgment, and positive attitude\nThe principles that Matter Most:\nAccountability",
       "source": "workday",
       "first_seen": "2026-07-19",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -3094,7 +3124,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-90e80df26f9b/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-af53ffb95fa0/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4185,7 +4215,7 @@
         "Paris": false,
         "London": true
       },
-      "has_scraper": true
+      "has_scraper": false
     },
     {
       "name": "DE Shaw",
@@ -4426,6 +4456,114 @@
         "London": true
       },
       "has_scraper": false
+    },
+    {
+      "name": "Evercore",
+      "short": "EVR",
+      "category": "Investment Bank",
+      "subcategory": "Elite Boutique",
+      "careers_url": "https://www.evercore.com/careers/",
+      "search_urls": {
+        "early_careers": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/candidate/jobboard/vacancy/1/adv"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "Houlihan Lokey",
+      "short": "HL",
+      "category": "Investment Bank",
+      "subcategory": "Advisory / Restructuring",
+      "careers_url": "https://hl.wd1.myworkdayjobs.com/HL_Careers",
+      "search_urls": {
+        "workday": "https://hl.wd1.myworkdayjobs.com/HL_Careers"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "Clipperton",
+      "short": "CLIP",
+      "category": "Investment Bank",
+      "subcategory": "Tech M&A Boutique",
+      "careers_url": "https://clipperton.workable.com/",
+      "search_urls": {
+        "workable": "https://clipperton.workable.com/"
+      },
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": true
+    },
+    {
+      "name": "Alantra",
+      "short": "ALN",
+      "category": "Investment Bank",
+      "subcategory": "European Advisory",
+      "careers_url": "https://www.alantra.com/join-us/",
+      "search_urls": {
+        "wttj": "https://www.welcometothejungle.com/en/companies/alantra/jobs"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": true,
+        "London": true
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Scalene Partners",
+      "short": "SCAL",
+      "category": "Investment Bank",
+      "subcategory": "M&A Boutique",
+      "careers_url": "https://www.welcometothejungle.com/fr/companies/scalene-partners/jobs",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": false
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Avolta Partners",
+      "short": "AVOL",
+      "category": "Investment Bank",
+      "subcategory": "M&A Boutique",
+      "careers_url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs",
+      "search_urls": {},
+      "cities": {
+        "Madrid": false,
+        "Paris": true,
+        "London": false
+      },
+      "has_scraper": false
+    },
+    {
+      "name": "Arcano Partners",
+      "short": "ARC",
+      "category": "Investment Bank",
+      "subcategory": "Spanish Advisory / AM",
+      "careers_url": "https://talento.arcanopartners.com/jobs",
+      "search_urls": {
+        "jobs": "https://talento.arcanopartners.com/jobs"
+      },
+      "cities": {
+        "Madrid": true,
+        "Paris": false,
+        "London": false
+      },
+      "has_scraper": false
     }
   ],
   "linkedin_searches": [
@@ -4476,13 +4614,47 @@
       "url": "https://www.indeed.co.uk/jobs?q=finance+internship&l=London"
     }
   ],
+  "jobboard_searches": [
+    {
+      "name": "eFinancialCareers - Internships Madrid",
+      "url": "https://www.efinancialcareers.com/search?q=internship&location=Madrid"
+    },
+    {
+      "name": "eFinancialCareers - Internships Paris",
+      "url": "https://www.efinancialcareers.fr/search?q=stage&location=Paris"
+    },
+    {
+      "name": "eFinancialCareers - Internships London",
+      "url": "https://www.efinancialcareers.co.uk/search?q=off-cycle+internship&location=London"
+    },
+    {
+      "name": "Welcome to the Jungle - Stage Finance Paris",
+      "url": "https://www.welcometothejungle.com/fr/jobs?query=stage%20finance&aroundQuery=Paris"
+    },
+    {
+      "name": "Welcome to the Jungle - Stage M&A Janvier 2027",
+      "url": "https://www.welcometothejungle.com/fr/jobs?query=stage%20M%26A%20janvier%202027"
+    },
+    {
+      "name": "InfoJobs - Prácticas Finanzas Madrid",
+      "url": "https://www.infojobs.net/ofertas-trabajo/practicas-finanzas/madrid"
+    },
+    {
+      "name": "Glassdoor - Finance Internship Madrid",
+      "url": "https://www.glassdoor.com/Job/madrid-finance-internship-jobs-SRCH_IL.0,6_IC2664319_KO7,25.htm"
+    },
+    {
+      "name": "Bright Network - Off-Cycle Internships UK",
+      "url": "https://www.brightnetwork.co.uk/search/?query=off-cycle+internship"
+    }
+  ],
   "stats": {
     "total_jobs": 125,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 78,
-    "firms_scraped": 31,
-    "firms_failed": 1,
-    "firms_empty": 19,
-    "firms_total": 60
+    "firms_scraped": 32,
+    "firms_failed": 2,
+    "firms_empty": 20,
+    "firms_total": 67
   }
 }
