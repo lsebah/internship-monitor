@@ -8,6 +8,31 @@ from config import (
     DURATION_KEYWORDS, START_2027_KEYWORDS,
 )
 
+# Role demands a degree Charles does not yet hold. He is in the penultimate
+# year (3rd of 4) of a BBA — NOT graduated and NOT a Master's student — so a
+# posting requiring a *completed* Bachelor's, any Master's/MBA/PhD, or final-
+# year/recent-graduate status is a hard eligibility mismatch, no matter how well
+# the domain/location match. Without this, roles like Ardian's "completed
+# Bachelor's or advanced Master's degree" internship scored 95%.
+LEVEL_TOO_HIGH_RX = re.compile(
+    r"completed\s+bachelor|completed\s+(?:undergraduate\s+)?degree|"
+    r"bachelor'?s?\s+or\s+(?:an?\s+)?(?:advanced\s+)?master|"
+    r"advanced\s+master|master'?s?\s+degree|master'?s?\s+student|"
+    r"graduate\s+degree|postgraduate|\bmba\b|\bph\.?\s?d\b|"
+    r"final[\s-]year|graduating\s+(?:in|student|this)|recent\s+graduate|"
+    r"recently\s+graduated|last\s+year\s+of\s+(?:your\s+)?(?:master|studies)",
+    re.I,
+)
+# Counter-signals: the posting explicitly welcomes penultimate/undergrad
+# students. When present, the "too high" flag is suppressed (avoids penalising
+# a role that merely says "pursuing a Bachelor's or Master's").
+LEVEL_OK_RX = re.compile(
+    r"penultimate|second[\s-]year|third[\s-]year|2nd[\s-]year|3rd[\s-]year|"
+    r"undergraduate|bachelor\s+student|currently\s+(?:studying|enrolled|pursuing)|"
+    r"pursuing\s+(?:a\s+)?bachelor",
+    re.I,
+)
+
 
 def score_job(job: dict) -> dict:
     """Score a job listing against the candidate profile.
@@ -104,14 +129,46 @@ def score_job(job: dict) -> dict:
         reasons.append("Start: Jan 2027 (field)")
 
     # --- CIB / Markets strong signals (0-10 points, stacked with domain) ---
+    # "structuring" / "structured products" is Charles's single most
+    # differentiating keyword (his CMF experience) — it was previously unscored.
+    # Markets in the broad sense — structuring is ONE flavour, not the only one.
+    # Equities, FICC, rates, FX, commodities and brokerage all count equally.
     cib_keywords = ["cib", "corporate & investment", "markets",
                     "s&t", "sales and trading", "sales & trading",
-                    "equities", "fixed income", "derivatives"]
+                    "equities", "cash equities", "equity derivatives",
+                    "fixed income", "ficc", "rates", "credit trading",
+                    "fx", "foreign exchange", "commodities", "flow",
+                    "derivatives", "brokerage", "execution", "market making",
+                    "structuring", "structured product", "structured solutions",
+                    "structured note", "structured finance"]
     for kw in cib_keywords:
         if kw in combined:
             score += 10
-            reasons.append("CIB / Markets")
+            reasons.append("Markets (Equities / FICC / Structuration)")
             break
+
+    # --- Preferred track (0-10): corporate finance / banking / IBD ---
+    # Charles has a very junior profile; the goal is a corporate-finance /
+    # banking / advisory role. Markets stay scored (accessible fallback), but
+    # a genuine banking/corporate role gets a tilt so it ranks above an
+    # equal-fit markets role.
+    preferred_track = ["investment banking", "m&a", "mergers", "corporate finance",
+                       "corporate banking", "advisory", "coverage",
+                       "leveraged finance", "debt advisory", "restructuring"]
+    for kw in preferred_track:
+        if kw in combined:
+            score += 10
+            reasons.append("Track privilégié: Corporate / Banking")
+            break
+
+    # --- Education-level eligibility (hard mismatch penalty) ---
+    # A role requiring a completed degree / Master's / final-year status is not
+    # open to a penultimate-year BBA student. Heavily penalise so it cannot sit
+    # in the high-match band, and flag it so the dashboard can hide it.
+    level_mismatch = bool(LEVEL_TOO_HIGH_RX.search(combined)) and not LEVEL_OK_RX.search(combined)
+    if level_mismatch:
+        score = max(0, score - 45)
+        reasons.append("⚠ Niveau requis: diplôme complété / Master")
 
     # Cap at 100
     score = min(100, score)
@@ -120,6 +177,7 @@ def score_job(job: dict) -> dict:
         "score": score,
         "reasons": reasons,
         "excluded": False,
+        "level_mismatch": level_mismatch,
     }
 
 

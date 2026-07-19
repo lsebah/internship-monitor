@@ -345,6 +345,7 @@ function getFilters() {
         newOnly: document.getElementById('filterNew').checked,
         afterSept2026: document.getElementById('filterAfterSept2026')?.checked ?? false,
         jan2027Only: document.getElementById('filterJan2027')?.checked ?? false,
+        eligibleOnly: document.getElementById('filterEligible')?.checked ?? false,
         hideApplied: document.getElementById('hideApplied')?.checked ?? false,
         hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
@@ -461,6 +462,7 @@ function filterJobs(jobs) {
         if (f.newOnly && !job.is_new) return false;
         if (f.afterSept2026 && !startsAfterSept2026(job)) return false;
         if (f.jan2027Only && !startsJan2027(job)) return false;
+        if (f.eligibleOnly && job.level_mismatch) return false;
         return true;
     });
 }
@@ -493,6 +495,7 @@ function renderJobs() {
         const matchClass = job.match_class || classifyScore(job.match_score || 0);
         const reasons = (job.match_reasons || []).join(' · ');
         const isNew = job.is_new ? '<span class="badge-new">NEW</span>' : '';
+        const levelWarn = job.level_mismatch ? '<span class="badge-level" title="Exige un diplôme complété / Master / dernière année — non éligible en 3e année de BBA">NIVEAU ⚠</span>' : '';
         const newClass = job.is_new ? 'is-new' : '';
 
         const reqList = (job.requirements || '').trim()
@@ -516,6 +519,7 @@ function renderJobs() {
                     <span class="job-bank">${escHtml(job.bank)}</span>
                     <span class="job-category-tag">${escHtml(job.category)}</span>
                     ${isNew}
+                    ${levelWarn}
                     ${applied ? '<span class="badge-applied">POSTULE</span>' : ''}
                 </div>
                 <div class="job-meta">
@@ -700,7 +704,7 @@ function renderLinks() {
 
     const categoryOrder = [
         'Investment Bank', 'Bank', 'Private Bank',
-        'Asset Manager', 'Hedge Fund', 'Private Equity'
+        'Asset Manager', 'Hedge Fund', 'Private Equity', 'Broker'
     ];
 
     section.innerHTML = categoryOrder
@@ -915,7 +919,7 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    ['filterNew', 'filterAfterSept2026', 'filterJan2027', 'hideApplied', 'hideTrashed'].forEach(id => {
+    ['filterNew', 'filterAfterSept2026', 'filterJan2027', 'filterEligible', 'hideApplied', 'hideTrashed'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener('change', renderJobs);
     });

@@ -100,6 +100,7 @@ def merge_jobs(existing_jobs: list, new_jobs: list, today: str) -> list:
         job["match_reasons"] = match["reasons"]
         job["match_class"] = classify_match(match["score"])
         job["excluded"] = match.get("excluded", False)
+        job["level_mismatch"] = match.get("level_mismatch", False)
         job["last_seen"] = today
 
         merged[jid] = job
