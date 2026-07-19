@@ -496,6 +496,7 @@ function renderJobs() {
         const reasons = (job.match_reasons || []).join(' · ');
         const isNew = job.is_new ? '<span class="badge-new">NEW</span>' : '';
         const levelWarn = job.level_mismatch ? '<span class="badge-level" title="Exige un diplôme complété / Master / dernière année — non éligible en 3e année de BBA">NIVEAU ⚠</span>' : '';
+        const curated = job.source === 'curated' ? '<span class="badge-curated" title="Lead ajouté manuellement depuis la revue (firme non scrapable automatiquement)">★ Rapport</span>' : '';
         const newClass = job.is_new ? 'is-new' : '';
 
         const reqList = (job.requirements || '').trim()
@@ -519,6 +520,7 @@ function renderJobs() {
                     <span class="job-bank">${escHtml(job.bank)}</span>
                     <span class="job-category-tag">${escHtml(job.category)}</span>
                     ${isNew}
+                    ${curated}
                     ${levelWarn}
                     ${applied ? '<span class="badge-applied">POSTULE</span>' : ''}
                 </div>
