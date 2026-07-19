@@ -16,7 +16,6 @@ from config import (
 # Bachelor's or advanced Master's degree" internship scored 95%.
 LEVEL_TOO_HIGH_RX = re.compile(
     r"completed\s+bachelor|completed\s+(?:undergraduate\s+)?degree|"
-    r"bachelor'?s?\s+or\s+(?:an?\s+)?(?:advanced\s+)?master|"
     r"advanced\s+master|master'?s?\s+degree|master'?s?\s+student|"
     r"graduate\s+degree|postgraduate|\bmba\b|\bph\.?\s?d\b|"
     r"final[\s-]year|graduating\s+(?:in|student|this)|recent\s+graduate|"
@@ -24,12 +23,15 @@ LEVEL_TOO_HIGH_RX = re.compile(
     re.I,
 )
 # Counter-signals: the posting explicitly welcomes penultimate/undergrad
-# students. When present, the "too high" flag is suppressed (avoids penalising
-# a role that merely says "pursuing a Bachelor's or Master's").
+# students, OR welcomes bachelor's AND master's alike (i.e. not master-only).
+# When present, the "too high" flag is suppressed — avoids penalising a role
+# that says "pursuing a Bachelor's or Master's" or "Bachelor's/Master's students".
 LEVEL_OK_RX = re.compile(
     r"penultimate|second[\s-]year|third[\s-]year|2nd[\s-]year|3rd[\s-]year|"
     r"undergraduate|bachelor\s+student|currently\s+(?:studying|enrolled|pursuing)|"
-    r"pursuing\s+(?:a\s+)?bachelor",
+    r"pursuing\s+(?:a\s+)?bachelor|"
+    r"bachelor'?s?\s+(?:degree\s+)?(?:and|or|/|&)\s+(?:a\s+)?master|"
+    r"all\s+years|any\s+year|all\s+disciplines",
     re.I,
 )
 
