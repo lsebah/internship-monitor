@@ -14,6 +14,34 @@ from config import (
 )
 from scrapers import scrape_firm, make_job_id
 from matcher import score_job, classify_match
+from curated import CURATED_OFFERS
+
+
+def build_curated_jobs() -> list:
+    """Turn the hand-curated review leads into job dicts for the pipeline.
+
+    These are firms the scrapers cannot read (direct_link / gated boards), so
+    the offers are entered by hand from the review and merged in like any other
+    job — scored, deduped and displayed. Re-added every run, so they never get
+    purged as stale.
+    """
+    jobs = []
+    for o in CURATED_OFFERS:
+        jobs.append({
+            "id": make_job_id(o["bank"], o["title"], o.get("location", "")),
+            "bank": o["bank"],
+            "category": o.get("category", ""),
+            "title": o["title"],
+            "location": o.get("location", ""),
+            "url": o.get("url", ""),
+            "posted_date": o.get("posted_date", ""),
+            "description": o.get("description", ""),
+            "start_date": o.get("start_date", ""),
+            "duration": o.get("duration", ""),
+            "requirements": o.get("requirements", ""),
+            "source": "curated",
+        })
+    return jobs
 
 logging.basicConfig(
     level=logging.INFO,
@@ -209,6 +237,11 @@ def main():
             }
             firms_failed += 1
             failures.append(f"  - {firm['name']} ({scraper_type}): {type(e).__name__}: {e}")
+
+    # Add hand-curated leads from the review (firms the scrapers can't read).
+    curated = build_curated_jobs()
+    all_new_jobs.extend(curated)
+    logger.info(f"Added {len(curated)} curated offers from the review")
 
     # Merge with existing data
     merged_jobs = merge_jobs(existing_jobs, all_new_jobs, today)
