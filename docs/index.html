@@ -85,6 +85,7 @@
                 <option value="Asset Manager">Asset Managers</option>
                 <option value="Hedge Fund">Hedge Funds</option>
                 <option value="Private Equity">Private Equity</option>
+                <option value="Broker">Brokers / Trading</option>
             </select>
             <select id="filterMatch" class="filter-select">
                 <option value="">All Scores</option>
@@ -100,6 +101,9 @@
             </label>
             <label class="toggle-label" title="Ne garde que les stages démarrant explicitement en janvier 2027 (cible principale)">
                 <input type="checkbox" id="filterJan2027"> Janvier 2027
+            </label>
+            <label class="toggle-label" title="Masque les offres exigeant un diplôme déjà obtenu / un Master / la dernière année — non éligibles pour une 3e année de BBA">
+                <input type="checkbox" id="filterEligible" checked> Éligible BBA
             </label>
             <label class="toggle-label">
                 <input type="checkbox" id="hideApplied" checked> Masquer Applied

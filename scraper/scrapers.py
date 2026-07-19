@@ -295,6 +295,29 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
 # ============================================================
 # GREENHOUSE SCRAPER
 # ============================================================
+def _fetch_greenhouse_detail(board: str, job_id, timeout: int = 12) -> dict:
+    """Fetch a single Greenhouse posting's full body (content) so the matcher
+    can read the requirements and confront them with the candidate profile."""
+    if not job_id:
+        return {}
+    url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs/{job_id}"
+    try:
+        r = SESSION.get(url, timeout=timeout)
+        if r.status_code != 200:
+            return {}
+        import html as _html
+        raw = r.json().get("content", "") or ""
+        text = _clean_html(_html.unescape(raw))
+        return {
+            "description_text": text,
+            "duration": _extract_duration(text),
+            "requirements": _extract_requirements(text),
+        }
+    except Exception as e:
+        logger.debug(f"Greenhouse detail fetch failed for {job_id}: {e}")
+        return {}
+
+
 def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> list:
     """Scrape jobs from Greenhouse API."""
     cfg = firm["scraper"]
@@ -337,6 +360,10 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
                 continue
 
             job_url = j.get("absolute_url", "")
+            # Read the full posting so the matcher can confront requirements
+            # (education level, dates) with the profile — not just the title.
+            detail = _fetch_greenhouse_detail(board, j.get("id"))
+            time.sleep(0.1)
             job = {
                 "id": make_job_id(firm["name"], title, location_name),
                 "bank": firm["name"],
@@ -345,7 +372,9 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
                 "location": location_name,
                 "url": job_url,
                 "posted_date": (j.get("updated_at") or "")[:10],
-                "description": "",
+                "description": (detail.get("description_text", "") or "")[:400],
+                "duration": detail.get("duration", ""),
+                "requirements": detail.get("requirements", ""),
                 "source": "greenhouse",
             }
             all_jobs.append(job)
@@ -438,6 +467,27 @@ def scrape_workable(firm: dict, search_terms: list, target_cities: list) -> list
     all_jobs = []
     city_patterns = [re.compile(re.escape(c), re.I) for c in target_cities]
 
+    def _detail(shortcode):
+        if not shortcode:
+            return {}
+        try:
+            r = SESSION.get(f"https://{subdomain}.workable.com/spi/v3/jobs/{shortcode}",
+                            timeout=12, headers={"Accept": "application/json"})
+            if r.status_code != 200:
+                return {}
+            j = r.json()
+            body = _clean_html(
+                (j.get("full_description") or j.get("description") or "")
+                + "\n" + (j.get("requirements") or "")
+            )
+            return {
+                "description_text": body,
+                "duration": _extract_duration(body),
+                "requirements": _extract_requirements(body),
+            }
+        except Exception:
+            return {}
+
     try:
         resp = SESSION.get(api_url, timeout=15, headers={"Accept": "application/json"})
         if resp.status_code != 200:
@@ -468,6 +518,8 @@ def scrape_workable(firm: dict, search_terms: list, target_cities: list) -> list
             job_url = p.get("url", "") or (
                 f"https://{subdomain}.workable.com/j/{shortcode}" if shortcode else ""
             )
+            detail = _detail(shortcode)
+            time.sleep(0.1)
             all_jobs.append({
                 "id": make_job_id(firm["name"], title, location_name),
                 "bank": firm["name"],
@@ -476,7 +528,9 @@ def scrape_workable(firm: dict, search_terms: list, target_cities: list) -> list
                 "location": location_name,
                 "url": job_url,
                 "posted_date": (p.get("published_on") or p.get("created_at") or "")[:10],
-                "description": (p.get("description", "") or "")[:200],
+                "description": (detail.get("description_text") or p.get("description", "") or "")[:400],
+                "duration": detail.get("duration", ""),
+                "requirements": detail.get("requirements", ""),
                 "source": "workable",
             })
 
