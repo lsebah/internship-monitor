@@ -253,6 +253,12 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                     if (is_multi or not city_in_summary) and detail_locs:
                         stored_loc = detail_locs
 
+                    # Store the full cleaned JD text (not just the short
+                    # bulletFields) so the matcher can see eligibility language
+                    # like "a completed Bachelor's / Master's degree" wherever
+                    # it appears — not only when it sits under a parsed header.
+                    bullets = " | ".join(p.get("bulletFields", []))
+                    full_desc = (detail.get("description_text", "") or bullets)[:2500]
                     job = {
                         "id": make_job_id(firm["name"], title_text, stored_loc),
                         "bank": firm["name"],
@@ -261,7 +267,7 @@ def scrape_workday(firm: dict, search_terms: list, target_cities: list) -> list:
                         "location": stored_loc,
                         "url": job_url,
                         "posted_date": p.get("postedOn", ""),
-                        "description": " | ".join(p.get("bulletFields", [])),
+                        "description": full_desc,
                         "start_date": detail.get("start_date", ""),
                         "time_type": detail.get("time_type", ""),
                         "duration": detail.get("duration", ""),
@@ -372,7 +378,7 @@ def scrape_greenhouse(firm: dict, search_terms: list, target_cities: list) -> li
                 "location": location_name,
                 "url": job_url,
                 "posted_date": (j.get("updated_at") or "")[:10],
-                "description": (detail.get("description_text", "") or "")[:400],
+                "description": (detail.get("description_text", "") or "")[:2500],
                 "duration": detail.get("duration", ""),
                 "requirements": detail.get("requirements", ""),
                 "source": "greenhouse",
@@ -528,7 +534,7 @@ def scrape_workable(firm: dict, search_terms: list, target_cities: list) -> list
                 "location": location_name,
                 "url": job_url,
                 "posted_date": (p.get("published_on") or p.get("created_at") or "")[:10],
-                "description": (detail.get("description_text") or p.get("description", "") or "")[:400],
+                "description": (detail.get("description_text") or p.get("description", "") or "")[:2500],
                 "duration": detail.get("duration", ""),
                 "requirements": detail.get("requirements", ""),
                 "source": "workable",
