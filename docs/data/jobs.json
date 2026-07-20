@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-20T10:17:43.957722+00:00",
+  "last_updated": "2026-07-20T13:45:03.930152+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "count": 2,
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 36,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-20T10:17:43.957722+00:00"
+      "timestamp": "2026-07-20T13:45:03.930152+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1170,6 +1170,35 @@
       "last_seen": "2026-07-20"
     },
     {
+      "id": "62307cf6cd1d",
+      "bank": "Deutsche Bank",
+      "category": "Investment Bank",
+      "title": "Internship Xtrackers ETF Sales France & MENA",
+      "location": "Paris",
+      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Internship-Xtrackers-ETF-Sales-France---MENA_R0443003-1",
+      "posted_date": "Posted Today",
+      "description": "Job Description:\nAbout DWS\nAt DWS,\nwe’re\ncapturing the opportunities\nof\ntomorrow. You can be part of a leading, client-committed, global Asset Manager, making an impact on individuals, communities, and the world.\nToday, markets still face a whole new set of pressures – but also a whole lot of opportunity too. Opportunity to innovate differently. Opportunity to invest responsibly. And opportunity to make\nchange\n. This is needed more than ever as we currently experience high interest rates, a once-in-a-lifetime health crisis, a shift in global demographics – and politics – as well as advances in digitalization and economies moving towards a more sustainable future.\nWhile there is always uncertainty in markets, one thing\nremains\nclear: there is always a new situation that requires the right investment answers. We call it the\nnew\nnow.\nAbout the Internship\nThe DWS Internship is an opportunity\nto\ngain a wide range of practical experience. Individual projects, participation in speaker\nsessions\nand networking events will all be part of the internship. Whilst you can expect a high learning curve from our\nInternship\n, you will\nbenefit\nfrom the support of your managers and mentors along with unparalleled exposure to the world of Asset Management. This internship is an ideal way to\ndetermine\nwhether a career in Financial Services & Asset Management meets your personal aspirations.\nAs our\nXtrackers\nETF Sales\nDWS Intern\nyou will:\nA\nssist\nthe salespeople in their daily tasks in close collaboration with the management, trading,\nmarketing\nand support teams based in London and Frankfurt\nContribut\ne\nto the production of customer presentations linked to financial markets evolutions (Equities, Fixed\nIncome\nand\ncommodities\n), marketing materials on specific product push and other sales documents.\nHelp in following up customer requests,\nreportings\n, demands on ETF or underlying indices.\nPerform\nCompetitive intelligence: competitor activity, market trends, product flows, news on ETF markets\nWe’re\nlooking for:\nStudent in the field of economics, finance, mathematics, or a related subject\nStrong interest\nin\nfinancial analysis and industry\nStrong writing, presentation skills\nKnow-how\nof\nall asset classes (Equities, Bonds, Commodities) and derivatives (swap,\nfutures\nand repo. Markets)\nExperience with\nthe main software\n(\nExcel macro et\nformule\nde\nstat ,\nPowerPoint\nand Word)\nAutonomy,\ninitiative\nand sense of responsibility (rigor and intellectual honesty)\nVery good\nanalytical skills\nMan",
+      "start_date": "2026-07-20",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Know-how\nall asset classes (Equities, Bonds, Commodities) and derivatives (swap,\nand repo. Markets)\nExperience with\nthe main software\nExcel macro et",
+      "source": "workday",
+      "first_seen": "2026-07-20",
+      "is_new": true,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, asset management, trading",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-20"
+    },
+    {
       "id": "eee20292241e",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1700,7 +1729,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fecf63a9ddc8/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-1004f59e12e1/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2635,7 +2664,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fecf63a9ddc8/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-1004f59e12e1/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3482,7 +3511,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-fecf63a9ddc8/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-1004f59e12e1/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5257,9 +5286,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 132,
-    "new_today": 0,
-    "high_match": 106,
+    "total_jobs": 133,
+    "new_today": 1,
+    "high_match": 107,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 20,
