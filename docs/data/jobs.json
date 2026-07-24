@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-24T09:26:25.846623+00:00",
+  "last_updated": "2026-07-24T13:14:46.720579+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 18,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-24T09:26:25.846623+00:00"
+      "timestamp": "2026-07-24T13:14:46.720579+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1701,7 +1701,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9056dba5e943/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8f319de462f1/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2608,7 +2608,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9056dba5e943/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8f319de462f1/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2734,6 +2734,34 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: research, economics",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-24"
+    },
+    {
+      "id": "d5681db0a3b6",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Legal-Structuration Stage - Juillet 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170",
+      "posted_date": "Posted 14 Days Ago",
+      "description": "Département : Legal - Structuration\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Juillet 2027\nLe rôle\nAu sein d’une équipe de juristes réparties principalement entre Paris, Londres et Abu Dhabi, le stagiaire sera rattaché au bureau parisien du pôle structuration de fonds, composé de 20 personnes.\nCette équipe est en charge de la structuration et du suivi de la vie des fonds Ardian investis en Private Equity (Buy-out, Expansion et Growth), Real Assets (Real Estate et Infrastructure), Private Credit (Private Debt, Real Estate Debt, Infrastructure Debt) et des fonds dédiés (Customized Solutions).\nIl aura pour missions principales :\nCréation des fonds d’investissements : rédaction de la documentation légale (notamment LPA, PPM), suivi des étapes de création des véhicules ;\nNégociation et la rédaction de Side Letters ;\nSuivi de la vie des fonds d’investissement : mise en œuvre et modification de la documentation légale, consultation des investisseurs, réponse aux questions des équipes opérationnelles ;\nAssister aux comités d’investissement et rédiger les minutes ;\nRevue de contrats (contrat de délégation de gestion financière, convention de confidentialité, etc.) ; et\nVeille et analyse de l’actualité juridique.\nCompétences requises\nRigueur\nCuriosité\nEsprit d’équipe\nCapacité d’adaptation\nEfficacité\nLe profil\n3ème cycle en droit des affaires avec connaissances solides en droit des sociétés (magistère, Master II…) ou en cours d’obtention du CRFPA/CAPA ou en cours d’obtention d’un Master Ecole de commerce\nUne première expérience significative en stage dans un cabinet ou une entreprise est requise (que cette expérience ait ou non eu trait à la structuration de fonds d’investissements est d’importance moindre)\nBon niveau d’anglais impératif\nBonne maîtrise des outils informatiques\nAutres informations\nGratification selon profil\nRemboursement du titre de transport (66%) et tickets restaurant\nEnveloppe CSE\n5 jours de congés offerts\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-07-10",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-10",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
@@ -3029,7 +3057,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9056dba5e943/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8f319de462f1/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3351,7 +3379,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9056dba5e943/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8f319de462f1/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3500,32 +3528,6 @@
       "match_class": "moderate",
       "excluded": false,
       "last_seen": "2026-07-15"
-    },
-    {
-      "id": "d5681db0a3b6",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Legal-Structuration Stage - Juillet 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170",
-      "posted_date": "Posted 14 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-10",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-07-24"
     },
     {
       "id": "9717ab65611b",
@@ -5088,7 +5090,7 @@
   "stats": {
     "total_jobs": 125,
     "new_today": 0,
-    "high_match": 101,
+    "high_match": 102,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 21,
