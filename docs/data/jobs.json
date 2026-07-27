@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-27T10:48:45.610044+00:00",
+  "last_updated": "2026-07-27T14:07:48.700285+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 16,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "count": 15,
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 31,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "count": 30,
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-27T10:48:45.610044+00:00"
+      "timestamp": "2026-07-27T14:07:48.700285+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -893,7 +893,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-07-27",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1567,7 +1567,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-07-27",
-      "is_new": true,
+      "is_new": false,
       "match_score": 90,
       "match_reasons": [
         "Location: Paris",
@@ -1762,7 +1762,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f2d28b5fb20b/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7cdbd88c5003/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2551,34 +2551,6 @@
       "last_seen": "2026-07-27"
     },
     {
-      "id": "7224ecee4a1e",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Buyout Stage - Juillet 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Juillet-2026-I-Paris--M-F-_JR1001742",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Fund Finance Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Juillet 2026\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe Fund Finance Buyout composée de 7 personnes basées à Paris (6 personnes) et à New York (1 personne). La mission consiste à assurer le suivi des structures d’investissement dédiées à l’activité Buyout et en particulier les aspects suivants :\nCalcul, analyse et reporting de la performance des fonds ;\nRevue des arrêtés comptables trimestriels et des comptes annuels en lien avec les différents prestataires basés à Paris, Luxembourg, Jersey et New York ;\nParticipation aux flux financiers d'investissements ou de cessions ;\nGestion opérationnelle des véhicules d’investissement ;\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, Madrid, Londres et New York.\nBack Office avec différents prestataires basés à Paris, Luxembourg, Jersey et New York.\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs ;\nImplication dans la levée des nouveaux fonds ;\nContrôle du respect des procédures ARDIAN dans la gestion des véhicules d‘investissement ;\nEmploi et actualisation des outils informatiques au sein de l’équipe.\nCompétences requises\nRigueur et sens critique\nProactivité et efficacité\nDynamisme et très bonne communication\nGrande capacité d’organisation et esprit d’équipe\nLe profil\nEcole de commerce, école d’ingénieur, université\n3ème année (stage de fin d’études)\nPremière expérience souhaitée (stage de 6 mois idéalement en finance, audit ou contrôle financier)\nBonnes connaissances comptables et financières\nAnglais courant\nA propos de l’équipe\nL’équipe Fund Finance Buyout est composée d’experts pluridisciplinaires dynamiques, sensibles au travail en équipe et dotés d’une très bonne capacité d’adaptation à tout nouveau sujet rencontré.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice",
-      "start_date": "2026-04-16",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-07-27"
-    },
-    {
       "id": "bec68070c81d",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2600,6 +2572,34 @@
         "Type: Internship/Stage",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-27"
+    },
+    {
+      "id": "7224ecee4a1e",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Buyout Stage - Juillet 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Juillet-2026-I-Paris--M-F-_JR1001742",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Fund Finance Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Juillet 2026\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe Fund Finance Buyout composée de 7 personnes basées à Paris (6 personnes) et à New York (1 personne). La mission consiste à assurer le suivi des structures d’investissement dédiées à l’activité Buyout et en particulier les aspects suivants :\nCalcul, analyse et reporting de la performance des fonds ;\nRevue des arrêtés comptables trimestriels et des comptes annuels en lien avec les différents prestataires basés à Paris, Luxembourg, Jersey et New York ;\nParticipation aux flux financiers d'investissements ou de cessions ;\nGestion opérationnelle des véhicules d’investissement ;\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, Madrid, Londres et New York.\nBack Office avec différents prestataires basés à Paris, Luxembourg, Jersey et New York.\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs ;\nImplication dans la levée des nouveaux fonds ;\nContrôle du respect des procédures ARDIAN dans la gestion des véhicules d‘investissement ;\nEmploi et actualisation des outils informatiques au sein de l’équipe.\nCompétences requises\nRigueur et sens critique\nProactivité et efficacité\nDynamisme et très bonne communication\nGrande capacité d’organisation et esprit d’équipe\nLe profil\nEcole de commerce, école d’ingénieur, université\n3ème année (stage de fin d’études)\nPremière expérience souhaitée (stage de 6 mois idéalement en finance, audit ou contrôle financier)\nBonnes connaissances comptables et financières\nAnglais courant\nA propos de l’équipe\nL’équipe Fund Finance Buyout est composée d’experts pluridisciplinaires dynamiques, sensibles au travail en équipe et dotés d’une très bonne capacité d’adaptation à tout nouveau sujet rencontré.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, audit",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2669,7 +2669,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f2d28b5fb20b/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7cdbd88c5003/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2712,34 +2712,6 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: wealth management, sales, equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-07-27"
-    },
-    {
-      "id": "380fec08812c",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2026 | EMEA | Madrid | Wealth Management | Seasonal/Off-cycle Internship",
-      "location": "Madrid, Comunidad de Madrid, Spain",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/150855",
-      "posted_date": "2025-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: wealth management",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2795,6 +2767,34 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: research, economics",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-27"
+    },
+    {
+      "id": "380fec08812c",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2026 | EMEA | Madrid | Wealth Management | Seasonal/Off-cycle Internship",
+      "location": "Madrid, Comunidad de Madrid, Spain",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/150855",
+      "posted_date": "2025-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: wealth management",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
@@ -3118,7 +3118,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f2d28b5fb20b/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7cdbd88c5003/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3414,7 +3414,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f2d28b5fb20b/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7cdbd88c5003/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5124,7 +5124,7 @@
   ],
   "stats": {
     "total_jobs": 126,
-    "new_today": 2,
+    "new_today": 0,
     "high_match": 104,
     "firms_scraped": 32,
     "firms_failed": 0,
