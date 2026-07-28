@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-07-28T13:27:03.868627+00:00",
+  "last_updated": "2026-07-28T17:23:28.920863+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 16,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "count": 14,
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 30,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "count": 29,
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-07-28T13:27:03.868627+00:00"
+      "timestamp": "2026-07-28T17:23:28.920863+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -699,36 +699,6 @@
       "last_seen": "2026-07-28"
     },
     {
-      "id": "32d6c1ea2b2a",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage – Equity Sales – Rothschild & Co Redburn – Septembre 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Equity-Sales---Rothschild---Co-Redburn---Septembre-2026_JR016055",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nRothschild & Co Redburn\npropose des stages de 6 mois à Paris, destinés aux étudiant(e)s en année de césure ou en fin de cursus. Dans ce cadre, la banque recherche un(e) stagiaire à partir de septembre 2026.\nLe/la candidat(e) rejoindra une composée de 13 personnes, dont la mission principale est d’assister l’équipe de Vente Actions.\nMissions\nEn tant que stagiaire vous aurez l’opportunité de :\nSupporter l’équipe de vente dans sa production de contenus :\nParticipation à la rédaction du mail quotidien\nAide à la préparation / finalisation de présentations d’idées d’investissement\nLecture et synthétisation d’idées de la recherche\nAssister l’équipe de vente dans ses démarches de prospection / suivi\nVeille et mise à jour des cibles / prospects\nSuivi de l’allocation de ressource aux clients\nAssister l’équipe de vente dans ses démarches administratives\nAider à la rédaction / finalisation des revues clients\nAssister l’équipe dans ses démarches marketing\nRéservations de salle / restauration pour les évènements\nOrganisation de la logistique / voyages pour les évènements analystes\nOrganisation du dispositif digital pour les conférences virtuelles\nAccueil client pour les déjeuners corporates\nProfil\nÉtudiant(e) en école de commerce, université ou école d’ingénieur, vous disposez :\nD’une solide culture financière et d’un vif intérêt pour l’économie et les marchés financiers.\nD’un fort esprit d’analyse et de synthèse.\nD’un niveau courant ou bilingue en anglais, ainsi que d’excellentes compétences rédactionnelles et orales en français.\nD’une forte c",
-      "start_date": "2026-06-24",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-24",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, sales",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-07-28"
-    },
-    {
       "id": "3b74694b8da4",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -841,6 +811,36 @@
         "Domain: M&A, equity, private equity",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "32d6c1ea2b2a",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Equity Sales – Rothschild & Co Redburn – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Equity-Sales---Rothschild---Co-Redburn---Septembre-2026_JR016055",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nRothschild & Co Redburn\npropose des stages de 6 mois à Paris, destinés aux étudiant(e)s en année de césure ou en fin de cursus. Dans ce cadre, la banque recherche un(e) stagiaire à partir de septembre 2026.\nLe/la candidat(e) rejoindra une composée de 13 personnes, dont la mission principale est d’assister l’équipe de Vente Actions.\nMissions\nEn tant que stagiaire vous aurez l’opportunité de :\nSupporter l’équipe de vente dans sa production de contenus :\nParticipation à la rédaction du mail quotidien\nAide à la préparation / finalisation de présentations d’idées d’investissement\nLecture et synthétisation d’idées de la recherche\nAssister l’équipe de vente dans ses démarches de prospection / suivi\nVeille et mise à jour des cibles / prospects\nSuivi de l’allocation de ressource aux clients\nAssister l’équipe de vente dans ses démarches administratives\nAider à la rédaction / finalisation des revues clients\nAssister l’équipe dans ses démarches marketing\nRéservations de salle / restauration pour les évènements\nOrganisation de la logistique / voyages pour les évènements analystes\nOrganisation du dispositif digital pour les conférences virtuelles\nAccueil client pour les déjeuners corporates\nProfil\nÉtudiant(e) en école de commerce, université ou école d’ingénieur, vous disposez :\nD’une solide culture financière et d’un vif intérêt pour l’économie et les marchés financiers.\nD’un fort esprit d’analyse et de synthèse.\nD’un niveau courant ou bilingue en anglais, ainsi que d’excellentes compétences rédactionnelles et orales en français.\nD’une forte c",
+      "start_date": "2026-06-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-24",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, sales",
+        "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
@@ -1056,35 +1056,6 @@
       "last_seen": "2026-07-28"
     },
     {
-      "id": "c20a92ccf857",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage d’Analyste en Private Equity Secondaire (FASO) – Juillet / Septembre 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-d-Analyste-en-Private-Equity-Secondaire--FASO----Juillet---Septembre-2026_JR016059",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nDescription\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de juillet / septembre 2026. L’analyste stagiaire aura pour mission d’assister l’équipe d’investissement du fonds Five Arrows Secondary Opportunities (« FASO »).\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nMissions\n:\nLa mission du stagiaire s’articulera autour des 3 principaux axes suivants :\nInvestissement\n: participation à l’analyse et à l’exécution de nouveaux dossiers d’investissement\nSourcing\n: soutien à l’équipe pour l’identification d’opportunités d’investissements / veille économique\nSuivi des investissements\n: monitoring de la performance des investissements,reporting trimestriel aux investisseurs\nProfil\n:\nEtudiant(e) en deuxième partie de césure ou en dernière année d’une grande école de commerce ou d’ingénieurs\nDynamique, rigoureux(se), curieux(se), ayant le sens des initiatives et sachant travailler de manière autonome. Grande rigueur et respect des délais requis\nFortes capacités d’analyse et de synthèse\nSolides connaissances financières indispensab",
-      "start_date": "2026-06-25",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-25",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-07-28"
-    },
-    {
       "id": "2477cbbad637",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1165,6 +1136,35 @@
         "Domain: finance, risk, fund",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-07-28"
+    },
+    {
+      "id": "c20a92ccf857",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage d’Analyste en Private Equity Secondaire (FASO) – Juillet / Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-d-Analyste-en-Private-Equity-Secondaire--FASO----Juillet---Septembre-2026_JR016059",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nDescription\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de juillet / septembre 2026. L’analyste stagiaire aura pour mission d’assister l’équipe d’investissement du fonds Five Arrows Secondary Opportunities (« FASO »).\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nMissions\n:\nLa mission du stagiaire s’articulera autour des 3 principaux axes suivants :\nInvestissement\n: participation à l’analyse et à l’exécution de nouveaux dossiers d’investissement\nSourcing\n: soutien à l’équipe pour l’identification d’opportunités d’investissements / veille économique\nSuivi des investissements\n: monitoring de la performance des investissements,reporting trimestriel aux investisseurs\nProfil\n:\nEtudiant(e) en deuxième partie de césure ou en dernière année d’une grande école de commerce ou d’ingénieurs\nDynamique, rigoureux(se), curieux(se), ayant le sens des initiatives et sachant travailler de manière autonome. Grande rigueur et respect des délais requis\nFortes capacités d’analyse et de synthèse\nSolides connaissances financières indispensab",
+      "start_date": "2026-06-25",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-25",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -1762,7 +1762,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c916a4cdd0e4/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-86b51a319554/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2669,7 +2669,7 @@
       "category": "Investment Bank",
       "title": "2026 Sales &amp; Trading Off Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c916a4cdd0e4/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-86b51a319554/candidate/so/pm/1/pl/1/opp/19794-2026-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3118,7 +3118,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c916a4cdd0e4/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-86b51a319554/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3414,7 +3414,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c916a4cdd0e4/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-86b51a319554/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
