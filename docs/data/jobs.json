@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-02T12:55:06.038771+00:00",
+  "last_updated": "2026-08-02T16:55:40.105886+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 5,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "count": 0,
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-02T12:55:06.038771+00:00"
+      "timestamp": "2026-08-02T16:55:40.105886+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1818,35 +1818,6 @@
       "last_seen": "2026-07-26"
     },
     {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-02"
-    },
-    {
       "id": "412c9fcb3bae",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2008,6 +1979,35 @@
         "Type: Internship/Stage",
         "Domain: equity, private equity, fund",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-02"
+    },
+    {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -2781,6 +2781,33 @@
       "last_seen": "2026-07-20"
     },
     {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-02"
+    },
+    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -2802,33 +2829,6 @@
         "Type: Internship/Stage",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-02"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: wealth management, sales, equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3525,33 +3525,6 @@
       "excluded": false,
       "level_mismatch": true,
       "last_seen": "2026-07-29"
-    },
-    {
-      "id": "afa5568f97e9",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-08-02",
-      "is_new": true,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: Paris",
-        "Domain: banking, investment banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-02"
     },
     {
       "id": "2694e9555222",
@@ -5116,12 +5089,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 124,
-    "new_today": 1,
+    "total_jobs": 123,
+    "new_today": 0,
     "high_match": 109,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 23,
+    "firms_empty": 24,
     "firms_total": 76
   }
 }
