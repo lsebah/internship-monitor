@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-03T10:49:18.680777+00:00",
+  "last_updated": "2026-08-03T14:12:12.696465+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "count": 5,
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 29,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "count": 28,
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T10:49:18.680777+00:00"
+      "timestamp": "2026-08-03T14:12:12.696465+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1818,6 +1818,35 @@
       "last_seen": "2026-07-26"
     },
     {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
+    },
+    {
       "id": "f85e4cbd5177",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -1832,7 +1861,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-08-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: London",
@@ -2013,35 +2042,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-03"
-    },
-    {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-02"
     },
     {
       "id": "db653d4b655a",
@@ -2669,34 +2669,6 @@
       "last_seen": "2026-08-03"
     },
     {
-      "id": "5ce97a828454",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Infrastructure Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Infrastructure-Stage---Septembre-2026-I-Paris--H-F-_JR1001944",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Fund Finance Infrastructure\nDurée : 6 mois\nLieu : Paris\nDate: Septembre 2026\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe : le Fund Finance Infrastructure.\nLa mission consiste à assister les contrôleurs financiers des structures Infrastructures dans leur travail de contrôle, d’analyse et de suivi des fonds sous gestion.\nElle couvrira en particulier les volets suivants :\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, New York, Madrid et Londres.\nBack Office avec différents prestataires basés à Paris, Luxembourg et Jersey.\nParticipations aux flux financiers d'investissement et de cession en binôme avec le contrôleur financier (en collaboration avec l’équipe d’investissement, les services juridiques et le RCCI) ; mise en place des dossiers de contrôle ; Suivi des flux cash affectant les portefeuilles\nAnalyse des documents légaux des investissements\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs;\nCalcul, analyse et reporting de la performance des fonds ; préparation des présentations commerciales\nParticipation aux arrêtés comptables trimestriels ; vérification des comptes\nAide à l’amélioration des outils en place\nCompétences requises\nRigueur et organisation\nMotivation\nAutonomie\nRéactivité et efficacité\nEsprit d’équipe\nProfil\nEtudiant en année de césure / fin d’étude en Ecole de Commerce ou d’Ingénieur\nUne première expérience en cabinet d’audit, contrôle financier ou finance est requise\nBonne maîtrise d’Excel souhaitée\nBonnes connaissances comptables et financières\nAnglais courant\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-04-16",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-03"
-    },
-    {
       "id": "bec68070c81d",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2718,6 +2690,34 @@
         "Type: Internship/Stage",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
+    },
+    {
+      "id": "5ce97a828454",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Infrastructure Stage - Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Infrastructure-Stage---Septembre-2026-I-Paris--H-F-_JR1001944",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Fund Finance Infrastructure\nDurée : 6 mois\nLieu : Paris\nDate: Septembre 2026\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe : le Fund Finance Infrastructure.\nLa mission consiste à assister les contrôleurs financiers des structures Infrastructures dans leur travail de contrôle, d’analyse et de suivi des fonds sous gestion.\nElle couvrira en particulier les volets suivants :\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, New York, Madrid et Londres.\nBack Office avec différents prestataires basés à Paris, Luxembourg et Jersey.\nParticipations aux flux financiers d'investissement et de cession en binôme avec le contrôleur financier (en collaboration avec l’équipe d’investissement, les services juridiques et le RCCI) ; mise en place des dossiers de contrôle ; Suivi des flux cash affectant les portefeuilles\nAnalyse des documents légaux des investissements\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs;\nCalcul, analyse et reporting de la performance des fonds ; préparation des présentations commerciales\nParticipation aux arrêtés comptables trimestriels ; vérification des comptes\nAide à l’amélioration des outils en place\nCompétences requises\nRigueur et organisation\nMotivation\nAutonomie\nRéactivité et efficacité\nEsprit d’équipe\nProfil\nEtudiant en année de césure / fin d’étude en Ecole de Commerce ou d’Ingénieur\nUne première expérience en cabinet d’audit, contrôle financier ou finance est requise\nBonne maîtrise d’Excel souhaitée\nBonnes connaissances comptables et financières\nAnglais courant\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-04-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, audit",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2810,27 +2810,27 @@
       "last_seen": "2026-07-20"
     },
     {
-      "id": "0e7ee5c67d78",
-      "bank": "Bank of America",
+      "id": "81b9ebd93b95",
+      "bank": "Morgan Stanley",
       "category": "Investment Bank",
-      "title": "Global Investment Banking 2027 Summer Analyst - London",
-      "location": "London United Kingdom",
-      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14522-Global-Investment-Banking-2027-Summer-Analyst-London/en-GB",
+      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
-      "description": "Global Corporate Banking 2027, Summer Analyst – London London, UK About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delive",
+      "description": "",
       "start_date": "",
-      "time_type": "Summer internship",
+      "time_type": "",
       "duration": "",
       "requirements": "",
       "source": "oleeo",
-      "first_seen": "2026-08-03",
-      "is_new": true,
+      "first_seen": "2026-07-31",
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
-        "Location: London",
+        "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: banking, investment banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2863,34 +2863,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-03"
-    },
-    {
-      "id": "81b9ebd93b95",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-02"
     },
     {
       "id": "a47f960611c9",
@@ -3315,40 +3287,12 @@
       "last_seen": "2026-07-23"
     },
     {
-      "id": "0e1fdd43e31d",
-      "bank": "Bank of America",
-      "category": "Investment Bank",
-      "title": "Global Corporate Banking 2027 Summer Analyst – London",
-      "location": "London United Kingdom",
-      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14519-Global-Corporate-Banking-2027-Summer-Analyst-London/en-GB",
-      "posted_date": "",
-      "description": "Global Corporate Banking 2027, Summer Analyst – London London, UK About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delive",
-      "start_date": "",
-      "time_type": "Summer internship",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-08-03",
-      "is_new": true,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-03"
-    },
-    {
       "id": "595b31f890ae",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3368,7 +3312,63 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-02"
+      "last_seen": "2026-08-03"
+    },
+    {
+      "id": "0e1fdd43e31d",
+      "bank": "Bank of America",
+      "category": "Investment Bank",
+      "title": "Global Corporate Banking 2027 Summer Analyst – London",
+      "location": "London United Kingdom",
+      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14519-Global-Corporate-Banking-2027-Summer-Analyst-London/en-GB",
+      "posted_date": "",
+      "description": "Global Corporate Banking 2027, Summer Analyst – London London, UK About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delive",
+      "start_date": "",
+      "time_type": "Summer internship",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-08-03",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, corporate banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
+    },
+    {
+      "id": "0e7ee5c67d78",
+      "bank": "Bank of America",
+      "category": "Investment Bank",
+      "title": "Global Investment Banking 2027 Summer Analyst - London",
+      "location": "London United Kingdom",
+      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14522-Global-Investment-Banking-2027-Summer-Analyst-London/en-GB",
+      "posted_date": "",
+      "description": "Investment Banking, 2027 Summer Analyst London, United Kingdom About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and deliverin",
+      "start_date": "",
+      "time_type": "Summer internship",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-08-03",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
     },
     {
       "id": "f4422ad60fba",
@@ -3397,40 +3397,12 @@
       "last_seen": "2026-08-03"
     },
     {
-      "id": "4a3b61dc655d",
-      "bank": "Bank of America",
-      "category": "Investment Bank",
-      "title": "Investment Banking H1-2027 Off-Cycle Analyst - Paris",
-      "location": "Paris France",
-      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14520-Investment-Banking-H1-2027-Off-Cycle-Analyst-Paris/en-GB",
-      "posted_date": "",
-      "description": "Investment Banking H1-2027, Off-Cycle Analyst Paris, France About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering f",
-      "start_date": "",
-      "time_type": "Off-cycle internship",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-08-03",
-      "is_new": true,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-03"
-    },
-    {
       "id": "9f9a06b3ba40",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a3b72c3f23fb/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3449,7 +3421,35 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-02"
+      "last_seen": "2026-08-03"
+    },
+    {
+      "id": "4a3b61dc655d",
+      "bank": "Bank of America",
+      "category": "Investment Bank",
+      "title": "Investment Banking H1-2027 Off-Cycle Analyst - Paris",
+      "location": "Paris France",
+      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14520-Investment-Banking-H1-2027-Off-Cycle-Analyst-Paris/en-GB",
+      "posted_date": "",
+      "description": "Investment Banking H1-2027, Off-Cycle Analyst Paris, France About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering f",
+      "start_date": "",
+      "time_type": "Off-cycle internship",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-08-03",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
     },
     {
       "id": "9db903d1015b",
@@ -3638,6 +3638,33 @@
       "excluded": false,
       "level_mismatch": true,
       "last_seen": "2026-07-29"
+    },
+    {
+      "id": "afa5568f97e9",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-08-03",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
     },
     {
       "id": "2694e9555222",
@@ -5202,12 +5229,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 127,
-    "new_today": 4,
+    "total_jobs": 128,
+    "new_today": 1,
     "high_match": 113,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 23,
+    "firms_empty": 22,
     "firms_total": 76
   }
 }
