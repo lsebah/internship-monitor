@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-03T14:12:12.696465+00:00",
+  "last_updated": "2026-08-03T17:48:19.044063+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 16,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "count": 15,
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 28,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-03T14:12:12.696465+00:00"
+      "timestamp": "2026-08-03T17:48:19.044063+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1000,35 +1000,6 @@
       "last_seen": "2026-08-03"
     },
     {
-      "id": "4061826fc949",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit & Insurance, Private Credit Strategies –Off Cycle Intern (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Private-Credit-Strategies--Off-Cycle-Intern--London-_43521",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone 2026 Private Credit Strategies – Off Cycle Intern\nBlackstone Credit & Insurance:\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including direct lending, opportunistic credit, private investment grade, asset-based lending, infrastructure credit, and liquid credit & collateralized loan obligations. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nJob Description:\nAt Blackstone, we look to attract and retain the brightest minds in the business, hiring professionals and students across a wide range of disciplines. Our employees’ passion for their work and commitment to their clients have helped Blackstone become one of the most respected financial institutions and a trusted partner.\nOff Cycle interns are generalists and participate in all aspects of projects and can expect to work on a number of assignments at one time, including all aspects of live deal work. Due to the relatively small size of the professional staff, deal teams are typically small, and interns are therefore expected to assume important and integral roles. Interns are intimately involved with screening, analyzing and structuring of investment opportunities and regularly attend internal and external meetings, negotiations, and due diligence sessions.\nResponsibilities:\nDue diligence, financial analysis and modelling\nMarket research and benchmarking against market and macroeconomic conditions\nCompetitive analysis\nDevelopment of presentations\nAssistance in the execution of transactions\nDrafting of investment memoranda for internal and exte",
-      "start_date": "2026-07-17",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "A demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail\nGood judgement\nContribute to a positive culture\nHigh interest in investing",
-      "source": "workday",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-03"
-    },
-    {
       "id": "7158cd1f6ad9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1049,6 +1020,35 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-03"
+    },
+    {
+      "id": "4061826fc949",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit & Insurance, Private Credit Strategies –Off Cycle Intern (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2026-Blackstone-Credit---Insurance--Private-Credit-Strategies--Off-Cycle-Intern--London-_43521",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone 2026 Private Credit Strategies – Off Cycle Intern\nBlackstone Credit & Insurance:\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including direct lending, opportunistic credit, private investment grade, asset-based lending, infrastructure credit, and liquid credit & collateralized loan obligations. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nJob Description:\nAt Blackstone, we look to attract and retain the brightest minds in the business, hiring professionals and students across a wide range of disciplines. Our employees’ passion for their work and commitment to their clients have helped Blackstone become one of the most respected financial institutions and a trusted partner.\nOff Cycle interns are generalists and participate in all aspects of projects and can expect to work on a number of assignments at one time, including all aspects of live deal work. Due to the relatively small size of the professional staff, deal teams are typically small, and interns are therefore expected to assume important and integral roles. Interns are intimately involved with screening, analyzing and structuring of investment opportunities and regularly attend internal and external meetings, negotiations, and due diligence sessions.\nResponsibilities:\nDue diligence, financial analysis and modelling\nMarket research and benchmarking against market and macroeconomic conditions\nCompetitive analysis\nDevelopment of presentations\nAssistance in the execution of transactions\nDrafting of investment memoranda for internal and exte",
+      "start_date": "2026-07-17",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "A demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail\nGood judgement\nContribute to a positive culture\nHigh interest in investing",
+      "source": "workday",
+      "first_seen": "2026-06-09",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
       ],
@@ -1823,7 +1823,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5e486b14e5f3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2815,7 +2815,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5e486b14e5f3/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3292,7 +3292,7 @@
       "category": "Investment Bank",
       "title": "2026 Investment Management Off-cycle Internship - Risk Management (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5e486b14e5f3/candidate/so/pm/1/pl/1/opp/21212-2026-Investment-Management-Off-cycle-Internship-Risk-Management-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3402,7 +3402,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5e486b14e5f3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3645,7 +3645,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0a334629c5c3/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5e486b14e5f3/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3654,7 +3654,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-08-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -5230,7 +5230,7 @@
   ],
   "stats": {
     "total_jobs": 128,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 113,
     "firms_scraped": 32,
     "firms_failed": 0,
