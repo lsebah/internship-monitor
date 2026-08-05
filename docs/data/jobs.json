@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-05T09:41:34.558530+00:00",
+  "last_updated": "2026-08-05T13:39:42.361368+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 27,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "count": 29,
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-05T09:41:34.558530+00:00"
+      "timestamp": "2026-08-05T13:39:42.361368+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1262,6 +1262,36 @@
       "last_seen": "2026-07-28"
     },
     {
+      "id": "6d27120cbc6c",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
+      "posted_date": "Posted Today",
+      "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-05",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-05",
+      "is_new": true,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-05"
+    },
+    {
       "id": "eee20292241e",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1823,7 +1853,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8fc0524617d0/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0bd31160353b/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2781,12 +2811,40 @@
       "last_seen": "2026-07-26"
     },
     {
+      "id": "19e298b8bc57",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
+      "posted_date": "Posted Today",
+      "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-05",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-05",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: asset management, equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-05"
+    },
+    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8fc0524617d0/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0bd31160353b/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3373,7 +3431,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8fc0524617d0/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0bd31160353b/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3616,7 +3674,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-8fc0524617d0/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0bd31160353b/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5200,9 +5258,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 127,
-    "new_today": 0,
-    "high_match": 112,
+    "total_jobs": 129,
+    "new_today": 2,
+    "high_match": 114,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 22,
