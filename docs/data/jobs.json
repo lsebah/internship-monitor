@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-10T08:44:38.205415+00:00",
+  "last_updated": "2026-08-10T12:41:29.720440+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-10T08:44:38.205415+00:00"
+      "timestamp": "2026-08-10T12:41:29.720440+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1735,7 +1735,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9eaac6fe12b6/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-32863e78da8e/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1788,21 +1788,21 @@
       "last_seen": "2026-08-10"
     },
     {
-      "id": "412c9fcb3bae",
+      "id": "a28d9ddf3be0",
       "bank": "Blackstone",
       "category": "Private Equity",
       "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
       "posted_date": "",
       "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
-      "start_date": "2026-07-13",
+      "start_date": "2026-08-10",
       "time_type": "Full time",
       "duration": "10 week",
       "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
       "source": "workday",
-      "first_seen": "2026-07-06",
-      "is_new": false,
+      "first_seen": "2026-08-10",
+      "is_new": true,
       "match_score": 80,
       "match_reasons": [
         "Location: London",
@@ -1948,6 +1948,34 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: equity, private equity, fund",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-10"
+    },
+    {
+      "id": "412c9fcb3bae",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-07-06",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, equity",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
@@ -2698,7 +2726,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9eaac6fe12b6/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-32863e78da8e/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3229,7 +3257,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9eaac6fe12b6/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-32863e78da8e/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3445,7 +3473,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9eaac6fe12b6/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-32863e78da8e/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3454,7 +3482,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-08-10",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -5002,9 +5030,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 120,
+    "total_jobs": 121,
     "new_today": 1,
-    "high_match": 106,
+    "high_match": 107,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 22,
