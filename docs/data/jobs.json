@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-14T16:48:26.718680+00:00",
+  "last_updated": "2026-08-15T07:35:58.404557+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 13,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "count": 60,
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "count": 0,
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "count": 0,
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-14T16:48:26.718680+00:00"
+      "timestamp": "2026-08-15T07:35:58.404557+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -367,7 +367,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "eaf15de635b4",
@@ -396,7 +396,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "cb34666f4458",
@@ -426,7 +426,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "2d5f32a4d4c2",
@@ -456,7 +456,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "5314bc393228",
@@ -486,7 +486,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "c45709783b54",
@@ -516,7 +516,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "1a57ab42d64a",
@@ -545,7 +545,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "4110ec186958",
@@ -554,7 +554,7 @@
       "title": "Infrastructure Intern - January 2027 | Madrid (M/F)",
       "location": "Madrid | ESP - Madrid - Calle Fortuny 6",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Madrid/Infrastructure-Intern---January-2027---Madrid--M-F-_JR1002198",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "description": "Job Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potential co-investors\nPrepare regular asset management reporting and participate in communication to Ardian clients\nSpecialised business and technical knowledge:\nKnowledge of financial statement analysis and valuation techniques\nKnowledge of financial modelling and LBO structuring\nCompetency in MS office product suite including Excel, Word and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player able to work under pressure\nIntellectual rigor and discipline\nAbility to organize and perform work efficiently\nEducation and Experience:\nOutstanding academic qualifications\nA completed or advanced Bachelor’s and/or Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services)\nGood commercial understanding of Private Equity\nFluent written and spoken Spanish and English\n(Madrid based role)\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nInterns will regularly be required to communicate with internal and external contacts. Communication could include interaction with Ardian clients, other Ardian teams, operating partners, external parties such as advisors and consultants.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.\nEqual Employment Opportunity Policy:\nAt ARDIAN, we are proud of our diverse culture. As a forward thinking organization, we recognize that having people from different backgrounds brings innovati",
       "start_date": "2026-07-30",
       "time_type": "Full time",
@@ -577,7 +577,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "f6285220076d",
@@ -586,7 +586,7 @@
       "title": "Private Equity Semiconductor Stage - Janvier 2027 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Semiconductor-Stage---Janvier-2027-I-Paris--H-F-_JR1002150",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "description": "Département : Semiconductor - Buyout\nDurée : 6 mois\nLieu : Paris\nDébut du stage : Janvier 2027\nL'équipe\nARDIAN Semiconductor, plateforme d'investissement hybride et pionnière dédiée à l'industrie des semiconducteurs, propose un stage de 6 mois au sein de son bureau parisien, à partir de juillet 2026. Au sein d’une équipe au positionnement hybride et thématique, le stagiaire bénéficiera d’une large exposition et d’une couverture européenne.\nLe rôle\nAu sein de l’équipe ARDIAN Semiconductor, les missions seront les suivantes :\nAssister l’équipe d’investissement dans l’analyse financière et la valorisation des projets ainsi que la préparation des documents internes\nSuivre le dealflow et effectuer les reportings sur l’outil CRM\nEffectuer des revues de segment de marché et suivre quotidiennement les tendances de l’industrie\nAssister l’équipe sur des besoins ad-hoc dans le cadre du fundraising\nParticiper au suivi des sociétés en portefeuille\nUn stage dans l’équipe ARDIAN Semiconductor offre une vue globale sur l’industrie du Private Equity, et permet d’être confronté à une multitude de sujets incluant le processus d’origination et d’exécution de transactions, ainsi qu'une vue d'ensemble sur la gestion opérationnelle des sociétés en portefeuille, en collaboration avec l’équipe Silian Partners aux côtés de l'équipe d'investissement d'Ardian.\nCompétences requises\nRigueur et sens du détail\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nOrganisation\nLe profil\n:\nDiplôme\nGrande école d'ingénieur, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nOu grande école de commerce, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nUne première expérience dans les domaines suivants est un prérequis : private equity, M&A ou transaction services dans une société financière ou de conseil en stratégie de premier plan\nAppétence pour l’industrie des semiconducteurs\nBonne connaissance des modèles financiers, de la comptabilité et de la Corporate Finance\nAnglais courant obligatoire, la pratique de l’Allemand est un plus\nMaitrise d’Excel, Word et Power Point\nA propos d’ARDIAN Semiconductor\n:\nArdian Semiconductor est une plateforme d’investissement pionnière dans l’industrie des semiconducteurs opérée via un partenariat stratégique exclusif avec l’équipe Silian Partners, lancée en 2023. Le fonds vise une taille totale de 1 milliard d'euros, afin d’investir",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -608,7 +608,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "c8fcbc0ee543",
@@ -638,7 +638,68 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "df6f1d49eafc",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern_JR1000177",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Department:\nPrivate Credit\nContract:\nInternship\nDuration:\nSix Months\nLocation:\nLondon\nStart date:\nApril\n2024\nPrior experience level:\n3 - 24 months (candidates with previous internships or those looking to make a career transition from a current full time role into Private Credit)\nThe role\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 22 investment professionals based in London, Paris, and Frankfurt.\nRequired skills\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nProfile\nBusiness, Economics, Finance, Science, or Maths degree either completed or due to be completed from a leading business school / university.\nMinimum 2:1\nPrevious roles / internships in one of the following areas:\nPrivate Equity or Private Credit\nM&A or structured/leveraged finance team of a leading European or American bank\nTransaction Services team of a leading audit firm\nLeading strategy consulting firm\nKnowledge of financial engineering and LBO structuring\nItalian language skills would be strongly preferred\nRegulatory Responsibilities:\nConduct Rule Staff:\nEnsure compliance with all relevant statutory and regulatory requirements applicable to the role\nUnderstand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit\nRight to work:\nPlease ensure you have the appropriate right to work in the UK i.e. a British passport, settled or pre-settled status under the EU settlement scheme or have obtained a visa which gives you the right to live and work in the UK\nApplication process\nPlease send CV & Cover Letter",
+      "start_date": "2024-03-18",
+      "time_type": "Full time",
+      "duration": "24 months",
+      "requirements": "High analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nBusiness, Economics, Finance, Science, or Maths degree either completed or due to be completed from a leading business school / university.\nMinimum 2:1",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "c878dc17f59d",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée du stage : 6 mois\nDate de début : Janvier 2027\nLe rôle\nElaboration de reportings spécifiques ou standardisés pour les investisseurs :\nReportings transversaux sur mesure (performances historiques et prévisionnelles, projections de cash flows, diversification de portefeuilles, simulations d'investissement) ;\nReportings ad-hoc afin de répondre aux besoins de suivi interne des investisseurs ;\nReportings réglementaires dans le cadre des Directives de l'Union Européenne (Solvabilité II, PRIPS, etc…).\nRépondre aux requêtes ad hoc :\nFournir aux investisseurs des réponses détaillées à leurs questions, concernant des données quantitatives/qualitatives inclues dans des rapports, des communications ou encore concernant l'activité des fonds/des entreprises en portefeuille.\nContribution aux levées de fonds :\nProduction de données quantitatives et financières dans le cadre de due diligences d’investisseurs potentiels : cash flows historiques et prévisionnels, indicateurs de performance (IRR, multiple, yield, etc.) au niveau des fonds et des actifs/transactions, caractéristiques et évolutions des données financières des sociétés/transactions en portefeuille ;\nTravail sur la mise à jour des sets marketing des fonds en cours de levée (pack Excel de due diligence, présentation marketing, PPM) ;\nModélisation de portefeuilles incluant la simulation d'investissements dans de nouveaux fonds.\nUtilisation et mise à jour de bases de données internes et externes :\nMise à jour continue des bases de données internes sur l'activité des fonds ;\nMise à jour trimestrielle de la base de données des investisseurs, calcul du montant des actifs sous gestion, analyse de leur composition et de leur évolution à des fins statistiques ;\nMise à jour trimestrielle des performances des fonds Ardian dans les bases de données externes (PREQIN, Towers Watson, Mercer, Cambridge) ;\nBenchmarking des fonds Ardian par rapport au marché du Private Equity (Cambridge, Burgiss)\nCompétences requises :\nAisance en anglais et français\nExcellente maîtrise d'Excel et bonne connaissance des autres programmes Microsoft Office\nConnaissance des modèles financiers des fonds de Private Equity\nRigueur\nAutonomie\nRéactivité\nCompétences relationnelles et esprit d’équipe\nProfil :\nEtudiant en Master : stage de fin d’études\nCompréhension du Private Equity et de ces enjeux\nUn stage dans l’un des domaines suivants serait apprécié\nPrivate Equity\nM&A\nAudit\nConsulting\nAutres info",
+      "start_date": "2026-06-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-23",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "cd2b13fd864b",
@@ -723,67 +784,6 @@
         "Domain: finance, wealth management, asset management",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "df6f1d49eafc",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern_JR1000177",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Department:\nPrivate Credit\nContract:\nInternship\nDuration:\nSix Months\nLocation:\nLondon\nStart date:\nApril\n2024\nPrior experience level:\n3 - 24 months (candidates with previous internships or those looking to make a career transition from a current full time role into Private Credit)\nThe role\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 22 investment professionals based in London, Paris, and Frankfurt.\nRequired skills\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nProfile\nBusiness, Economics, Finance, Science, or Maths degree either completed or due to be completed from a leading business school / university.\nMinimum 2:1\nPrevious roles / internships in one of the following areas:\nPrivate Equity or Private Credit\nM&A or structured/leveraged finance team of a leading European or American bank\nTransaction Services team of a leading audit firm\nLeading strategy consulting firm\nKnowledge of financial engineering and LBO structuring\nItalian language skills would be strongly preferred\nRegulatory Responsibilities:\nConduct Rule Staff:\nEnsure compliance with all relevant statutory and regulatory requirements applicable to the role\nUnderstand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit\nRight to work:\nPlease ensure you have the appropriate right to work in the UK i.e. a British passport, settled or pre-settled status under the EU settlement scheme or have obtained a visa which gives you the right to live and work in the UK\nApplication process\nPlease send CV & Cover Letter",
-      "start_date": "2024-03-18",
-      "time_type": "Full time",
-      "duration": "24 months",
-      "requirements": "High analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nBusiness, Economics, Finance, Science, or Maths degree either completed or due to be completed from a leading business school / university.\nMinimum 2:1",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "c878dc17f59d",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée du stage : 6 mois\nDate de début : Janvier 2027\nLe rôle\nElaboration de reportings spécifiques ou standardisés pour les investisseurs :\nReportings transversaux sur mesure (performances historiques et prévisionnelles, projections de cash flows, diversification de portefeuilles, simulations d'investissement) ;\nReportings ad-hoc afin de répondre aux besoins de suivi interne des investisseurs ;\nReportings réglementaires dans le cadre des Directives de l'Union Européenne (Solvabilité II, PRIPS, etc…).\nRépondre aux requêtes ad hoc :\nFournir aux investisseurs des réponses détaillées à leurs questions, concernant des données quantitatives/qualitatives inclues dans des rapports, des communications ou encore concernant l'activité des fonds/des entreprises en portefeuille.\nContribution aux levées de fonds :\nProduction de données quantitatives et financières dans le cadre de due diligences d’investisseurs potentiels : cash flows historiques et prévisionnels, indicateurs de performance (IRR, multiple, yield, etc.) au niveau des fonds et des actifs/transactions, caractéristiques et évolutions des données financières des sociétés/transactions en portefeuille ;\nTravail sur la mise à jour des sets marketing des fonds en cours de levée (pack Excel de due diligence, présentation marketing, PPM) ;\nModélisation de portefeuilles incluant la simulation d'investissements dans de nouveaux fonds.\nUtilisation et mise à jour de bases de données internes et externes :\nMise à jour continue des bases de données internes sur l'activité des fonds ;\nMise à jour trimestrielle de la base de données des investisseurs, calcul du montant des actifs sous gestion, analyse de leur composition et de leur évolution à des fins statistiques ;\nMise à jour trimestrielle des performances des fonds Ardian dans les bases de données externes (PREQIN, Towers Watson, Mercer, Cambridge) ;\nBenchmarking des fonds Ardian par rapport au marché du Private Equity (Cambridge, Burgiss)\nCompétences requises :\nAisance en anglais et français\nExcellente maîtrise d'Excel et bonne connaissance des autres programmes Microsoft Office\nConnaissance des modèles financiers des fonds de Private Equity\nRigueur\nAutonomie\nRéactivité\nCompétences relationnelles et esprit d’équipe\nProfil :\nEtudiant en Master : stage de fin d’études\nCompréhension du Private Equity et de ces enjeux\nUn stage dans l’un des domaines suivants serait apprécié\nPrivate Equity\nM&A\nAudit\nConsulting\nAutres info",
-      "start_date": "2026-06-23",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-23",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
@@ -908,33 +908,63 @@
       "last_seen": "2026-08-03"
     },
     {
-      "id": "62307cf6cd1d",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Internship Xtrackers ETF Sales France & MENA",
+      "id": "6d27120cbc6c",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Internship-Xtrackers-ETF-Sales-France---MENA_R0443003-1",
-      "posted_date": "Posted 11 Days Ago",
-      "description": "Job Description:\nAbout DWS\nAt DWS,\nwe’re\ncapturing the opportunities\nof\ntomorrow. You can be part of a leading, client-committed, global Asset Manager, making an impact on individuals, communities, and the world.\nToday, markets still face a whole new set of pressures – but also a whole lot of opportunity too. Opportunity to innovate differently. Opportunity to invest responsibly. And opportunity to make\nchange\n. This is needed more than ever as we currently experience high interest rates, a once-in-a-lifetime health crisis, a shift in global demographics – and politics – as well as advances in digitalization and economies moving towards a more sustainable future.\nWhile there is always uncertainty in markets, one thing\nremains\nclear: there is always a new situation that requires the right investment answers. We call it the\nnew\nnow.\nAbout the Internship\nThe DWS Internship is an opportunity\nto\ngain a wide range of practical experience. Individual projects, participation in speaker\nsessions\nand networking events will all be part of the internship. Whilst you can expect a high learning curve from our\nInternship\n, you will\nbenefit\nfrom the support of your managers and mentors along with unparalleled exposure to the world of Asset Management. This internship is an ideal way to\ndetermine\nwhether a career in Financial Services & Asset Management meets your personal aspirations.\nAs our\nXtrackers\nETF Sales\nDWS Intern\nyou will:\nA\nssist\nthe salespeople in their daily tasks in close collaboration with the management, trading,\nmarketing\nand support teams based in London and Frankfurt\nContribut\ne\nto the production of customer presentations linked to financial markets evolutions (Equities, Fixed\nIncome\nand\ncommodities\n), marketing materials on specific product push and other sales documents.\nHelp in following up customer requests,\nreportings\n, demands on ETF or underlying indices.\nPerform\nCompetitive intelligence: competitor activity, market trends, product flows, news on ETF markets\nWe’re\nlooking for:\nStudent in the field of economics, finance, mathematics, or a related subject\nStrong interest\nin\nfinancial analysis and industry\nStrong writing, presentation skills\nKnow-how\nof\nall asset classes (Equities, Bonds, Commodities) and derivatives (swap,\nfutures\nand repo. Markets)\nExperience with\nthe main software\n(\nExcel macro et\nformule\nde\nstat ,\nPowerPoint\nand Word)\nAutonomy,\ninitiative\nand sense of responsibility (rigor and intellectual honesty)\nVery good\nanalytical skills\nMan",
-      "start_date": "2026-07-20",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
+      "posted_date": "Posted 10 Days Ago",
+      "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-05",
       "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Know-how\nall asset classes (Equities, Bonds, Commodities) and derivatives (swap,\nand repo. Markets)\nExperience with\nthe main software\nExcel macro et",
+      "duration": "6 mois",
+      "requirements": "",
       "source": "workday",
-      "first_seen": "2026-07-20",
+      "first_seen": "2026-08-05",
       "is_new": false,
       "match_score": 95,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: finance, asset management, trading",
+        "Domain: equity, private equity",
         "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-07-31"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "3256febe1779",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
+      "start_date": "2026-06-17",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-17",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, fund",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "e3fbee68e9a5",
@@ -1024,63 +1054,62 @@
       "last_seen": "2026-08-14"
     },
     {
-      "id": "3256febe1779",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
-      "start_date": "2026-06-17",
-      "time_type": "Full time",
-      "duration": "6 mois",
+      "id": "508fe019a909",
+      "bank": "Scalene Partners",
+      "category": "Investment Bank",
+      "title": "Stage Analyste M&A – Janvier 2027",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/fr/companies/scalene-partners/jobs/stage-analyste-m-a-janvier-2027_paris",
+      "posted_date": "",
+      "description": "Stage analyste M&A, démarrage 3 janvier 2027, 6 mois. Boutique de conseil en fusions-acquisitions.",
+      "start_date": "2027-01",
+      "duration": "6-month internship",
       "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-17",
+      "source": "curated",
+      "first_seen": "2026-07-19",
       "is_new": false,
-      "match_score": 95,
+      "match_score": 90,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: finance, risk, fund",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "6d27120cbc6c",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
-      "posted_date": "Posted 9 Days Ago",
-      "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-05",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-05",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity",
+        "Domain: M&A",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)"
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "8d1fc50ef910",
+      "bank": "Avolta Partners",
+      "category": "Investment Bank",
+      "title": "Stage M&A – Levée de fonds (Janvier 2027)",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-m-a-levee-de-fonds-janvier-2027_paris",
+      "posted_date": "",
+      "description": "Stage M&A et levée de fonds tech, démarrage fin décembre 2026 / janvier 2027, 6 mois.",
+      "start_date": "2026-12",
+      "duration": "6-month internship",
+      "requirements": "",
+      "source": "curated",
+      "first_seen": "2026-07-19",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "eee20292241e",
@@ -1141,64 +1170,6 @@
       "last_seen": "2026-08-14"
     },
     {
-      "id": "508fe019a909",
-      "bank": "Scalene Partners",
-      "category": "Investment Bank",
-      "title": "Stage Analyste M&A – Janvier 2027",
-      "location": "Paris, France",
-      "url": "https://www.welcometothejungle.com/fr/companies/scalene-partners/jobs/stage-analyste-m-a-janvier-2027_paris",
-      "posted_date": "",
-      "description": "Stage analyste M&A, démarrage 3 janvier 2027, 6 mois. Boutique de conseil en fusions-acquisitions.",
-      "start_date": "2027-01",
-      "duration": "6-month internship",
-      "requirements": "",
-      "source": "curated",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "8d1fc50ef910",
-      "bank": "Avolta Partners",
-      "category": "Investment Bank",
-      "title": "Stage M&A – Levée de fonds (Janvier 2027)",
-      "location": "Paris, France",
-      "url": "https://www.welcometothejungle.com/fr/companies/avolta-partners/jobs/stage-m-a-levee-de-fonds-janvier-2027_paris",
-      "posted_date": "",
-      "description": "Stage M&A et levée de fonds tech, démarrage fin décembre 2026 / janvier 2027, 6 mois.",
-      "start_date": "2026-12",
-      "duration": "6-month internship",
-      "requirements": "",
-      "source": "curated",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
       "id": "ecd710d7c273",
       "bank": "JP Morgan",
       "category": "Investment Bank",
@@ -1226,7 +1197,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "f94620042a82",
@@ -1256,7 +1227,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "6c5a14f8857a",
@@ -1286,7 +1257,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "8681b4e46991",
@@ -1295,7 +1266,7 @@
       "title": "Learning Intern - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "description": "Département :\nHuman Resources – Learning Team\nStage de 6 mois\nLieu :\nParis\nDate de début :\njanvier 2027\nLe rôle\nRattaché(e) à la Learning Manager, le/la stagiaire sera pleinement intégré(e) à l'équipe et prendra en charge les missions suivantes :\nGestion et animation de la plateforme eLearning (LMS Rise Up)\n›\nGérer les e-learnings obligatoires : inscriptions, mise à jour des contenus et émission des rapports statistiques\n›\nMettre à jour régulièrement le catalogue de formations et assurer la curation de contenus e-learning\n›\nCréer et actualiser des contenus digitaux de formation\n›\nSuivre les inscriptions et analyser les statistiques apprenants\n›\nAssurer la promotion de la plateforme et la communication auprès des collaborateurs\nSuivi du plan de formation et des demandes individuelles\n›\nIdentifier et recenser les besoins de formation des collaborateurs\n›\nGérer les inscriptions et mettre à jour les tableaux de bord de suivi\n›\nAssurer le suivi budgétaire et la mise à jour du plan de formation\n›\nOrganiser les formations récurrentes (SST, lutte anti-incendie, etc.)\n›\nRechercher des programmes adaptés et coordonner les actions de formation intra-entreprise\n›\nTraiter les factures liées aux formation\nMigration des données vers Training Orchestra (TMS)\n›\nSaisir et reporter l'ensemble des données de formation dans l'outil Training Orchestra à partir des fichiers Excel existants (migration Excel → TMS)\n›\nFiabiliser et structurer les données : sessions, participants, organismes, budgets\n›\nContribuer à la montée en qualité de la base de données formation dans l'outil\nProfil\n›\nÉtudiant(e) en Licence 3, Master 1 ou Master 2 en Ressources Humaines, Gestion ou équivalent\n›\nÉcoles de commerce, universités ou Bachelor Assistant de Gestion avec spécialisation RH\n›\nUne première expérience (stage ou alternance) d'au moins 6 mois dans un poste similaire et/ou en digital/création de contenus est appréciée\nCompétences\n›\nRigueur, autonomie et sens de l'organisation\n›\nCréativité et appétence pour la création de contenus digitaux\n›\nDynamisme et curiosité intellectuelle\n›\nExcellentes compétences rédactionnelles\n›\nMaîtrise du Pack Office (Word, Excel, PowerPoint)\n›\nAnglais courant indispensable (environnement international)\n›\nIntérêt pour le secteur de la finance, un plus\nAutres informations\n›\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\n›\nGratification selon profil\n›\nRemboursement du titre de transport (66%)\n›\nTickets restaurant\n›\nEnveloppe CS",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -1316,7 +1287,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "88dfec0d0a99",
@@ -1354,7 +1325,7 @@
       "title": "Private Credit Intern - September 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Job Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including: reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. dealflow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statements, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM\nTransaction Services team of a leading audit firm\nStrategy consulting\nOther European language skills would also be valuable.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-07-16",
       "time_type": "Full time",
@@ -1374,7 +1345,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "a9d67a8088c6",
@@ -1404,6 +1375,35 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-14"
+    },
+    {
+      "id": "4d36980e648e",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Madrid | Investment Banking, Classic | Seasonal/Off Cycle Internship",
+      "location": "Madrid, Comunidad de Madrid, Spain",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170833",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 85,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "ded3a961d30b",
@@ -1585,7 +1585,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-713a1dc4037b/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6c753af3d7ce/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1606,7 +1606,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "f85e4cbd5177",
@@ -1635,7 +1635,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "a28d9ddf3be0",
@@ -1860,7 +1860,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "9dddb89ef634",
@@ -1889,7 +1889,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "98836783533b",
@@ -1918,7 +1918,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "d23c22f2c608",
@@ -1947,7 +1947,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "0df08051c57b",
@@ -1976,7 +1976,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "c65abc301ee0",
@@ -2005,65 +2005,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "85db60a405c4",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, Jan - March",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170844",
-      "posted_date": "2026-05-26",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-26",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
-      "id": "0b8f93ece3e5",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, April - June",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170843",
-      "posted_date": "2026-05-26",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-26",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "de3e838c9593",
@@ -2090,35 +2032,239 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
-      "id": "dd407960f54e",
-      "bank": "Rothschild & Co",
+      "id": "85db60a405c4",
+      "bank": "Goldman Sachs",
       "category": "Investment Bank",
-      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
-      "start_date": "2026-07-09",
-      "time_type": "Full time",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, Jan - March",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170844",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
       "duration": "",
       "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-09",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-26",
       "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "0b8f93ece3e5",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, April - June",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170843",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-26",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "0a7e933c328f",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Capital Solutions Group | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170841",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "3a506648372b",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, July - August",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170845",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "ba58a05065e4",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, September - December",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170847",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "54fe2bb80d15",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic, Financial Institutions Group | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170905",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "3384a9189adf",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic, Consumer Retail Group | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170908",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "794fad16fec1",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | FICC and Equities (Sales and Trading) Quantitative Strats | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175429",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "51d8c0722ea9",
@@ -2146,7 +2292,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "e619cf06711f",
@@ -2171,6 +2317,34 @@
         "Domain: finance",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "dd407960f54e",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
+      "start_date": "2026-07-09",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-09",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -2288,7 +2462,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "cdcdf2030ae0",
@@ -2316,35 +2490,92 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
-      "id": "a4daeddebf2a",
+      "id": "f18f0711c918",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Global Investment Research | Macro Research, Commodities | Seasonal/Off-cycle Internship",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170874",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: research",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "9d8391b790ba",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Global Investment Research | Macro Research, Portfolio Strategy | Seasonal/Off-cycle Internship",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170877",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: portfolio, strategy, research",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "19e298b8bc57",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "Foudation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)",
+      "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
       "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Janvier-2027-I-Paris--M-F-_JR1002092",
-      "posted_date": "Posted 30 Days Ago",
-      "description": "Département : Foundation\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nCommunication : Production extensive de contenus sur la Fondation en interne et en externe\nEditoriale : supports de présentation, éléments de langage sur la stratégie de la Fondation, visuels (photos/vidéos), newsletters, brochure, etc.\nDigitale : Suivi et mise à jour du site web et de l’intranet. Rédaction de contenus sur LinkedIn (sur nos partenaires, les actions organisées, à venir, etc.)\nEvènementielle : Organisation d’événements internes (dans le cadre de notre programme d’engagement collaborateurs Act4Change) et externes avec nos associations partenaires\nTransverse : support de l’équipe sur les sujets en cours :\nSupport sur le pôle engagement des collaborateurs\nSupport sur l’outil CRM :\nSupport de l’équipe sur les tâches récurrentes : logistique, veille sur le secteur philanthropique & solidaire, benchmarks, etc.\nCompétences requises\nMaitrise de l’anglais et du français indispensable\nOrganisation et rigueur\nAisance relationnelle et communication interculturelle\nCréativité\nAutonomie\nEsprit d’analyse, de synthèse et critique\nEsprit d’équipe\nPrise d’initiatives\nLe profil\nType de diplôme : Master 1 ou 2 en : Communication des organisations, RSE, Développement Durable, Management des organisations, Innovation Sociale, Stratégie.\nUne première expérience professionnelle dans une Fondation ou une association est un plus.\nLa Fondation Ardian\nLa mission de la Fondation Ardian, créée en 2010 à l’initiative de quelques salariés d’Ardian, est de favoriser l’ascension sociale de personnes de milieu modeste - de la petite enfance à la vie adulte - en Europe, en Amérique et en Asie. Depuis 2025, la Fondation soutient des projets en recherche scientifique fondamentale.\nNotre engagement se traduit en plusieurs actions :\nLe développement de projets liés à la petite enfance et à l’éducation\nL’engagement de nos collaborateurs en don de temps, compétences et monétaire\nLa recherche scientifique fondamentale\nLe budget annuel 2025 de la Fondation s’élève à 5.6 millions d’euros.\nCompte tenu du développement en cours, la Fondation Ardian souhaiterait se doter de ressources supplémentaires.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%), tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and",
-      "start_date": "2026-07-15",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
+      "posted_date": "Posted 10 Days Ago",
+      "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-05",
       "time_type": "Full time",
       "duration": "6 mois",
       "requirements": "",
       "source": "workday",
-      "first_seen": "2026-07-01",
+      "first_seen": "2026-08-05",
       "is_new": false,
       "match_score": 75,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
+        "Domain: asset management, equity, private equity",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "21ca1e8be1d3",
@@ -2372,7 +2603,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "1d446ccf62cd",
@@ -2400,7 +2631,35 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "a4daeddebf2a",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Foudation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Janvier-2027-I-Paris--M-F-_JR1002092",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Foundation\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nCommunication : Production extensive de contenus sur la Fondation en interne et en externe\nEditoriale : supports de présentation, éléments de langage sur la stratégie de la Fondation, visuels (photos/vidéos), newsletters, brochure, etc.\nDigitale : Suivi et mise à jour du site web et de l’intranet. Rédaction de contenus sur LinkedIn (sur nos partenaires, les actions organisées, à venir, etc.)\nEvènementielle : Organisation d’événements internes (dans le cadre de notre programme d’engagement collaborateurs Act4Change) et externes avec nos associations partenaires\nTransverse : support de l’équipe sur les sujets en cours :\nSupport sur le pôle engagement des collaborateurs\nSupport sur l’outil CRM :\nSupport de l’équipe sur les tâches récurrentes : logistique, veille sur le secteur philanthropique & solidaire, benchmarks, etc.\nCompétences requises\nMaitrise de l’anglais et du français indispensable\nOrganisation et rigueur\nAisance relationnelle et communication interculturelle\nCréativité\nAutonomie\nEsprit d’analyse, de synthèse et critique\nEsprit d’équipe\nPrise d’initiatives\nLe profil\nType de diplôme : Master 1 ou 2 en : Communication des organisations, RSE, Développement Durable, Management des organisations, Innovation Sociale, Stratégie.\nUne première expérience professionnelle dans une Fondation ou une association est un plus.\nLa Fondation Ardian\nLa mission de la Fondation Ardian, créée en 2010 à l’initiative de quelques salariés d’Ardian, est de favoriser l’ascension sociale de personnes de milieu modeste - de la petite enfance à la vie adulte - en Europe, en Amérique et en Asie. Depuis 2025, la Fondation soutient des projets en recherche scientifique fondamentale.\nNotre engagement se traduit en plusieurs actions :\nLe développement de projets liés à la petite enfance et à l’éducation\nL’engagement de nos collaborateurs en don de temps, compétences et monétaire\nLa recherche scientifique fondamentale\nLe budget annuel 2025 de la Fondation s’élève à 5.6 millions d’euros.\nCompte tenu du développement en cours, la Fondation Ardian souhaiterait se doter de ressources supplémentaires.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%), tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and",
+      "start_date": "2026-07-15",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-01",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "bec68070c81d",
@@ -2428,7 +2687,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "5ce97a828454",
@@ -2459,40 +2718,12 @@
       "last_seen": "2026-08-03"
     },
     {
-      "id": "19e298b8bc57",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
-      "posted_date": "Posted 9 Days Ago",
-      "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-05",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-05",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: asset management, equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-14"
-    },
-    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-713a1dc4037b/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6c753af3d7ce/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2512,7 +2743,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "4ddccad034f9",
@@ -2567,7 +2798,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "294b65dcf83b",
@@ -2595,7 +2826,91 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "a20be1015b59",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Madrid | Wealth Management, Private Wealth Management | Seasonal/Off-Cycle Internship",
+      "location": "Madrid, Comunidad de Madrid, Spain",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170885",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: wealth management",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "f913031e9a5a",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Global Investment Research, Equity Research | Seasonal/Off-cycle Internship",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170901",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: equity, research",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "fcb2ac675a49",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Global Investment Research | Macro Research, Economics | Seasonal/Off-cycle Internship",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170880",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: research, economics",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "7a1886d678e0",
@@ -2683,7 +2998,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "c7d2b6723ba8",
@@ -2710,7 +3025,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "d17d56d6485f",
@@ -2737,7 +3052,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "7d0d0d095ee5",
@@ -2765,7 +3080,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "3f7d0db25fd7",
@@ -2793,7 +3108,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "1246ea26b25b",
@@ -2821,7 +3136,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "d5681db0a3b6",
@@ -2849,7 +3164,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "0e1fdd43e31d",
@@ -2877,7 +3192,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "0e7ee5c67d78",
@@ -2905,7 +3220,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "595b31f890ae",
@@ -2959,7 +3274,203 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "595620feb852",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | FICC and Equities (Sales and Trading) Quantitative Strats | Internship",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175424",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "df964aa5f672",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Wealth Management, Private Wealth Management | Seasonal/Off-Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170878",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "ce391e0f1f53",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Investment Banking, Classic | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170929",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "dafcd9852e8d",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | FICC & Equities (Sales & Trading) | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170675",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "a372a0868e8e",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | FICC & Equities (Sales & Trading) | Summer Analyst",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170676",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "578d7be20f6b",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Investment Banking Quantitative Strats | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175428",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "32bf4f30f70a",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Investment Banking, Capital Solutions Group | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170927",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "9f9a06b3ba40",
@@ -2967,7 +3478,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-713a1dc4037b/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6c753af3d7ce/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -2986,7 +3497,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "4a3b61dc655d",
@@ -3014,7 +3525,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "9db903d1015b",
@@ -3044,6 +3555,115 @@
       "last_seen": "2026-08-10"
     },
     {
+      "id": "e61171cbfd9e",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Operations | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170170",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "8ea868119967",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Controllers | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170169",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "966aeee2595b",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | The Core Quantitative Strats | Seasonal/Off Cycle Internship",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175430",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "bb7ef9681ee4",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Transaction Banking (TxB), Coverage | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/162040",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
       "id": "9856e5ea3dae",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3068,7 +3688,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "985927d66b60",
@@ -3095,7 +3715,331 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "8363d6ff4886",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Quantitative Finance | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170860",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "bb17f2ebab0b",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Internal Audit | One Year Work Placement",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/181881",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "18793fa9e3ec",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Compliance | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170152",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: compliance"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "9fcbedbdf752",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Risk | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/172894",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "a6f970e7f0af",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management,  UX Design | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/171028",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "7f7468bda334",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management, Change Management  | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/171031",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "45a696619273",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management, Private Investing | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/173050",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "27f73366915c",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management, Public Investing | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/173051",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "0306691d36a1",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Private Wealth Management | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170879",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "b15defd1d881",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Product Management and Design | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170935",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "769b6e44ea85",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management, Client Solutions Group | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/171037",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "b6c923984536",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175421",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "afa5568f97e9",
@@ -3103,7 +4047,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-713a1dc4037b/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6c753af3d7ce/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3122,7 +4066,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "2694e9555222",
@@ -3149,7 +4093,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "a92510c0711e",
@@ -3176,7 +4120,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "9fdf6acf877d",
@@ -3202,7 +4146,189 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "f2e7d79b4940",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Operations | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170158",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "1545b037043c",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Controllers | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170163",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "61a8875c151c",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Engineering | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170644",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "265411a6aa21",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Human Capital Management | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170145",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "bac21fa1e47f",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Office of Regulatory Relations | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170160",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "bd5f70a44690",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Corporate and Workplace Solutions | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170173",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "ed698f6f6015",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | The Core Quantitative Strats | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175426",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "9717ab65611b",
@@ -3228,7 +4354,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "dc7e744df391",
@@ -3255,7 +4381,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "896f99913c66",
@@ -3264,7 +4390,7 @@
       "title": "Business Analyst Apprentice (GRC) - Septembre 2026 | Paris (H/F)",
       "location": "Paris La Défense",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris-La-Dfense/Business-Analyst-Apprentice--GRC----Septembre-2026---Paris--H-F-_JR1001856",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Rôle :\nARDIAN mène des projets visant à adapter son système d’information à ses nouveaux besoins et cherche à renforcer ses équipes pour la réalisation de ses projets.\nLe Business Analyst est l’interlocuteur privilégié des lignes métiers et l’interface IT des équipes de réalisation. Au sein du Pôle Corporate Solutions de la DSI d’Ardian, le Business Analyst prendra en charge l’analyse des besoins, leur spécification, la recette ainsi que le support des applications sous la responsabilité du pôle.\nIl interviendra particulièrement sur des solutions de GRC (Gouvernance, Risque, Compliance). Des connaissances de base sur les processus GRC seraient donc fortement appréciées.\nLes activités dominantes du poste sont les suivantes :\nRecueil et analyse des besoins des utilisateurs\nIdentification et formalisation des processus métiers (vision actuelle et cible)\nParticipation à la rédaction des spécifications\nRédaction des comptes rendus des comités et suivi des actions\nParticipation à l’élaboration des cahiers de recette\nRecette des applications\nPréparation des supports de formation utilisateurs.\nEnrichissement des référentiels de l’entreprise (wiki, glossaire métier, référentiel des processus)\nProfil :\nEtudiant en Master 2 d’une Ecole d’ingénieur ou d’une formation universitaire avec une spécialisation en système d’information.\nDurée de contrat souhaitée 1 an\nRythme privilégié (3jours/2jours ou 3 semaines/1semaine)\nCompétences Requises :\nAnglais niveau professionnel / courant obligatoire\nSens de l’organisation et autonomie\nUne expérience préalable en gestion de projet serait un plus\nConnaissances de base en SQL ou HTLM\nConnaissances de base sur les processus GRC fortement appréciées\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-07-16",
       "time_type": "Full time",
@@ -3282,7 +4408,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "01ea0130b80f",
@@ -3308,7 +4434,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "efce9a12de0e",
@@ -3334,7 +4460,59 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "cb6dfd271dc6",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Associate",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175423",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Domain: wealth management"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "935f75e5bbe3",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Private Wealth Management | WMP One Year Work Placement",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/171235",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Domain: wealth management"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
     },
     {
       "id": "d65ff1c1a27e",
@@ -3362,6 +4540,81 @@
       "last_seen": "2026-08-11"
     },
     {
+      "id": "781dcefbbb09",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | The Core Quantitative Strats | Summer Associate",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175427",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "918666632e1a",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Controllers | One Year Work Placement",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170142",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
+      "id": "6058d9460f2a",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Human Capital Management | One Year Work Placement",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170149",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: Paris"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-15"
+    },
+    {
       "id": "69052c2cefc4",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3384,7 +4637,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     },
     {
       "id": "7db6862424a6",
@@ -3411,7 +4664,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-14"
+      "last_seen": "2026-08-15"
     }
   ],
   "direct_links": [
@@ -4659,12 +5912,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 108,
-    "new_today": 0,
-    "high_match": 95,
+    "total_jobs": 154,
+    "new_today": 47,
+    "high_match": 117,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 22,
+    "firms_empty": 24,
     "firms_total": 76
   }
 }
