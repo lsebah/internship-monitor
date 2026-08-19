@@ -54,6 +54,91 @@ internship-monitor/
 - **Synchro cloud** : lecture seule côté navigateur. Aucun token n'est stocké dans
   le code client ; les statuts de candidature persistent localement par appareil.
 
+## Cycle de vie d'une offre (lifecycle)
+
+### 1. Pipeline de données (scraper/main.py, cron GitHub Actions)
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│        GitHub Actions — cron 3x/jour + rattrapage hebdo          │
+└──────────────────────────────┬───────────────────────────────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────────┐
+                       │    scraper/main.py     │
+                       │     (orchestrateur)     │
+                       └───────────┬─────────────┘
+                                    │
+        ┌───────────────────────────┼───────────────────────────┐
+        ▼                            ▼                            ▼
+┌────────────────┐        ┌────────────────────┐        ┌─────────────────────┐
+│  scrape_firm()   │        │ build_curated_jobs() │        │ load_existing_data() │
+│  55+ firmes :     │        │  offres saisies à la │        │  jobs.json existant,  │
+│  Workday /        │        │  main (direct_link,  │        │  ré-indexé via         │
+│  Greenhouse /     │        │  boards fermés)       │        │  make_job_id()         │
+│  Lever            │        └──────────┬───────────┘        └──────────┬─────────────┘
+└────────┬─────────┘                    │                                │
+         │ success / error / empty       │                                │
+         ▼                               │                                │
+  scrape_status{}                        │                                │
+         │                               │                                │
+         └───────────────┬───────────────┘                                │
+                           ▼                                              │
+                  all_new_jobs[] ─────────────────────────────────────────┤
+                                                                            ▼
+                                                        ┌──────────────────────────────┐
+                                                        │        merge_jobs()            │
+                                                        │  • dédup par id (hash stable)   │
+                                                        │  • conserve le first_seen le +   │
+                                                        │    ancien, rafraîchit last_seen  │
+                                                        │  • is_new = pas vu la veille     │
+                                                        │  • score_job() + classify_match  │
+                                                        │  • purge après 14j d'absence si  │
+                                                        │    hors filtre stage/ville        │
+                                                        └───────────────┬────────────────┘
+                                                                         ▼
+                                                                ┌──────────────────┐
+                                                                │    save_data()      │
+                                                                │ docs/data/jobs.json │
+                                                                └─────────┬───────────┘
+                                                                          ▼
+                                                                ┌───────────────────────┐
+                                                                │  GitHub Pages (docs/)   │
+                                                                │  index.html + app.js     │
+                                                                └─────────┬─────────────────┘
+                                                                          ▼
+                                                                 Dashboard utilisateur
+```
+
+### 2. Statut d'une offre côté utilisateur (docs/app.js, persistant par appareil)
+
+```
+                    ┌───────────────┐
+   nouveau scrape   │      NEW       │
+  ────────────────▶ │ (is_new=true)  │
+                    └───────┬────────┘
+                             │ affiché / vu
+                             ▼
+                    ┌───────────────┐
+             ┌─────▶│    NOT_YET     │◀─────┐
+             │      │   (par défaut)  │      │
+             │      └───┬────────┬───┘      │
+       "Not Yet"        │        │          │ "Not Yet"
+             │   Applied│        │Corbeille │
+             │          ▼        ▼          │
+             │   ┌────────────┐ ┌────────────┐
+             └───│  APPLIED    │ │  TRASHED    │
+                 └────────────┘ └──────┬───────┘
+                                        │
+                                        ▼
+                          persiste en local (par appareil),
+                          n'empêche pas le re-scrape de l'offre
+
+  En parallèle, côté pipeline : si une offre disparaît des scrapes
+  pendant plus de 14 jours ET ne correspond plus aux filtres
+  stage/ville, elle est purgée de docs/data/jobs.json.
+```
+
 ## Lancer en local
 
 ```bash
