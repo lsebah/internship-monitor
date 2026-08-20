@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-20T12:22:43.189857+00:00",
+  "last_updated": "2026-08-20T16:31:36.989996+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 28,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "count": 27,
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,16 +266,16 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Cinven": {
       "status": "link_only",
       "count": 0
     },
     "Evercore": {
-      "status": "error",
-      "error": "ScrapeError: Oleeo Evercore list unreachable: HTTP 502",
-      "timestamp": "2026-08-20T12:22:43.189857+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-08-20T16:31:36.989996+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2915,33 +2915,6 @@
       "last_seen": "2026-08-20"
     },
     {
-      "id": "c7d2b6723ba8",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Compliance Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Compliance-Intern---September-2026---London_JR1002160",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising\n$200bn\nof assets on behalf of more than\n1,920\nclients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over\n1,115\nemployees, spread across\n22\noffices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Compliance Team in London is looking for an intern to assist with a variety of topics.\nThe candidate will be working alongside a team of 6 on a variety of topics.\nThe successful candidate will be involved in working on the Compliance Monitoring Programme (“CMP”) of the UK to ensure that we meet our regulatory requirements.\nThey will take an active role in regulatory horizon scanning to monitor the developments of applicable regulations in the UK.\nThe candidate will be involved in our thorough AML/CDD procedures and monitoring and assist with screening, review of documents and escalation processes.\nThey will also be assisting with the implementation of the current FATCA/CRS programme and to enhance systems that are currently in place.\nThey will be involved in the review of legal documentation and be expected to learn and interpret relevant regulations such as AIFMD and MiFID II.\nThe successful candidate will be expected to throw themselves into topics and be part of a team solution. The candidate will be exposed to the fast pace and changing regulatory landscape of the UK office. It is expected to have an ambition for understanding and interpreting complex topics.\nThe candidate will be assisting with the creation of e-lea",
-      "start_date": "2026-07-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Understand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "source": "workday",
-      "first_seen": "2026-07-01",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-20"
-    },
-    {
       "id": "d17d56d6485f",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3074,6 +3047,33 @@
         "Type: Internship/Stage",
         "Domain: equity, private equity",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-20"
+    },
+    {
+      "id": "c7d2b6723ba8",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Compliance Intern - September 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Compliance-Intern---September-2026---London_JR1002160",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising\n$200bn\nof assets on behalf of more than\n1,920\nclients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over\n1,115\nemployees, spread across\n22\noffices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Compliance Team in London is looking for an intern to assist with a variety of topics.\nThe candidate will be working alongside a team of 6 on a variety of topics.\nThe successful candidate will be involved in working on the Compliance Monitoring Programme (“CMP”) of the UK to ensure that we meet our regulatory requirements.\nThey will take an active role in regulatory horizon scanning to monitor the developments of applicable regulations in the UK.\nThe candidate will be involved in our thorough AML/CDD procedures and monitoring and assist with screening, review of documents and escalation processes.\nThey will also be assisting with the implementation of the current FATCA/CRS programme and to enhance systems that are currently in place.\nThey will be involved in the review of legal documentation and be expected to learn and interpret relevant regulations such as AIFMD and MiFID II.\nThe successful candidate will be expected to throw themselves into topics and be part of a team solution. The candidate will be exposed to the fast pace and changing regulatory landscape of the UK office. It is expected to have an ambition for understanding and interpreting complex topics.\nThe candidate will be assisting with the creation of e-lea",
+      "start_date": "2026-07-01",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Understand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "source": "workday",
+      "first_seen": "2026-07-01",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -5801,9 +5801,9 @@
     "total_jobs": 150,
     "new_today": 0,
     "high_match": 113,
-    "firms_scraped": 31,
-    "firms_failed": 1,
-    "firms_empty": 22,
+    "firms_scraped": 32,
+    "firms_failed": 0,
+    "firms_empty": 23,
     "firms_total": 76
   }
 }
