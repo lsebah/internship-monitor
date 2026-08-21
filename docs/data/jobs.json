@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-21T12:22:34.425620+00:00",
+  "last_updated": "2026-08-21T16:29:55.428291+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "count": 14,
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T12:22:34.425620+00:00"
+      "timestamp": "2026-08-21T16:29:55.428291+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -938,35 +938,6 @@
       "last_seen": "2026-08-21"
     },
     {
-      "id": "e3fbee68e9a5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
-      "start_date": "2026-06-03",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
-      "source": "workday",
-      "first_seen": "2026-07-29",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "2477cbbad637",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1047,6 +1018,35 @@
         "Domain: finance, risk, fund",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-21"
+    },
+    {
+      "id": "e3fbee68e9a5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
+      "start_date": "2026-06-03",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
+      "source": "workday",
+      "first_seen": "2026-07-29",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
