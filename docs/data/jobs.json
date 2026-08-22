@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-22T07:37:06.679390+00:00",
+  "last_updated": "2026-08-22T12:16:06.260432+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "count": 14,
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 12,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "count": 14,
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-22T07:37:06.679390+00:00"
+      "timestamp": "2026-08-22T12:16:06.260432+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -641,6 +641,96 @@
       "last_seen": "2026-08-22"
     },
     {
+      "id": "cd2b13fd864b",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Gestion de Projet / Intelligence Artificielle – Septembre / Octobre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Gestion-de-Projet---Intelligence-Artificielle---Septembre---Octobre-2026_JR016148",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de Rothschild & Co Asset Management\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services Division spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts, commercialisés sous quatre marques fortes : Conviction, Valor, Thematic et 4Change, et bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 43 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com.\nContexte\nAu sein du pôle Fixed Income, nous recherchons un(e) stagiaire pour 4 à 6 mois à compter de septembre/octobre 2026, afin d’accélérer la mise en place d’outils relatifs à l’IA dans le workflow des analystes crédit et des gérants. Rejoindre l’équipe Fixed Income, c’est travailler dans un cadre stimulant avec des profils techniques variés.\nMissions\nCartographier les processus des analystes et des gérants (screening d’émetteurs IG/HY, veille, notes de comités, suivi d’évènements de crédit) et identifier les cas d’usage IA.\nInteraction avec des prestataires externes dans le but d’évaluer la pertinence de leur intégration dans le workflow des analystes et des gérants\nCollaborer avec les équipes techniques pour développer et tester des sol",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-13",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, fixed income",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "3b74694b8da4",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Ingénierie Patrimoniale – Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Ingnierie-Patrimoniale---Janvier-2027_JR016027",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, Banque Privée du groupe Rothschild & Co recherche un(e) stagiaire au sein du département Ingénierie Patrimoniale pour une durée de 6 mois à partir de Janvier 2027.\nMissions\nVous participez à :\n• la réalisation de recherches juridiques et la rédaction de notes de syn",
+      "start_date": "2026-06-22",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-22",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "65c5549c8c85",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Portfolio Monitoring Intern - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Janvier-2027_JR015917",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nFive Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de janvier 2027.\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nLe Portfolio Monitoring appuie les équipes d’Investissements dans le suivi des actifs constituant le portefeuille des différents fonds FASO (c.150+ actifs par fonds). Il intervient également auprès des équipes Relations Investisseurs et Finance en fournissant les données nécessaires pour la complétion de questionnaires due-diligence et de rapports à destination de nos investisseurs.\nMissions\nLe/la stagiaire assistera l’équipe Portfolio Monitoring dans :\n- La collecte des données financières et opérationnelles des sociétés en portefeuille\n- La tenue de nos différentes bases de données\n- La préparation d’analyses sur le portefeuille des différents fonds FAMS (FASO principalement, mais également FASA, FAPEP et FAGT)\n- La préparation de présentations et rapports destinés aux investisseurs\nIl/elle sera amené(e) à échanger avec les différentes équipes de la plateforme Five Arrows Multi-Stratégies (Investissement, Relations Inve",
+      "start_date": "2026-06-05",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-05",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management, asset management",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
       "id": "c878dc17f59d",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -672,96 +762,6 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "cd2b13fd864b",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Gestion de Projet / Intelligence Artificielle – Septembre / Octobre 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Gestion-de-Projet---Intelligence-Artificielle---Septembre---Octobre-2026_JR016148",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de Rothschild & Co Asset Management\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services Division spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts, commercialisés sous quatre marques fortes : Conviction, Valor, Thematic et 4Change, et bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 43 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com.\nContexte\nAu sein du pôle Fixed Income, nous recherchons un(e) stagiaire pour 4 à 6 mois à compter de septembre/octobre 2026, afin d’accélérer la mise en place d’outils relatifs à l’IA dans le workflow des analystes crédit et des gérants. Rejoindre l’équipe Fixed Income, c’est travailler dans un cadre stimulant avec des profils techniques variés.\nMissions\nCartographier les processus des analystes et des gérants (screening d’émetteurs IG/HY, veille, notes de comités, suivi d’évènements de crédit) et identifier les cas d’usage IA.\nInteraction avec des prestataires externes dans le but d’évaluer la pertinence de leur intégration dans le workflow des analystes et des gérants\nCollaborer avec les équipes techniques pour développer et tester des sol",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-13",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, fixed income",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "3b74694b8da4",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Ingénierie Patrimoniale – Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Ingnierie-Patrimoniale---Janvier-2027_JR016027",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, Banque Privée du groupe Rothschild & Co recherche un(e) stagiaire au sein du département Ingénierie Patrimoniale pour une durée de 6 mois à partir de Janvier 2027.\nMissions\nVous participez à :\n• la réalisation de recherches juridiques et la rédaction de notes de syn",
-      "start_date": "2026-06-22",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-22",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "65c5549c8c85",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Portfolio Monitoring Intern - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Janvier-2027_JR015917",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nFive Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de janvier 2027.\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nLe Portfolio Monitoring appuie les équipes d’Investissements dans le suivi des actifs constituant le portefeuille des différents fonds FASO (c.150+ actifs par fonds). Il intervient également auprès des équipes Relations Investisseurs et Finance en fournissant les données nécessaires pour la complétion de questionnaires due-diligence et de rapports à destination de nos investisseurs.\nMissions\nLe/la stagiaire assistera l’équipe Portfolio Monitoring dans :\n- La collecte des données financières et opérationnelles des sociétés en portefeuille\n- La tenue de nos différentes bases de données\n- La préparation d’analyses sur le portefeuille des différents fonds FAMS (FASO principalement, mais également FASA, FAPEP et FAGT)\n- La préparation de présentations et rapports destinés aux investisseurs\nIl/elle sera amené(e) à échanger avec les différentes équipes de la plateforme Five Arrows Multi-Stratégies (Investissement, Relations Inve",
-      "start_date": "2026-06-05",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-05",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, wealth management, asset management",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "df6f1d49eafc",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -790,6 +790,35 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-20"
+    },
+    {
+      "id": "2b9b8a37b7b8",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance:\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nJob Description\nOff Cycle interns are generalists and participate in all aspects of projects and can expect to work on a number of assignments at one time. Off-Cycle interns in Insurance Strategy and Solutions will participate in a wide range of European insurance related projects, conducting asset allocation and risk modeling analysis, supporting the team with insurance client engagements and preparing impactful insurance strategy presentations and research papers. Off-cycle interns will work closely across the team and the broa",
+      "start_date": "2026-08-20",
+      "time_type": "Full time",
+      "duration": "H2 2026",
+      "requirements": "The successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA collaborative mindset, solid work ethic, and the ability to contribute effectively to team objectives\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nExcellent attention to detail",
+      "source": "workday",
+      "first_seen": "2026-08-21",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "e5927bf7e591",
@@ -909,6 +938,64 @@
       "last_seen": "2026-08-22"
     },
     {
+      "id": "2477cbbad637",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyste Banquier Conseil - Equipe Corporate Banking Paris – Juillet 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Equipe-Corporate-Banking-Paris---Juillet-2026_JR014867",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, filiale de Rothschild & Co, recherche un(e) stagiaire au sein l’équipe Conseil Corporate Paris pour une durée de 6 mois à partir de Juillet 2026 qui aura pour mission d’appuyer les Banquiers Conseil Corporate dans l’origination de mandats Haut de Bilan en collaborat",
+      "start_date": "2025-12-09",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, wealth management, asset management",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "b17c342767e9",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Compliance KYC - Janvier 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Janvier-2026_JR014192",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nRothschild Martin Maurel entité du groupe international Rothschild & Co, est l’une des premières Banques Privées indépendantes en France, elle recherche un(e) stagiaire pour une durée de 6 mois au sein du service Compliance à partir de janvier 2026.\nMissions\nAu sein du pôle connaissance clients du Département de la Conformité de la Banque privée, vos missions seront les suivantes :\nLutte anti-blanchiment d’argent / Lutte anti-corruption / Sanctions internationales :\nParticipation au chantier de revues périodiques KYC et au processus d’entrée en relation (préparation des dossiers, conduite d’investigations, participation au Comité d’Acceptation des Clients…) ;\nRéalisation de contrôles de second niveau\nParticipation à la mise à jour du dispositif et à la rédaction des procédures\nParticipation aux projets du Département (nouveaux processus, veille, outils, formations…).\nTransparence fiscale (FATCA, CRS, QI, DAC6) :\nParticipation aux projets du Département (nouveaux processus, veille, outils, formations…).\nProfil\n- Préparation d’une formation supérieure (ESC, Master II) spécialisée en finance (audit, gestion des risques) ou droit, connaissance des métiers bancaires et financiers ainsi que de leur environnement réglementaire ;\n- Capacité à s’intégrer dans une équipe, confidentialité, intégrité, organisation, rigueur, flexibilité et diplomatie ;\n- Anglais courant.",
+      "start_date": "2025-08-13",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management, asset management",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
       "id": "3256febe1779",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -938,64 +1025,6 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "2477cbbad637",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyste Banquier Conseil - Equipe Corporate Banking Paris – Juillet 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-Banquier-Conseil---Equipe-Corporate-Banking-Paris---Juillet-2026_JR014867",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, filiale de Rothschild & Co, recherche un(e) stagiaire au sein l’équipe Conseil Corporate Paris pour une durée de 6 mois à partir de Juillet 2026 qui aura pour mission d’appuyer les Banquiers Conseil Corporate dans l’origination de mandats Haut de Bilan en collaborat",
-      "start_date": "2025-12-09",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, wealth management, asset management",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "b17c342767e9",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Compliance KYC - Janvier 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Janvier-2026_JR014192",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nRothschild Martin Maurel entité du groupe international Rothschild & Co, est l’une des premières Banques Privées indépendantes en France, elle recherche un(e) stagiaire pour une durée de 6 mois au sein du service Compliance à partir de janvier 2026.\nMissions\nAu sein du pôle connaissance clients du Département de la Conformité de la Banque privée, vos missions seront les suivantes :\nLutte anti-blanchiment d’argent / Lutte anti-corruption / Sanctions internationales :\nParticipation au chantier de revues périodiques KYC et au processus d’entrée en relation (préparation des dossiers, conduite d’investigations, participation au Comité d’Acceptation des Clients…) ;\nRéalisation de contrôles de second niveau\nParticipation à la mise à jour du dispositif et à la rédaction des procédures\nParticipation aux projets du Département (nouveaux processus, veille, outils, formations…).\nTransparence fiscale (FATCA, CRS, QI, DAC6) :\nParticipation aux projets du Département (nouveaux processus, veille, outils, formations…).\nProfil\n- Préparation d’une formation supérieure (ESC, Master II) spécialisée en finance (audit, gestion des risques) ou droit, connaissance des métiers bancaires et financiers ainsi que de leur environnement réglementaire ;\n- Capacité à s’intégrer dans une équipe, confidentialité, intégrité, organisation, rigueur, flexibilité et diplomatie ;\n- Anglais courant.",
-      "start_date": "2025-08-13",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, wealth management, asset management",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "e3fbee68e9a5",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1023,6 +1052,35 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-21"
+    },
+    {
+      "id": "eee20292241e",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone\nInfrastructure Partners\nSummer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)\nBlackstone\nInfrastructure Partners\nBlackstone Infrastructure Partners is an active investor across energy, transportation, digital infrastructure and water and waste infrastructure sectors. We seek to apply a long-term buy-and-hold strategy to large-scale infrastructure assets with a focus on delivering stable, long-term capital appreciation together with a predictable annual cash flow yield. Our approach to infrastructure investing is one that focuses on responsible stewardship and stakeholder engagement to create value for our investors and the communities we serve.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Infrastructure Partners is seeking 2027 Summer Analysts to join the following groups:\nPrivate Equity Infrastructure Investment\nPrivate Equity Infrastructure Asset Management\nPlease see information regarding groups below:\nPrivate Equity Infrastructure Investment\nBlackstone’s Private Equity Infrastructure Group offers Summer Analysts the chance to engage in the direct acquisition of assets in a variety of sectors. The investment process develops both the financial skills of investment banking and the strategic thinking of management consulting. As a result, this analyst program is a unique experience among financial firms, enabling our Summer Analysts to develop a well-rounded business mind. Summer Analysts at Blackstone have the opportunity to participate in all aspects of proj",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, asset management",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "508fe019a909",
@@ -1232,35 +1290,6 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "9f364956f5d5",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Job Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including: reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. dealflow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statements, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM\nTransaction Services team of a leading audit firm\nStrategy consulting\nOther European language skills would also be valuable.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-07-16",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
-      "source": "workday",
-      "first_seen": "2026-07-16",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
       "id": "88dfec0d0a99",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1287,7 +1316,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a9d67a8088c6",
@@ -1316,7 +1345,36 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "9f364956f5d5",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - September 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Job Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including: reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. dealflow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statements, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM\nTransaction Services team of a leading audit firm\nStrategy consulting\nOther European language skills would also be valuable.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-07-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
+      "source": "workday",
+      "first_seen": "2026-07-16",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "4d36980e648e",
@@ -1354,7 +1412,7 @@
       "title": "Stage Spécialiste ESG – Septembre / Octobre 2026",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Spcialiste-ESG---Septembre---Octobre-2026_JR016243",
-      "posted_date": "Posted 17 Days Ago",
+      "posted_date": "Posted 18 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de la division Asset Management de Rothschild & Co\nDivision specialisee en gestion d'actifs du groupe Rothschild & Co, nous offrons des services personnalises de gestion a une large clientele d'investisseurs institutionnels, d'intermediaires financiers et de distributeurs. Nous articulons notre developpement autour d'une gamme de fonds ouverts beneficiant de nos expertises de long terme en gestion active et de conviction ainsi qu'en gestion deleguee. Bases a Paris et presents dans 9 pays en Europe, nous gerons plus de 47 milliards d'euros et regroupons pres de 196 collaborateurs. Plus d'informations sur am (dot) eu (dot) rothschildandco (dot) com.\nContexte\nRothschild & Co Asset Management recherche un.e stagiaire Specialiste ESG au sein de l'equipe 'Investissement durable' pour une duree de 6 mois a partir de Septembre / Octobre 2026.\nL'equipe 'Investissement durable' est composee de 5 personnes dont deux specialistes ESG qui contribuent au developpement commercial et assurent la veille reglementaire et concurrentielle, un analyste ESG et responsable de l'engagement et un ingenieur financier et ESG data scientist. L'equipe est au coeur de la gestion et travaille en etroite collaboration avec l'ensemble des expertises d'investissement : actions, credit & convertibles et multigestion ainsi qu'avec l'ensemble des equipes commerciales et operationnelles.\nL'approche durable de Rothschild & Co Asset Management s'applique sur 100% des vehicules d'investissements dont 97% des fonds ouverts sont categorises Articles 8 & 9, a fin 2023. Lanc",
       "start_date": "2026-08-04",
       "time_type": "Full time",
@@ -1374,7 +1432,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f2d6370ac24a",
@@ -1403,7 +1461,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "d5a4298450f8",
@@ -1432,7 +1490,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "251d6c6f061b",
@@ -1461,7 +1519,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "c71dece991fe",
@@ -1490,7 +1548,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f85e4cbd5177",
@@ -1522,26 +1580,26 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "0a65ea33f94c",
+      "id": "a28d9ddf3be0",
       "bank": "Blackstone",
       "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
+      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
       "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
       "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nPrivate Equity\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including\nsecondaries\n, GP\nStakes\nand co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established\nsecondaries\nplatforms.\nProgramme\nDescription:\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers\na unique\nexperience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners\nprovides\nthe opportunity to join one of the most active and long-tenured investment teams in the private equity secondaries industry.\nSummer Analyst work may include:\nPrivate Equity Secondaries Summer Analysts will be involved in extensive valuation analysis and financial modeling of private equity funds and portfolio companies. Asset class exposure will span\nleveraged\nbuyout, growth equity, venture\ncapital\nand private credit. Summer Analysts will gain valuable experience modeling secondary portfolio transactions, GP-led\ncontinuation\nfunds, co-investments, primary commitments, and other unique deals.\nAdditional\nresponsibilities include preparing Investment Committee memos, structuring and executing investments and conducting various research projects.\nQualifications:\nBlackstone\nseeks\nto hire individuals who work well in a team-driven wo",
-      "start_date": "2026-07-29",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
+      "start_date": "2026-08-10",
       "time_type": "Full time",
       "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
       "source": "workday",
-      "first_seen": "2026-07-29",
+      "first_seen": "2026-08-10",
       "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: London",
         "Type: Internship/Stage",
-        "Domain: equity, private equity, portfolio",
+        "Domain: finance, risk, equity",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
@@ -1578,6 +1636,62 @@
       "last_seen": "2026-08-22"
     },
     {
+      "id": "e075559b8c63",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate\nPartners\nSummer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Real Estate Partners is seeking 202\n7\nSummer Analysts to join the following groups:\nReal Estate Acquisitions\nReal Estate Asset Management\nReal Estate Capital Markets\nReal Estate Core+\nPlease see information\nregarding\ngroups\nbelow:\nReal Estate Acquisitions\nBlackstone’s Real Estate Acquisitions Group focuses on originating,\nunderwriting\nand executing real estate investment opportunities. As a S",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior endeavours\nThe successful candidate must\nStrong verbal and written communication skills",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, capital markets, risk",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "0a65ea33f94c",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Private Equity Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Private-Equity-Secondaries-Summer-Analyst--London-_43192",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nPrivate Equity\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including\nsecondaries\n, GP\nStakes\nand co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established\nsecondaries\nplatforms.\nProgramme\nDescription:\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers\na unique\nexperience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners\nprovides\nthe opportunity to join one of the most active and long-tenured investment teams in the private equity secondaries industry.\nSummer Analyst work may include:\nPrivate Equity Secondaries Summer Analysts will be involved in extensive valuation analysis and financial modeling of private equity funds and portfolio companies. Asset class exposure will span\nleveraged\nbuyout, growth equity, venture\ncapital\nand private credit. Summer Analysts will gain valuable experience modeling secondary portfolio transactions, GP-led\ncontinuation\nfunds, co-investments, primary commitments, and other unique deals.\nAdditional\nresponsibilities include preparing Investment Committee memos, structuring and executing investments and conducting various research projects.\nQualifications:\nBlackstone\nseeks\nto hire individuals who work well in a team-driven wo",
+      "start_date": "2026-07-29",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors",
+      "source": "workday",
+      "first_seen": "2026-07-29",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity, portfolio",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
       "id": "61bc71e98fcd",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1603,7 +1717,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "e4e60a216723",
@@ -1631,7 +1745,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "3a1b49bda6db",
@@ -2124,6 +2238,34 @@
       "last_seen": "2026-08-22"
     },
     {
+      "id": "dd407960f54e",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
+      "start_date": "2026-07-09",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-09",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
       "id": "51d8c0722ea9",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2181,34 +2323,6 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "dd407960f54e",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
-      "start_date": "2026-07-09",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-09",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "743cd0164b30",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2229,6 +2343,34 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: risk, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "ef72728e7ab3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
+      "start_date": "2026-07-31",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
@@ -2547,6 +2689,33 @@
       "last_seen": "2026-08-22"
     },
     {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -2708,6 +2877,34 @@
         "Type: Internship/Stage",
         "Domain: research, economics",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "7a1886d678e0",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Business Development – Gestion de Projet IA – Banque Privée – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Gestion-de-Projet-IA---Banque-Prive---Septembre-2026_JR016184",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nDans le cadre de ses initiatives de transformation et d'innovation, Rothschild & Co Martin Maurel recherche un(e) stagiaire pour contribuer à des projets transverses visant à améliorer les méthodes de travail, l'exploitation des données et l'efficacité opérationnelle des équipes.\nMissions princip",
+      "start_date": "2026-07-21",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-21",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
       "excluded": false,
@@ -2886,34 +3083,6 @@
       "last_seen": "2026-08-22"
     },
     {
-      "id": "7a1886d678e0",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Business Development – Gestion de Projet IA – Banque Privée – Septembre 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Gestion-de-Projet-IA---Banque-Prive---Septembre-2026_JR016184",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nDans le cadre de ses initiatives de transformation et d'innovation, Rothschild & Co Martin Maurel recherche un(e) stagiaire pour contribuer à des projets transverses visant à améliorer les méthodes de travail, l'exploitation des données et l'efficacité opérationnelle des équipes.\nMissions princip",
-      "start_date": "2026-07-21",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-21",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "c7d2b6723ba8",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2990,62 +3159,6 @@
         "Type: Internship/Stage",
         "Domain: banking, investment banking",
         "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "2b9b8a37b7b8",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
-      "posted_date": "",
-      "description": "43842 | Credit",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-21",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: strategy",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "e075559b8c63",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-      "posted_date": "",
-      "description": "43155 | Real Estate",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, capital markets",
-        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3296,33 +3409,6 @@
         "Domain: banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "eee20292241e",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-      "posted_date": "",
-      "description": "43613 | Infrastructure",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, equity, private equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3891,84 +3977,6 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: wealth management"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "a28d9ddf3be0",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
-      "posted_date": "",
-      "description": "43862 | Credit",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-10",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "ef72728e7ab3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-      "posted_date": "",
-      "description": "43623 | Strategic Partners",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-22"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "43183 | Private Wealth",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -5821,10 +5829,10 @@
   "stats": {
     "total_jobs": 151,
     "new_today": 0,
-    "high_match": 111,
+    "high_match": 114,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 24,
+    "firms_empty": 23,
     "firms_total": 76
   }
 }
