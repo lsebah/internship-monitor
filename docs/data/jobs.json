@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-21T16:29:55.428291+00:00",
+  "last_updated": "2026-08-22T07:37:06.679390+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "count": 0,
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "count": 12,
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-21T16:29:55.428291+00:00"
+      "timestamp": "2026-08-22T07:37:06.679390+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -367,7 +367,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "eaf15de635b4",
@@ -396,7 +396,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "cb34666f4458",
@@ -426,7 +426,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "2d5f32a4d4c2",
@@ -456,7 +456,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "5314bc393228",
@@ -486,7 +486,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "c45709783b54",
@@ -516,7 +516,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "1a57ab42d64a",
@@ -545,7 +545,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "4110ec186958",
@@ -554,7 +554,7 @@
       "title": "Infrastructure Intern - January 2027 | Madrid (M/F)",
       "location": "Madrid | ESP - Madrid - Calle Fortuny 6",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Madrid/Infrastructure-Intern---January-2027---Madrid--M-F-_JR1002198",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "description": "Job Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potential co-investors\nPrepare regular asset management reporting and participate in communication to Ardian clients\nSpecialised business and technical knowledge:\nKnowledge of financial statement analysis and valuation techniques\nKnowledge of financial modelling and LBO structuring\nCompetency in MS office product suite including Excel, Word and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player able to work under pressure\nIntellectual rigor and discipline\nAbility to organize and perform work efficiently\nEducation and Experience:\nOutstanding academic qualifications\nA completed or advanced Bachelor’s and/or Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services)\nGood commercial understanding of Private Equity\nFluent written and spoken Spanish and English\n(Madrid based role)\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nInterns will regularly be required to communicate with internal and external contacts. Communication could include interaction with Ardian clients, other Ardian teams, operating partners, external parties such as advisors and consultants.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.\nEqual Employment Opportunity Policy:\nAt ARDIAN, we are proud of our diverse culture. As a forward thinking organization, we recognize that having people from different backgrounds brings innovati",
       "start_date": "2026-07-30",
       "time_type": "Full time",
@@ -577,7 +577,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f6285220076d",
@@ -586,7 +586,7 @@
       "title": "Private Equity Semiconductor Stage - Janvier 2027 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Semiconductor-Stage---Janvier-2027-I-Paris--H-F-_JR1002150",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Département : Semiconductor - Buyout\nDurée : 6 mois\nLieu : Paris\nDébut du stage : Janvier 2027\nL'équipe\nARDIAN Semiconductor, plateforme d'investissement hybride et pionnière dédiée à l'industrie des semiconducteurs, propose un stage de 6 mois au sein de son bureau parisien, à partir de juillet 2026. Au sein d’une équipe au positionnement hybride et thématique, le stagiaire bénéficiera d’une large exposition et d’une couverture européenne.\nLe rôle\nAu sein de l’équipe ARDIAN Semiconductor, les missions seront les suivantes :\nAssister l’équipe d’investissement dans l’analyse financière et la valorisation des projets ainsi que la préparation des documents internes\nSuivre le dealflow et effectuer les reportings sur l’outil CRM\nEffectuer des revues de segment de marché et suivre quotidiennement les tendances de l’industrie\nAssister l’équipe sur des besoins ad-hoc dans le cadre du fundraising\nParticiper au suivi des sociétés en portefeuille\nUn stage dans l’équipe ARDIAN Semiconductor offre une vue globale sur l’industrie du Private Equity, et permet d’être confronté à une multitude de sujets incluant le processus d’origination et d’exécution de transactions, ainsi qu'une vue d'ensemble sur la gestion opérationnelle des sociétés en portefeuille, en collaboration avec l’équipe Silian Partners aux côtés de l'équipe d'investissement d'Ardian.\nCompétences requises\nRigueur et sens du détail\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nOrganisation\nLe profil\n:\nDiplôme\nGrande école d'ingénieur, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nOu grande école de commerce, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nUne première expérience dans les domaines suivants est un prérequis : private equity, M&A ou transaction services dans une société financière ou de conseil en stratégie de premier plan\nAppétence pour l’industrie des semiconducteurs\nBonne connaissance des modèles financiers, de la comptabilité et de la Corporate Finance\nAnglais courant obligatoire, la pratique de l’Allemand est un plus\nMaitrise d’Excel, Word et Power Point\nA propos d’ARDIAN Semiconductor\n:\nArdian Semiconductor est une plateforme d’investissement pionnière dans l’industrie des semiconducteurs opérée via un partenariat stratégique exclusif avec l’équipe Silian Partners, lancée en 2023. Le fonds vise une taille totale de 1 milliard d'euros, afin d’investir",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -608,7 +608,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "c8fcbc0ee543",
@@ -638,7 +638,38 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "c878dc17f59d",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée du stage : 6 mois\nDate de début : Janvier 2027\nLe rôle\nElaboration de reportings spécifiques ou standardisés pour les investisseurs :\nReportings transversaux sur mesure (performances historiques et prévisionnelles, projections de cash flows, diversification de portefeuilles, simulations d'investissement) ;\nReportings ad-hoc afin de répondre aux besoins de suivi interne des investisseurs ;\nReportings réglementaires dans le cadre des Directives de l'Union Européenne (Solvabilité II, PRIPS, etc…).\nRépondre aux requêtes ad hoc :\nFournir aux investisseurs des réponses détaillées à leurs questions, concernant des données quantitatives/qualitatives inclues dans des rapports, des communications ou encore concernant l'activité des fonds/des entreprises en portefeuille.\nContribution aux levées de fonds :\nProduction de données quantitatives et financières dans le cadre de due diligences d’investisseurs potentiels : cash flows historiques et prévisionnels, indicateurs de performance (IRR, multiple, yield, etc.) au niveau des fonds et des actifs/transactions, caractéristiques et évolutions des données financières des sociétés/transactions en portefeuille ;\nTravail sur la mise à jour des sets marketing des fonds en cours de levée (pack Excel de due diligence, présentation marketing, PPM) ;\nModélisation de portefeuilles incluant la simulation d'investissements dans de nouveaux fonds.\nUtilisation et mise à jour de bases de données internes et externes :\nMise à jour continue des bases de données internes sur l'activité des fonds ;\nMise à jour trimestrielle de la base de données des investisseurs, calcul du montant des actifs sous gestion, analyse de leur composition et de leur évolution à des fins statistiques ;\nMise à jour trimestrielle des performances des fonds Ardian dans les bases de données externes (PREQIN, Towers Watson, Mercer, Cambridge) ;\nBenchmarking des fonds Ardian par rapport au marché du Private Equity (Cambridge, Burgiss)\nCompétences requises :\nAisance en anglais et français\nExcellente maîtrise d'Excel et bonne connaissance des autres programmes Microsoft Office\nConnaissance des modèles financiers des fonds de Private Equity\nRigueur\nAutonomie\nRéactivité\nCompétences relationnelles et esprit d’équipe\nProfil :\nEtudiant en Master : stage de fin d’études\nCompréhension du Private Equity et de ces enjeux\nUn stage dans l’un des domaines suivants serait apprécié\nPrivate Equity\nM&A\nAudit\nConsulting\nAutres info",
+      "start_date": "2026-06-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-23",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "cd2b13fd864b",
@@ -731,37 +762,6 @@
       "last_seen": "2026-08-21"
     },
     {
-      "id": "c878dc17f59d",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations Client Solution Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Solution-Stage---Janvier-2027-I-Paris--H-F-_JR1002154",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée du stage : 6 mois\nDate de début : Janvier 2027\nLe rôle\nElaboration de reportings spécifiques ou standardisés pour les investisseurs :\nReportings transversaux sur mesure (performances historiques et prévisionnelles, projections de cash flows, diversification de portefeuilles, simulations d'investissement) ;\nReportings ad-hoc afin de répondre aux besoins de suivi interne des investisseurs ;\nReportings réglementaires dans le cadre des Directives de l'Union Européenne (Solvabilité II, PRIPS, etc…).\nRépondre aux requêtes ad hoc :\nFournir aux investisseurs des réponses détaillées à leurs questions, concernant des données quantitatives/qualitatives inclues dans des rapports, des communications ou encore concernant l'activité des fonds/des entreprises en portefeuille.\nContribution aux levées de fonds :\nProduction de données quantitatives et financières dans le cadre de due diligences d’investisseurs potentiels : cash flows historiques et prévisionnels, indicateurs de performance (IRR, multiple, yield, etc.) au niveau des fonds et des actifs/transactions, caractéristiques et évolutions des données financières des sociétés/transactions en portefeuille ;\nTravail sur la mise à jour des sets marketing des fonds en cours de levée (pack Excel de due diligence, présentation marketing, PPM) ;\nModélisation de portefeuilles incluant la simulation d'investissements dans de nouveaux fonds.\nUtilisation et mise à jour de bases de données internes et externes :\nMise à jour continue des bases de données internes sur l'activité des fonds ;\nMise à jour trimestrielle de la base de données des investisseurs, calcul du montant des actifs sous gestion, analyse de leur composition et de leur évolution à des fins statistiques ;\nMise à jour trimestrielle des performances des fonds Ardian dans les bases de données externes (PREQIN, Towers Watson, Mercer, Cambridge) ;\nBenchmarking des fonds Ardian par rapport au marché du Private Equity (Cambridge, Burgiss)\nCompétences requises :\nAisance en anglais et français\nExcellente maîtrise d'Excel et bonne connaissance des autres programmes Microsoft Office\nConnaissance des modèles financiers des fonds de Private Equity\nRigueur\nAutonomie\nRéactivité\nCompétences relationnelles et esprit d’équipe\nProfil :\nEtudiant en Master : stage de fin d’études\nCompréhension du Private Equity et de ces enjeux\nUn stage dans l’un des domaines suivants serait apprécié\nPrivate Equity\nM&A\nAudit\nConsulting\nAutres info",
-      "start_date": "2026-06-23",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-23",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "df6f1d49eafc",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -792,35 +792,6 @@
       "last_seen": "2026-08-20"
     },
     {
-      "id": "2b9b8a37b7b8",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance:\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nJob Description\nOff Cycle interns are generalists and participate in all aspects of projects and can expect to work on a number of assignments at one time. Off-Cycle interns in Insurance Strategy and Solutions will participate in a wide range of European insurance related projects, conducting asset allocation and risk modeling analysis, supporting the team with insurance client engagements and preparing impactful insurance strategy presentations and research papers. Off-cycle interns will work closely across the team and the broa",
-      "start_date": "2026-08-20",
-      "time_type": "Full time",
-      "duration": "H2 2026",
-      "requirements": "The successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA collaborative mindset, solid work ethic, and the ability to contribute effectively to team objectives\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nExcellent attention to detail",
-      "source": "workday",
-      "first_seen": "2026-08-21",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "e5927bf7e591",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -847,7 +818,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "7158cd1f6ad9",
@@ -876,7 +847,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "da3dd93dad64",
@@ -914,7 +885,7 @@
       "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -935,7 +906,36 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "3256febe1779",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
+      "start_date": "2026-06-17",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-17",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, fund",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "2477cbbad637",
@@ -996,35 +996,6 @@
       "last_seen": "2026-08-21"
     },
     {
-      "id": "3256febe1779",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
-      "start_date": "2026-06-17",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-17",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, fund",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "e3fbee68e9a5",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1046,35 +1017,6 @@
         "Type: Internship/Stage",
         "Domain: wealth management, asset management, equity",
         "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "eee20292241e",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone\nInfrastructure Partners\nSummer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)\nBlackstone\nInfrastructure Partners\nBlackstone Infrastructure Partners is an active investor across energy, transportation, digital infrastructure and water and waste infrastructure sectors. We seek to apply a long-term buy-and-hold strategy to large-scale infrastructure assets with a focus on delivering stable, long-term capital appreciation together with a predictable annual cash flow yield. Our approach to infrastructure investing is one that focuses on responsible stewardship and stakeholder engagement to create value for our investors and the communities we serve.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Infrastructure Partners is seeking 2027 Summer Analysts to join the following groups:\nPrivate Equity Infrastructure Investment\nPrivate Equity Infrastructure Asset Management\nPlease see information regarding groups below:\nPrivate Equity Infrastructure Investment\nBlackstone’s Private Equity Infrastructure Group offers Summer Analysts the chance to engage in the direct acquisition of assets in a variety of sectors. The investment process develops both the financial skills of investment banking and the strategic thinking of management consulting. As a result, this analyst program is a unique experience among financial firms, enabling our Summer Analysts to develop a well-rounded business mind. Summer Analysts at Blackstone have the opportunity to participate in all aspects of proj",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, asset management",
-        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
@@ -1109,7 +1051,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "8d1fc50ef910",
@@ -1138,7 +1080,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "2ccfd4cf1855",
@@ -1197,7 +1139,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f94620042a82",
@@ -1227,7 +1169,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "6c5a14f8857a",
@@ -1257,7 +1199,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "8681b4e46991",
@@ -1266,7 +1208,7 @@
       "title": "Learning Intern - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Département :\nHuman Resources – Learning Team\nStage de 6 mois\nLieu :\nParis\nDate de début :\njanvier 2027\nLe rôle\nRattaché(e) à la Learning Manager, le/la stagiaire sera pleinement intégré(e) à l'équipe et prendra en charge les missions suivantes :\nGestion et animation de la plateforme eLearning (LMS Rise Up)\n›\nGérer les e-learnings obligatoires : inscriptions, mise à jour des contenus et émission des rapports statistiques\n›\nMettre à jour régulièrement le catalogue de formations et assurer la curation de contenus e-learning\n›\nCréer et actualiser des contenus digitaux de formation\n›\nSuivre les inscriptions et analyser les statistiques apprenants\n›\nAssurer la promotion de la plateforme et la communication auprès des collaborateurs\nSuivi du plan de formation et des demandes individuelles\n›\nIdentifier et recenser les besoins de formation des collaborateurs\n›\nGérer les inscriptions et mettre à jour les tableaux de bord de suivi\n›\nAssurer le suivi budgétaire et la mise à jour du plan de formation\n›\nOrganiser les formations récurrentes (SST, lutte anti-incendie, etc.)\n›\nRechercher des programmes adaptés et coordonner les actions de formation intra-entreprise\n›\nTraiter les factures liées aux formation\nMigration des données vers Training Orchestra (TMS)\n›\nSaisir et reporter l'ensemble des données de formation dans l'outil Training Orchestra à partir des fichiers Excel existants (migration Excel → TMS)\n›\nFiabiliser et structurer les données : sessions, participants, organismes, budgets\n›\nContribuer à la montée en qualité de la base de données formation dans l'outil\nProfil\n›\nÉtudiant(e) en Licence 3, Master 1 ou Master 2 en Ressources Humaines, Gestion ou équivalent\n›\nÉcoles de commerce, universités ou Bachelor Assistant de Gestion avec spécialisation RH\n›\nUne première expérience (stage ou alternance) d'au moins 6 mois dans un poste similaire et/ou en digital/création de contenus est appréciée\nCompétences\n›\nRigueur, autonomie et sens de l'organisation\n›\nCréativité et appétence pour la création de contenus digitaux\n›\nDynamisme et curiosité intellectuelle\n›\nExcellentes compétences rédactionnelles\n›\nMaîtrise du Pack Office (Word, Excel, PowerPoint)\n›\nAnglais courant indispensable (environnement international)\n›\nIntérêt pour le secteur de la finance, un plus\nAutres informations\n›\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\n›\nGratification selon profil\n›\nRemboursement du titre de transport (66%)\n›\nTickets restaurant\n›\nEnveloppe CS",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -1287,7 +1229,36 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "9f364956f5d5",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - September 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Job Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including: reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. dealflow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statements, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM\nTransaction Services team of a leading audit firm\nStrategy consulting\nOther European language skills would also be valuable.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-07-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
+      "source": "workday",
+      "first_seen": "2026-07-16",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "88dfec0d0a99",
@@ -1348,35 +1319,6 @@
       "last_seen": "2026-08-21"
     },
     {
-      "id": "9f364956f5d5",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---September-2026---London_JR1002184",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Job Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including: reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. dealflow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statements, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM\nTransaction Services team of a leading audit firm\nStrategy consulting\nOther European language skills would also be valuable.\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-07-16",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
-      "source": "workday",
-      "first_seen": "2026-07-16",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
       "id": "4d36980e648e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -1403,7 +1345,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "ded3a961d30b",
@@ -1577,91 +1519,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "a28d9ddf3be0",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
-      "start_date": "2026-08-10",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-08-10",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "6c1011e407fd",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate Debt Strategies\nSummer Analyst -\nPrivate Investments\n&\nCapital Markets\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nReal Estate Debt Strategies\nBlackstone’s Real Estate Debt Strategies Group (“BREDS”) provides capital solutions across the commercial real estate capital structure, focusing on the origination, acquisition, and active management of real estate debt investments globally. Summer Analysts in BREDS gain hands on exposure to the evaluation and execution of European real estate debt investments, working alongside investme",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: capital markets, risk, equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "e075559b8c63",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate\nPartners\nSummer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Real Estate Partners is seeking 202\n7\nSummer Analysts to join the following groups:\nReal Estate Acquisitions\nReal Estate Asset Management\nReal Estate Capital Markets\nReal Estate Core+\nPlease see information\nregarding\ngroups\nbelow:\nReal Estate Acquisitions\nBlackstone’s Real Estate Acquisitions Group focuses on originating,\nunderwriting\nand executing real estate investment opportunities. As a S",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior endeavours\nThe successful candidate must\nStrong verbal and written communication skills",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, capital markets, risk",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0a65ea33f94c",
@@ -1689,7 +1547,35 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "6c1011e407fd",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate Debt Strategies\nSummer Analyst -\nPrivate Investments\n&\nCapital Markets\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nReal Estate Debt Strategies\nBlackstone’s Real Estate Debt Strategies Group (“BREDS”) provides capital solutions across the commercial real estate capital structure, focusing on the origination, acquisition, and active management of real estate debt investments globally. Summer Analysts in BREDS gain hands on exposure to the evaluation and execution of European real estate debt investments, working alongside investme",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: capital markets, risk, equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "61bc71e98fcd",
@@ -1831,7 +1717,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9dddb89ef634",
@@ -1860,7 +1746,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "98836783533b",
@@ -1889,7 +1775,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "d23c22f2c608",
@@ -1918,7 +1804,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0df08051c57b",
@@ -1947,7 +1833,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "c65abc301ee0",
@@ -1976,34 +1862,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "de3e838c9593",
-      "bank": "Point72",
-      "category": "Hedge Fund",
-      "title": "Quantitative Researcher - Intern",
-      "location": "London, Paris, Hong Kong, Tokyo",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-      "posted_date": "2026-08-03",
-      "description": "Job Description\nThis is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading.\nJob Responsibilities\nPre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies\nIdentify features and relationships useful for the predictive modeling of market dynamics\nDesirable Candidates\nUndergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline\nProgramming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl\nStrong analytical and quantitative skills\nDemonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team\nThe annual base salary is $120,000-$180,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.",
-      "duration": "",
-      "requirements": "Demonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
-      "source": "greenhouse",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, trading, research",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "85db60a405c4",
@@ -2032,7 +1891,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0b8f93ece3e5",
@@ -2061,7 +1920,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0a7e933c328f",
@@ -2090,7 +1949,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "3a506648372b",
@@ -2119,7 +1978,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "ba58a05065e4",
@@ -2148,7 +2007,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "54fe2bb80d15",
@@ -2177,7 +2036,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "3384a9189adf",
@@ -2206,7 +2065,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "794fad16fec1",
@@ -2235,35 +2094,34 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
-      "id": "dd407960f54e",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
-      "start_date": "2026-07-09",
-      "time_type": "Full time",
+      "id": "de3e838c9593",
+      "bank": "Point72",
+      "category": "Hedge Fund",
+      "title": "Quantitative Researcher - Intern",
+      "location": "London, Paris, Hong Kong, Tokyo",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+      "posted_date": "2026-08-21",
+      "description": "Job Description\nThis is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading.\nJob Responsibilities\nPre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies\nIdentify features and relationships useful for the predictive modeling of market dynamics\nDesirable Candidates\nUndergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline\nProgramming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl\nStrong analytical and quantitative skills\nDemonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team\nThe annual base salary is $120,000-$180,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.",
       "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-09",
+      "requirements": "Demonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
+      "source": "greenhouse",
+      "first_seen": "2026-05-05",
       "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Track privilégié: Corporate / Banking"
+        "Domain: finance, trading, research",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "51d8c0722ea9",
@@ -2291,7 +2149,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "e619cf06711f",
@@ -2316,6 +2174,34 @@
         "Domain: finance",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "dd407960f54e",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Analyste Développement Durable – Five Arrows – Mars 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Analyste-Dveloppement-Durable---Five-Arrows---Mars-2027_JR016142",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\n:\nRothschild & Co Five Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement, recherche un(e) stagiaire dès mars 2027. Il ou elle aura pour mission d’assister l’équipe ESG sur l’ensemble des stratégies de Five Arrows.\nLa division Five Arrows du Groupe Rothschild & Co, un des plus importants conseils financiers indépendants dans le monde avec 3.500 personnes dans 40 pays, est avec les divisions Global Advisory et Wealth & Asset Management, l’une des trois activités de la banque.\nFive Arrows déploie le capital du groupe Rothschild & Co aux côtés d’investisseurs institutionnels et privés à travers le monde.\nFort de ses 200 ans d’histoire, Rothschild & Co accompagne des entrepreneurs talentueux dans le développement à moyen terme de leurs affaires.\nDepuis sa création en 2009, le volume d’actifs gérés par Five Arrows est passé de 1,1 milliard à plus de 30 milliards d’euros aujourd’hui grâce au lancement d’une série de fonds de capital-investissement et de dette privée.\nLa plateforme propose désormais une offre complète en Europe et aux Etats-Unis. Au total, la division Five Arrows emploie plus de 200 professionnels répartis entre cinq bureaux (Londres, Paris, New York, Los Angeles et Luxembourg).\nCorporate Private Equity : Investissement majoritaire en direct dans des PME dans les secteurs de la santé, des technologies et des services :\nFive Arrows Principal Investments (FAPI) : Mid-cap en Europe de l’ouest.\nFive Arrows Capital Partners (FACP) : Mid-cap aux Etats-Unis.\nFive Arrows Growt",
+      "start_date": "2026-07-09",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-09",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -2348,35 +2234,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "ef72728e7ab3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
-      "start_date": "2026-07-31",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "3c68a19025d4",
@@ -2404,7 +2262,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "72b675c610c3",
@@ -2461,7 +2319,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "cdcdf2030ae0",
@@ -2489,7 +2347,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f18f0711c918",
@@ -2518,7 +2376,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9d8391b790ba",
@@ -2546,7 +2404,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "19e298b8bc57",
@@ -2555,7 +2413,7 @@
       "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
-      "posted_date": "Posted 16 Days Ago",
+      "posted_date": "Posted 17 Days Ago",
       "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -2574,7 +2432,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "21ca1e8be1d3",
@@ -2602,7 +2460,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "1d446ccf62cd",
@@ -2630,7 +2488,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a4daeddebf2a",
@@ -2658,7 +2516,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "bec68070c81d",
@@ -2686,34 +2544,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: wealth management, sales, equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "81b9ebd93b95",
@@ -2769,7 +2600,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "294b65dcf83b",
@@ -2797,7 +2628,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a20be1015b59",
@@ -2825,7 +2656,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f913031e9a5a",
@@ -2853,7 +2684,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "fcb2ac675a49",
@@ -2881,35 +2712,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
-    },
-    {
-      "id": "7a1886d678e0",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Business Development – Gestion de Projet IA – Banque Privée – Septembre 2026",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Gestion-de-Projet-IA---Banque-Prive---Septembre-2026_JR016184",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nDans le cadre de ses initiatives de transformation et d'innovation, Rothschild & Co Martin Maurel recherche un(e) stagiaire pour contribuer à des projets transverses visant à améliorer les méthodes de travail, l'exploitation des données et l'efficacité opérationnelle des équipes.\nMissions princip",
-      "start_date": "2026-07-21",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-21",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "05ca484a527a",
@@ -2941,7 +2744,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "d17d56d6485f",
@@ -2968,7 +2771,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "7d0d0d095ee5",
@@ -2996,7 +2799,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "3f7d0db25fd7",
@@ -3024,7 +2827,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "1246ea26b25b",
@@ -3052,7 +2855,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "d5681db0a3b6",
@@ -3076,6 +2879,34 @@
         "Type: Internship/Stage",
         "Domain: equity, private equity",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "7a1886d678e0",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Business Development – Gestion de Projet IA – Banque Privée – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Gestion-de-Projet-IA---Banque-Prive---Septembre-2026_JR016184",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nDans le cadre de ses initiatives de transformation et d'innovation, Rothschild & Co Martin Maurel recherche un(e) stagiaire pour contribuer à des projets transverses visant à améliorer les méthodes de travail, l'exploitation des données et l'efficacité opérationnelle des équipes.\nMissions princip",
+      "start_date": "2026-07-21",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-21",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3135,7 +2966,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0e7ee5c67d78",
@@ -3163,33 +2994,63 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
-      "id": "f4422ad60fba",
-      "bank": "Point72",
-      "category": "Hedge Fund",
-      "title": "Quantitative Software Developer Intern",
-      "location": "New York, London, or Paris",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-      "posted_date": "2026-08-03",
-      "description": "Job Description\nWe are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and research infrastructure. Interns will work on small, highly collaborative teams.\nDesirable Candidates\nUndergraduate or graduate candidates in computer science or engineering\nSignificant experience in Python, C++, C, or Java\nSerious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers)\nIn-depth understanding of how userland programs run on Linux and interact with the kernel\nSome basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
+      "id": "2b9b8a37b7b8",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2026 Blackstone Credit & Insurance, Insurance Strategy and Solutions H2 Off Cycle Intern (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2026-Blackstone-Credit---Insurance--Insurance-Strategy-and-Solutions-H2-Off-Cycle-Intern--London-_43842",
+      "posted_date": "",
+      "description": "43842 | Credit",
+      "start_date": "",
+      "time_type": "",
       "duration": "",
       "requirements": "",
-      "source": "greenhouse",
-      "first_seen": "2026-05-05",
+      "source": "workday",
+      "first_seen": "2026-08-21",
       "is_new": false,
       "match_score": 65,
       "match_reasons": [
-        "Location: Paris",
+        "Location: London",
         "Type: Internship/Stage",
-        "Domain: trading, research",
-        "Level: Undergraduate"
+        "Domain: strategy",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "e075559b8c63",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
+      "posted_date": "",
+      "description": "43155 | Real Estate",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, capital markets",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "595620feb852",
@@ -3217,7 +3078,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "df964aa5f672",
@@ -3245,7 +3106,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "ce391e0f1f53",
@@ -3273,7 +3134,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "dafcd9852e8d",
@@ -3301,7 +3162,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a372a0868e8e",
@@ -3329,7 +3190,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "578d7be20f6b",
@@ -3357,7 +3218,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "32bf4f30f70a",
@@ -3385,7 +3246,33 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "f4422ad60fba",
+      "bank": "Point72",
+      "category": "Hedge Fund",
+      "title": "Quantitative Software Developer Intern",
+      "location": "New York, London, or Paris",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "posted_date": "2026-08-21",
+      "description": "Job Description\nWe are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and research infrastructure. Interns will work on small, highly collaborative teams.\nDesirable Candidates\nUndergraduate or graduate candidates in computer science or engineering\nSignificant experience in Python, C++, C, or Java\nSerious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers)\nIn-depth understanding of how userland programs run on Linux and interact with the kernel\nSome basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
+      "duration": "",
+      "requirements": "",
+      "source": "greenhouse",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, research",
+        "Level: Undergraduate"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "4a3b61dc655d",
@@ -3413,7 +3300,34 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "eee20292241e",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
+      "posted_date": "",
+      "description": "43613 | Infrastructure",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, equity, private equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9f9a06b3ba40",
@@ -3494,7 +3408,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "8ea868119967",
@@ -3521,7 +3435,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "966aeee2595b",
@@ -3548,7 +3462,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "bb7ef9681ee4",
@@ -3576,7 +3490,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9856e5ea3dae",
@@ -3603,7 +3517,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "985927d66b60",
@@ -3630,7 +3544,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "8363d6ff4886",
@@ -3657,7 +3571,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "b82986319db3",
@@ -3684,7 +3598,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "bb17f2ebab0b",
@@ -3711,7 +3625,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "18793fa9e3ec",
@@ -3738,7 +3652,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9fcbedbdf752",
@@ -3765,7 +3679,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a6f970e7f0af",
@@ -3792,7 +3706,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "7f7468bda334",
@@ -3819,7 +3733,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "45a696619273",
@@ -3846,7 +3760,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "27f73366915c",
@@ -3873,7 +3787,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "0306691d36a1",
@@ -3900,7 +3814,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "b15defd1d881",
@@ -3927,7 +3841,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "769b6e44ea85",
@@ -3954,7 +3868,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "b6c923984536",
@@ -3981,7 +3895,85 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "a28d9ddf3be0",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
+      "posted_date": "",
+      "description": "43862 | Credit",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-10",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "ef72728e7ab3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
+      "posted_date": "",
+      "description": "43623 | Strategic Partners",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
+    },
+    {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "43183 | Private Wealth",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-22"
     },
     {
       "id": "2694e9555222",
@@ -4008,7 +4000,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "a92510c0711e",
@@ -4035,7 +4027,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9fdf6acf877d",
@@ -4061,7 +4053,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "f2e7d79b4940",
@@ -4087,7 +4079,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "1545b037043c",
@@ -4113,7 +4105,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "61a8875c151c",
@@ -4139,7 +4131,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "265411a6aa21",
@@ -4165,7 +4157,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "bac21fa1e47f",
@@ -4191,7 +4183,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "bd5f70a44690",
@@ -4217,7 +4209,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "ed698f6f6015",
@@ -4243,7 +4235,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "9717ab65611b",
@@ -4269,7 +4261,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "dc7e744df391",
@@ -4296,7 +4288,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "01ea0130b80f",
@@ -4322,7 +4314,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "896f99913c66",
@@ -4349,7 +4341,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "efce9a12de0e",
@@ -4401,7 +4393,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "935f75e5bbe3",
@@ -4427,7 +4419,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "d65ff1c1a27e",
@@ -4477,7 +4469,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "918666632e1a",
@@ -4502,7 +4494,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "6058d9460f2a",
@@ -4527,7 +4519,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "69052c2cefc4",
@@ -4552,7 +4544,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     },
     {
       "id": "7db6862424a6",
@@ -4579,7 +4571,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-22"
     }
   ],
   "direct_links": [
@@ -5829,10 +5821,10 @@
   "stats": {
     "total_jobs": 151,
     "new_today": 0,
-    "high_match": 114,
+    "high_match": 111,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 23,
+    "firms_empty": 24,
     "firms_total": 76
   }
 }
