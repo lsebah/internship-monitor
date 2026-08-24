@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-24T08:00:29.102025+00:00",
+  "last_updated": "2026-08-24T12:23:07.478036+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "count": 15,
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 26,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "count": 29,
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T08:00:29.102025+00:00"
+      "timestamp": "2026-08-24T12:23:07.478036+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -792,6 +792,37 @@
       "last_seen": "2026-08-20"
     },
     {
+      "id": "2803a2a933d0",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Growth Stage - Janvier 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Janvier-2027---Paris--M-F-_JR1002112",
+      "posted_date": "Posted Today",
+      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-24"
+    },
+    {
       "id": "2b9b8a37b7b8",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -938,6 +969,35 @@
       "last_seen": "2026-08-24"
     },
     {
+      "id": "e3fbee68e9a5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
+      "start_date": "2026-06-03",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
+      "source": "workday",
+      "first_seen": "2026-07-29",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-24"
+    },
+    {
       "id": "2477cbbad637",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1025,33 +1085,34 @@
       "last_seen": "2026-08-24"
     },
     {
-      "id": "e3fbee68e9a5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
+      "id": "15d3c6973304",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Growth Stage - Mars 2027 | Paris (M/F)",
       "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
-      "start_date": "2026-06-03",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Mars-2027---Paris--M-F-_JR1002113",
+      "posted_date": "Posted Today",
+      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-24",
       "time_type": "Full time",
-      "duration": "",
-      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
+      "duration": "6 mois",
+      "requirements": "",
       "source": "workday",
-      "first_seen": "2026-07-29",
-      "is_new": false,
+      "first_seen": "2026-08-24",
+      "is_new": true,
       "match_score": 95,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Start: Jan 2027",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-21"
+      "last_seen": "2026-08-24"
     },
     {
       "id": "eee20292241e",
@@ -3660,6 +3721,37 @@
       "last_seen": "2026-08-24"
     },
     {
+      "id": "64a4bfb9f7c1",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Infrastructure Intern - November 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Infrastructure-Intern---November-2026---London_JR1002212",
+      "posted_date": "Posted Today",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising\n$200bn\nof assets on behalf of more than\n1,920\nclients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over\n1,115\nemployees, spread across\n22\noffices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nInterns in the Ardian Infrastructure team assist in the identification, analysis and execution of potential investment opportunities as well as asset management of existing portfolio assets. The internship will provide a global view on the world of infrastructure private equity investment from deal sourcing and execution to asset management and client management.\nJob Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potentia",
+      "start_date": "2026-08-24",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "A completed Bachelor’s or advanced Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services at a leading auditing company)\nGood commercial understanding of Private Equity\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, asset management, M&A",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking",
+        "⚠ Niveau requis: diplôme complété / Master"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": true,
+      "last_seen": "2026-08-24"
+    },
+    {
       "id": "b82986319db3",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -5827,9 +5919,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 151,
-    "new_today": 0,
-    "high_match": 114,
+    "total_jobs": 154,
+    "new_today": 3,
+    "high_match": 116,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 23,
