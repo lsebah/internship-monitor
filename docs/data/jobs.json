@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-24T12:23:07.478036+00:00",
+  "last_updated": "2026-08-24T16:33:23.352316+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -113,18 +113,18 @@
     },
     "BlackRock": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "count": 1,
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T12:23:07.478036+00:00"
+      "timestamp": "2026-08-24T16:33:23.352316+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -671,6 +671,36 @@
       "last_seen": "2026-08-24"
     },
     {
+      "id": "32d6c1ea2b2a",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage – Equity Sales – Rothschild & Co Redburn – Septembre 2026",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage---Equity-Sales---Rothschild---Co-Redburn---Septembre-2026_JR016055",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nRothschild & Co Redburn\npropose des stages de 6 mois à Paris, destinés aux étudiant(e)s en année de césure ou en fin de cursus. Dans ce cadre, la banque recherche un(e) stagiaire à partir de septembre 2026.\nLe/la candidat(e) rejoindra une composée de 13 personnes, dont la mission principale est d’assister l’équipe de Vente Actions.\nMissions\nEn tant que stagiaire vous aurez l’opportunité de :\nSupporter l’équipe de vente dans sa production de contenus :\nParticipation à la rédaction du mail quotidien\nAide à la préparation / finalisation de présentations d’idées d’investissement\nLecture et synthétisation d’idées de la recherche\nAssister l’équipe de vente dans ses démarches de prospection / suivi\nVeille et mise à jour des cibles / prospects\nSuivi de l’allocation de ressource aux clients\nAssister l’équipe de vente dans ses démarches administratives\nAider à la rédaction / finalisation des revues clients\nAssister l’équipe dans ses démarches marketing\nRéservations de salle / restauration pour les évènements\nOrganisation de la logistique / voyages pour les évènements analystes\nOrganisation du dispositif digital pour les conférences virtuelles\nAccueil client pour les déjeuners corporates\nProfil\nÉtudiant(e) en école de commerce, université ou école d’ingénieur, vous disposez :\nD’une solide culture financière et d’un vif intérêt pour l’économie et les marchés financiers.\nD’un fort esprit d’analyse et de synthèse.\nD’un niveau courant ou bilingue en anglais, ainsi que d’excellentes compétences rédactionnelles et orales en français.\nD’une forte c",
+      "start_date": "2026-06-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, sales",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-24"
+    },
+    {
       "id": "3b74694b8da4",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -806,7 +836,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -969,35 +999,6 @@
       "last_seen": "2026-08-24"
     },
     {
-      "id": "e3fbee68e9a5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
-      "start_date": "2026-06-03",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
-      "source": "workday",
-      "first_seen": "2026-07-29",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, equity",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-24"
-    },
-    {
       "id": "2477cbbad637",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1085,6 +1086,35 @@
       "last_seen": "2026-08-24"
     },
     {
+      "id": "e3fbee68e9a5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Investor Relations Intern - Five Arrows – Five Arrows Multi-Stratégies -  January 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Investor-Relations-Intern---Five-Arrows---Five-Arrows-Multi-Stratgies----January-2027_JR015907",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nIntroduction :\nFive Arrows\n, the private equity arm of the Rothschild & Co group, is looking for an\nInvestor Relations\nIntern\nto\nsupport the teams of the Five Arrows Multi Strategies platform (\nFAMS\n), which currently has\n€6 billion in assets under management\nand includes the following strategies:\nFive Arrows Secondary Opportunities (\nFASO\n) and Five Arrows Strategic Assets (\nFASA\n), a specialist in small and mid-cap secondary transactions in Europe and the US, providing tailor-made liquidity solutions for investors and general partners who wish to actively manage their private equity portfolios (single\nasset\nand multi\nasset\n)\nFive Arrows Private Equity Program (\nFAPEP\n), a global fund investment program providing its investors with access to a\nselection\nof the highest quality general partners globally, investing across different segments of the private equity asset class: primary fund investments,\nsecondaries\nand co-investments\nFive Arrows Growth Tech (\nFAGT\n), a fund investment program providing its investors with a diversified exposure across the technology lifecycle (venture,\ngrowth\nand buyouts) in the US and Europe / Israel\nFive Arrows Sustainable Investments (\nFASI\n), a buyout investment program focused on minority investments and co-investments in profitable European small and mid-cap companies with responsible and sustainable products or services\nMissions :\nThe Investor Relations Assistant will help structure the fundraising and client-related activities of the FAMS platform while gaining exposure to the Private Equity market.\nDay-",
+      "start_date": "2026-06-03",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Competencies\nRequired\nProven ability to successfully multi-task, along with strong\nattention to detail\nExcellent\nunderstanding of the private equity industry",
+      "source": "workday",
+      "first_seen": "2026-07-29",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, equity",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-24"
+    },
+    {
       "id": "15d3c6973304",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -1099,7 +1129,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 95,
       "match_reasons": [
         "Location: Paris",
@@ -2377,6 +2407,35 @@
         "Domain: finance",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-24"
+    },
+    {
+      "id": "c71bf16091dc",
+      "bank": "BlackRock",
+      "category": "Asset Manager",
+      "title": "Veteran & Elite Athletes Internship Programme - London",
+      "location": "London, Greater London",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
+      "posted_date": "Posted Today",
+      "description": "About this role\nElevate your career by joining the world's largest asset manager. Thrive in an environment that promotes positive relationships and recognises outstanding performance. We know you want to feel valued every single day and be recognised for your contribution. At BlackRock, we strive to empower our employees and effectively engage your involvement in our success. With over USD $14 trillion of assets, we have an outstanding responsibility: our technology and services empower millions of investors to save for retirement, pay for college, buy a home and improve their financial well-being.\nBlackRock's paid six-month programme offers service leavers and professional athletes the opportunity to develop their professional skills, enhance their understanding of asset management and the world of financial services and prepare for future careers in the industry.\nBlackRock are offering diverse roles and opportunities across the following divisions:\nAladdin Client Business:\nAladdin Client Business is BlackRock's global investment technology and transformation organization, partnering with many of the world's largest financial institutions to implement, operate and optimize the Aladdin platform. Combining financial markets expertise, technology innovation and strategic consulting, ACB helps clients transform how they invest, manage risk, operate and grow in an increasingly complex financial landscape.\nClient Services & Solutions:\nClient Services & Solutions\n(CSS)\nis a client-facing organization within Technology & Operations that was formed by bringing together Client Experience and Operations capabilities under a unified model. Its objective is to create a more seamless client experience, improve collaboration across teams, and better align operational execution with BlackRock's commercial outcomes.\nMilitary Applicants\n: Service leaver must have served in the UK regular armed forces with a minimum of 3 years’ service. Have left regular service within the last 12 months.\nProfessional Athletes\n: Elite athletes, who have either represented a professional team for their sport, or who have represented their country at Senior international level.\nApplicants for this programme must be legally able to work in the location applied for.\nApplication closing date: October 5th 2026\nStart date: February 2027\nOur benefits\nTo help you stay energized, engaged and inspired, we offer a wide range of employee benefits including: retirement investment and tools designed to he",
+      "start_date": "2026-08-24",
+      "time_type": "Full time",
+      "duration": "12 months",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": true,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, risk",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -3735,7 +3794,7 @@
       "requirements": "A completed Bachelor’s or advanced Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services at a leading auditing company)\nGood commercial understanding of Private Equity\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.",
       "source": "workday",
       "first_seen": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5919,12 +5978,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 154,
-    "new_today": 3,
-    "high_match": 116,
+    "total_jobs": 156,
+    "new_today": 2,
+    "high_match": 118,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 23,
+    "firms_empty": 22,
     "firms_total": 76
   }
 }
