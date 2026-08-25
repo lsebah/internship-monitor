@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-25T07:49:46.321458+00:00",
+  "last_updated": "2026-08-25T12:23:45.989368+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "count": 1,
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "count": 12,
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-25T07:49:46.321458+00:00"
+      "timestamp": "2026-08-25T12:23:45.989368+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -820,6 +820,36 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-20"
+    },
+    {
+      "id": "2360d5297640",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Banking Off Cycle Internship Programme 2027 Madrid",
+      "location": "Madrid, Calle de Jose Abascal",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Madrid-Calle-de-Jose-Abascal/Banking-Off-Cycle-Internship-Programme-2027-Madrid_JR-0000124446",
+      "posted_date": "Posted Today",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures adopted due to risk mitigation.\nAdvise and influence decision making within own ",
+      "start_date": "2026-08-25",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
+      "source": "workday",
+      "first_seen": "2026-08-25",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, risk",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2803a2a933d0",
@@ -5923,12 +5953,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 154,
-    "new_today": 0,
-    "high_match": 116,
+    "total_jobs": 155,
+    "new_today": 1,
+    "high_match": 117,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 22,
+    "firms_empty": 21,
     "firms_total": 76
   }
 }
