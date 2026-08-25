@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-24T16:33:23.352316+00:00",
+  "last_updated": "2026-08-25T07:49:46.321458+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-24T16:33:23.352316+00:00"
+      "timestamp": "2026-08-25T07:49:46.321458+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -367,7 +367,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "eaf15de635b4",
@@ -396,7 +396,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "cb34666f4458",
@@ -426,7 +426,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2d5f32a4d4c2",
@@ -456,7 +456,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "5314bc393228",
@@ -486,7 +486,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c45709783b54",
@@ -516,7 +516,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "1a57ab42d64a",
@@ -545,7 +545,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "4110ec186958",
@@ -554,7 +554,7 @@
       "title": "Infrastructure Intern - January 2027 | Madrid (M/F)",
       "location": "Madrid | ESP - Madrid - Calle Fortuny 6",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Madrid/Infrastructure-Intern---January-2027---Madrid--M-F-_JR1002198",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Job Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potential co-investors\nPrepare regular asset management reporting and participate in communication to Ardian clients\nSpecialised business and technical knowledge:\nKnowledge of financial statement analysis and valuation techniques\nKnowledge of financial modelling and LBO structuring\nCompetency in MS office product suite including Excel, Word and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player able to work under pressure\nIntellectual rigor and discipline\nAbility to organize and perform work efficiently\nEducation and Experience:\nOutstanding academic qualifications\nA completed or advanced Bachelor’s and/or Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services)\nGood commercial understanding of Private Equity\nFluent written and spoken Spanish and English\n(Madrid based role)\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nInterns will regularly be required to communicate with internal and external contacts. Communication could include interaction with Ardian clients, other Ardian teams, operating partners, external parties such as advisors and consultants.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.\nEqual Employment Opportunity Policy:\nAt ARDIAN, we are proud of our diverse culture. As a forward thinking organization, we recognize that having people from different backgrounds brings innovati",
       "start_date": "2026-07-30",
       "time_type": "Full time",
@@ -577,7 +577,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f6285220076d",
@@ -586,7 +586,7 @@
       "title": "Private Equity Semiconductor Stage - Janvier 2027 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Semiconductor-Stage---Janvier-2027-I-Paris--H-F-_JR1002150",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "Département : Semiconductor - Buyout\nDurée : 6 mois\nLieu : Paris\nDébut du stage : Janvier 2027\nL'équipe\nARDIAN Semiconductor, plateforme d'investissement hybride et pionnière dédiée à l'industrie des semiconducteurs, propose un stage de 6 mois au sein de son bureau parisien, à partir de juillet 2026. Au sein d’une équipe au positionnement hybride et thématique, le stagiaire bénéficiera d’une large exposition et d’une couverture européenne.\nLe rôle\nAu sein de l’équipe ARDIAN Semiconductor, les missions seront les suivantes :\nAssister l’équipe d’investissement dans l’analyse financière et la valorisation des projets ainsi que la préparation des documents internes\nSuivre le dealflow et effectuer les reportings sur l’outil CRM\nEffectuer des revues de segment de marché et suivre quotidiennement les tendances de l’industrie\nAssister l’équipe sur des besoins ad-hoc dans le cadre du fundraising\nParticiper au suivi des sociétés en portefeuille\nUn stage dans l’équipe ARDIAN Semiconductor offre une vue globale sur l’industrie du Private Equity, et permet d’être confronté à une multitude de sujets incluant le processus d’origination et d’exécution de transactions, ainsi qu'une vue d'ensemble sur la gestion opérationnelle des sociétés en portefeuille, en collaboration avec l’équipe Silian Partners aux côtés de l'équipe d'investissement d'Ardian.\nCompétences requises\nRigueur et sens du détail\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nOrganisation\nLe profil\n:\nDiplôme\nGrande école d'ingénieur, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nOu grande école de commerce, avec une spécialisation dans le domaine de la finance (obtenu ou en dernière année d'études)\nUne première expérience dans les domaines suivants est un prérequis : private equity, M&A ou transaction services dans une société financière ou de conseil en stratégie de premier plan\nAppétence pour l’industrie des semiconducteurs\nBonne connaissance des modèles financiers, de la comptabilité et de la Corporate Finance\nAnglais courant obligatoire, la pratique de l’Allemand est un plus\nMaitrise d’Excel, Word et Power Point\nA propos d’ARDIAN Semiconductor\n:\nArdian Semiconductor est une plateforme d’investissement pionnière dans l’industrie des semiconducteurs opérée via un partenariat stratégique exclusif avec l’équipe Silian Partners, lancée en 2023. Le fonds vise une taille totale de 1 milliard d'euros, afin d’investir",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -608,7 +608,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c8fcbc0ee543",
@@ -638,7 +638,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "cd2b13fd864b",
@@ -668,7 +668,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "32d6c1ea2b2a",
@@ -685,7 +685,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -698,7 +698,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3b74694b8da4",
@@ -728,7 +728,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "65c5549c8c85",
@@ -758,7 +758,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c878dc17f59d",
@@ -789,7 +789,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "df6f1d49eafc",
@@ -828,7 +828,7 @@
       "title": "Private Equity Growth Stage - Janvier 2027 | Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Janvier-2027---Paris--M-F-_JR1002112",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-24",
       "time_type": "Full time",
@@ -850,7 +850,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2b9b8a37b7b8",
@@ -879,7 +879,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "e5927bf7e591",
@@ -908,7 +908,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "7158cd1f6ad9",
@@ -937,7 +937,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "da3dd93dad64",
@@ -975,7 +975,7 @@
       "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -996,7 +996,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2477cbbad637",
@@ -1025,7 +1025,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "b17c342767e9",
@@ -1054,7 +1054,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3256febe1779",
@@ -1083,7 +1083,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "e3fbee68e9a5",
@@ -1121,7 +1121,7 @@
       "title": "Private Equity Growth Stage - Mars 2027 | Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Mars-2027---Paris--M-F-_JR1002113",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-24",
       "time_type": "Full time",
@@ -1142,7 +1142,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "eee20292241e",
@@ -1171,7 +1171,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "508fe019a909",
@@ -1200,7 +1200,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "8d1fc50ef910",
@@ -1229,7 +1229,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2ccfd4cf1855",
@@ -1288,7 +1288,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f94620042a82",
@@ -1318,7 +1318,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "6c5a14f8857a",
@@ -1348,7 +1348,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "8681b4e46991",
@@ -1357,7 +1357,7 @@
       "title": "Learning Intern - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "Département :\nHuman Resources – Learning Team\nStage de 6 mois\nLieu :\nParis\nDate de début :\njanvier 2027\nLe rôle\nRattaché(e) à la Learning Manager, le/la stagiaire sera pleinement intégré(e) à l'équipe et prendra en charge les missions suivantes :\nGestion et animation de la plateforme eLearning (LMS Rise Up)\n›\nGérer les e-learnings obligatoires : inscriptions, mise à jour des contenus et émission des rapports statistiques\n›\nMettre à jour régulièrement le catalogue de formations et assurer la curation de contenus e-learning\n›\nCréer et actualiser des contenus digitaux de formation\n›\nSuivre les inscriptions et analyser les statistiques apprenants\n›\nAssurer la promotion de la plateforme et la communication auprès des collaborateurs\nSuivi du plan de formation et des demandes individuelles\n›\nIdentifier et recenser les besoins de formation des collaborateurs\n›\nGérer les inscriptions et mettre à jour les tableaux de bord de suivi\n›\nAssurer le suivi budgétaire et la mise à jour du plan de formation\n›\nOrganiser les formations récurrentes (SST, lutte anti-incendie, etc.)\n›\nRechercher des programmes adaptés et coordonner les actions de formation intra-entreprise\n›\nTraiter les factures liées aux formation\nMigration des données vers Training Orchestra (TMS)\n›\nSaisir et reporter l'ensemble des données de formation dans l'outil Training Orchestra à partir des fichiers Excel existants (migration Excel → TMS)\n›\nFiabiliser et structurer les données : sessions, participants, organismes, budgets\n›\nContribuer à la montée en qualité de la base de données formation dans l'outil\nProfil\n›\nÉtudiant(e) en Licence 3, Master 1 ou Master 2 en Ressources Humaines, Gestion ou équivalent\n›\nÉcoles de commerce, universités ou Bachelor Assistant de Gestion avec spécialisation RH\n›\nUne première expérience (stage ou alternance) d'au moins 6 mois dans un poste similaire et/ou en digital/création de contenus est appréciée\nCompétences\n›\nRigueur, autonomie et sens de l'organisation\n›\nCréativité et appétence pour la création de contenus digitaux\n›\nDynamisme et curiosité intellectuelle\n›\nExcellentes compétences rédactionnelles\n›\nMaîtrise du Pack Office (Word, Excel, PowerPoint)\n›\nAnglais courant indispensable (environnement international)\n›\nIntérêt pour le secteur de la finance, un plus\nAutres informations\n›\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\n›\nGratification selon profil\n›\nRemboursement du titre de transport (66%)\n›\nTickets restaurant\n›\nEnveloppe CS",
       "start_date": "2026-07-27",
       "time_type": "Full time",
@@ -1378,7 +1378,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "88dfec0d0a99",
@@ -1407,7 +1407,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a9d67a8088c6",
@@ -1436,7 +1436,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9f364956f5d5",
@@ -1465,7 +1465,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "4d36980e648e",
@@ -1494,7 +1494,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "ded3a961d30b",
@@ -1503,7 +1503,7 @@
       "title": "Stage Spécialiste ESG – Septembre / Octobre 2026",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Spcialiste-ESG---Septembre---Octobre-2026_JR016243",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 21 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de la division Asset Management de Rothschild & Co\nDivision specialisee en gestion d'actifs du groupe Rothschild & Co, nous offrons des services personnalises de gestion a une large clientele d'investisseurs institutionnels, d'intermediaires financiers et de distributeurs. Nous articulons notre developpement autour d'une gamme de fonds ouverts beneficiant de nos expertises de long terme en gestion active et de conviction ainsi qu'en gestion deleguee. Bases a Paris et presents dans 9 pays en Europe, nous gerons plus de 47 milliards d'euros et regroupons pres de 196 collaborateurs. Plus d'informations sur am (dot) eu (dot) rothschildandco (dot) com.\nContexte\nRothschild & Co Asset Management recherche un.e stagiaire Specialiste ESG au sein de l'equipe 'Investissement durable' pour une duree de 6 mois a partir de Septembre / Octobre 2026.\nL'equipe 'Investissement durable' est composee de 5 personnes dont deux specialistes ESG qui contribuent au developpement commercial et assurent la veille reglementaire et concurrentielle, un analyste ESG et responsable de l'engagement et un ingenieur financier et ESG data scientist. L'equipe est au coeur de la gestion et travaille en etroite collaboration avec l'ensemble des expertises d'investissement : actions, credit & convertibles et multigestion ainsi qu'avec l'ensemble des equipes commerciales et operationnelles.\nL'approche durable de Rothschild & Co Asset Management s'applique sur 100% des vehicules d'investissements dont 97% des fonds ouverts sont categorises Articles 8 & 9, a fin 2023. Lanc",
       "start_date": "2026-08-04",
       "time_type": "Full time",
@@ -1523,7 +1523,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f2d6370ac24a",
@@ -1552,7 +1552,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "d5a4298450f8",
@@ -1581,7 +1581,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "251d6c6f061b",
@@ -1610,7 +1610,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c71dece991fe",
@@ -1639,7 +1639,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f85e4cbd5177",
@@ -1668,7 +1668,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a28d9ddf3be0",
@@ -1696,7 +1696,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "6c1011e407fd",
@@ -1724,7 +1724,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "e075559b8c63",
@@ -1752,7 +1752,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0a65ea33f94c",
@@ -1780,7 +1780,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "61bc71e98fcd",
@@ -1808,7 +1808,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "e4e60a216723",
@@ -1836,7 +1836,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3a1b49bda6db",
@@ -1868,34 +1868,6 @@
       "last_seen": "2026-08-18"
     },
     {
-      "id": "412c9fcb3bae",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-07-06",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-10"
-    },
-    {
       "id": "eef530ac48c2",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -1922,7 +1894,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9dddb89ef634",
@@ -1951,7 +1923,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "98836783533b",
@@ -1980,7 +1952,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "d23c22f2c608",
@@ -2009,7 +1981,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0df08051c57b",
@@ -2038,7 +2010,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c65abc301ee0",
@@ -2067,7 +2039,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "85db60a405c4",
@@ -2096,7 +2068,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0b8f93ece3e5",
@@ -2125,7 +2097,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0a7e933c328f",
@@ -2154,7 +2126,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3a506648372b",
@@ -2183,7 +2155,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "ba58a05065e4",
@@ -2212,7 +2184,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "54fe2bb80d15",
@@ -2241,7 +2213,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3384a9189adf",
@@ -2270,7 +2242,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "794fad16fec1",
@@ -2299,7 +2271,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "de3e838c9593",
@@ -2326,7 +2298,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "dd407960f54e",
@@ -2354,7 +2326,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "51d8c0722ea9",
@@ -2382,7 +2354,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "e619cf06711f",
@@ -2411,7 +2383,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c71bf16091dc",
@@ -2420,7 +2392,7 @@
       "title": "Veteran & Elite Athletes Internship Programme - London",
       "location": "London, Greater London",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "About this role\nElevate your career by joining the world's largest asset manager. Thrive in an environment that promotes positive relationships and recognises outstanding performance. We know you want to feel valued every single day and be recognised for your contribution. At BlackRock, we strive to empower our employees and effectively engage your involvement in our success. With over USD $14 trillion of assets, we have an outstanding responsibility: our technology and services empower millions of investors to save for retirement, pay for college, buy a home and improve their financial well-being.\nBlackRock's paid six-month programme offers service leavers and professional athletes the opportunity to develop their professional skills, enhance their understanding of asset management and the world of financial services and prepare for future careers in the industry.\nBlackRock are offering diverse roles and opportunities across the following divisions:\nAladdin Client Business:\nAladdin Client Business is BlackRock's global investment technology and transformation organization, partnering with many of the world's largest financial institutions to implement, operate and optimize the Aladdin platform. Combining financial markets expertise, technology innovation and strategic consulting, ACB helps clients transform how they invest, manage risk, operate and grow in an increasingly complex financial landscape.\nClient Services & Solutions:\nClient Services & Solutions\n(CSS)\nis a client-facing organization within Technology & Operations that was formed by bringing together Client Experience and Operations capabilities under a unified model. Its objective is to create a more seamless client experience, improve collaboration across teams, and better align operational execution with BlackRock's commercial outcomes.\nMilitary Applicants\n: Service leaver must have served in the UK regular armed forces with a minimum of 3 years’ service. Have left regular service within the last 12 months.\nProfessional Athletes\n: Elite athletes, who have either represented a professional team for their sport, or who have represented their country at Senior international level.\nApplicants for this programme must be legally able to work in the location applied for.\nApplication closing date: October 5th 2026\nStart date: February 2027\nOur benefits\nTo help you stay energized, engaged and inspired, we offer a wide range of employee benefits including: retirement investment and tools designed to he",
       "start_date": "2026-08-24",
       "time_type": "Full time",
@@ -2428,7 +2400,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: London",
@@ -2440,7 +2412,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "743cd0164b30",
@@ -2468,7 +2440,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "ef72728e7ab3",
@@ -2496,7 +2468,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3c68a19025d4",
@@ -2524,7 +2496,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "72b675c610c3",
@@ -2581,7 +2553,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "cdcdf2030ae0",
@@ -2609,7 +2581,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f18f0711c918",
@@ -2638,7 +2610,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9d8391b790ba",
@@ -2666,7 +2638,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "19e298b8bc57",
@@ -2675,7 +2647,7 @@
       "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -2694,7 +2666,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "21ca1e8be1d3",
@@ -2722,7 +2694,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "1d446ccf62cd",
@@ -2750,7 +2722,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a4daeddebf2a",
@@ -2778,7 +2750,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "bec68070c81d",
@@ -2806,7 +2778,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "4ddccad034f9",
@@ -2833,7 +2805,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "81b9ebd93b95",
@@ -2889,7 +2861,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "294b65dcf83b",
@@ -2917,7 +2889,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a20be1015b59",
@@ -2945,7 +2917,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f913031e9a5a",
@@ -2973,7 +2945,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "fcb2ac675a49",
@@ -3001,7 +2973,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "7a1886d678e0",
@@ -3029,7 +3001,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "05ca484a527a",
@@ -3061,7 +3033,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "d17d56d6485f",
@@ -3088,7 +3060,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "7d0d0d095ee5",
@@ -3116,7 +3088,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "3f7d0db25fd7",
@@ -3144,7 +3116,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "1246ea26b25b",
@@ -3172,7 +3144,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "d5681db0a3b6",
@@ -3200,7 +3172,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "c7d2b6723ba8",
@@ -3255,7 +3227,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0e7ee5c67d78",
@@ -3283,7 +3255,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "595620feb852",
@@ -3311,7 +3283,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "df964aa5f672",
@@ -3339,7 +3311,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "ce391e0f1f53",
@@ -3367,7 +3339,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "dafcd9852e8d",
@@ -3395,7 +3367,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a372a0868e8e",
@@ -3423,7 +3395,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "578d7be20f6b",
@@ -3451,7 +3423,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "32bf4f30f70a",
@@ -3479,7 +3451,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f4422ad60fba",
@@ -3505,7 +3477,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "4a3b61dc655d",
@@ -3533,7 +3505,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9f9a06b3ba40",
@@ -3563,33 +3535,6 @@
       "last_seen": "2026-08-18"
     },
     {
-      "id": "9db903d1015b",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2026 | EMEA | Paris | Controllers | Seasonal/Off Cycle Internship",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/150686",
-      "posted_date": "2025-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-10"
-    },
-    {
       "id": "e61171cbfd9e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -3614,7 +3559,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "8ea868119967",
@@ -3641,7 +3586,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "966aeee2595b",
@@ -3668,7 +3613,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "bb7ef9681ee4",
@@ -3696,7 +3641,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9856e5ea3dae",
@@ -3723,7 +3668,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "985927d66b60",
@@ -3750,7 +3695,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "8363d6ff4886",
@@ -3777,7 +3722,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "64a4bfb9f7c1",
@@ -3786,7 +3731,7 @@
       "title": "Infrastructure Intern - November 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Infrastructure-Intern---November-2026---London_JR1002212",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising\n$200bn\nof assets on behalf of more than\n1,920\nclients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over\n1,115\nemployees, spread across\n22\noffices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nInterns in the Ardian Infrastructure team assist in the identification, analysis and execution of potential investment opportunities as well as asset management of existing portfolio assets. The internship will provide a global view on the world of infrastructure private equity investment from deal sourcing and execution to asset management and client management.\nJob Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potentia",
       "start_date": "2026-08-24",
       "time_type": "Full time",
@@ -3808,7 +3753,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "b82986319db3",
@@ -3835,7 +3780,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "bb17f2ebab0b",
@@ -3862,7 +3807,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "18793fa9e3ec",
@@ -3889,7 +3834,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9fcbedbdf752",
@@ -3916,7 +3861,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a6f970e7f0af",
@@ -3943,7 +3888,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "7f7468bda334",
@@ -3970,7 +3915,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "45a696619273",
@@ -3997,7 +3942,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "27f73366915c",
@@ -4024,7 +3969,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "0306691d36a1",
@@ -4051,7 +3996,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "b15defd1d881",
@@ -4078,7 +4023,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "769b6e44ea85",
@@ -4105,7 +4050,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "b6c923984536",
@@ -4132,7 +4077,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "2694e9555222",
@@ -4159,7 +4104,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "a92510c0711e",
@@ -4186,7 +4131,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9fdf6acf877d",
@@ -4212,7 +4157,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "f2e7d79b4940",
@@ -4238,7 +4183,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "1545b037043c",
@@ -4264,7 +4209,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "61a8875c151c",
@@ -4290,7 +4235,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "265411a6aa21",
@@ -4316,7 +4261,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "bac21fa1e47f",
@@ -4342,7 +4287,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "bd5f70a44690",
@@ -4368,7 +4313,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "ed698f6f6015",
@@ -4394,7 +4339,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "9717ab65611b",
@@ -4420,7 +4365,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "dc7e744df391",
@@ -4447,7 +4392,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "01ea0130b80f",
@@ -4473,7 +4418,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "896f99913c66",
@@ -4500,7 +4445,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "efce9a12de0e",
@@ -4552,7 +4497,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "935f75e5bbe3",
@@ -4578,7 +4523,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "d65ff1c1a27e",
@@ -4628,7 +4573,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "918666632e1a",
@@ -4653,7 +4598,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "6058d9460f2a",
@@ -4678,7 +4623,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "69052c2cefc4",
@@ -4703,7 +4648,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     },
     {
       "id": "7db6862424a6",
@@ -4730,7 +4675,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-24"
+      "last_seen": "2026-08-25"
     }
   ],
   "direct_links": [
@@ -5978,9 +5923,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 156,
-    "new_today": 2,
-    "high_match": 118,
+    "total_jobs": 154,
+    "new_today": 0,
+    "high_match": 116,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 22,
