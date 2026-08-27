@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-27T18:12:28.798336+00:00",
+  "last_updated": "2026-08-27T21:24:02.231790+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-27T18:12:28.798336+00:00"
+      "timestamp": "2026-08-27T21:24:02.231790+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1557,35 +1557,6 @@
       "last_seen": "2026-08-26"
     },
     {
-      "id": "02df2f3df2f4",
-      "bank": "Wells Fargo",
-      "category": "Investment Bank",
-      "title": "EMEA Banking Summer Analyst",
-      "location": "CITY OF LONDON,",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
-      "posted_date": "Posted Yesterday",
-      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Banking internship offers the opportunity to support complex transactions and strategic advisory work for leading corporates and institutions. The programme is designed to introduce you to the core activities of investment banking within a collaborative and professional environment.\nDuring this ten-week programme, you will join teams such as Investment Banking (Mergers and Acquisitions, Fund Finance or Debt Capital Markets and Advisory) as well as our Corporate Banking teams. These teams help clients raise debt and equity capital, pursue growth opportunities, and manage financing risk. You will work on research and analysis, assist with presentations, and gain exposure to the internal processes that support live deals. Training and mentorship are built into the programme to help you grow your technical knowledge and professional confidence.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nBanking and Capital Markets (“BCM”) Overview\nThe BCM team sits within Wells Fargo’s Corporate and Investment Bank and is dedicated to understanding the unique competitive and operating environments of our clients. Combining strong relationships and industry knowledge with superior capital markets and advisory capabilities, our team excels in delivering exceptional execution. BCM is organised across coverage and product teams, covering Corporate Banking, Financial Institutions, Fund Finance, and M&A, among others.\nThe following lines of businesses are part of our EMEA BCM business:\nCorporate Banking\nFinancial Institutions\nFund Finance\nDebt Capital Markets and Advisory\nM&A\nDuring the Banking Internship, you",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "10 weeks",
-      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-27"
-    },
-    {
       "id": "1a8e9f0a3290",
       "bank": "Wells Fargo",
       "category": "Investment Bank",
@@ -1606,6 +1577,35 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: banking, investment banking, trading",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-27"
+    },
+    {
+      "id": "02df2f3df2f4",
+      "bank": "Wells Fargo",
+      "category": "Investment Bank",
+      "title": "EMEA Banking Summer Analyst",
+      "location": "CITY OF LONDON,",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
+      "posted_date": "Posted Yesterday",
+      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Banking internship offers the opportunity to support complex transactions and strategic advisory work for leading corporates and institutions. The programme is designed to introduce you to the core activities of investment banking within a collaborative and professional environment.\nDuring this ten-week programme, you will join teams such as Investment Banking (Mergers and Acquisitions, Fund Finance or Debt Capital Markets and Advisory) as well as our Corporate Banking teams. These teams help clients raise debt and equity capital, pursue growth opportunities, and manage financing risk. You will work on research and analysis, assist with presentations, and gain exposure to the internal processes that support live deals. Training and mentorship are built into the programme to help you grow your technical knowledge and professional confidence.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nBanking and Capital Markets (“BCM”) Overview\nThe BCM team sits within Wells Fargo’s Corporate and Investment Bank and is dedicated to understanding the unique competitive and operating environments of our clients. Combining strong relationships and industry knowledge with superior capital markets and advisory capabilities, our team excels in delivering exceptional execution. BCM is organised across coverage and product teams, covering Corporate Banking, Financial Institutions, Fund Finance, and M&A, among others.\nThe following lines of businesses are part of our EMEA BCM business:\nCorporate Banking\nFinancial Institutions\nFund Finance\nDebt Capital Markets and Advisory\nM&A\nDuring the Banking Internship, you",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "10 weeks",
+      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
