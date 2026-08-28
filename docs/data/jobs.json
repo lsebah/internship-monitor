@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-28T00:44:17.209630+00:00",
+  "last_updated": "2026-08-28T19:22:07.186711+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 4,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "count": 0,
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 13,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "count": 12,
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,13 +132,13 @@
     },
     "Schroders": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "count": 14,
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T00:44:17.209630+00:00"
+      "timestamp": "2026-08-28T19:22:07.186711+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -548,27 +548,27 @@
       "last_seen": "2026-08-28"
     },
     {
-      "id": "2360d5297640",
-      "bank": "Barclays",
+      "id": "e28878dd373a",
+      "bank": "Wells Fargo",
       "category": "Investment Bank",
-      "title": "Banking Off Cycle Internship Programme 2027 Madrid",
-      "location": "Madrid, Calle de Jose Abascal",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Madrid-Calle-de-Jose-Abascal/Banking-Off-Cycle-Internship-Programme-2027-Madrid_JR-0000124446",
+      "title": "EMEA Markets Summer Analyst",
+      "location": "CITY OF LONDON,",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Markets-Summer-Analyst_R-570663",
       "posted_date": "Posted 2 Days Ago",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures adopted due to risk mitigation.\nAdvise and influence decision making within own ",
-      "start_date": "2026-08-25",
+      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nThe Markets internship provides exposure to the way we help institutional clients manage risk, navigate volatility, and access liquidity across global markets. This ten-week programme is designed for students who want to understand how financial markets operate in practice.\nYou will work alongside teams in areas such as FX and Rates Trading, Structured Products, and Macro Strategy. These teams support clients including asset managers, hedge funds, and global institutions. You will be involved in day-to-day activities, contribute to team initiatives, and develop your understanding of pricing, execution, and market analysis.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nMarkets\nOur Global Markets team delivers a comprehensive range of capital markets products and solutions to Wells Fargo clients. From the distribution of public debt and equity products to hedging interest rates, credit, and equity risks, we are shaping our tomorrow through innovative financial solutions.\nThe following lines of businesses are part of our EMEA Markets teams:\nFX & Rates Sales and Trading\nCredit Sales and Trading\nStructured Product Groups (SPG)\nAsset-Backed Securities (ABS)\nEquities\nDuring the Markets Internship, your responsibilities may include:\nSupporting sales and trading teams with client and market analysis\nPreparing market updates, research notes, and presentation materials\nHelping teams monitor market trends, risks, and trade ideas\nContributing to desk initiatives and client strategy discussions\nBuilding familiarity with products, pricing, execution, and risk management\nRequired\nPenultimate year undergraduate with ",
+      "start_date": "2026-08-26",
       "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
+      "duration": "10 weeks",
+      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
       "source": "workday",
-      "first_seen": "2026-08-25",
+      "first_seen": "2026-08-26",
       "is_new": false,
       "match_score": 100,
       "match_reasons": [
-        "Location: Madrid (preferred)",
+        "Location: London",
         "Type: Internship/Stage",
-        "Domain: banking, investment banking, risk",
-        "Duration: 6-month / off-cycle",
+        "Domain: banking, investment banking, capital markets",
+        "Level: Undergraduate",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
@@ -584,7 +584,7 @@
       "title": "Infrastructure Intern - January 2027 | Madrid (M/F)",
       "location": "Madrid | ESP - Madrid - Calle Fortuny 6",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Madrid/Infrastructure-Intern---January-2027---Madrid--M-F-_JR1002198",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "Job Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potential co-investors\nPrepare regular asset management reporting and participate in communication to Ardian clients\nSpecialised business and technical knowledge:\nKnowledge of financial statement analysis and valuation techniques\nKnowledge of financial modelling and LBO structuring\nCompetency in MS office product suite including Excel, Word and PowerPoint\nThe candidate should possess a broad set of quantitative, qualitative and interpersonal skills, and be a strong team player able to work under pressure\nIntellectual rigor and discipline\nAbility to organize and perform work efficiently\nEducation and Experience:\nOutstanding academic qualifications\nA completed or advanced Bachelor’s and/or Master’s degree\nRelevant prior internships in related fields (e.g. M&A, strategy consulting, leveraged finance, Private Equity, infrastructure, or transaction services)\nGood commercial understanding of Private Equity\nFluent written and spoken Spanish and English\n(Madrid based role)\nCommunication Scope:\nHigh level of communication skills required, both verbally and in writing.\nInterns will regularly be required to communicate with internal and external contacts. Communication could include interaction with Ardian clients, other Ardian teams, operating partners, external parties such as advisors and consultants.\nMoreover, interns will frequently interact with members of the Ardian Infrastructure team located in other geographies.\nEqual Employment Opportunity Policy:\nAt ARDIAN, we are proud of our diverse culture. As a forward thinking organization, we recognize that having people from different backgrounds brings innovati",
       "start_date": "2026-07-30",
       "time_type": "Full time",
@@ -610,28 +610,27 @@
       "last_seen": "2026-08-28"
     },
     {
-      "id": "2803a2a933d0",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Growth Stage - Janvier 2027 | Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Janvier-2027---Paris--M-F-_JR1002112",
+      "id": "2360d5297640",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Banking Off Cycle Internship Programme 2027 Madrid",
+      "location": "Madrid, Calle de Jose Abascal",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Madrid-Calle-de-Jose-Abascal/Banking-Off-Cycle-Internship-Programme-2027-Madrid_JR-0000124446",
       "posted_date": "Posted 3 Days Ago",
-      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-24",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures adopted due to risk mitigation.\nAdvise and influence decision making within own ",
+      "start_date": "2026-08-25",
       "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
       "source": "workday",
-      "first_seen": "2026-08-24",
+      "first_seen": "2026-08-25",
       "is_new": false,
       "match_score": 100,
       "match_reasons": [
-        "Location: Paris",
+        "Location: Madrid (preferred)",
         "Type: Internship/Stage",
-        "Domain: M&A, equity, private equity",
+        "Domain: banking, investment banking, risk",
         "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
@@ -731,36 +730,6 @@
       "last_seen": "2026-08-28"
     },
     {
-      "id": "65c5549c8c85",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Portfolio Monitoring Intern - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Janvier-2027_JR015917",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nFive Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de janvier 2027.\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nLe Portfolio Monitoring appuie les équipes d’Investissements dans le suivi des actifs constituant le portefeuille des différents fonds FASO (c.150+ actifs par fonds). Il intervient également auprès des équipes Relations Investisseurs et Finance en fournissant les données nécessaires pour la complétion de questionnaires due-diligence et de rapports à destination de nos investisseurs.\nMissions\nLe/la stagiaire assistera l’équipe Portfolio Monitoring dans :\n- La collecte des données financières et opérationnelles des sociétés en portefeuille\n- La tenue de nos différentes bases de données\n- La préparation d’analyses sur le portefeuille des différents fonds FAMS (FASO principalement, mais également FASA, FAPEP et FAGT)\n- La préparation de présentations et rapports destinés aux investisseurs\nIl/elle sera amené(e) à échanger avec les différentes équipes de la plateforme Five Arrows Multi-Stratégies (Investissement, Relations Inve",
-      "start_date": "2026-06-05",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-05",
-      "is_new": false,
-      "match_score": 100,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, wealth management, asset management",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
       "id": "c878dc17f59d",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -815,6 +784,36 @@
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "65c5549c8c85",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Portfolio Monitoring Intern - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Portfolio-Monitoring-Intern---Janvier-2027_JR015917",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nFive Arrows, la branche capital investissement du groupe Rothschild & Co, actuellement en fort développement (passage de 2 milliards d’euros d’actifs sous gestion en 2010 à plus de 30 milliards aujourd’hui), recherche un(e) analyste stagiaire pour une durée de 6 mois à compter de janvier 2027.\nFASO est un fonds dédié au marché secondaire du capital investissement. FASO rachète directement des portefeuilles de sociétés (« secondaire direct ») principalement dans les secteurs de la santé, des services aux entreprises et des logiciels, à travers toute l’Europe et aux Etats-Unis, à des vendeurs en quête de liquidité.\nLe Portfolio Monitoring appuie les équipes d’Investissements dans le suivi des actifs constituant le portefeuille des différents fonds FASO (c.150+ actifs par fonds). Il intervient également auprès des équipes Relations Investisseurs et Finance en fournissant les données nécessaires pour la complétion de questionnaires due-diligence et de rapports à destination de nos investisseurs.\nMissions\nLe/la stagiaire assistera l’équipe Portfolio Monitoring dans :\n- La collecte des données financières et opérationnelles des sociétés en portefeuille\n- La tenue de nos différentes bases de données\n- La préparation d’analyses sur le portefeuille des différents fonds FAMS (FASO principalement, mais également FASA, FAPEP et FAGT)\n- La préparation de présentations et rapports destinés aux investisseurs\nIl/elle sera amené(e) à échanger avec les différentes équipes de la plateforme Five Arrows Multi-Stratégies (Investissement, Relations Inve",
+      "start_date": "2026-06-05",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-05",
+      "is_new": false,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management, asset management",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
@@ -883,27 +882,28 @@
       "last_seen": "2026-08-20"
     },
     {
-      "id": "e28878dd373a",
-      "bank": "Wells Fargo",
-      "category": "Investment Bank",
-      "title": "EMEA Markets Summer Analyst",
-      "location": "CITY OF LONDON,",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Markets-Summer-Analyst_R-570663",
-      "posted_date": "Posted Yesterday",
-      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nThe Markets internship provides exposure to the way we help institutional clients manage risk, navigate volatility, and access liquidity across global markets. This ten-week programme is designed for students who want to understand how financial markets operate in practice.\nYou will work alongside teams in areas such as FX and Rates Trading, Structured Products, and Macro Strategy. These teams support clients including asset managers, hedge funds, and global institutions. You will be involved in day-to-day activities, contribute to team initiatives, and develop your understanding of pricing, execution, and market analysis.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nMarkets\nOur Global Markets team delivers a comprehensive range of capital markets products and solutions to Wells Fargo clients. From the distribution of public debt and equity products to hedging interest rates, credit, and equity risks, we are shaping our tomorrow through innovative financial solutions.\nThe following lines of businesses are part of our EMEA Markets teams:\nFX & Rates Sales and Trading\nCredit Sales and Trading\nStructured Product Groups (SPG)\nAsset-Backed Securities (ABS)\nEquities\nDuring the Markets Internship, your responsibilities may include:\nSupporting sales and trading teams with client and market analysis\nPreparing market updates, research notes, and presentation materials\nHelping teams monitor market trends, risks, and trade ideas\nContributing to desk initiatives and client strategy discussions\nBuilding familiarity with products, pricing, execution, and risk management\nRequired\nPenultimate year undergraduate with ",
-      "start_date": "2026-08-26",
+      "id": "2803a2a933d0",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Growth Stage - Janvier 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Janvier-2027---Paris--M-F-_JR1002112",
+      "posted_date": "Posted 4 Days Ago",
+      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-24",
       "time_type": "Full time",
-      "duration": "10 weeks",
-      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
+      "duration": "6 mois",
+      "requirements": "",
       "source": "workday",
-      "first_seen": "2026-08-26",
+      "first_seen": "2026-08-24",
       "is_new": false,
       "match_score": 100,
       "match_reasons": [
-        "Location: London",
+        "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: banking, investment banking, capital markets",
-        "Level: Undergraduate",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
@@ -1064,7 +1064,7 @@
       "title": "Private Equity Buyout Stage - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002148",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "description": "Département : Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle :\nL’équipe Buyout d’Ardian est la première équipe d’Ardian à avoir été créée. Elle a réalisé à ce jour plus de 95 rachats d’entreprise (ainsi que de nombreuses opérations de croissance externe pour ces entreprises en Europe, en Amérique du Nord, en Amérique du Sud et en Asie) et fait partie des fonds européens les plus actifs, couvrant principalement un spectre de valorisation allant de 250 millions à 2,5 milliards d’euros en termes de valeur d’entreprise. L’équipe est constituée de c.60+ professionnels de l’investissement, répartis à Paris, Milan, Madrid, Francfort, Londres et New-York.\nLe stagiaire est intégré au cœur de l’équipe. Il est directement impliqué dans différentes missions.\nNotamment :\nRédaction de mémos d’investissement (entièrement en anglais) à partir des informations / memos de l’actionnaire principal, des banques conseil, et des consultants\nAnalyse financière\nSuivi du processus de due diligence sur les nouveaux dossiers d’investissement\nRecherche d’information sur les industries, les sociétés cibles et leurs comparables (analyse de benchmarking, veille stratégique)\nSuivi des sociétés en portefeuille et analyse de performance\nParticipation à divers projets transverses\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais et Français courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -1081,36 +1081,6 @@
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "15d3c6973304",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Growth Stage - Mars 2027 | Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Mars-2027---Paris--M-F-_JR1002113",
-      "posted_date": "Posted 3 Days Ago",
-      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-24",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-24",
-      "is_new": false,
-      "match_score": 95,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -1227,6 +1197,36 @@
         "Domain: finance, risk, fund",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "15d3c6973304",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Growth Stage - Mars 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Growth-Stage---Mars-2027---Paris--M-F-_JR1002113",
+      "posted_date": "Posted 4 Days Ago",
+      "description": "Département : Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle :\nLe stagiaire est intégré au cœur de l’équipe d’investissement. Il est directement impliqué dans différentes missions,\nNotamment :\nProspection, réception et analyse des nouveaux dossiers & suivi des dossiers en cours\nEtudes stratégiques des marchés cibles\nPréparation des dossiers d'investissement\nSuivi des participations du portefeuille.\nCompétences requises :\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil :\nDernière année d’Ecole de Commerce ou d’Ingénieur (ou deuxième partie césure)\nBonnes connaissances financières\nUne première expérience de 6 mois en M&A, fonds, Transaction Services ou Conseil est exigée\nOutre l’anglais, la pratique de l’espagnol, de l’allemand ou de l’italien est un plus\nA propos de l’équipe :\nArdian Growth cible des sociétés rentables à forte croissance en Europe continentale, qui bénéficient de la transformation numérique et qui bousculent la chaîne de valeur traditionnelle dans leur secteur. Forts de 20 ans d’expérience, nous nous appuyons sur notre vaste réseau d’entrepreneurs pour créer des entreprises numériques de premier plan à forte valeur stratégique. Nous engageons généralement 20 à 50 M€ dans chaque transaction aux côtés des fondateurs, dans le cadre d’un partenariat de confiance et d’engagement.\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-24",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": false,
+      "match_score": 95,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -1440,6 +1440,152 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "1a8e9f0a3290",
+      "bank": "Wells Fargo",
+      "category": "Investment Bank",
+      "title": "EMEA Commercial Real Estate Summer Analyst",
+      "location": "CITY OF LONDON,",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Commercial Real Estate internship offers the opportunity to support real estate transactions across the UK, Ireland and core European markets. The programme introduces you to underwriting, market analysis and client coverage within a collaborative and professional environment.\nDuring this ten-week programme, you will support the underwriting of real estate transactions and develop your understanding of market fundamentals and borrower balance sheets. You will contribute to client preparation, research and analysis, and gain exposure to how teams identify and evaluate financing opportunities.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nCommercial Real Estate (“CRE”) Overview\nThe Wells Fargo CRE division sits within the Corporate & Investment Bank (CIB).  CRE has an established record of consistent strong performance and has a leading market share in the US commercial real estate market.  The EMEA team uses innovative and often complex debt structures to support investors in the UK, Ireland and core European markets.  The lending mandate is broad with the teams focusing across the core sectors including office, retail, industrial/logistics, data centres as well as operational assets such as PRS/BTR and purpose-built student accommodation. Our client base covers all key global market participants, including institutional fund managers, private equity and sovereign wealth funds and large private property companies.\nDuring the CRE Internship, your responsibilities may include:\nSupporting valuation models for real estate properties and sectors\nAssisting with financial and credit analyses, p",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "10 weeks",
+      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, trading",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "02df2f3df2f4",
+      "bank": "Wells Fargo",
+      "category": "Investment Bank",
+      "title": "EMEA Banking Summer Analyst",
+      "location": "CITY OF LONDON,",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Banking internship offers the opportunity to support complex transactions and strategic advisory work for leading corporates and institutions. The programme is designed to introduce you to the core activities of investment banking within a collaborative and professional environment.\nDuring this ten-week programme, you will join teams such as Investment Banking (Mergers and Acquisitions, Fund Finance or Debt Capital Markets and Advisory) as well as our Corporate Banking teams. These teams help clients raise debt and equity capital, pursue growth opportunities, and manage financing risk. You will work on research and analysis, assist with presentations, and gain exposure to the internal processes that support live deals. Training and mentorship are built into the programme to help you grow your technical knowledge and professional confidence.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nBanking and Capital Markets (“BCM”) Overview\nThe BCM team sits within Wells Fargo’s Corporate and Investment Bank and is dedicated to understanding the unique competitive and operating environments of our clients. Combining strong relationships and industry knowledge with superior capital markets and advisory capabilities, our team excels in delivering exceptional execution. BCM is organised across coverage and product teams, covering Corporate Banking, Financial Institutions, Fund Finance, and M&A, among others.\nThe following lines of businesses are part of our EMEA BCM business:\nCorporate Banking\nFinancial Institutions\nFund Finance\nDebt Capital Markets and Advisory\nM&A\nDuring the Banking Internship, you",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "10 weeks",
+      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "3ac4594dd0c6",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Buyout Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002094",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Fund Finance Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe Fund Finance Buyout composée de 7 personnes basées à Paris (6 personnes) et à New York (1 personne). La mission consiste à assurer le suivi des structures d’investissement dédiées à l’activité Buyout et en particulier les aspects suivants :\nCalcul, analyse et reporting de la performance des fonds ;\nRevue des arrêtés comptables trimestriels et des comptes annuels en lien avec les différents prestataires basés à Paris, Luxembourg, Jersey et New York ;\nParticipation aux flux financiers d'investissements ou de cessions ;\nGestion opérationnelle des véhicules d’investissement ;\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, Madrid, Londres et New York.\nBack Office avec différents prestataires basés à Paris, Luxembourg, Jersey et New York.\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs ;\nImplication dans la levée des nouveaux fonds ;\nContrôle du respect des procédures ARDIAN dans la gestion des véhicules d‘investissement ;\nEmploi et actualisation des outils informatiques au sein de l’équipe.\nCompétences requises\nRigueur et sens critique\nProactivité et efficacité\nDynamisme et très bonne communication\nGrande capacité d’organisation et esprit d’équipe\nLe profil\nEcole de commerce, école d’ingénieur, université\n3ème année (stage de fin d’études)\nPremière expérience souhaitée (stage de 6 mois idéalement en finance, audit ou contrôle financier)\nBonnes connaissances comptables et financières\nAnglais courant\nA propos de l’équipe\nL’équipe Fund Finance Buyout est composée d’experts pluridisciplinaires dynamiques, sensibles au travail en équipe et dotés d’une très bonne capacité d’adaptation à tout nouveau sujet rencontré.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, audit",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "7566aa34464c",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Brand & Communication-External Events Assistant Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Brand---Communication-External-Events-Assistant-Stage---Janvier-2027-I-Paris--M-F-_JR1002086",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Brand & Communication-Events\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\n:\nL'équipe Communication d'Ardian, basée à Paris, regroupe 20 personnes dont un pôle Événements de 7 collaborateurs. Ce pôle pilote plus de 65 événements internationaux par an – Assemblées Générales, Advisory Boards, journées investisseurs hybrides, webcasts et conférences sectorielles – majoritairement à Paris, mais aussi en Europe et au-delà.\nAu sein du pôle Événements, vous évoluerez dans un environnement de production événementielle exigeant et interviendrez sur l'ensemble du cycle de production, de la conception à la mise en œuvre sur site.\nRejoignez une équipe passionnée et dynamique, au cœur de l’organisation d’événements internationaux prestigieux\n!\nRejoindre le pôle Événements d'Ardian, c'est accéder à un niveau de production événementielle exigeant : plénières scénarisées, réalisations audiovisuelles en direct, diffusion de webcasts, scénographies et contenus créatifs sur mesure. Des projets concrets, une exposition immédiate, et une montée en compétences rapide au contact d'une équipe expérimentée.\nVos missions\nVous serez pleinement intégré(e) à l'équipe projet et prendrez en charge des responsabilités réelles dès les premières semaines. Vos missions couvriront l'ensemble du cycle de production événementielle :\nCoordination & gestion de projet\nDe bout en bout : contribuer à toutes les phases : brief initial, planification, coordination fournisseurs, mise en œuvre sur site et debriefing post-événement\nRigueur & suivi : assurer le suivi des délais, contribuer au respect du budget et produire un reporting régulier à l'équipe\nOutils digitaux : gérer la liste des participants via nos outils : paramétrage, invitations, suivi des inscriptions\nProduction audiovisuelle & formats hybrides\nWebcast : participer à la mise en place de plateformes de webcast, coordination régie\nScénographie & contenu : participer à la scénarisation visuelle des événements : scénographie, contenu LED wall, habillage visuel sur mesure\nRégie live : participer à la mise en place de et à la production audiovisuelle (son, lumière, vidéo)\nCréativité & innovation\nIdentité événement : contribuer à l'identité visuelle et à la charte graphique de chaque événement\nRecherche, repérages & recommandations : identifier des prestataires et lieux innovants pour enrichir nos events\nBrief agences : participer aux briefs créatifs avec les agences décor, vidéo, graphiques\nSupport opérationne",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "5b8e378b2ea6",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Economics Stage - Janvier 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Economics-Stage---Janvier-2027-I-Paris--H-F-_JR1002128",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Relations Investisseur\nDurée : 6 mois\nLieu : Paris\nDébut de stage : Janvier 2027\nLe rôle\nNous recherchons un(e) stagiaire pour rejoindre notre équipe Économie. Vous contribuerez à l’analyse des évolutions macroéconomiques, financières et géopolitiques et de leurs implications pour les marchés privés. Le stage combine recherche économique, analyse de données et préparation de contenus à destination des investisseurs, de la Direction et des équipes d’investissement. Vous travaillerez directement avec la Senior Economist et serez exposé(e) à une grande diversité de sujets et d’interlocuteurs au sein de la société.\nPrincipales responsabilités\nVous contribuerez notamment à :\nAnalyse macroéconomique et des marchés privés :\nsuivre et analyser les principales évolutions macroéconomiques et financières dans les grandes économies, ainsi que les tendances du Private Equity, des Infrastructures et des autres marchés privés.\nAnalyse et visualisation de données :\ntravailler avec des bases de données économiques et de marché afin d’identifier les tendances, construire des indicateurs et produire des graphiques et tableaux de bord.\nRecherche et rédaction de notes :\ncontribuer à la préparation de notes économiques, rapports de marché, présentations et communications à destination des investisseurs.\nAnalyses ad hoc :\nrépondre aux demandes des équipes d’investissement et de la direction sur des événements macroéconomiques ou des développements de marché.\nIA et nouveaux outils analytiques :\nexplorer comment l’intelligence artificielle et l’automatisation peuvent améliorer les méthodes de travail et les productions de l’équipe.\nCompétences requises\nBonne compréhension de la macroéconomie et des marchés financiers, avec un intérêt marqué pour l’actualité économique.\nForte curiosité intellectuelle avec de solides compétences interpersonnelles, un fort esprit d'équipe, et capable de travailler sur des sujets divers. Rigueur, motivation, autonomie, réactivité, et grandes qualités de communication.\nExcellentes capacités analytiques, rédactionnelles et créatives, ainsi qu’un réel intérêt pour travailler avec des données.\nLa maîtrise d'Excel, de PowerPoint et de Word est essentielle. Une expérience avec des fournisseurs de données économiques (Macrobond, Refinitiv, Datastream, Capital IQ) ou du Private Equity (ex : Preqin, Pitchbook) est un avantage, ainsi que la maîtrise d'un logiciel statistique (SQL, Python) ou de Dataviz (PowerBi)\nUne familiarité avec les outils d’I",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity, economics",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "a9d67a8088c6",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1557,152 +1703,6 @@
       "last_seen": "2026-08-26"
     },
     {
-      "id": "1a8e9f0a3290",
-      "bank": "Wells Fargo",
-      "category": "Investment Bank",
-      "title": "EMEA Commercial Real Estate Summer Analyst",
-      "location": "CITY OF LONDON,",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Commercial-Real-Estate-Analyst_R-571086-1",
-      "posted_date": "Posted Yesterday",
-      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Commercial Real Estate internship offers the opportunity to support real estate transactions across the UK, Ireland and core European markets. The programme introduces you to underwriting, market analysis and client coverage within a collaborative and professional environment.\nDuring this ten-week programme, you will support the underwriting of real estate transactions and develop your understanding of market fundamentals and borrower balance sheets. You will contribute to client preparation, research and analysis, and gain exposure to how teams identify and evaluate financing opportunities.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nCommercial Real Estate (“CRE”) Overview\nThe Wells Fargo CRE division sits within the Corporate & Investment Bank (CIB).  CRE has an established record of consistent strong performance and has a leading market share in the US commercial real estate market.  The EMEA team uses innovative and often complex debt structures to support investors in the UK, Ireland and core European markets.  The lending mandate is broad with the teams focusing across the core sectors including office, retail, industrial/logistics, data centres as well as operational assets such as PRS/BTR and purpose-built student accommodation. Our client base covers all key global market participants, including institutional fund managers, private equity and sovereign wealth funds and large private property companies.\nDuring the CRE Internship, your responsibilities may include:\nSupporting valuation models for real estate properties and sectors\nAssisting with financial and credit analyses, p",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "10 weeks",
-      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, trading",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "02df2f3df2f4",
-      "bank": "Wells Fargo",
-      "category": "Investment Bank",
-      "title": "EMEA Banking Summer Analyst",
-      "location": "CITY OF LONDON,",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/EMEA-Banking-Summer-Analyst_R-570654-1",
-      "posted_date": "Posted Yesterday",
-      "description": "Wells Fargo Corporate & Investment Banking (CIB) delivers a comprehensive suite of banking and financial solutions to over 15,000 corporate and institutional clients, including over 70% of the S&P 500.\nA trusted partner to our clients, we provide corporate and transaction banking, commercial real estate lending and servicing, investment banking, equity and fixed income solutions including sales, trading, and research capabilities to corporate, commercial real estate, government, and institutional clients.\nProgramme Overview\nWells Fargo’s Banking internship offers the opportunity to support complex transactions and strategic advisory work for leading corporates and institutions. The programme is designed to introduce you to the core activities of investment banking within a collaborative and professional environment.\nDuring this ten-week programme, you will join teams such as Investment Banking (Mergers and Acquisitions, Fund Finance or Debt Capital Markets and Advisory) as well as our Corporate Banking teams. These teams help clients raise debt and equity capital, pursue growth opportunities, and manage financing risk. You will work on research and analysis, assist with presentations, and gain exposure to the internal processes that support live deals. Training and mentorship are built into the programme to help you grow your technical knowledge and professional confidence.\nSummer Analyst Programme 2027\nThe programme duration is 10 weeks starting in late June 2027 and is designed to provide you with the unique opportunity to discover our CIB business, culture, and how we collaborate to deliver solutions for our clients. The programme offers organised activities such as classroom training and networking opportunities to boost your professional development.\nBanking and Capital Markets (“BCM”) Overview\nThe BCM team sits within Wells Fargo’s Corporate and Investment Bank and is dedicated to understanding the unique competitive and operating environments of our clients. Combining strong relationships and industry knowledge with superior capital markets and advisory capabilities, our team excels in delivering exceptional execution. BCM is organised across coverage and product teams, covering Corporate Banking, Financial Institutions, Fund Finance, and M&A, among others.\nThe following lines of businesses are part of our EMEA BCM business:\nCorporate Banking\nFinancial Institutions\nFund Finance\nDebt Capital Markets and Advisory\nM&A\nDuring the Banking Internship, you",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "10 weeks",
-      "requirements": "a. Third-Party recordings are prohibited unless authorized by Wells Fargo.\nb. Wells Fargo requires you to directly represent your own experiences during the recruiting and hiring process.",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "3ac4594dd0c6",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Buyout Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Buyout-Stage---Janvier-2027-I-Paris--M-F-_JR1002094",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Fund Finance Buyout\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir au sein de l’équipe Fund Finance Buyout composée de 7 personnes basées à Paris (6 personnes) et à New York (1 personne). La mission consiste à assurer le suivi des structures d’investissement dédiées à l’activité Buyout et en particulier les aspects suivants :\nCalcul, analyse et reporting de la performance des fonds ;\nRevue des arrêtés comptables trimestriels et des comptes annuels en lien avec les différents prestataires basés à Paris, Luxembourg, Jersey et New York ;\nParticipation aux flux financiers d'investissements ou de cessions ;\nGestion opérationnelle des véhicules d’investissement ;\nContact avec les intervenants internes et externes de l’entreprise pour l’organisation des flux d’informations, financiers et comptables :\nFront Office avec les différents bureaux de Paris, Francfort, Milan, Madrid, Londres et New York.\nBack Office avec différents prestataires basés à Paris, Luxembourg, Jersey et New York.\nCentralisation et validation de l'information financière en interne et en externe avant diffusion (en collaboration avec les relations investisseurs) ;\nReporting aux investisseurs ;\nImplication dans la levée des nouveaux fonds ;\nContrôle du respect des procédures ARDIAN dans la gestion des véhicules d‘investissement ;\nEmploi et actualisation des outils informatiques au sein de l’équipe.\nCompétences requises\nRigueur et sens critique\nProactivité et efficacité\nDynamisme et très bonne communication\nGrande capacité d’organisation et esprit d’équipe\nLe profil\nEcole de commerce, école d’ingénieur, université\n3ème année (stage de fin d’études)\nPremière expérience souhaitée (stage de 6 mois idéalement en finance, audit ou contrôle financier)\nBonnes connaissances comptables et financières\nAnglais courant\nA propos de l’équipe\nL’équipe Fund Finance Buyout est composée d’experts pluridisciplinaires dynamiques, sensibles au travail en équipe et dotés d’une très bonne capacité d’adaptation à tout nouveau sujet rencontré.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "7566aa34464c",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Brand & Communication-External Events Assistant Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Brand---Communication-External-Events-Assistant-Stage---Janvier-2027-I-Paris--M-F-_JR1002086",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Brand & Communication-Events\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\n:\nL'équipe Communication d'Ardian, basée à Paris, regroupe 20 personnes dont un pôle Événements de 7 collaborateurs. Ce pôle pilote plus de 65 événements internationaux par an – Assemblées Générales, Advisory Boards, journées investisseurs hybrides, webcasts et conférences sectorielles – majoritairement à Paris, mais aussi en Europe et au-delà.\nAu sein du pôle Événements, vous évoluerez dans un environnement de production événementielle exigeant et interviendrez sur l'ensemble du cycle de production, de la conception à la mise en œuvre sur site.\nRejoignez une équipe passionnée et dynamique, au cœur de l’organisation d’événements internationaux prestigieux\n!\nRejoindre le pôle Événements d'Ardian, c'est accéder à un niveau de production événementielle exigeant : plénières scénarisées, réalisations audiovisuelles en direct, diffusion de webcasts, scénographies et contenus créatifs sur mesure. Des projets concrets, une exposition immédiate, et une montée en compétences rapide au contact d'une équipe expérimentée.\nVos missions\nVous serez pleinement intégré(e) à l'équipe projet et prendrez en charge des responsabilités réelles dès les premières semaines. Vos missions couvriront l'ensemble du cycle de production événementielle :\nCoordination & gestion de projet\nDe bout en bout : contribuer à toutes les phases : brief initial, planification, coordination fournisseurs, mise en œuvre sur site et debriefing post-événement\nRigueur & suivi : assurer le suivi des délais, contribuer au respect du budget et produire un reporting régulier à l'équipe\nOutils digitaux : gérer la liste des participants via nos outils : paramétrage, invitations, suivi des inscriptions\nProduction audiovisuelle & formats hybrides\nWebcast : participer à la mise en place de plateformes de webcast, coordination régie\nScénographie & contenu : participer à la scénarisation visuelle des événements : scénographie, contenu LED wall, habillage visuel sur mesure\nRégie live : participer à la mise en place de et à la production audiovisuelle (son, lumière, vidéo)\nCréativité & innovation\nIdentité événement : contribuer à l'identité visuelle et à la charte graphique de chaque événement\nRecherche, repérages & recommandations : identifier des prestataires et lieux innovants pour enrichir nos events\nBrief agences : participer aux briefs créatifs avec les agences décor, vidéo, graphiques\nSupport opérationne",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "5b8e378b2ea6",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations Economics Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Economics-Stage---Janvier-2027-I-Paris--H-F-_JR1002128",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Relations Investisseur\nDurée : 6 mois\nLieu : Paris\nDébut de stage : Janvier 2027\nLe rôle\nNous recherchons un(e) stagiaire pour rejoindre notre équipe Économie. Vous contribuerez à l’analyse des évolutions macroéconomiques, financières et géopolitiques et de leurs implications pour les marchés privés. Le stage combine recherche économique, analyse de données et préparation de contenus à destination des investisseurs, de la Direction et des équipes d’investissement. Vous travaillerez directement avec la Senior Economist et serez exposé(e) à une grande diversité de sujets et d’interlocuteurs au sein de la société.\nPrincipales responsabilités\nVous contribuerez notamment à :\nAnalyse macroéconomique et des marchés privés :\nsuivre et analyser les principales évolutions macroéconomiques et financières dans les grandes économies, ainsi que les tendances du Private Equity, des Infrastructures et des autres marchés privés.\nAnalyse et visualisation de données :\ntravailler avec des bases de données économiques et de marché afin d’identifier les tendances, construire des indicateurs et produire des graphiques et tableaux de bord.\nRecherche et rédaction de notes :\ncontribuer à la préparation de notes économiques, rapports de marché, présentations et communications à destination des investisseurs.\nAnalyses ad hoc :\nrépondre aux demandes des équipes d’investissement et de la direction sur des événements macroéconomiques ou des développements de marché.\nIA et nouveaux outils analytiques :\nexplorer comment l’intelligence artificielle et l’automatisation peuvent améliorer les méthodes de travail et les productions de l’équipe.\nCompétences requises\nBonne compréhension de la macroéconomie et des marchés financiers, avec un intérêt marqué pour l’actualité économique.\nForte curiosité intellectuelle avec de solides compétences interpersonnelles, un fort esprit d'équipe, et capable de travailler sur des sujets divers. Rigueur, motivation, autonomie, réactivité, et grandes qualités de communication.\nExcellentes capacités analytiques, rédactionnelles et créatives, ainsi qu’un réel intérêt pour travailler avec des données.\nLa maîtrise d'Excel, de PowerPoint et de Word est essentielle. Une expérience avec des fournisseurs de données économiques (Macrobond, Refinitiv, Datastream, Capital IQ) ou du Private Equity (ex : Preqin, Pitchbook) est un avantage, ainsi que la maîtrise d'un logiciel statistique (SQL, Python) ou de Dataviz (PowerBi)\nUne familiarité avec les outils d’I",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity, economics",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
       "id": "4d36980e648e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -1738,7 +1738,7 @@
       "title": "Stage Spécialiste ESG – Septembre / Octobre 2026",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Spcialiste-ESG---Septembre---Octobre-2026_JR016243",
-      "posted_date": "Posted 23 Days Ago",
+      "posted_date": "Posted 24 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de la division Asset Management de Rothschild & Co\nDivision specialisee en gestion d'actifs du groupe Rothschild & Co, nous offrons des services personnalises de gestion a une large clientele d'investisseurs institutionnels, d'intermediaires financiers et de distributeurs. Nous articulons notre developpement autour d'une gamme de fonds ouverts beneficiant de nos expertises de long terme en gestion active et de conviction ainsi qu'en gestion deleguee. Bases a Paris et presents dans 9 pays en Europe, nous gerons plus de 47 milliards d'euros et regroupons pres de 196 collaborateurs. Plus d'informations sur am (dot) eu (dot) rothschildandco (dot) com.\nContexte\nRothschild & Co Asset Management recherche un.e stagiaire Specialiste ESG au sein de l'equipe 'Investissement durable' pour une duree de 6 mois a partir de Septembre / Octobre 2026.\nL'equipe 'Investissement durable' est composee de 5 personnes dont deux specialistes ESG qui contribuent au developpement commercial et assurent la veille reglementaire et concurrentielle, un analyste ESG et responsable de l'engagement et un ingenieur financier et ESG data scientist. L'equipe est au coeur de la gestion et travaille en etroite collaboration avec l'ensemble des expertises d'investissement : actions, credit & convertibles et multigestion ainsi qu'avec l'ensemble des equipes commerciales et operationnelles.\nL'approche durable de Rothschild & Co Asset Management s'applique sur 100% des vehicules d'investissements dont 97% des fonds ouverts sont categorises Articles 8 & 9, a fin 2023. Lanc",
       "start_date": "2026-08-04",
       "time_type": "Full time",
@@ -1875,35 +1875,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-26"
-    },
-    {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6af88084d4b3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
     },
     {
       "id": "f85e4cbd5177",
@@ -2096,6 +2067,35 @@
         "Type: Internship/Stage",
         "Domain: equity, private equity, fund",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6af88084d4b3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -2536,6 +2536,93 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "c71bf16091dc",
+      "bank": "BlackRock",
+      "category": "Asset Manager",
+      "title": "Veteran & Elite Athletes Internship Programme - London",
+      "location": "London, Greater London",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "About this role\nBlackRock's paid six-month programme offers service leavers and professional athletes the opportunity to develop their professional skills, enhance their understanding of asset management and the world of financial services and prepare for future careers in the industry.\nBlackRock are offering diverse roles and opportunities across the following divisions:\nAladdin Client Business:\nAladdin Client Business is BlackRock's global investment technology and transformation organization, partnering with many of the world's largest financial institutions to implement, operate and optimize the Aladdin platform. Combining financial markets expertise, technology innovation and strategic consulting, ACB helps clients transform how they invest, manage risk, operate and grow in an increasingly complex financial landscape.\nClient Services & Solutions:\nClient Services & Solutions (CSS) is a client-facing organization within Technology & Operations that was formed by bringing together Client Experience and Operations capabilities under a unified model. Its objective is to create a more seamless client experience, improve collaboration across teams, and better align operational execution with BlackRock's commercial outcomes.\nMilitary Applicants: Service leavers, who have served in the UK regular armed forces with a minimum of 3 years’ service. Have left regular service within the last 12 months.\nProfessional Athletes: Elite athletes, who have either represented a professional team for their sport, or who have represented their country at Senior international level.\nApplicants for this programme must be legally able to work in the location applied for.\nApplication closing date: October 5th 2026\nStart date: February 2027\nOur benefits\nTo help you stay energized, engaged and inspired, we offer a wide range of employee benefits including: retirement investment and tools designed to help you in building a sound financial future; access to education reimbursement; comprehensive resources to support your physical health and emotional well-being; family support programs; and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.\nOur hybrid work model\nBlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibilit",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "12 months",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-24",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, risk",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "46028540fbda",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Digital Transformation Stage - Janvier 2027 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Janvier-2027---Paris--H-F-_JR1002089",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Digital transformation\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nLe ou la stagiaire contribuera aux projets de l’équipe Transformation Digitale, notamment :\nIdentification de solutions technologiques et de startups pertinentes pour les participations d’Ardian, Benchmarking de solutions / outils (e.g. pour reporting, data analysis, cas d’usage de l’intelligence artificielle)\nAnalyses dans le cadre de Due Diligences digitales : marché (acteurs/ concurrents), parcours client digital, analyse de trafic web, etc.\nCodification de « best practices », incluant la rédaction de « case studies »\nSupport à la rédaction de memo (en anglais), aide à la création de dashboard d’analyse (e.g. amélioration de la préparation au risque cyber)\nCompétences requises\nRigueur\nCapacités analytiques\nMotivation\nAutonomie\nAgilité, réactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nCurieux, aimant apprendre vite, avec appétence forte pour le Digital au sens large (IT, digital marketing, technologies)\nLe profil\nEcole d’ingénieur, 3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nIntérêt pour la technologie et ses implications pour les entreprises\nBonne maîtrise d’Excel et Powerpoint appréciée\nPremière expérience en analyse data ou avec PowerBI serait un plus\nA propos de l’équipe\nL’équipe Transformation Digitale aide les sociétés dans lesquelles Ardian investit à créer de la valeur avec le Digital.\nPour Ardian, l’amélioration opérationnelle des participations est une source de création de valeur importante. Le Digital et la Donnée sont des leviers clé dans cette création de valeur, et Ardian a créé en 2019 une équipe dédiée à cette thématique. Les problématiques abordées sont variées : restructuration IT, optimisation des process (sales & marketing, supply chain, etc) par le digital, développement de nouveaux canaux de distribution (eCommerce), valorisation de la donnée, création de nouveaux business appuyés sur le digital et la donnée.\nL’équipe est aujourd’hui constituée de 4 personnes basées en France et en Allemagne.\nL’équipe travaille en étroite collaboration avec les Deal Teams (responsable de l’ensemble du cycle de vie d’une participation chez Ardian : depuis la Due Diligence jusqu’au désinvestissement, en passant par le suivi de la stratégie et de la performance pendant la durée de détention), ainsi qu’avec les Management Teams des participations.\nL’équipe Digitale tra",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "8e18ccc84da5",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Wealth Solutions Stage - Janvier 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Wealth-Solutions-Stage---Janvier-2027-I-Paris--H-F-_JR1002134",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée : 6 mois\nDate de début : Janvier 2027\nLe rôle\nBasé à Paris, le stagiaire soutiendra l’équipe Private Wealth Solutions dans ses missions quotidiennes.\nIl s'agira notamment d’apporter son aide sur des :\nOpportunités clients spécifiques\nMener des études de marché\nParticiper au développement de nouveaux produits\nRédaction de notes sur des opportunités de partenariats/investissements\nAider aux présentations stratégiques.\nCompétences requises\nAvant tout, une personne motivée, enthousiaste et pro-active, mais aussi :\nMaîtrise d'Excel et de Power Point\nSouci du détail\nEsprit de synthèse\nAutonomie\nRéactivité\nFort esprit d'équipe\nProfil\nMaster et/ou majeure en finance d'une école de commerce ou d'une université (deuxième partie de césure)\nUne première expérience en Finance est requise (au moins 6 mois)\nLa maîtrise du français et de l'anglais est obligatoire\nA propos de l'équipe\nL’équipe Relations Investisseurs Ardian est composée de plus de 80 personnes réparties dans 19 bureaux dans le monde. Sa mission principale est de trouver de nouveaux investisseurs tout en continuant de développer les relations existantes sur l'ensemble des expertises Ardian (Buyout, Expansion, Croissance, Co-Investissements, Fonds de Fonds, Infrastructure, Dette Privée et Immobilier).\nAu sein des Relations Investisseurs, l'initiative Private Wealth Solutions est né en 2020 d’une volonté forte d’accompagner la croissance des investisseurs privés, de coordonner les moyens de distribution des fonds Ardian, et de développer des solutions d’investissement spécifiques à nos investisseurs privés. L’équipe se compose de 3 personnes à Paris,  3 personnes au Royaume-Uni, 1 personne en Suisse, et 2 personnes en Asie et 3 personnes aux Etats-Unis.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "dd407960f54e",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2619,93 +2706,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-26"
-    },
-    {
-      "id": "c71bf16091dc",
-      "bank": "BlackRock",
-      "category": "Asset Manager",
-      "title": "Veteran & Elite Athletes Internship Programme - London",
-      "location": "London, Greater London",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Veteran---Elite-Athletes-Internship-Programme---London_R266224",
-      "posted_date": "Posted Yesterday",
-      "description": "About this role\nBlackRock's paid six-month programme offers service leavers and professional athletes the opportunity to develop their professional skills, enhance their understanding of asset management and the world of financial services and prepare for future careers in the industry.\nBlackRock are offering diverse roles and opportunities across the following divisions:\nAladdin Client Business:\nAladdin Client Business is BlackRock's global investment technology and transformation organization, partnering with many of the world's largest financial institutions to implement, operate and optimize the Aladdin platform. Combining financial markets expertise, technology innovation and strategic consulting, ACB helps clients transform how they invest, manage risk, operate and grow in an increasingly complex financial landscape.\nClient Services & Solutions:\nClient Services & Solutions (CSS) is a client-facing organization within Technology & Operations that was formed by bringing together Client Experience and Operations capabilities under a unified model. Its objective is to create a more seamless client experience, improve collaboration across teams, and better align operational execution with BlackRock's commercial outcomes.\nMilitary Applicants: Service leavers, who have served in the UK regular armed forces with a minimum of 3 years’ service. Have left regular service within the last 12 months.\nProfessional Athletes: Elite athletes, who have either represented a professional team for their sport, or who have represented their country at Senior international level.\nApplicants for this programme must be legally able to work in the location applied for.\nApplication closing date: October 5th 2026\nStart date: February 2027\nOur benefits\nTo help you stay energized, engaged and inspired, we offer a wide range of employee benefits including: retirement investment and tools designed to help you in building a sound financial future; access to education reimbursement; comprehensive resources to support your physical health and emotional well-being; family support programs; and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.\nOur hybrid work model\nBlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibilit",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "12 months",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-24",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, risk",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "46028540fbda",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Digital Transformation Stage - Janvier 2027 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Janvier-2027---Paris--H-F-_JR1002089",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Digital transformation\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nLe ou la stagiaire contribuera aux projets de l’équipe Transformation Digitale, notamment :\nIdentification de solutions technologiques et de startups pertinentes pour les participations d’Ardian, Benchmarking de solutions / outils (e.g. pour reporting, data analysis, cas d’usage de l’intelligence artificielle)\nAnalyses dans le cadre de Due Diligences digitales : marché (acteurs/ concurrents), parcours client digital, analyse de trafic web, etc.\nCodification de « best practices », incluant la rédaction de « case studies »\nSupport à la rédaction de memo (en anglais), aide à la création de dashboard d’analyse (e.g. amélioration de la préparation au risque cyber)\nCompétences requises\nRigueur\nCapacités analytiques\nMotivation\nAutonomie\nAgilité, réactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nCurieux, aimant apprendre vite, avec appétence forte pour le Digital au sens large (IT, digital marketing, technologies)\nLe profil\nEcole d’ingénieur, 3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nIntérêt pour la technologie et ses implications pour les entreprises\nBonne maîtrise d’Excel et Powerpoint appréciée\nPremière expérience en analyse data ou avec PowerBI serait un plus\nA propos de l’équipe\nL’équipe Transformation Digitale aide les sociétés dans lesquelles Ardian investit à créer de la valeur avec le Digital.\nPour Ardian, l’amélioration opérationnelle des participations est une source de création de valeur importante. Le Digital et la Donnée sont des leviers clé dans cette création de valeur, et Ardian a créé en 2019 une équipe dédiée à cette thématique. Les problématiques abordées sont variées : restructuration IT, optimisation des process (sales & marketing, supply chain, etc) par le digital, développement de nouveaux canaux de distribution (eCommerce), valorisation de la donnée, création de nouveaux business appuyés sur le digital et la donnée.\nL’équipe est aujourd’hui constituée de 4 personnes basées en France et en Allemagne.\nL’équipe travaille en étroite collaboration avec les Deal Teams (responsable de l’ensemble du cycle de vie d’une participation chez Ardian : depuis la Due Diligence jusqu’au désinvestissement, en passant par le suivi de la stratégie et de la performance pendant la durée de détention), ainsi qu’avec les Management Teams des participations.\nL’équipe Digitale tra",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "8e18ccc84da5",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Wealth Solutions Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Wealth-Solutions-Stage---Janvier-2027-I-Paris--H-F-_JR1002134",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Relations Investisseurs\nLieu : Paris\nDurée : 6 mois\nDate de début : Janvier 2027\nLe rôle\nBasé à Paris, le stagiaire soutiendra l’équipe Private Wealth Solutions dans ses missions quotidiennes.\nIl s'agira notamment d’apporter son aide sur des :\nOpportunités clients spécifiques\nMener des études de marché\nParticiper au développement de nouveaux produits\nRédaction de notes sur des opportunités de partenariats/investissements\nAider aux présentations stratégiques.\nCompétences requises\nAvant tout, une personne motivée, enthousiaste et pro-active, mais aussi :\nMaîtrise d'Excel et de Power Point\nSouci du détail\nEsprit de synthèse\nAutonomie\nRéactivité\nFort esprit d'équipe\nProfil\nMaster et/ou majeure en finance d'une école de commerce ou d'une université (deuxième partie de césure)\nUne première expérience en Finance est requise (au moins 6 mois)\nLa maîtrise du français et de l'anglais est obligatoire\nA propos de l'équipe\nL’équipe Relations Investisseurs Ardian est composée de plus de 80 personnes réparties dans 19 bureaux dans le monde. Sa mission principale est de trouver de nouveaux investisseurs tout en continuant de développer les relations existantes sur l'ensemble des expertises Ardian (Buyout, Expansion, Croissance, Co-Investissements, Fonds de Fonds, Infrastructure, Dette Privée et Immobilier).\nAu sein des Relations Investisseurs, l'initiative Private Wealth Solutions est né en 2020 d’une volonté forte d’accompagner la croissance des investisseurs privés, de coordonner les moyens de distribution des fonds Ardian, et de développer des solutions d’investissement spécifiques à nos investisseurs privés. L’équipe se compose de 3 personnes à Paris,  3 personnes au Royaume-Uni, 1 personne en Suisse, et 2 personnes en Asie et 3 personnes aux Etats-Unis.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
     },
     {
       "id": "743cd0164b30",
@@ -2940,7 +2940,7 @@
       "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
-      "posted_date": "Posted 22 Days Ago",
+      "posted_date": "Posted 23 Days Ago",
       "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-08-05",
       "time_type": "Full time",
@@ -3074,6 +3074,33 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -3095,33 +3122,6 @@
         "Type: Internship/Stage",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: wealth management, sales, equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3262,6 +3262,34 @@
         "Type: Internship/Stage",
         "Domain: research, economics",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "1246ea26b25b",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Brand & Communication-Events\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Septembre 2026\nLe rôle\n:\nL’équipe Communication, basée à Paris, se compose de 20 personnes à Paris dont le pôle Evénements qui regroupe 7 personnes. Ce pôle gère seul ou avec l’aide d’agences plus de 65 événements par an, majoritairement à Paris, d’autres en Europe et certains plus lointains. Nos cibles incluent nos salariés, nos clients ainsi que d'autres publics externes.\nEn tant que stagiaire, vous serez intégré(e) au sein de notre équipe projet et participerez activement aux différentes étapes de la gestion d'événements internationaux. Vos missions incluront :\nRecherche de lieux et de prestataires, préparation des recommandations et des briefs\nParticipation aux réunions en relation avec les événements gérés et rédaction des comptes-rendus de réunions\nAide à l’organisation d’événements divers : Assemblées générales, Summer Party, Arbre de Noël, séminaires, team buildings, Investor Days, conférences, etc\nAide au paramétrage, à la création des invitations & site web, à l’import et gestion des participants via des plateformes événementielles (Evenium / Filemaker)\nCréation et mise en place de la signalétique des événements\nExport et mises à jour des listes\nSuivi et mise à jour des budgets et du post événement (relecture devis, suivi des échéanciers)\nGestion des documents sur notre réseau et mise à jour des différents supports de reporting\nPrésence sur place sur les événements parisiens, support logistique et aide à la coordination des prestataires\nCompétences requises\nExcellent niveau d’anglais (écrit & oral)\nCapacités rédactionnelles et Aisance relationnelle\nRigueur et Curiosité\nSens du service\nRéactivité et sens de l’oragnisation\nEsprit d’équipe\nRespect de la confidentialité\nLe profil\nFormation supérieure en Communication/ou/Journalisme, ou Evénementiel ou Ecole de Commerce\nMaster 1 ou 2 en cours (gestion de projet, communication/marketing/RSE)\nExpérience significative en stage ou alternance en événementiel\nVous maîtrisez le Pack office\nVous êtes organisé(e), rigoureux(se) et savez gérer plusieurs tâches simultanément\nAppétence pour les métiers de la communication, et en particulier l’évènementiel\nPourquoi nous rejoindre ?\nUne immersion dans un environnement dynamique et en constante évolution\nL’opportunité de travailler sur des projets événementiels hauts de gamme\nUne équipe dynamique et passionnée et prête à partager son expertise\nUne expérience très formatrice en pa",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
       "excluded": false,
@@ -3465,34 +3493,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-08-20"
-    },
-    {
-      "id": "1246ea26b25b",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Events Project Assistant Stage - Septembre 2026 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Events-Project-Assistant-Stage---Septembre-2026-I-Paris--M-F-_JR1001719",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Brand & Communication-Events\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Septembre 2026\nLe rôle\n:\nL’équipe Communication, basée à Paris, se compose de 20 personnes à Paris dont le pôle Evénements qui regroupe 7 personnes. Ce pôle gère seul ou avec l’aide d’agences plus de 65 événements par an, majoritairement à Paris, d’autres en Europe et certains plus lointains. Nos cibles incluent nos salariés, nos clients ainsi que d'autres publics externes.\nEn tant que stagiaire, vous serez intégré(e) au sein de notre équipe projet et participerez activement aux différentes étapes de la gestion d'événements internationaux. Vos missions incluront :\nRecherche de lieux et de prestataires, préparation des recommandations et des briefs\nParticipation aux réunions en relation avec les événements gérés et rédaction des comptes-rendus de réunions\nAide à l’organisation d’événements divers : Assemblées générales, Summer Party, Arbre de Noël, séminaires, team buildings, Investor Days, conférences, etc\nAide au paramétrage, à la création des invitations & site web, à l’import et gestion des participants via des plateformes événementielles (Evenium / Filemaker)\nCréation et mise en place de la signalétique des événements\nExport et mises à jour des listes\nSuivi et mise à jour des budgets et du post événement (relecture devis, suivi des échéanciers)\nGestion des documents sur notre réseau et mise à jour des différents supports de reporting\nPrésence sur place sur les événements parisiens, support logistique et aide à la coordination des prestataires\nCompétences requises\nExcellent niveau d’anglais (écrit & oral)\nCapacités rédactionnelles et Aisance relationnelle\nRigueur et Curiosité\nSens du service\nRéactivité et sens de l’oragnisation\nEsprit d’équipe\nRespect de la confidentialité\nLe profil\nFormation supérieure en Communication/ou/Journalisme, ou Evénementiel ou Ecole de Commerce\nMaster 1 ou 2 en cours (gestion de projet, communication/marketing/RSE)\nExpérience significative en stage ou alternance en événementiel\nVous maîtrisez le Pack office\nVous êtes organisé(e), rigoureux(se) et savez gérer plusieurs tâches simultanément\nAppétence pour les métiers de la communication, et en particulier l’évènementiel\nPourquoi nous rejoindre ?\nUne immersion dans un environnement dynamique et en constante évolution\nL’opportunité de travailler sur des projets événementiels hauts de gamme\nUne équipe dynamique et passionnée et prête à partager son expertise\nUne expérience très formatrice en pa",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
     },
     {
       "id": "0e1fdd43e31d",
@@ -3773,33 +3773,6 @@
       "last_seen": "2026-08-28"
     },
     {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6af88084d4b3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-28"
-    },
-    {
       "id": "4a3b61dc655d",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -3821,6 +3794,33 @@
         "Domain: banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6af88084d4b3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -4018,13 +4018,94 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "d7553707a587",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Quants Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "0b87893e57d8",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Equities Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "d423874cbe14",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Multi-Asset Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "64a4bfb9f7c1",
       "bank": "Ardian",
       "category": "Private Equity",
       "title": "Infrastructure Intern - November 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Infrastructure-Intern---November-2026---London_JR1002212",
-      "posted_date": "Posted 3 Days Ago",
+      "posted_date": "Posted 4 Days Ago",
       "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising\n$200bn\nof assets on behalf of more than\n1,920\nclients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over\n1,115\nemployees, spread across\n22\noffices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nInterns in the Ardian Infrastructure team assist in the identification, analysis and execution of potential investment opportunities as well as asset management of existing portfolio assets. The internship will provide a global view on the world of infrastructure private equity investment from deal sourcing and execution to asset management and client management.\nJob Responsibilities:\nSupporting investment teams, in particular on the financial analysis and valuation, financial modelling as well as preparation of internal deal material including investment memoranda and valuation presentations\nFinancial modelling (Excel): Reviewing and creating financial models including making future business forecasts, valuation and return analysis as well as sensitivity analysis\nAnalysis of new deal opportunities and investment perimeters (countries, sectors) through ad-hoc reviews\nSupport the Ardian Infrastructure team’s wide asset management activities which will depend on the assets assigned. Asset management work could include, for example, arranging a debt refinancing or working with management teams and external advisors to implement new growth initiatives\nSupport the co-investment team by liaising with Ardian deal teams and potentia",
       "start_date": "2026-08-24",
       "time_type": "Full time",
@@ -4373,26 +4454,107 @@
       "last_seen": "2026-08-28"
     },
     {
-      "id": "afa5568f97e9",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6af88084d4b3/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
-      "posted_date": "",
+      "id": "4ef2b3e22b85",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1945",
+      "posted_date": "2026-08-28",
       "description": "",
       "start_date": "",
       "time_type": "",
       "duration": "",
       "requirements": "",
-      "source": "oleeo",
+      "source": "oracle_hcm",
       "first_seen": "2026-08-28",
       "is_new": true,
-      "match_score": 45,
+      "match_score": 50,
       "match_reasons": [
-        "Location: Paris",
-        "Domain: banking, investment banking",
-        "Track privilégié: Corporate / Banking"
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "18c6f8af60b2",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1955",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "aadded6e1e16",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1946",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "59ce03c7a91e",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Finance Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1944",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -4662,6 +4824,110 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "31fcfe814ba1",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Marketing Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1951",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "d3efc74954ef",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Product Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "f7f880af7f43",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Client Group Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1943",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "bee5e9ce860d",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Corporate & Regulatory Change Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1947",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "dc7e744df391",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4846,6 +5112,32 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "2a674d0315d8",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Finance Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1954",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Domain: finance"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "781dcefbbb09",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -4921,6 +5213,56 @@
       "last_seen": "2026-08-28"
     },
     {
+      "id": "fe24673b1ac6",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Corporate & Regulatory Change Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1948",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
+      "id": "d603a4ce0852",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Business Transformation Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1950",
+      "posted_date": "2026-08-28",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": true,
+      "match_score": 25,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-08-28"
+    },
+    {
       "id": "69052c2cefc4",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4952,7 +5294,7 @@
       "title": "Trainee Company Secretarial Assistant",
       "location": "London",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4948688101",
-      "posted_date": "2026-08-13",
+      "posted_date": "2026-08-28",
       "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nJob Profile Summary\nTo provide business facing company secretarial and administrative services within the Company Secretarial team, drawing on an awareness of internal business need and external industry trends. To build strong cross functional relationships with colleagues and to make a proactive added value contribution to corporate projects and shared goals.\nThis role is well-suited to a recent graduate or someone early in their career who is looking to build a career in company secretarial practice and corporate governance.\nTo assist with the discharging of the Company Secretarial function’s responsibility for ensuring the statutory and regulatory compliance of all Man Group entities and provide a comprehensive range of company secretarial services to the UK and overseas entities as required.\nResponsibilities\nListed Company Responsibilities\nProvide assistance with the preparation of the company secretarial content of the Annual Report and financial statements, including the Corporate Governance section, Board Committee reports, director's report, and notes as necessary.\nP",
       "duration": "",
       "requirements": "This role is well-suited to a recent graduate or someone early in their career who is looking to build a career in company secretarial practice and corporate governance.",
@@ -6218,8 +6560,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 164,
-    "new_today": 1,
+    "total_jobs": 177,
+    "new_today": 14,
     "high_match": 126,
     "firms_scraped": 32,
     "firms_failed": 0,
