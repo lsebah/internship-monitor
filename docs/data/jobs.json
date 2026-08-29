@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-08-28T21:34:18.052169+00:00",
+  "last_updated": "2026-08-29T00:23:16.692675+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-08-28T21:34:18.052169+00:00"
+      "timestamp": "2026-08-29T00:23:16.692675+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -367,7 +367,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "eaf15de635b4",
@@ -396,7 +396,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "cb34666f4458",
@@ -426,7 +426,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2d5f32a4d4c2",
@@ -456,7 +456,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "5314bc393228",
@@ -486,7 +486,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c45709783b54",
@@ -516,7 +516,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1a57ab42d64a",
@@ -545,7 +545,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e28878dd373a",
@@ -575,7 +575,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "4110ec186958",
@@ -607,7 +607,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2360d5297640",
@@ -637,7 +637,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c8fcbc0ee543",
@@ -667,7 +667,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "32d6c1ea2b2a",
@@ -697,7 +697,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3b74694b8da4",
@@ -727,7 +727,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c878dc17f59d",
@@ -758,7 +758,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f6285220076d",
@@ -789,7 +789,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "65c5549c8c85",
@@ -910,7 +910,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "cdd4ec32afe0",
@@ -939,7 +939,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2b9b8a37b7b8",
@@ -968,7 +968,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e5927bf7e591",
@@ -1085,7 +1085,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e3fbee68e9a5",
@@ -1114,7 +1114,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2477cbbad637",
@@ -1143,7 +1143,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "b17c342767e9",
@@ -1172,7 +1172,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3256febe1779",
@@ -1201,7 +1201,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "15d3c6973304",
@@ -1231,7 +1231,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "eee20292241e",
@@ -1260,7 +1260,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "508fe019a909",
@@ -1289,7 +1289,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "8d1fc50ef910",
@@ -1318,7 +1318,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2ccfd4cf1855",
@@ -1377,7 +1377,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f94620042a82",
@@ -1407,7 +1407,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "6c5a14f8857a",
@@ -1437,7 +1437,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1a8e9f0a3290",
@@ -1466,7 +1466,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "02df2f3df2f4",
@@ -1495,7 +1495,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3ac4594dd0c6",
@@ -1524,7 +1524,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "7566aa34464c",
@@ -1554,7 +1554,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "5b8e378b2ea6",
@@ -1583,7 +1583,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a9d67a8088c6",
@@ -1612,7 +1612,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9f364956f5d5",
@@ -1641,7 +1641,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "8681b4e46991",
@@ -1671,7 +1671,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "88dfec0d0a99",
@@ -1729,7 +1729,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "ded3a961d30b",
@@ -1758,7 +1758,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d5a4298450f8",
@@ -1787,7 +1787,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "251d6c6f061b",
@@ -1816,7 +1816,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c71dece991fe",
@@ -1845,7 +1845,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f2d6370ac24a",
@@ -1882,7 +1882,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-679754045ed9/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9bd5641f65f3/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -1903,7 +1903,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f85e4cbd5177",
@@ -1932,7 +1932,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a28d9ddf3be0",
@@ -1960,7 +1960,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "6c1011e407fd",
@@ -1988,7 +1988,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e075559b8c63",
@@ -2016,7 +2016,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0a65ea33f94c",
@@ -2044,7 +2044,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "61bc71e98fcd",
@@ -2072,7 +2072,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e4e60a216723",
@@ -2100,7 +2100,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "eef530ac48c2",
@@ -2129,7 +2129,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9dddb89ef634",
@@ -2158,7 +2158,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "98836783533b",
@@ -2187,7 +2187,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d23c22f2c608",
@@ -2216,7 +2216,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0df08051c57b",
@@ -2245,7 +2245,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c65abc301ee0",
@@ -2274,7 +2274,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "85db60a405c4",
@@ -2303,7 +2303,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0b8f93ece3e5",
@@ -2332,7 +2332,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0a7e933c328f",
@@ -2361,7 +2361,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3a506648372b",
@@ -2390,7 +2390,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "ba58a05065e4",
@@ -2419,7 +2419,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "54fe2bb80d15",
@@ -2448,7 +2448,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3384a9189adf",
@@ -2477,7 +2477,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "794fad16fec1",
@@ -2506,7 +2506,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "de3e838c9593",
@@ -2533,7 +2533,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c71bf16091dc",
@@ -2562,7 +2562,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "46028540fbda",
@@ -2591,7 +2591,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "8e18ccc84da5",
@@ -2620,7 +2620,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "dd407960f54e",
@@ -2648,7 +2648,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e619cf06711f",
@@ -2677,7 +2677,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "51d8c0722ea9",
@@ -2733,7 +2733,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "ef72728e7ab3",
@@ -2761,7 +2761,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3c68a19025d4",
@@ -2789,7 +2789,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "72b675c610c3",
@@ -2846,7 +2846,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "cdcdf2030ae0",
@@ -2874,7 +2874,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f18f0711c918",
@@ -2903,7 +2903,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9d8391b790ba",
@@ -2931,7 +2931,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "19e298b8bc57",
@@ -2959,7 +2959,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "21ca1e8be1d3",
@@ -2987,7 +2987,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1d446ccf62cd",
@@ -3015,7 +3015,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a4daeddebf2a",
@@ -3043,7 +3043,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bec68070c81d",
@@ -3071,7 +3071,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "81b9ebd93b95",
@@ -3079,7 +3079,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-679754045ed9/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9bd5641f65f3/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3099,7 +3099,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "4ddccad034f9",
@@ -3126,7 +3126,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1069fde398f6",
@@ -3154,7 +3154,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "294b65dcf83b",
@@ -3182,7 +3182,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a20be1015b59",
@@ -3210,7 +3210,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f913031e9a5a",
@@ -3238,7 +3238,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "fcb2ac675a49",
@@ -3266,7 +3266,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1246ea26b25b",
@@ -3294,7 +3294,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "7a1886d678e0",
@@ -3322,7 +3322,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "05ca484a527a",
@@ -3354,7 +3354,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d17d56d6485f",
@@ -3381,7 +3381,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "7d0d0d095ee5",
@@ -3409,7 +3409,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "3f7d0db25fd7",
@@ -3437,7 +3437,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d5681db0a3b6",
@@ -3465,7 +3465,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "c7d2b6723ba8",
@@ -3520,7 +3520,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0e7ee5c67d78",
@@ -3548,7 +3548,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "595620feb852",
@@ -3576,7 +3576,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "df964aa5f672",
@@ -3604,7 +3604,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "ce391e0f1f53",
@@ -3632,7 +3632,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "dafcd9852e8d",
@@ -3660,7 +3660,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a372a0868e8e",
@@ -3688,7 +3688,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "578d7be20f6b",
@@ -3716,7 +3716,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "32bf4f30f70a",
@@ -3744,7 +3744,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f4422ad60fba",
@@ -3770,7 +3770,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9f9a06b3ba40",
@@ -3778,7 +3778,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-679754045ed9/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9bd5641f65f3/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3797,7 +3797,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "4a3b61dc655d",
@@ -3825,7 +3825,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "e61171cbfd9e",
@@ -3852,7 +3852,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "8ea868119967",
@@ -3879,7 +3879,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "966aeee2595b",
@@ -3906,7 +3906,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bb7ef9681ee4",
@@ -3934,7 +3934,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9856e5ea3dae",
@@ -3961,7 +3961,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "985927d66b60",
@@ -3988,7 +3988,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "8363d6ff4886",
@@ -4015,7 +4015,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d7553707a587",
@@ -4042,7 +4042,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0b87893e57d8",
@@ -4069,7 +4069,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d423874cbe14",
@@ -4096,7 +4096,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "64a4bfb9f7c1",
@@ -4127,7 +4127,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "b82986319db3",
@@ -4154,7 +4154,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bb17f2ebab0b",
@@ -4181,7 +4181,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "18793fa9e3ec",
@@ -4208,7 +4208,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9fcbedbdf752",
@@ -4235,7 +4235,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a6f970e7f0af",
@@ -4262,7 +4262,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "7f7468bda334",
@@ -4289,7 +4289,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "45a696619273",
@@ -4316,7 +4316,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "27f73366915c",
@@ -4343,7 +4343,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "0306691d36a1",
@@ -4370,7 +4370,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "b15defd1d881",
@@ -4397,7 +4397,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "769b6e44ea85",
@@ -4424,7 +4424,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "b6c923984536",
@@ -4451,7 +4451,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "4ef2b3e22b85",
@@ -4478,7 +4478,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "18c6f8af60b2",
@@ -4505,7 +4505,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "aadded6e1e16",
@@ -4532,7 +4532,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "59ce03c7a91e",
@@ -4559,7 +4559,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "afa5568f97e9",
@@ -4567,7 +4567,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-679754045ed9/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-9bd5641f65f3/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4576,7 +4576,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-08-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -4586,7 +4586,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2694e9555222",
@@ -4613,7 +4613,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "a92510c0711e",
@@ -4640,7 +4640,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9fdf6acf877d",
@@ -4666,7 +4666,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f2e7d79b4940",
@@ -4692,7 +4692,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "1545b037043c",
@@ -4718,7 +4718,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "61a8875c151c",
@@ -4744,7 +4744,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "265411a6aa21",
@@ -4770,7 +4770,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bac21fa1e47f",
@@ -4796,7 +4796,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bd5f70a44690",
@@ -4822,7 +4822,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "ed698f6f6015",
@@ -4848,7 +4848,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "31fcfe814ba1",
@@ -4874,7 +4874,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d3efc74954ef",
@@ -4900,7 +4900,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "f7f880af7f43",
@@ -4926,7 +4926,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "bee5e9ce860d",
@@ -4952,7 +4952,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "dc7e744df391",
@@ -4979,7 +4979,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "9717ab65611b",
@@ -5110,7 +5110,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "935f75e5bbe3",
@@ -5136,7 +5136,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "2a674d0315d8",
@@ -5162,7 +5162,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "781dcefbbb09",
@@ -5187,7 +5187,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "918666632e1a",
@@ -5212,7 +5212,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "6058d9460f2a",
@@ -5237,7 +5237,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "fe24673b1ac6",
@@ -5262,7 +5262,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "d603a4ce0852",
@@ -5287,7 +5287,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     },
     {
       "id": "69052c2cefc4",
@@ -5339,7 +5339,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-08-28"
+      "last_seen": "2026-08-29"
     }
   ],
   "direct_links": [
@@ -6588,7 +6588,7 @@
   ],
   "stats": {
     "total_jobs": 178,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 126,
     "firms_scraped": 32,
     "firms_failed": 0,
