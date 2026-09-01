@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-01T15:41:49.803294+00:00",
+  "last_updated": "2026-09-01T19:11:12.213850+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Bank of America": {
       "status": "success",
-      "count": 37,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "count": 38,
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 18,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 28,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T15:41:49.803294+00:00"
+      "timestamp": "2026-09-01T19:11:12.213850+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1777,7 +1777,7 @@
       "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 90,
       "match_reasons": [
         "Location: London",
@@ -2087,7 +2087,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ec08a5fc6ed/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3427,7 +3427,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ec08a5fc6ed/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4415,7 +4415,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: Paris",
@@ -4434,7 +4434,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ec08a5fc6ed/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4971,7 +4971,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4998,7 +4998,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -6097,32 +6097,6 @@
       "last_seen": "2026-09-01"
     },
     {
-      "id": "9adcd1c72be6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Advisor Summer Internship Program - Madrid",
-      "location": "Madrid, Madrid, Spain",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
-      "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-01"
-    },
-    {
       "id": "b7c4abefa6d6",
       "bank": "JP Morgan",
       "category": "Investment Bank",
@@ -6143,6 +6117,32 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "9adcd1c72be6",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Global Private Bank - Advisor Summer Internship Program - Madrid",
+      "location": "Madrid, Madrid, Spain",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
+      "posted_date": "2026-08-31",
+      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -6246,7 +6246,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -6264,7 +6264,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-5ec08a5fc6ed/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6273,7 +6273,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -6834,14 +6834,14 @@
       "last_seen": "2026-09-01"
     },
     {
-      "id": "4244e953a112",
+      "id": "b1efcdf937d1",
       "bank": "JP Morgan",
       "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Advisor Summer Internship Program - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
+      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
       "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
+      "description": "Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.",
       "start_date": "",
       "time_type": "",
       "duration": "",
@@ -6886,14 +6886,14 @@
       "last_seen": "2026-09-01"
     },
     {
-      "id": "b1efcdf937d1",
+      "id": "4244e953a112",
       "bank": "JP Morgan",
       "category": "Investment Bank",
-      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
-      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "title": "2027 Global Private Bank - Advisor Summer Internship Program - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
       "posted_date": "2026-08-31",
-      "description": "Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.",
+      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
       "start_date": "",
       "time_type": "",
       "duration": "",
@@ -8676,7 +8676,7 @@
   ],
   "stats": {
     "total_jobs": 254,
-    "new_today": 6,
+    "new_today": 0,
     "high_match": 165,
     "firms_scraped": 32,
     "firms_failed": 0,
