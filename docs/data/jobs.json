@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-01T12:30:06.331249+00:00",
+  "last_updated": "2026-09-01T15:41:49.803294+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "count": 4,
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 2,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "count": 3,
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 37,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,13 +132,13 @@
     },
     "Schroders": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "count": 18,
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 29,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "count": 28,
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-01T12:30:06.331249+00:00"
+      "timestamp": "2026-09-01T15:41:49.803294+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -927,7 +927,7 @@
       "requirements": "The location for this role is indicated in the job title, and you will be based at that location. If you are accepted into our graduate programme, your base location will be the same as it was during your internship.\nBarclays Europe\nWorking in Paris\nEntry Salary: €30,000\nUpper Salary: €30,000",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1278,7 +1278,7 @@
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 95,
       "match_reasons": [
         "Location: Paris",
@@ -1763,6 +1763,35 @@
       "last_seen": "2026-09-01"
     },
     {
+      "id": "8baac324e78b",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for talented individuals to join our Quantitative Analysis off-cycle placement program within the Markets team in London. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this.\nOur placements run from three to six months with flexibility on start dates. We're committed to teaching you the ropes. As an incoming placement analyst, you will be placed in Quantitative Analysis, Structuring, or Exotics Trading. Here, new insights from the worlds of finance and academia drive innovation and excellence in mathematical and quantitative trading. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in the above areas. At the end of your placement, successful analysts will be considered for a place on a full-time program.\nWhat you’ll do\nWe'll empower you to create, implement, and manage the mathematical models that drive our success within the Markets business.\nWe'll offer you the opportunity to price, trade, and manage the risk associated with our diverse range of market products.\nWe'll enable you to collaborate with traders and salespeople in technical product areas, providing crucial assistance in addressing client needs.\nWe'll support your innovation by encouraging you to develop new products that align with our firm's risk framework.\nWe'll give you the platform to market new products to sal",
+      "start_date": "2026-09-01",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, trading",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
       "id": "4d36980e648e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -1806,7 +1835,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 85,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -1835,7 +1864,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 85,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -1864,7 +1893,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 85,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -2038,7 +2067,7 @@
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 85,
       "match_reasons": [
         "Location: Paris",
@@ -2046,6 +2075,35 @@
         "Domain: banking, risk, research",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -2248,35 +2306,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-01"
-    },
-    {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c0cdb1249724/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-31"
     },
     {
       "id": "eef530ac48c2",
@@ -2869,7 +2898,7 @@
       "requirements": "Barclays Europe\nWorking in Paris\nEntry Salary: €65,000\nUpper Salary: €65,000",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
@@ -2926,7 +2955,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 75,
       "match_reasons": [
         "Location: London",
@@ -3181,7 +3210,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 75,
       "match_reasons": [
         "Location: London",
@@ -3210,7 +3239,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 75,
       "match_reasons": [
         "Location: London",
@@ -3238,7 +3267,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 75,
       "match_reasons": [
         "Location: London",
@@ -3393,6 +3422,34 @@
       "last_seen": "2026-09-01"
     },
     {
+      "id": "81b9ebd93b95",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
       "id": "4ddccad034f9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -3418,34 +3475,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-01"
-    },
-    {
-      "id": "81b9ebd93b95",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c0cdb1249724/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-31"
     },
     {
       "id": "1069fde398f6",
@@ -3602,7 +3631,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -3630,7 +3659,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -3658,7 +3687,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -3912,7 +3941,7 @@
       "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -3940,7 +3969,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -3968,7 +3997,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: London",
@@ -3996,7 +4025,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: London",
@@ -4024,7 +4053,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: Paris",
@@ -4052,7 +4081,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -4358,13 +4387,68 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 65,
       "match_reasons": [
         "Location: London",
         "Type: Internship/Stage",
         "Domain: banking, corporate banking",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "abb88c282b85",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "Internship: Infrastructure Equity - 6 months (January - June 2027)",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1969",
+      "posted_date": "2026-09-01",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -4386,7 +4470,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4414,7 +4498,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4442,7 +4526,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4470,7 +4554,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4498,7 +4582,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4526,7 +4610,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4554,7 +4638,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4582,7 +4666,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4610,7 +4694,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4638,7 +4722,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4666,7 +4750,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4706,33 +4790,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-01"
-    },
-    {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-c0cdb1249724/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-08-31"
     },
     {
       "id": "e61171cbfd9e",
@@ -4858,7 +4915,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4886,13 +4943,67 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
         "Domain: asset management, research",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "c09ca113d6cb",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "Internship: Real Estate Investment - 6 months (January - June 2027)",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1971",
+      "posted_date": "2026-09-01",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "0ab891a6fc28",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "Internship: Real Estate Investment Hotels - 6 months (January - June 2027)",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1972",
+      "posted_date": "2026-09-01",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -4941,7 +5052,7 @@
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
       "source": "workday",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -4969,7 +5080,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -4996,7 +5107,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5023,7 +5134,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: Paris",
@@ -5050,7 +5161,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: Paris",
@@ -5213,7 +5324,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: Paris",
@@ -5240,7 +5351,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5267,7 +5378,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5294,7 +5405,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5321,7 +5432,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5348,7 +5459,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5375,7 +5486,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: Paris",
@@ -5402,7 +5513,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -5460,7 +5571,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -5487,7 +5598,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -5514,7 +5625,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -5973,7 +6084,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -6000,7 +6111,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -6026,7 +6137,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -6053,7 +6164,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -6108,12 +6219,66 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: sales"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "92edb567cea6",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Schroders Capital Infrastructure - Product Strategy Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953",
+      "posted_date": "2026-09-01",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: strategy"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-01"
+    },
+    {
+      "id": "afa5568f97e9",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-6ef6a9e32ca2/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-01",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -6135,7 +6300,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6161,7 +6326,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6187,7 +6352,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6579,7 +6744,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6605,7 +6770,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6631,7 +6796,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6657,7 +6822,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: Paris",
@@ -6683,7 +6848,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6709,7 +6874,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6735,7 +6900,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6761,7 +6926,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -6840,7 +7005,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 40,
       "match_reasons": [
         "Location: London",
@@ -6867,7 +7032,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 40,
       "match_reasons": [
         "Location: Paris",
@@ -6947,7 +7112,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -6973,7 +7138,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -7202,7 +7367,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-01",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -8510,12 +8675,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 248,
-    "new_today": 71,
-    "high_match": 161,
+    "total_jobs": 254,
+    "new_today": 6,
+    "high_match": 165,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 18,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
