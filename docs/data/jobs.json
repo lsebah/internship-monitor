@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-03T15:24:24.541114+00:00",
+  "last_updated": "2026-09-03T19:04:50.634423+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "count": 4,
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 2,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "count": 3,
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "count": 15,
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 32,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-03T15:24:24.541114+00:00"
+      "timestamp": "2026-09-03T19:04:50.634423+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -943,6 +943,36 @@
       "last_seen": "2026-09-03"
     },
     {
+      "id": "2f6d111d7cff",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Compliance KYC - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Compliance-KYC---Janvier-2027_JR016380-1",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel entité du groupe international Rothschild & Co, est l’une des premières Banques Privées indépendantes en France, elle recherche un(e) stagiaire pour une durée de 6 mois au sein du service Compliance à partir de janvier 2027.\nMissions\nAu sein du pôle connaissance clie",
+      "start_date": "2026-09-03",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-03",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
       "id": "d218b85bf74b",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -957,7 +987,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1896,7 +1926,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 90,
       "match_reasons": [
         "Location: Paris",
@@ -2230,6 +2260,35 @@
       "last_seen": "2026-09-03"
     },
     {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cda45198c79a/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
       "id": "f85e4cbd5177",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -2425,35 +2484,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-03"
-    },
-    {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4c46c5798221/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-02"
     },
     {
       "id": "eef530ac48c2",
@@ -3655,6 +3685,34 @@
       "last_seen": "2026-09-03"
     },
     {
+      "id": "81b9ebd93b95",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cda45198c79a/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
       "id": "4ddccad034f9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -3680,34 +3738,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-03"
-    },
-    {
-      "id": "81b9ebd93b95",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4c46c5798221/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-02"
     },
     {
       "id": "1069fde398f6",
@@ -3927,6 +3957,34 @@
         "Type: Internship/Stage",
         "Domain: banking, investment banking, risk",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
+      "id": "cfa31439d727",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Markets – Sales and Trading, Summer Analyst, London – United Kingdom, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets---Sales-and-Trading--Summer-Analyst--London---United-Kingdom--2027_26987141",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for intern analysts to join our Markets team in London. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this\nOur program is a highly competitive and selective program that gives you the opportunity to actively participate in the trading and marketing of securities to our institutional client base. In addition, as a summer analyst, you will be given the opportunity to complete three rotations across both product and function, to gain a well-rounded experience. If none of these terms make sense right now, that's OK! As an analyst, you will join a training program where you will receive an in-depth education to learn the fundamentals of the analyst role and an introduction to Citi's culture.\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June and begins with a one-week training program in London. You will then complete three rotations with different desks. After submitting an application, you will be asked to select which area of Markets you are most interested in, Sales, Trading, Structuring, Quantitative Analysis or Securitisation and Financing\nWe will use this information to help align you to the most appropriate recruitment process. If successful, your summer rotations will be decided by desk availability and your stated preference, but you will be encouraged to experience desks across Markets. Successful summer analysts will be",
+      "start_date": "2026-09-01",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales, fund",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
       "excluded": false,
@@ -4174,7 +4232,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: Paris",
@@ -4186,34 +4244,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-03"
-    },
-    {
-      "id": "cfa31439d727",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Markets – Sales and Trading, Summer Analyst, London – United Kingdom, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets---Sales-and-Trading--Summer-Analyst--London---United-Kingdom--2027_26987141",
-      "posted_date": "Posted Yesterday",
-      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for intern analysts to join our Markets team in London. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this\nOur program is a highly competitive and selective program that gives you the opportunity to actively participate in the trading and marketing of securities to our institutional client base. In addition, as a summer analyst, you will be given the opportunity to complete three rotations across both product and function, to gain a well-rounded experience. If none of these terms make sense right now, that's OK! As an analyst, you will join a training program where you will receive an in-depth education to learn the fundamentals of the analyst role and an introduction to Citi's culture.\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June and begins with a one-week training program in London. You will then complete three rotations with different desks. After submitting an application, you will be asked to select which area of Markets you are most interested in, Sales, Trading, Structuring, Quantitative Analysis or Securitisation and Financing\nWe will use this information to help align you to the most appropriate recruitment process. If successful, your summer rotations will be decided by desk availability and your stated preference, but you will be encouraged to experience desks across Markets. Successful summer analysts will be",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales, fund",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-02"
     },
     {
       "id": "f9c3401e8e24",
@@ -4690,6 +4720,33 @@
       "last_seen": "2026-09-03"
     },
     {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cda45198c79a/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
       "id": "3d1d268bdde2",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -5024,33 +5081,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-03"
-    },
-    {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4c46c5798221/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-02"
     },
     {
       "id": "e61171cbfd9e",
@@ -5883,7 +5913,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -6674,7 +6704,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: London",
@@ -6707,6 +6737,33 @@
         "Location: Paris",
         "Domain: trading, sales, research",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-03"
+    },
+    {
+      "id": "afa5568f97e9",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-cda45198c79a/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-03",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -7513,7 +7570,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 35,
       "match_reasons": [
         "Location: London",
@@ -7669,7 +7726,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -7845,7 +7902,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -9153,12 +9210,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 271,
-    "new_today": 8,
-    "high_match": 176,
+    "total_jobs": 273,
+    "new_today": 2,
+    "high_match": 177,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 17,
+    "firms_empty": 16,
     "firms_total": 76
   }
 }
