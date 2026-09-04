@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-04T15:21:02.859931+00:00",
+  "last_updated": "2026-09-04T18:47:57.913237+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "count": 4,
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 6,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "count": 7,
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 20,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "count": 3,
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 32,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-04T15:21:02.859931+00:00"
+      "timestamp": "2026-09-04T18:47:57.913237+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -975,6 +975,36 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "405708a964ec",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Markets – Sales and Trading, Off-Cycle Internship, Paris – France, 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Off-Cycle-Internship--Paris---France--2027_26992518",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for intern analysts to join our Markets team in Paris. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this\nWe're committed to teaching you the ropes. The Markets intern analyst program runs for six months starting in January 2027. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in areas such as rates, equities, commodities, credit, futures and FX. At the end of your internship, successful analysts may be considered for a place on a full-time program.\nWhat you’ll do\nWe'll help you learn market making and trading book risk management.\nWe'll offer you the opportunity to make a significant impact on the trading desk by developing pricing, hedging and analysis tools and strategies.\nWe'll let you learn from experienced traders as they handle real-time pricing and risk.\nWe'll give you the opportunity to support key desk tasks like risk reconciliation, P&L, and trade booking – great for learning core operations.\nWe’ll offer you the opportunity to contribute to quantitative research projects focused on identifying systematic trading strategies and improving existing risk models.\nWe'll provide you with space to develop trade ideas, watch market trends, and improve analysis using Python and VBA to best identify parameter dislocations.\nWe'll offer you the opportunity to assist in drafting",
+      "start_date": "2026-09-04",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk, trading, sales",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "b5e91c0f3ed6",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -1051,7 +1081,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-04",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1081,7 +1111,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-04",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1613,7 +1643,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-04",
-      "is_new": true,
+      "is_new": false,
       "match_score": 95,
       "match_reasons": [
         "Location: Paris",
@@ -2474,6 +2504,35 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "3a1b49bda6db",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-45986c47f406/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-06-01",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "f85e4cbd5177",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -2664,35 +2723,6 @@
         "Type: Internship/Stage",
         "Domain: equity, private equity, fund",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-04"
-    },
-    {
-      "id": "3a1b49bda6db",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-e603143ad931/candidate/so/pm/1/pl/1/opp/21241-2027-Investment-Banking-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-06-01",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -3703,6 +3733,32 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "998994b71759",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "IDI Summer 2027 Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969143101",
+      "posted_date": "2026-09-04",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout the Summer Internship Programme\nSuccessful candidates for the Summer Internship Programme will spend 12-weeks sat in AHL IDI. Within their allocated teams, interns will have the opportunity to understand a wide range of different strategies, investment approaches, and learn how their allocated business area fits within Man Group. Therefore, allowing the intern to develop a range of technical, analytical and soft skills. Please see additional details on each available business area below:\nAHL IDI:\nThe AHL Investment and Data Implementation team is responsible for leading changes to and managing AHL’s quantitative models, systematic trading systems, and alternative and market data across all traded asset classes. The team collaborates closely with portfolio managers, quantitative research, product structuring, technology, and external counterparties to ensure the accurate implementation and launch of new research ideas, funds, and asset classes, as well as the smooth operation of the end-to-end systematic trading process.\nThe open and collaborative nature of Man AHL makes",
+      "duration": "",
+      "requirements": "",
+      "source": "greenhouse",
+      "first_seen": "2026-09-04",
+      "is_new": true,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, portfolio, fund",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "23a3b6ea3191",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3871,6 +3927,34 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "81b9ebd93b95",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-45986c47f406/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "4ddccad034f9",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -3891,34 +3975,6 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: wealth management, sales, equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-04"
-    },
-    {
-      "id": "81b9ebd93b95",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-e603143ad931/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
       "excluded": false,
@@ -4879,6 +4935,33 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-45986c47f406/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "3d1d268bdde2",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -5215,33 +5298,6 @@
       "last_seen": "2026-09-04"
     },
     {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-e603143ad931/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-04"
-    },
-    {
       "id": "e61171cbfd9e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -5512,6 +5568,35 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
+      "id": "f7ab53957008",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Quant Researcher Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "posted_date": "2026-09-04",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout Man AHL:\nMan AHL is a team of researchers, developers and traders of systematic investment strategies. We apply scientific rigour and robust technology to diverse collections of data and hundreds of global markets. Through our innovative and collaborative culture, we aim to generate returns for our clients across a range of diversified products.\nThe open and collaborative nature of Man AHL makes it an ideal place to learn and develop as a Junior Quantitative Researcher. Successful candidates will have the opportunity to work on meaningful projects early on.\nAHL Quant Talent Programme\nThe Quant Talent Programme is designed to provide exposure to all the key areas required to build a successful systematic investment strategy with the ultimate goal of creating well-rounded quantitative researchers who are able to contribute across a wide range of areas. Successful candidates will undertake three 6-month rotations across a variety of quantitative functions covering areas such as alpha research, portfolio construction, execution research and risk management.\nA formal trainin",
+      "duration": "",
+      "requirements": "PhD, Masters or Bachelor’s Degree in  a quantitative subject\nDesire to learn and understand the structure and drivers of returns in financial markets\nA demonstrable interest in algorithmic trading, financial derivatives, and markets in general\nIndependent research experience\nPractical coding experience in a scripting language such as Python is preferred, though not essential\nAware of what statistical and mathematical tools and techniques are available and able to independently decide what is appropriate to use in which circumstances",
+      "source": "greenhouse",
+      "first_seen": "2026-09-04",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, trading, portfolio",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "⚠ Niveau requis: diplôme complété / Master"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": true,
       "last_seen": "2026-09-04"
     },
     {
@@ -6903,6 +6988,33 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "afa5568f97e9",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Full-Time Analyst Programme (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-45986c47f406/candidate/so/pm/1/pl/1/opp/21242-2027-Investment-Banking-Full-Time-Analyst-Programme-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-04",
+      "is_new": true,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-04"
+    },
+    {
       "id": "f2ba0e9bf14d",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -7335,7 +7447,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-04",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -7985,7 +8097,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-04",
-      "is_new": true,
+      "is_new": false,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -9393,12 +9505,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 279,
-    "new_today": 5,
-    "high_match": 182,
+    "total_jobs": 283,
+    "new_today": 4,
+    "high_match": 185,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 17,
+    "firms_empty": 16,
     "firms_total": 76
   }
 }
