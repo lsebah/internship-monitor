@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-09T15:29:20.338637+00:00",
+  "last_updated": "2026-09-09T19:03:36.563469+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 62,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "count": 63,
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "BBVA": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "count": 1,
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 27,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T15:29:20.338637+00:00"
+      "timestamp": "2026-09-09T19:03:36.563469+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1654,7 +1654,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1722,6 +1722,36 @@
         "Domain: wealth management, asset management, advisory",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-09"
+    },
+    {
+      "id": "d10906445b6f",
+      "bank": "BBVA",
+      "category": "Bank",
+      "title": "Corporate Debt Capital Markets (DCM) Internship",
+      "location": "BBVA, One Canada Square (44th Floor), Canary Wharf\n London, E14 5AA (UK)",
+      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/BBVA-One-Canada-Square-44th-Floor-Canary-Wharf--London-E14-5AA-UK/Corporate-Debt-Capital-Markets--DCM--Internship_JR00114354",
+      "posted_date": "Posted Today",
+      "description": "Excited to grow your career?\nBBVA is a global company with more than 160 years of history that operates in more than 25 countries where we serve more than 80 million customers. We are more than 121,000 professionals working in multidisciplinary teams with profiles as diverse as financiers, legal experts, data scientists, developers, engineers and designers.\nThe Corporate Debt Capital Markets (DCM) team within BBVA CIB London forms part of the Credit Europe Developed Markets franchise, advising top-tier European corporations on structuring, originating, and executing primary bond issuances. Operating as a core front-office hub in London, the team connects corporate issuers across developed markets with global institutional investors to meet their strategic funding needs. Working seamlessly alongside Syndicate, Coverage, and Sales & Trading, the franchise delivers bespoke debt financing solutions in a fast-paced, collaborative environment that actively combines deep capital markets expertise with modern technology, data analytics, and AI-driven innovation.\nAbout the job:\nAre you looking to kickstart your career in Investment Banking and financial markets?\nJoin our Corporate Debt Capital Markets (DCM) team within the Credit Europe Developed Markets division in London. You will closely support the team in the origination and execution of bond transactions for major corporate clients, gaining unique, hands-on exposure to a pan-European franchise and learning how different areas of an investment bank work together on high-profile transactions.\nWhat You Will Do\nOrigination & Execution Support:\nAssist in the preparation of client presentations, pitches, and financing proposals, including the analysis of funding alternatives and capital structure considerations.\nMarket & Financial Analysis:\nSupport the team by analysing clients’ financial profiles, credit metrics, liquidity, and debt maturity schedules, while monitoring primary and secondary markets, interest rates, and investor activity.\nPricing & Valuation Assistance:\nHelp perform relative value, pricing, and comparable issuer analyses to support strategic recommendations on transaction structure, timing, and tenor.\nTech & Process Optimization:\nProactively use AI, coding, and automation tools to streamline recurring processes, improve data analysis, and develop internal financial/market models.\nCross-functional Collaboration:\nSupport senior team members in day-to-day activities and ad hoc sector analyses, collabo",
+      "start_date": "2026-09-09",
+      "time_type": "",
+      "duration": "",
+      "requirements": "Education:\nLanguages:\nFluent English is mandatory. Knowledge of Italian and Spanish language skills is highly valued.\nKey Competencies:\nTech Savvy:\nWhat You Will Gain",
+      "source": "workday",
+      "first_seen": "2026-09-09",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, capital markets",
+        "Languages: English, Spanish",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
@@ -6430,6 +6460,34 @@
       "last_seen": "2026-09-09"
     },
     {
+      "id": "4ef200185cdb",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Capital Markets | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/184166",
+      "posted_date": "2026-09-09",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-09",
+      "is_new": true,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, capital markets",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-09"
+    },
+    {
       "id": "3d1d268bdde2",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -9292,7 +9350,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -11400,12 +11458,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 349,
+    "total_jobs": 351,
     "new_today": 2,
-    "high_match": 240,
+    "high_match": 242,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 18,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
