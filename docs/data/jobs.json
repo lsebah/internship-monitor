@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-09T12:15:58.699424+00:00",
+  "last_updated": "2026-09-09T15:29:20.338637+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 63,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "count": 62,
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 30,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "count": 31,
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 27,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-09T12:15:58.699424+00:00"
+      "timestamp": "2026-09-09T15:29:20.338637+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1624,7 +1624,7 @@
       "requirements": "Your time here will look something like this...\nDemonstrate ways to limit interest rates and credit risk through the use of derivatives.\nOriginate, market, structure, and execute fixed income and equity transactions.\nWork and interact with corporate clients\nContribute to overall fixed income and equity relationships\nWe want to hear from you if...",
       "source": "workday",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: London",
@@ -1632,6 +1632,36 @@
         "Domain: banking, investment banking, risk",
         "Level: Undergraduate",
         "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-09"
+    },
+    {
+      "id": "73422721c204",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Economie - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Economie---Janvier-2027_JR016433",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com.\nContexte\nRothschild & Co Asset Management, recherche un(e) stagiaire en économie pour un stage d’une durée de 6 mois. Le stage débutera en janvier 2027.\nAu sein de la division Wealth and Asset Management, l’équipe de recherche en économie est responsable de l’élaboration d’un scénario, intégrant perspectives de croissance et facteurs de risques pour les grands pays développés et émergents.\nMissions\nDirectement rattaché(e) à notre Chef Économiste – Directeur de la recherche, vous contribuerez :\nà la gestion des outils d’analyse (notamment bases de donnProfilées) employés dans le cadre de l’activité de l’équipe\naux recherches sur des sujets clés de l’économie mondiale qui donneront lieu par la suite à des publications (rédigés en français et en anglais)\nà la publication de documents de suivi et d’analyse de l’actualité économique à destination des clients du groupe et en interne pour les Comités d’Investiss",
+      "start_date": "2026-09-09",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-09",
+      "is_new": true,
+      "match_score": 100,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "excellent",
@@ -1654,7 +1684,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -1684,7 +1714,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 100,
       "match_reasons": [
         "Location: Paris",
@@ -7812,7 +7842,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-09",
-      "is_new": true,
+      "is_new": false,
       "match_score": 55,
       "match_reasons": [
         "Location: London",
@@ -8292,33 +8322,6 @@
       "last_seen": "2026-09-09"
     },
     {
-      "id": "b15defd1d881",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Wealth Management, Product Management and Design | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170935",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: wealth management"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-09"
-    },
-    {
       "id": "769b6e44ea85",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -8352,6 +8355,33 @@
       "title": "2027 | EMEA | London | Asset and Wealth Management Quantitative Strats | Summer Analyst",
       "location": "London, Greater London, England, United Kingdom",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/175421",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-15",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-09"
+    },
+    {
+      "id": "b15defd1d881",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Wealth Management, Product Management and Design | Summer Analyst",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170935",
       "posted_date": "2026-08-15",
       "description": " ",
       "start_date": "",
@@ -9248,10 +9278,10 @@
       "last_seen": "2026-09-04"
     },
     {
-      "id": "b1efcdf937d1",
+      "id": "54781111f6b2",
       "bank": "JP Morgan",
       "category": "Investment Bank",
-      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
       "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
       "posted_date": "2026-08-31",
@@ -9261,8 +9291,8 @@
       "duration": "",
       "requirements": "",
       "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
+      "first_seen": "2026-09-09",
+      "is_new": true,
       "match_score": 45,
       "match_reasons": [
         "Location: London",
@@ -9438,6 +9468,32 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
       "posted_date": "2026-08-31",
       "description": "Spend your summer in one of our key business areas.",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-09"
+    },
+    {
+      "id": "b1efcdf937d1",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
+      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
+      "posted_date": "2026-08-31",
+      "description": "Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.",
       "start_date": "",
       "time_type": "",
       "duration": "",
@@ -11344,9 +11400,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 347,
-    "new_today": 4,
-    "high_match": 239,
+    "total_jobs": 349,
+    "new_today": 2,
+    "high_match": 240,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 18,
