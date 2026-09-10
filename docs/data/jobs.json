@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-10T12:10:15.157932+00:00",
+  "last_updated": "2026-09-10T15:24:35.644373+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 63,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "count": 61,
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 27,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "count": 0,
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "count": 13,
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 27,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-10T12:10:15.157932+00:00"
+      "timestamp": "2026-09-10T15:24:35.644373+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2616,35 +2616,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "edfc3d1c8bca",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Summer Associate, London – United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Summer-Associate--London---United-Kingdom-2027_26992463",
-      "posted_date": "Posted 3 Days Ago",
-      "description": "Citi's Banking division is actively seeking highly motivated Summer Associate Interns to join its distinguished Investment Banking team in London. This intensive 10-week program offers an unparalleled opportunity to engage with a broad spectrum of financial services, extending beyond traditional advisory roles to encompass comprehensive global solutions for clients worldwide. The Investment Banking team specializes in mergers & acquisitions, divestitures, financial restructurings, takeover defense, and the underwriting and distribution of equity, debt, and derivative securities.\nThe Summer Associate program commences in June 2027, beginning with a mandatory one-week \"Introduction to Citi\" and an in-depth training curriculum. This training is meticulously designed and delivered by some of Citi's most accomplished Investment Bankers, providing participants with a robust foundation in Citi's products, services, and corporate culture. It also serves as a crucial networking platform, fostering connections among peers from diverse global backgrounds. Following the initial training, associates will be strategically placed within an industry group – FIG, Industrials, NRCET, TMT: Comms or TMT: Tech for the subsequent nine weeks. These allocations are determined prior to the program's start, taking into account both individual interests and critical business requirements.\nResponsibilities\nConduct in-depth industry analysis and comprehensive research to provide astute and actionable advice to corporate clients\nEfficiently manage multiple complex banking projects, demonstrating exceptional time management and stakeholder expectation alignment\nDevelop compelling and professional new business presentations tailored to diverse client needs\nCollaborate closely with Managing Directors and Directors to cultivate and sustain strong, long-term client relationships\nAdditional Requirements\nA profound desire to cultivate a comprehensive understanding of the intricate financial industry landscape\nExhibit intellectual curiosity and a proactive approach in the pursuit of innovative and creative solutions\nDemonstrate superior communication, meticulous planning, and robust organizational capabilities\nA steadfast commitment to continuous personal growth and career development, including adaptability and flexibility. This encompasses a strong eagerness to learn, a proactive disposition, and an aptitude for building rapport and fostering collaborative team environments\nUnwavering commit",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "A profound desire to cultivate a comprehensive understanding of the intricate financial industry landscape\nExhibit intellectual curiosity and a proactive approach in the pursuit of innovative and creative solutions\nDemonstrate superior communication, meticulous planning, and robust organizational capabilities\nUnwavering commitment to upholding integrity and making ethical decisions in all professional endeavours\nA genuine and keen interest in the broader business environment\nQualifications",
-      "source": "workday",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, equity",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "4281cd23b217",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2667,36 +2638,6 @@
         "Domain: finance, wealth management, asset management",
         "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "88419673311c",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations Client Administration Stage - Janvier 2027 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Administration-Stage---Janvier-2027---Paris--H-F-_JR1002118",
-      "posted_date": "Posted 3 Days Ago",
-      "description": "Département : Relation Investisseur\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe Rôle\nAu sein de l’équipe Relations Investisseurs, Le stagiaire sera rattaché au département Client Administration composé de 5 personnes. Les principales missions seront les suivantes :\nGestion et traitement des audits confirmations\nGestion de l’envoi des lettres de catégorisation client à la signature des bulletins de souscription.\nSuivi des appels de fonds et relance paiements\nGestion des accès au portail investisseurs Ardian Trustview\nSuivi des demandes clients faites auprès des administrateurs afin de s’assurer qu’ils répondent dans les délais impartis.\nCompétences requises\nRigoureux\nOrganisé\nProactif\nAisance orale et rédactionnelle\nLa maîtrise de l’anglais est indispensable\nEsprit d’équipe\nCapacité d’analyse\nMotivé et enthousiaste\nProfil\nEtudiant en Mastère Relation Clientèle ou Bachelor Business & Administration\nUne première expérience avec un CRM est appréciée\nA propos de l’équipe\nAu sein de l’équipe Relations Investisseurs, l’équipe Client Administration administre la base client ainsi que le portail investisseur, Ardian Trustview. Elle a également la charge de répondre à toutes les requêtes qualitatives des investisseurs et équipes en interne.\nAutres informations\nCV + Lettre de motivation obligatoire\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 90,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: audit",
-        "Level: Undergraduate",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -3018,6 +2959,36 @@
         "Domain: finance, risk, trading",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "88419673311c",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Client Administration Stage - Janvier 2027 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Client-Administration-Stage---Janvier-2027---Paris--H-F-_JR1002118",
+      "posted_date": "Posted Today",
+      "description": "Département : Relation Investisseur\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe Rôle\nAu sein de l’équipe Relations Investisseurs, Le stagiaire sera rattaché au département Client Administration composé de 5 personnes. Les principales missions seront les suivantes :\nGestion et traitement des audits confirmations\nGestion de l’envoi des lettres de catégorisation client à la signature des bulletins de souscription.\nSuivi des appels de fonds et relance paiements\nGestion des accès au portail investisseurs Ardian Trustview\nSuivi des demandes clients faites auprès des administrateurs afin de s’assurer qu’ils répondent dans les délais impartis.\nCompétences requises\nRigoureux\nOrganisé\nProactif\nAisance orale et rédactionnelle\nLa maîtrise de l’anglais est indispensable\nEsprit d’équipe\nCapacité d’analyse\nMotivé et enthousiaste\nProfil\nEtudiant en Mastère Relation Clientèle ou Bachelor Business & Administration\nUne première expérience avec un CRM est appréciée\nA propos de l’équipe\nAu sein de l’équipe Relations Investisseurs, l’équipe Client Administration administre la base client ainsi que le portail investisseur, Ardian Trustview. Elle a également la charge de répondre à toutes les requêtes qualitatives des investisseurs et équipes en interne.\nAutres informations\nCV + Lettre de motivation obligatoire\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-09-10",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 90,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: audit",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
       ],
       "match_class": "excellent",
       "excluded": false,
@@ -3431,64 +3402,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "64abbe5c3e75",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "e1aa2bd36a8d",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales and Trading Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 80,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "f85e4cbd5177",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -3678,6 +3591,64 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: equity, private equity, fund",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "64abbe5c3e75",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "e1aa2bd36a8d",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales and Trading Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "excellent",
@@ -4405,6 +4376,119 @@
       "last_seen": "2026-09-10"
     },
     {
+      "id": "c51947eec5ac",
+      "bank": "Bank of America",
+      "category": "Investment Bank",
+      "title": "Global Capital Markets 2027, Off-Cycle Analyst (Leveraged Finance) – London",
+      "location": "London United Kingdom",
+      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14874-Global-Capital-Markets-2027-Off-Cycle-Analyst-Leveraged-Finance-London/en-GB",
+      "posted_date": "",
+      "description": "Global Capital Markets 2027, Off-Cycle Analyst (Leveraged Finance) London, United Kingdom About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Respo",
+      "start_date": "",
+      "time_type": "Off-cycle internship",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Domain: finance, capital markets, leveraged finance",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "743cd0164b30",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nSummer Analysts in\nin Private Credit Strategies gain exposure and participate in a wide range of European C",
+      "start_date": "2026-08-20",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
+      "source": "workday",
+      "first_seen": "2026-08-21",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "ef72728e7ab3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
+      "start_date": "2026-07-31",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "3c68a19025d4",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone\nReal Estate Institutional Client Solutions\nSummer Analyst\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nThe Summer Analyst will join Blackstone Real Estate’s\nInstitutional Client Solutions (\n‘\nICS\n’\n)\nProduct Specialist team in London. This team\nis responsible for\nsupporting the global capital raising efforts for the Real Estate business and\nmaintaining\nmarketing materials and investor communications for Blackstone’s Real Estate funds. The Summer Analyst will focus specifically on Blackstone Real Estate’s European funds and wi",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior\nendeavours\nThe successful candidate must",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 75,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
       "id": "4afd6bda4507",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -4570,119 +4654,6 @@
         "Type: Internship/Stage",
         "Domain: trading",
         "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "c51947eec5ac",
-      "bank": "Bank of America",
-      "category": "Investment Bank",
-      "title": "Global Capital Markets 2027, Off-Cycle Analyst (Leveraged Finance) – London",
-      "location": "London United Kingdom",
-      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14874-Global-Capital-Markets-2027-Off-Cycle-Analyst-Leveraged-Finance-London/en-GB",
-      "posted_date": "",
-      "description": "Global Capital Markets 2027, Off-Cycle Analyst (Leveraged Finance) London, United Kingdom About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Respo",
-      "start_date": "",
-      "time_type": "Off-cycle internship",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: London",
-        "Domain: finance, capital markets, leveraged finance",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "743cd0164b30",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nSummer Analysts in\nin Private Credit Strategies gain exposure and participate in a wide range of European C",
-      "start_date": "2026-08-20",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
-      "source": "workday",
-      "first_seen": "2026-08-21",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "ef72728e7ab3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
-      "start_date": "2026-07-31",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "3c68a19025d4",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Institutional Client Solutions Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Institutional-Client-Solutions-Summer-Analyst--London-_43188",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone\nReal Estate Institutional Client Solutions\nSummer Analyst\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nThe Summer Analyst will join Blackstone Real Estate’s\nInstitutional Client Solutions (\n‘\nICS\n’\n)\nProduct Specialist team in London. This team\nis responsible for\nsupporting the global capital raising efforts for the Real Estate business and\nmaintaining\nmarketing materials and investor communications for Blackstone’s Real Estate funds. The Summer Analyst will focus specifically on Blackstone Real Estate’s European funds and wi",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior\nendeavours\nThe successful candidate must",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 75,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "good",
@@ -5169,6 +5140,60 @@
       "last_seen": "2026-09-10"
     },
     {
+      "id": "afd7af9c4f3d",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Technology and Innovations (BXTI), Software Engineer Summer Analyst\nBlackstone Real Estate\nBlackstone Technology & Innovations (BXTI) is the technology organization that powers one of the world's leading alternative asset managers. We build platforms, applications, data systems, and automation capabilities that help Blackstone operate at scale, make investment decisions, manage risk, and deliver value to investors and portfolio companies.\nAt BXTI, engineers work directly on business-critical systems that support Blackstone's global operations. Our teams are highly collaborative, entrepreneurial, and focused on solving complex problems with technology. Interns are treated as engineers from day one and are given opportunities to contribute meaningful work alongside experienced developers, architects, and product teams.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nAs a Summer Analyst in Software Engineering, you will help design, build, and support technology solutions used across Blackstone's businesses. Depending on team placement, you may work on software applications, cloud platforms, data systems, infrastructure automation, AI-enabled solutions, or internal developer platforms.\nYou will collaborate with engineers, product managers, data practitioners, and business stakeholders to solve real-world problems and deliver solutions that are scalable, resilient, and impactful.\nOur teams leverage modern software engineering practices, cloud technologies, automation, and data platforms, including AI-assisted development to",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks individuals who are highly motivated, intellectually curious, and excited by solving challenging problems through technology.\nSuccessful candidates will demonstrate:\nStrong programming fundamentals in any modern programming language\nAnalytical thinking and problem-solving skills\nInterest in software engineering, cloud computing, data systems, or platform technologies\nAbility to work effectively within collaborative teams",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -5246,60 +5271,6 @@
         "Type: Internship/Stage",
         "Domain: trading, sales",
         "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "afd7af9c4f3d",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Technology and Innovations (BXTI), Software Engineer Summer Analyst\nBlackstone Real Estate\nBlackstone Technology & Innovations (BXTI) is the technology organization that powers one of the world's leading alternative asset managers. We build platforms, applications, data systems, and automation capabilities that help Blackstone operate at scale, make investment decisions, manage risk, and deliver value to investors and portfolio companies.\nAt BXTI, engineers work directly on business-critical systems that support Blackstone's global operations. Our teams are highly collaborative, entrepreneurial, and focused on solving complex problems with technology. Interns are treated as engineers from day one and are given opportunities to contribute meaningful work alongside experienced developers, architects, and product teams.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nAs a Summer Analyst in Software Engineering, you will help design, build, and support technology solutions used across Blackstone's businesses. Depending on team placement, you may work on software applications, cloud platforms, data systems, infrastructure automation, AI-enabled solutions, or internal developer platforms.\nYou will collaborate with engineers, product managers, data practitioners, and business stakeholders to solve real-world problems and deliver solutions that are scalable, resilient, and impactful.\nOur teams leverage modern software engineering practices, cloud technologies, automation, and data platforms, including AI-assisted development to",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks individuals who are highly motivated, intellectually curious, and excited by solving challenging problems through technology.\nSuccessful candidates will demonstrate:\nStrong programming fundamentals in any modern programming language\nAnalytical thinking and problem-solving skills\nInterest in software engineering, cloud computing, data systems, or platform technologies\nAbility to work effectively within collaborative teams",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: wealth management, sales, equity"
       ],
       "match_class": "good",
       "excluded": false,
@@ -5786,90 +5757,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "256b0e9ceb98",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "7716a078e416",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "220a790a422a",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Finance Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 65,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "f9c3401e8e24",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -6059,6 +5946,90 @@
         "Type: Internship/Stage",
         "Domain: banking, investment banking",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "256b0e9ceb98",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Summer Analyst Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "7716a078e416",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "220a790a422a",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Quantitative Finance Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 65,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -6365,88 +6336,6 @@
         "Type: Internship/Stage",
         "Domain: wealth management, capital markets",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "39c308f067ae",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: capital markets",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "39b21940bd87",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship – Parametric EMEA (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -6783,6 +6672,88 @@
         "Domain: banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "39c308f067ae",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: capital markets",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "39b21940bd87",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship – Parametric EMEA (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "good",
       "excluded": false,
@@ -7201,60 +7172,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "37f43abae142",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "9d48d5d80312",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales &amp; Trading Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21502-2027-Sales-Trading-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 55,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "7032d7ba88c3",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -7385,6 +7302,60 @@
         "Domain: capital markets",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "37f43abae142",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "9d48d5d80312",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales &amp; Trading Summer Analyst Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21502-2027-Sales-Trading-Summer-Analyst-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -7797,6 +7768,33 @@
       "last_seen": "2026-09-10"
     },
     {
+      "id": "c5d7eb586f35",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | London | Asset Management, Infrastructure Private Equity | Seasonal/Off-Cycle",
+      "location": "London, Greater London, England, United Kingdom",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/183954",
+      "posted_date": "2026-09-10",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-10",
+      "is_new": true,
+      "match_score": 55,
+      "match_reasons": [
+        "Location: London",
+        "Domain: asset management, equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
       "id": "64a4bfb9f7c1",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -7886,60 +7884,6 @@
       "last_seen": "2026-09-07"
     },
     {
-      "id": "d7edcf65d485",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Financial Resources &amp; Strategy Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21513-2027-Financial-Resources-Strategy-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: strategy"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "7f393e8d38cc",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Internal Audit Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: audit"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "b5eb7618cd17",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -8014,6 +7958,60 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: research"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "d7edcf65d485",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Financial Resources &amp; Strategy Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21513-2027-Financial-Resources-Strategy-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: strategy"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "7f393e8d38cc",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Internal Audit Summer Analyst Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -8724,32 +8722,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "9fe45823eb3d",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Technology Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21520-2027-Technology-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 45,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "f2ba0e9bf14d",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -8816,6 +8788,32 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 45,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "9fe45823eb3d",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Technology Summer Analyst Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21520-2027-Technology-Summer-Analyst-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
       "is_new": false,
       "match_score": 45,
       "match_reasons": [
@@ -9561,32 +9559,6 @@
       "last_seen": "2026-09-10"
     },
     {
-      "id": "d4043b78df6e",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Finance Industrial Placement Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21503-2027-Finance-Industrial-Placement-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Domain: finance"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
       "id": "9b82914b9f43",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -9632,6 +9604,32 @@
       "match_reasons": [
         "Location: London",
         "Domain: audit"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-10"
+    },
+    {
+      "id": "d4043b78df6e",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Finance Industrial Placement Programme (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21503-2027-Finance-Industrial-Placement-Programme-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Domain: finance"
       ],
       "match_class": "low",
       "excluded": false,
@@ -9758,31 +9756,6 @@
       "source": "oleeo",
       "first_seen": "2026-09-07",
       "is_new": false,
-      "match_score": 25,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-10"
-    },
-    {
-      "id": "785c9f32457d",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Technology Full Time Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4aed7b6cb95a/candidate/so/pm/1/pl/1/opp/21521-2027-Technology-Full-Time-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-10",
-      "is_new": true,
       "match_score": 25,
       "match_reasons": [
         "Location: London"
@@ -11290,12 +11263,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 345,
+    "total_jobs": 344,
     "new_today": 1,
-    "high_match": 238,
+    "high_match": 237,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 16,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
