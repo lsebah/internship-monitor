@@ -7,7 +7,10 @@ into the pipeline like scraped jobs: scored by the matcher, deduped, and shown
 on the dashboard. Update this list when the weekly review surfaces new leads;
 remove an entry once its posting closes.
 
-Each entry needs at least: bank, title, location, url. The description text is
+Each entry needs at least: bank, title, location, url. Add "deadline"
+(YYYY-MM-DD) whenever the posting states an application cut-off — the
+pipeline marks the offer expired past that date instead of leaving a dead
+lead sitting at the top of the ranking. The description text is
 used by the matcher, so keep it faithful to the real posting (domain, duration,
 start month) — do NOT invent an eligibility level that isn't stated.
 """
@@ -22,6 +25,7 @@ CURATED_OFFERS = [
         "url": "https://evercore.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-6/xf-b317e3c9c730/candidate/so/pm/1/pl/2/opp/3145-Paris-Off-Cycle-Internship-Telecoms-Team-January-June-2027/en-GB",
         "start_date": "2027-01",
         "duration": "6-month off-cycle internship",
+        "deadline": "2026-09-19",
         "description": "Off-cycle investment banking internship, Telecoms M&A advisory team, January to June 2027, 6 months. Open to penultimate-year students. Deadline 19/09/2026.",
     },
     {
@@ -94,6 +98,7 @@ CURATED_OFFERS = [
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=348155",
         "start_date": "2027-01",
         "duration": "6-month off-cycle internship",
+        "deadline": "2026-08-03",
         "description": "Global Banking (investment banking / advisory) off-cycle internship 2027, London. Application window closes 3 August 2026. Open to penultimate-year students.",
     },
     {
@@ -104,6 +109,7 @@ CURATED_OFFERS = [
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=348157",
         "start_date": "2027-01",
         "duration": "6-month off-cycle internship",
+        "deadline": "2026-08-03",
         "description": "Global Wealth Management off-cycle internship 2027, London. Closes 3 August 2026. Wealth management / private banking. Open to penultimate-year students.",
     },
 ]

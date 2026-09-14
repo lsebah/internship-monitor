@@ -36,6 +36,15 @@ LEVEL_OK_RX = re.compile(
 )
 
 
+# Sum of every category's maximum: location 30 + intern type 20 + domain 25
+# + languages 15 + education 10 + duration 15 + start 15 + markets 10 +
+# preferred track 10. The raw score is normalised against this so the final
+# number is a true percentage of a perfect match. Before normalisation the raw
+# total overflowed 100 and almost everything capped out, making "high match"
+# meaningless (68% of offers qualified).
+MAX_RAW_SCORE = 150
+
+
 def score_job(job: dict) -> dict:
     """Score a job listing against the candidate profile.
     Returns dict with score (0-100) and match reasons."""
@@ -172,8 +181,8 @@ def score_job(job: dict) -> dict:
         score = max(0, score - 45)
         reasons.append("⚠ Niveau requis: diplôme complété / Master")
 
-    # Cap at 100
-    score = min(100, score)
+    # Normalise to a percentage of a perfect match (see MAX_RAW_SCORE).
+    score = min(100, round(score / MAX_RAW_SCORE * 100))
 
     return {
         "score": score,
@@ -185,12 +194,12 @@ def score_job(job: dict) -> dict:
 
 def classify_match(score: int) -> str:
     """Classify match quality."""
-    if score >= 80:
+    if score >= 78:
         return "excellent"
-    elif score >= 60:
+    elif score >= 65:
         return "good"
-    elif score >= 40:
+    elif score >= 45:
         return "moderate"
-    elif score >= 20:
+    elif score >= 25:
         return "low"
     return "minimal"
