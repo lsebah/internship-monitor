@@ -45,7 +45,7 @@
             <div class="stat-number" id="statNew">-</div>
             <div class="stat-label">New Today</div>
         </button>
-        <button class="stat-card stat-clickable" data-stat="match" onclick="statFilter('match')" title="Filtrer sur match >= 70">
+        <button class="stat-card stat-clickable" data-stat="match" onclick="statFilter('match')" title="Filtrer sur match >= 65 (offres fortement alignees)">
             <div class="stat-number" id="statMatch">-</div>
             <div class="stat-label">High Match</div>
         </button>
@@ -89,9 +89,9 @@
             </select>
             <select id="filterMatch" class="filter-select">
                 <option value="">All Scores</option>
-                <option value="80">Excellent (80+)</option>
-                <option value="60">Good (60+)</option>
-                <option value="40">Moderate (40+)</option>
+                <option value="78">Excellent (78+)</option>
+                <option value="65">Good (65+)</option>
+                <option value="45">Moderate (45+)</option>
             </select>
             <label class="toggle-label">
                 <input type="checkbox" id="filterNew"> New only
@@ -104,6 +104,9 @@
             </label>
             <label class="toggle-label" title="Masque les offres exigeant un diplôme déjà obtenu / un Master / la dernière année — non éligibles pour une 3e année de BBA">
                 <input type="checkbox" id="filterEligible" checked> Éligible BBA
+            </label>
+            <label class="toggle-label" title="Masque les offres dont la date limite de candidature est dépassée">
+                <input type="checkbox" id="filterHideExpired" checked> Masquer expirées
             </label>
             <label class="toggle-label">
                 <input type="checkbox" id="hideApplied" checked> Masquer Applied

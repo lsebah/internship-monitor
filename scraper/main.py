@@ -17,7 +17,24 @@ from matcher import score_job, classify_match
 from curated import CURATED_OFFERS
 
 
-def build_curated_jobs() -> list:
+def _is_expired(offer: dict, today: str) -> bool:
+    """True when a curated lead can no longer be applied to.
+
+    Two signals: an explicit application ``deadline`` that has passed, or a
+    ``start_date`` month that is already behind us. Without this the curated
+    list never ages — e.g. the UBS 2027 off-cycle roles (deadline 3 Aug 2026)
+    kept sitting at the top of the ranking weeks after they closed.
+    """
+    deadline = (offer.get("deadline") or "").strip()
+    if deadline and deadline < today:
+        return True
+    start = (offer.get("start_date") or "").strip()
+    if len(start) >= 7 and start[:7] < today[:7]:
+        return True
+    return False
+
+
+def build_curated_jobs(today: str = None) -> list:
     """Turn the hand-curated review leads into job dicts for the pipeline.
 
     These are firms the scrapers cannot read (direct_link / gated boards), so
@@ -25,9 +42,14 @@ def build_curated_jobs() -> list:
     job — scored, deduped and displayed. Re-added every run, so they never get
     purged as stale.
     """
+    if today is None:
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     jobs = []
     for o in CURATED_OFFERS:
+        expired = _is_expired(o, today)
         jobs.append({
+            "expired": expired,
+            "deadline": o.get("deadline", ""),
             "id": make_job_id(o["bank"], o["title"], o.get("location", "")),
             "bank": o["bank"],
             "category": o.get("category", ""),
@@ -129,6 +151,11 @@ def merge_jobs(existing_jobs: list, new_jobs: list, today: str) -> list:
         job["match_class"] = classify_match(match["score"])
         job["excluded"] = match.get("excluded", False)
         job["level_mismatch"] = match.get("level_mismatch", False)
+        # A closed posting must not hold a top rank however well it matches.
+        if job.get("expired"):
+            job["match_score"] = min(job["match_score"], 20)
+            job["match_class"] = classify_match(job["match_score"])
+            job["match_reasons"] = ["⚠ Offre expirée (deadline dépassée)"] + job["match_reasons"]
         job["last_seen"] = today
 
         merged[jid] = job
@@ -239,7 +266,7 @@ def main():
             failures.append(f"  - {firm['name']} ({scraper_type}): {type(e).__name__}: {e}")
 
     # Add hand-curated leads from the review (firms the scrapers can't read).
-    curated = build_curated_jobs()
+    curated = build_curated_jobs(today)
     all_new_jobs.extend(curated)
     logger.info(f"Added {len(curated)} curated offers from the review")
 
@@ -254,7 +281,7 @@ def main():
 
     # Calculate stats
     new_today = sum(1 for j in display_jobs if j.get("is_new", False))
-    high_match = sum(1 for j in display_jobs if j.get("match_score", 0) >= 60)
+    high_match = sum(1 for j in display_jobs if j.get("match_score", 0) >= 65)
 
     # Build output
     output = {

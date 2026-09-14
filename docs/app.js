@@ -346,6 +346,7 @@ function getFilters() {
         afterSept2026: document.getElementById('filterAfterSept2026')?.checked ?? false,
         jan2027Only: document.getElementById('filterJan2027')?.checked ?? false,
         eligibleOnly: document.getElementById('filterEligible')?.checked ?? false,
+        hideExpired: document.getElementById('filterHideExpired')?.checked ?? false,
         hideApplied: document.getElementById('hideApplied')?.checked ?? false,
         hideTrashed: document.getElementById('hideTrashed')?.checked ?? false,
     };
@@ -463,6 +464,7 @@ function filterJobs(jobs) {
         if (f.afterSept2026 && !startsAfterSept2026(job)) return false;
         if (f.jan2027Only && !startsJan2027(job)) return false;
         if (f.eligibleOnly && job.level_mismatch) return false;
+        if (f.hideExpired && job.expired) return false;
         return true;
     });
 }
@@ -497,6 +499,7 @@ function renderJobs() {
         const isNew = job.is_new ? '<span class="badge-new">NEW</span>' : '';
         const levelWarn = job.level_mismatch ? '<span class="badge-level" title="Exige un diplôme complété / Master / dernière année — non éligible en 3e année de BBA">NIVEAU ⚠</span>' : '';
         const curated = job.source === 'curated' ? '<span class="badge-curated" title="Lead ajouté manuellement depuis la revue (firme non scrapable automatiquement)">★ Rapport</span>' : '';
+        const expired = job.expired ? '<span class="badge-expired" title="Date limite de candidature dépassée">EXPIRÉE</span>' : '';
         const newClass = job.is_new ? 'is-new' : '';
 
         const reqList = (job.requirements || '').trim()
@@ -521,6 +524,7 @@ function renderJobs() {
                     <span class="job-category-tag">${escHtml(job.category)}</span>
                     ${isNew}
                     ${curated}
+                    ${expired}
                     ${levelWarn}
                     ${applied ? '<span class="badge-applied">POSTULE</span>' : ''}
                 </div>
@@ -921,7 +925,7 @@ function setupListeners() {
     ['searchInput', 'filterCity', 'filterCategory', 'filterMatch'].forEach(id => {
         document.getElementById(id).addEventListener('input', renderJobs);
     });
-    ['filterNew', 'filterAfterSept2026', 'filterJan2027', 'filterEligible', 'hideApplied', 'hideTrashed'].forEach(id => {
+    ['filterNew', 'filterAfterSept2026', 'filterJan2027', 'filterEligible', 'filterHideExpired', 'hideApplied', 'hideTrashed'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.addEventListener('change', renderJobs);
     });
@@ -969,7 +973,7 @@ function statFilter(kind) {
         switchTab('jobs');
         renderJobs();
     } else if (kind === 'match') {
-        if (match) match.value = '80';
+        if (match) match.value = '65';
         if (isNew) isNew.checked = false;
         switchTab('jobs');
         renderJobs();
