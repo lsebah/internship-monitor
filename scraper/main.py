@@ -193,6 +193,19 @@ def merge_jobs(existing_jobs: list, new_jobs: list, today: str) -> list:
 
         if days_since <= 14:
             job["is_new"] = False
+            # Re-score retained jobs too: otherwise an offer that simply wasn't
+            # returned by today's scrape keeps whatever score the matcher gave
+            # it when it was last seen, so scoring changes only reach the
+            # listing gradually and old-scale scores linger at the top.
+            match = score_job(job)
+            job["match_score"] = match["score"]
+            job["match_reasons"] = match["reasons"]
+            job["match_class"] = classify_match(match["score"])
+            job["excluded"] = match.get("excluded", False)
+            job["level_mismatch"] = match.get("level_mismatch", False)
+            if job.get("expired"):
+                job["match_score"] = min(job["match_score"], 20)
+                job["match_class"] = classify_match(job["match_score"])
             merged[jid] = job
 
     return list(merged.values())
