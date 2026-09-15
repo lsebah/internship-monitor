@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-15T12:36:00.997959+00:00",
+  "last_updated": "2026-09-15T15:51:04.599014+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "BBVA": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "count": 0,
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-15T12:36:00.997959+00:00"
+      "timestamp": "2026-09-15T15:51:04.599014+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2937,7 +2937,7 @@
       "requirements": "Analysts play a critical role in meeting the needs of our clients and prospects, including:\nConducting company research and industry analysis\nAnalysing financial data and performing financial modelling focused on company valuations, discounted cash flow analysis, and pro-forma analyses\nTaking ownership of the client experience, including partnering with Bankers and Product teams to determine which products to leverage in order to help clients achieve their goals\nPlaying a role in deal management and client presentation preparation, including creating business development presentations, pitch b",
       "source": "workday",
       "first_seen": "2026-09-15",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -4346,7 +4346,7 @@
       "requirements": "Ability to write efficient, effective computer code (Python)\nExperience with translating statistical models and algorithms into code\nComfort in working with large datasets\nInquisitive nature, desire to learn and critical thinking\nEffective communication and collaboration skills\nCuriosity, critical thinking, learning agility, and sound judgement in technology-enabled decision making, coupled with an enthusiasm for AI, emerging technologies, and continuous innovation",
       "source": "workday",
       "first_seen": "2026-09-15",
-      "is_new": true,
+      "is_new": false,
       "match_score": 53,
       "match_reasons": [
         "Location: London",
@@ -8775,7 +8775,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-15",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -9283,10 +9283,10 @@
       "last_seen": "2026-09-15"
     },
     {
-      "id": "d8d854eca98e",
+      "id": "21cbedc76419",
       "bank": "JP Morgan",
       "category": "Investment Bank",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow & London",
+      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
       "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
       "posted_date": "2026-08-31",
@@ -9296,8 +9296,8 @@
       "duration": "",
       "requirements": "",
       "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
+      "first_seen": "2026-09-15",
+      "is_new": true,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -9447,6 +9447,32 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
       "posted_date": "2026-08-31",
       "description": "Spend your summer in one of our key business areas.",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-15"
+    },
+    {
+      "id": "d8d854eca98e",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Data & AI - Summer Internship -  Glasgow & London",
+      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
+      "posted_date": "2026-08-31",
+      "description": " \nLead impactful data and intelligence solutions as a Summer Analyst, turning business goals into measurable, end to end outcomes.\n",
       "start_date": "",
       "time_type": "",
       "duration": "",
@@ -11419,12 +11445,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 349,
-    "new_today": 3,
+    "total_jobs": 350,
+    "new_today": 1,
     "high_match": 47,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 17,
+    "firms_empty": 18,
     "firms_total": 76
   }
 }
