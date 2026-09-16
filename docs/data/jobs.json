@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-16T12:32:09.513977+00:00",
+  "last_updated": "2026-09-16T15:42:35.551226+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "count": 14,
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 8,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 31,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "count": 32,
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 29,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-16T12:32:09.513977+00:00"
+      "timestamp": "2026-09-16T15:42:35.551226+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -576,7 +576,7 @@
       "requirements": "Who we think will be a great fit...",
       "source": "workday",
       "first_seen": "2026-09-16",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
@@ -701,7 +701,7 @@
       "requirements": "We're committed to teaching you the ropes. The 6 month programme starts in February, you will be placed with a Corporate Banking team to work with for the duration of the program.\nYour time here will look something like this...\nConduct accounting and financial statement analysis, cash flow modelling, and capital markets analysis.\nComplete fundamental risk and credit analysis .\nLiaise with product partners.\nAssist in the presentation and development of new ideas to clients.",
       "source": "workday",
       "first_seen": "2026-09-16",
-      "is_new": true,
+      "is_new": false,
       "match_score": 77,
       "match_reasons": [
         "Location: London",
@@ -1387,6 +1387,36 @@
       "last_seen": "2026-09-16"
     },
     {
+      "id": "f8e52f1886b8",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Conformité Banque d'Affaires - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Banque-d-Affaires---Janvier-2027_JR016466",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, recherche un(e) stagiaire au sein de l’équipe Conformité Banque d’Affaires  (M&A, financial advisory, sovereign advisory) pour une durée de 6 mois à partir de janvier 2027.\nDirectement rattaché(e) au Directeur de la Conformité de la Banque d’Affaires, vous intègrere",
+      "start_date": "2026-09-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-16",
+      "is_new": true,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, M&A",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-16"
+    },
+    {
       "id": "c3f6f9ee0635",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -1687,36 +1717,6 @@
       "last_seen": "2026-09-16"
     },
     {
-      "id": "cca820f9645e",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Summer-Analyst--London---United-Kingdom-2027_26992197",
-      "posted_date": "Posted 9 Days Ago",
-      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for summer analysts to join the Investment Banking team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June and begins with a one week training program in London. After which you’ll be assigned to an industry or product coverage group, where you’ll focus on financial analysis and business development. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyze company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyze financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential)\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their ",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this:\nCollect and analyze company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyze financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
-      "source": "workday",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, capital markets",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "5c9af7ed11ca",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1799,6 +1799,36 @@
         "Domain: wealth management, asset management, advisory",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-16"
+    },
+    {
+      "id": "cca820f9645e",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Summer Analyst, London – United Kingdom 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Summer-Analyst--London---United-Kingdom-2027_26992197",
+      "posted_date": "Posted 9 Days Ago",
+      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for summer analysts to join the Investment Banking team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June and begins with a one week training program in London. After which you’ll be assigned to an industry or product coverage group, where you’ll focus on financial analysis and business development. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyze company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyze financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential)\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their ",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Your time here will look something like this:\nCollect and analyze company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyze financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
+      "source": "workday",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, capital markets",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -4371,9 +4401,9 @@
       "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London",
       "location": "London, Greater London",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
-      "posted_date": "Posted Yesterday",
-      "description": "About this role\nQuantitative Master’s Internship Programme\nOur Quantitative Master’s Internship Programme is an immersive eight‑week experience in the UK that offers a clear window into life as a BlackRock Associate. Designed for specialised master’s students in quantitative fields, the programme gives you hands‑on exposure to our work, our people and the impact you can make.\n\nEligibility: Students enrolled in analytics, computer science, engineering, mathematics or another quantitative‑focused master’s programme and graduating between August 2027 and July 2028, with at least one year of relevant work experience\n\nWe are looking for the next generation of quantitative investors. We offer a range of opportunities, spanning quantitative research, portfolio management, product strategy and investment technology.\n\nBlackRock Systematic is one of the largest quantitative investment managers in the world, with over $200bn in assets under management and 35+ years of systematic investing experience. We manage hedge funds, long-only active products and outcome-focused portfolios across a wide range of asset classes, geographies and time horizons.\n\nWe are constantly evolving to sustain our leadership position in quantitative investing – searching to unlock new opportunities presented by emerging technologies in machine learning and artificial intelligence paired with big(ger) data. We are a pioneer in sustainable investing, a leader in cutting-edge quantitative techniques, and passionate about delivering creative investment solutions for our diverse client base.\n\nOur team spans 200+ professionals from an array of professional, academic and cultural backgrounds, speaks 25+ different languages and collaborates across our San Francisco, New York and London offices. The team’s curiosity, diversity and ingenuity drive innovation and insight with the goal of delivering investment returns for clients.\n\nFactors, Sustainability and Solutions (FS2)\nFS2 combines the research and investment expertise across the BlackRock Systematic Investment platform to drive product innovation, product research and client engagement. Products and client solutions range from systematic return-seeking to factor-based, sustainability and outcome-oriented, spanning all asset classes. We constantly identify new product opportunities and develop unique investment models to best serve our clients.\n\nSystematic Active Equity\nA pioneering quantitative investment team comprised of industry leaders that ap",
-      "start_date": "2026-09-15",
+      "posted_date": "Posted Today",
+      "description": "About this role\nQuantitative Master’s Internship Programme\nOur Quantitative Master’s Internship Programme is an immersive eight‑week experience in the UK that offers a clear window into life as a BlackRock Associate. Designed for specialised master’s students in quantitative fields, the programme gives you hands‑on exposure to our work, our people and the impact you can make.\nEligibility:\nStudents enrolled in analytics, computer science, engineering, mathematics or another quantitative‑focused master’s programme and graduating between August 2027 and July 2028, with at least one year of relevant work experience\nWe are looking for the next generation of quantitative investors. We offer a range of opportunities, spanning quantitative research, portfolio management, product strategy and investment technology.\nBlackRock Systematic is one of the largest quantitative investment managers in the world, with over $200bn in assets under management and 35+ years of systematic investing experience. We manage hedge funds, long-only active products and outcome-focused portfolios across a wide range of asset classes, geographies and time horizons.\nWe are constantly evolving to sustain our leadership position in quantitative investing – searching to unlock new opportunities presented by emerging technologies in machine learning and artificial intelligence paired with big(ger) data. We are a pioneer in sustainable investing, a leader in cutting-edge quantitative techniques, and passionate about delivering creative investment solutions for our diverse client base.\nOur team spans 200+ professionals from an array of professional, academic and cultural backgrounds, speaks 25+ different languages and collaborates across our San Francisco, New York and London offices. The team’s curiosity, diversity and ingenuity drive innovation and insight with the goal of delivering investment returns for clients.\nTeams you may be considered for:\nFactors, Sustainability and Solutions (FS2)\nFS2 combines the research and investment expertise across the BlackRock Systematic Investment platform to drive product innovation, product research and client engagement. Products and client solutions range from systematic return-seeking to factor-based, sustainability and outcome-oriented, spanning all asset classes. We constantly identify new product opportunities and develop unique investment models to best serve our clients.\nSystematic Active Equity\nA pioneering quantitative investment team comprised o",
+      "start_date": "2026-09-16",
       "time_type": "Full time",
       "duration": "",
       "requirements": "Ability to write efficient, effective computer code (Python)\nExperience with translating statistical models and algorithms into code\nComfort in working with large datasets\nInquisitive nature, desire to learn and critical thinking\nEffective communication and collaboration skills\nCuriosity, critical thinking, learning agility, and sound judgement in technology-enabled decision making, coupled with an enthusiasm for AI, emerging technologies, and continuous innovation",
@@ -7079,35 +7109,6 @@
       "last_seen": "2026-09-16"
     },
     {
-      "id": "f7ab53957008",
-      "bank": "Man Group",
-      "category": "Hedge Fund",
-      "title": "Quant Researcher Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "posted_date": "2026-09-04",
-      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout Man AHL:\nMan AHL is a team of researchers, developers and traders of systematic investment strategies. We apply scientific rigour and robust technology to diverse collections of data and hundreds of global markets. Through our innovative and collaborative culture, we aim to generate returns for our clients across a range of diversified products.\nThe open and collaborative nature of Man AHL makes it an ideal place to learn and develop as a Junior Quantitative Researcher. Successful candidates will have the opportunity to work on meaningful projects early on.\nAHL Quant Talent Programme\nThe Quant Talent Programme is designed to provide exposure to all the key areas required to build a successful systematic investment strategy with the ultimate goal of creating well-rounded quantitative researchers who are able to contribute across a wide range of areas. Successful candidates will undertake three 6-month rotations across a variety of quantitative functions covering areas such as alpha research, portfolio construction, execution research and risk management.\nA formal trainin",
-      "duration": "",
-      "requirements": "PhD, Masters or Bachelor’s Degree in  a quantitative subject\nDesire to learn and understand the structure and drivers of returns in financial markets\nA demonstrable interest in algorithmic trading, financial derivatives, and markets in general\nIndependent research experience\nPractical coding experience in a scripting language such as Python is preferred, though not essential\nAware of what statistical and mathematical tools and techniques are available and able to independently decide what is appropriate to use in which circumstances",
-      "source": "greenhouse",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, trading, portfolio",
-        "Level: Undergraduate",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "⚠ Niveau requis: diplôme complété / Master"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": true,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "e8557452bff2",
       "bank": "Schroders",
       "category": "Asset Manager",
@@ -9550,6 +9551,35 @@
       "last_seen": "2026-09-09"
     },
     {
+      "id": "f7ab53957008",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Quant Researcher Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "posted_date": "2026-09-16",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout Man AHL:\nMan AHL is a team of researchers, developers and traders of systematic investment strategies. We apply scientific rigour and robust technology to diverse collections of data and hundreds of global markets. Through our innovative and collaborative culture, we aim to generate returns for our clients across a range of diversified products.\nThe open and collaborative nature of Man AHL makes it an ideal place to learn and develop as a Junior Quantitative Researcher. Successful candidates will have the opportunity to work on meaningful projects early on.\nAHL Quant Researcher Internship Programme\nWe offer two internship routes into the programme: a\n3-month Summer 2027 internship\n(June–September 2027) and a\n6-month Off-Cycle internship\n(Feb/March 2027 start), both providing hands-on exposure to these same core quantitative research areas.\nA formal training programme will be provided for participants at the commencement of the programme to introduce them to the key concepts and techniques used in the role. All participants will be provided with a mentor to help guide th",
+      "duration": "Summer 2027",
+      "requirements": "PhD, Masters or Bachelor’s Degree in  a quantitative subject\nDesire to learn and understand the structure and drivers of returns in financial markets\nA demonstrable interest in algorithmic trading, financial derivatives, and markets in general\nIndependent research experience\nPractical coding experience in a scripting language such as Python is preferred, though not essential\nAware of what statistical and mathematical tools and techniques are available and able to independently decide what is appropriate to use in which circumstances",
+      "source": "greenhouse",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, research",
+        "Level: Undergraduate",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "⚠ Niveau requis: diplôme complété / Master"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": true,
+      "last_seen": "2026-09-16"
+    },
+    {
       "id": "dc7e744df391",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -9723,7 +9753,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-16",
-      "is_new": true,
+      "is_new": false,
       "match_score": 20,
       "match_reasons": [
         "Location: Paris",
@@ -11504,9 +11534,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 352,
-    "new_today": 3,
-    "high_match": 49,
+    "total_jobs": 353,
+    "new_today": 1,
+    "high_match": 50,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 18,
