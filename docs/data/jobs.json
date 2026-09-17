@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-17T12:32:19.544967+00:00",
+  "last_updated": "2026-09-17T15:49:07.354291+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "count": 16,
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 32,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 3,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "count": 4,
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 45,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "count": 44,
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-17T12:32:19.544967+00:00"
+      "timestamp": "2026-09-17T15:49:07.354291+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -514,7 +514,7 @@
       "requirements": "Strong interest in the financial services industry.\nEligibility to work in France and a valid convention de stage are required.\nStrong verbal and written communication skills in both French and English are essential.\nClient-focused approach.\nStrong analytical and synthesis skills, with a rigorous approach to work.\nProactive, responsive and dynamic working style.",
       "source": "workday",
       "first_seen": "2026-09-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 87,
       "match_reasons": [
         "Location: Paris",
@@ -5021,34 +5021,6 @@
       "last_seen": "2026-09-17"
     },
     {
-      "id": "21ca1e8be1d3",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Investor Relations Coordination Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Investor-Relations-Coordination-Intern---September-2026---London_JR1002171",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Company Overview:\nArdian is a world-leading private investment house, managing or advising assets globally. Our broad expertise, spanning Private Equity, Real Assets, and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors. Private Wealth Solutions offers dedicated services and access solutions for private banks, family offices, and private institutional investors worldwide. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Our employees, spread across offices in Europe, the Americas, Asia, and the Middle East are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social\nresponsibility.\nAt Ardian, we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Investor Relations department including more than 120 professionals oversees fundraising activities across all Ardian’s asset classes and manages investor relationships. It is structured around three main sub-teams: Sales, Product Management and Client Solutions.\nThe job opening is for a strategic position working closely with the global Head and the COO of the IR team.\nThis is an exciting opportunity to join a dynamic and growing department in a leading private equity firm.\nFundraising materials management\nContribute to the production of the Investor Relations Fundraising materials for the weekly Team Meeting (120 people+ meeting involving Global Head and COO of IR and Heads of different expertise).\nReporting to the Executive Committee\nProduce the global Executive Committee presentation (Sales Committee) on a monthly basis;\nEnsure the whole process is well anticipated, smoothly managed and sent on time to Legal.\nArdian’s corporate material\nRegularly update all corporate related documents.\nSupport the IR Global Head and COO on strategic requests\nContribute to the production of ad hoc fundraising and reporting documents;\nAssist in the organization of meetings and events;\nContribute to the production of fundraising statistics",
-      "start_date": "2026-07-10",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Excellent academic qualifications with relevant coursework from a leading university or business school;\nFluent in English\nA first internship in a similar role or fast-paced environment\nRequired Skills:\nOrganized, detail-oriented, rigorous and energetic;\nEager to learn;",
-      "source": "workday",
-      "first_seen": "2026-07-10",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, sales, equity",
-        "Languages: English"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-17"
-    },
-    {
       "id": "1d446ccf62cd",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -5126,6 +5098,34 @@
         "Type: Internship/Stage",
         "Domain: asset management, equity, private equity",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-17"
+    },
+    {
+      "id": "21ca1e8be1d3",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Coordination Intern - September 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Investor-Relations-Coordination-Intern---September-2026---London_JR1002171",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Company Overview:\nArdian is a world-leading private investment house, managing or advising assets globally. Our broad expertise, spanning Private Equity, Real Assets, and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors. Private Wealth Solutions offers dedicated services and access solutions for private banks, family offices, and private institutional investors worldwide. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Our employees, spread across offices in Europe, the Americas, Asia, and the Middle East are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social\nresponsibility.\nAt Ardian, we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Investor Relations department including more than 120 professionals oversees fundraising activities across all Ardian’s asset classes and manages investor relationships. It is structured around three main sub-teams: Sales, Product Management and Client Solutions.\nThe job opening is for a strategic position working closely with the global Head and the COO of the IR team.\nThis is an exciting opportunity to join a dynamic and growing department in a leading private equity firm.\nFundraising materials management\nContribute to the production of the Investor Relations Fundraising materials for the weekly Team Meeting (120 people+ meeting involving Global Head and COO of IR and Heads of different expertise).\nReporting to the Executive Committee\nProduce the global Executive Committee presentation (Sales Committee) on a monthly basis;\nEnsure the whole process is well anticipated, smoothly managed and sent on time to Legal.\nArdian’s corporate material\nRegularly update all corporate related documents.\nSupport the IR Global Head and COO on strategic requests\nContribute to the production of ad hoc fundraising and reporting documents;\nAssist in the organization of meetings and events;\nContribute to the production of fundraising statistics",
+      "start_date": "2026-07-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Excellent academic qualifications with relevant coursework from a leading university or business school;\nFluent in English\nA first internship in a similar role or fast-paced environment\nRequired Skills:\nOrganized, detail-oriented, rigorous and energetic;\nEager to learn;",
+      "source": "workday",
+      "first_seen": "2026-07-10",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, sales, equity",
+        "Languages: English"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -5834,6 +5834,60 @@
       "last_seen": "2026-09-17"
     },
     {
+      "id": "f4bc49c95366",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Services - Summer Analyst, UK - London, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the workplace, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success comes with growth. Our program equips you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility—career growth is not a question of if, but when.\nWhat is Services?\nCiti’s Services organization plays a crucial role in supporting institutional clients through a wide range of innovative solutions, enabling them to navigate complex financial landscapes. Our business provides integrated cash management and trade finance solutions to help multinational corporations, financial institutions, and public sector organizations optimize liquidity, working capital, and streamline transactions globally. Our business also delivers custody, fund administration, collateral management, and performance analytics, helping asset managers, institutional investors, and financial institutions efficiently manage and safeguard assets. With our global reach, including presence in over 90 countries, cutting-edge technology, and client-first approach, we provide seamless solutions that drive business success in an evolving financial world.\nIn this rapidly evolving landscape, we are increasingly leveraging advanced analytics and artificial intelligence (AI) to enhance our offerings, improve efficiency, and provide deeper insights to our clients. This includes utilizing AI-powered tools for predictive analytics, automation of routine tasks, and generating actionable insights from vast datasets to inform strategic decisions across our services portfolio.\nWe provide you with the knowledge and skills you need to succeed.\nThe Citi Services 10-week Summer Analyst Program gives entry-level employees hands-on experience through training sessions and real, on-the-job learning. Summer Analysts work closely with their teams, owning projects that drive meaningful impact. After an initial week of training and a placement process based on your interests and our needs, you’ll be assigned to a team where you’ll focus on financial analysis, business development, client engagement, and market research.\nYour time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.\nDevelop materials that support business developmen",
+      "start_date": "2026-09-17",
+      "time_type": "Full time",
+      "duration": "Summer 2028",
+      "requirements": "Your time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.",
+      "source": "workday",
+      "first_seen": "2026-09-17",
+      "is_new": true,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, portfolio, fund"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-17"
+    },
+    {
+      "id": "01327124e4d7",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Services - Full-Time Analyst, UK - London, 2027 (2026 Summer Intern Converts Only)",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Services---Full-Time-Analyst--UK---London--2027--2026-Summer-Intern-Converts-Only-_26995669",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the workplace, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success comes with growth. Our program equips you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility—career growth is not a question of if, but when.\nWhat is Services?\nCiti’s Services organization plays a crucial role in supporting institutional clients through a wide range of innovative solutions, enabling them to navigate complex financial landscapes. Our business provides integrated cash management and trade finance solutions to help multinational corporations, financial institutions, and public sector organizations optimize liquidity, working capital, and streamline transactions globally. Our business also delivers custody, fund administration, collateral management, and performance analytics, helping asset managers, institutional investors, and financial institutions efficiently manage and safeguard assets. With our global reach, including presence in over 90 countries, cutting-edge technology, and client-first approach, we provide seamless solutions that drive business success in an evolving financial world.\nIn this rapidly evolving landscape, we are increasingly leveraging advanced analytics and artificial intelligence (AI) to enhance our offerings, improve efficiency, and provide deeper insights to our clients. This includes utilizing AI-powered tools for predictive analytics, automation of routine tasks, and generating actionable insights from vast datasets to inform strategic decisions across our services portfolio.\nWe provide you with the knowledge and skills you need to succeed.\nThe Citi Services 10-week Summer Analyst Program gives entry-level employees hands-on experience through training sessions and real, on-the-job learning. Summer Analysts work closely with their teams, owning projects that drive meaningful impact. After an initial week of training and a placement process based on your interests and our needs, you’ll be assigned to a team where you’ll focus on financial analysis, business development, client engagement, and market research.\nYour time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.\nDevelop materials that support business developmen",
+      "start_date": "2026-09-17",
+      "time_type": "Full time",
+      "duration": "Summer 2027",
+      "requirements": "Your time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.",
+      "source": "workday",
+      "first_seen": "2026-09-17",
+      "is_new": true,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, portfolio, fund"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-17"
+    },
+    {
       "id": "f9c3401e8e24",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -6413,6 +6467,32 @@
         "Type: Internship/Stage",
         "Domain: trading, research",
         "Level: Undergraduate"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-17"
+    },
+    {
+      "id": "88d569ec666b",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "2027 Summer Technology Internship Programme",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
+      "posted_date": "2026-09-17",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout Man Group\nMan\nGroup is a global, technology-driven active investment management firm dedicated to delivering alpha and portfolio solutions for clients. At Man Group, technology and data are at the heart of everything we do, creating a dynamic environment where\ninnovation meets investment management. We actively engage with the technology community by hosting and sponsoring events (\nPyData\n, Hackathons, DEV.BG), speaking at industry conferences and open-sourcing technology; see\ngithub.com/man-group\nAbout the\nProgramme\nOur Technology Internship programme invites you to spend\n3, 4 or\n6\nmonths (depnding on indvidual circumstance)\nfully embedded in one of our teams\n, tackling impactful projects that drive technological advancement and deliver meaningful business impact.\nYou'll\nreceive formal training and comprehensive support from a dedicated\nbuddy\nand mentor who will guide your development and help you navigate the organisation.\nWe also host knowledge sharing sessions and intern-specific events to help you build a broader understanding of Man Group and the wider financial s",
+      "duration": "6\nmonths",
+      "requirements": "Experience working with any of the following\nprogramming\nor scripting\nlanguages: Python, Java,\nor demonstrable understanding of how an enterprise infrastructure functions.\nA genuine passion for technology",
+      "source": "greenhouse",
+      "first_seen": "2026-09-17",
+      "is_new": true,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: portfolio, research",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "low",
       "excluded": false,
@@ -11536,8 +11616,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 353,
-    "new_today": 1,
+    "total_jobs": 356,
+    "new_today": 3,
     "high_match": 51,
     "firms_scraped": 32,
     "firms_failed": 0,
