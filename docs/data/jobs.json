@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-18T12:10:15.671500+00:00",
+  "last_updated": "2026-09-18T15:22:03.256402+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 39,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 61,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 5,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "count": 8,
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 32,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,13 +132,13 @@
     },
     "Schroders": {
       "status": "success",
-      "count": 11,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "count": 29,
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 43,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-18T12:10:15.671500+00:00"
+      "timestamp": "2026-09-18T15:22:03.256402+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1329,36 +1329,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "8eeeeb351733",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Group Compliance & Tax Transparency - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Compliance---Tax-Transparency---Janvier-2027_JR016369",
-      "posted_date": "Posted 15 Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRattaché(e) directement à la direction du groupe Rothschild & Co, le département Group Compliance & Tax Transparency cherche un(e) stagiaire pour une durée de 6 mois à compter de Janvier 2027.\nMissions\nIntégré(e) au sein du département Group Compliance & Tax Transparency vos principales missions ",
-      "start_date": "2026-09-03",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-03",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-18"
-    },
-    {
       "id": "f8e52f1886b8",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1441,6 +1411,36 @@
         "Domain: finance, banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "8eeeeb351733",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Group Compliance & Tax Transparency - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Group-Compliance---Tax-Transparency---Janvier-2027_JR016476",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRattaché(e) directement à la direction du groupe Rothschild & Co, le département Group Compliance & Tax Transparency cherche un(e) stagiaire pour une durée de 6 mois à compter de janvier 2027.\nMissions\nIntégré(e) au sein du département Group Compliance & Tax Transparency, vos principales missions",
+      "start_date": "2026-09-18",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-03",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -4226,34 +4226,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "bcfc2671b14b",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "International Corporate Banking Graduate Programme 2027 Paris",
-      "location": "Paris, 52 avenue Hoche",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/International-Corporate-Banking-Graduate-Programme-2027-Paris_JR-0000124706",
-      "posted_date": "Posted 15 Days Ago",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities within the International Corporate Banking division by providing transactional support that help senior colleagues manage key client relationships, make informed decisions, develop new products and services, and identify new opportunities.\nAccountabilities\nSupport the management of clients as a key member within the Relationship Team – assist in managing client relationships by responding to queries, supporting onboarding, and contributing to proposals for cash management, trade finance, and lending solutions.\nWork alongside senior bankers to help identify and manage opportunities within Global Treasury Coverage – with a focus on products and services provided by International Corporate Banking.\nPreparation of meeting materials, researching sector specific themes, and collaborating with teams across the Investment Bank.\nSupport the end-to-end deal process, including credit analysis, financial modelling, internal committees and documentation for debt facilities and treasury solutions.\nIdentify opportunities for new products and services, contribute to business cases, and assist in launching initiatives that align with sustainability and growth objectives.\nTake ownership for embedding risk controls, adhering to policies, and escalating breaches appropriately.\nParticipate in structured learning programmes covering credit skills, client management, and treasury coverage products, while seeking continuous improvement through mentorship and feedback.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviors to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropri",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Barclays Europe\nWorking in Paris\nEntry Salary: €65,000\nUpper Salary: €65,000",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "c71bf16091dc",
       "bank": "BlackRock",
       "category": "Asset Manager",
@@ -4389,6 +4361,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: wealth management, asset management, equity",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "bcfc2671b14b",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "International Corporate Banking Graduate Programme 2027 Paris",
+      "location": "Paris, 52 avenue Hoche",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/International-Corporate-Banking-Graduate-Programme-2027-Paris_JR-0000124706",
+      "posted_date": "Posted Today",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities within the International Corporate Banking division by providing transactional support that help senior colleagues manage key client relationships, make informed decisions, develop new products and services, and identify new opportunities.\nAccountabilities\nSupport the management of clients as a key member within the Relationship Team – assist in managing client relationships by responding to queries, supporting onboarding, and contributing to proposals for cash management, trade finance, and lending solutions.\nWork alongside senior bankers to help identify and manage opportunities within Global Treasury Coverage – with a focus on products and services provided by International Corporate Banking.\nPreparation of meeting materials, researching sector specific themes, and collaborating with teams across the Investment Bank.\nSupport the end-to-end deal process, including credit analysis, financial modelling, internal committees and documentation for debt facilities and treasury solutions.\nIdentify opportunities for new products and services, contribute to business cases, and assist in launching initiatives that align with sustainability and growth objectives.\nTake ownership for embedding risk controls, adhering to policies, and escalating breaches appropriately.\nParticipate in structured learning programmes covering credit skills, client management, and treasury coverage products, while seeking continuous improvement through mentorship and feedback.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviors to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropri",
+      "start_date": "2026-09-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Barclays Europe\nWorking in Paris\nEntry Salary: €65,000\nUpper Salary: €65,000",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, corporate banking",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
@@ -7245,34 +7245,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "a2173ab55f2a",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Banking Graduate Programme 2027 Paris",
-      "location": "Paris, 52 avenue Hoche",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Banking-Graduate-Programme-2027-Paris_JR-0000124686",
-      "posted_date": "Posted 15 Days Ago",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures adopted due to risk mitigation.\nAdvise and influence decision making within own ",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Domain: banking, investment banking, risk",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "9856e5ea3dae",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -7293,6 +7265,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: finance, fund, audit"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "a2173ab55f2a",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Banking Graduate Programme 2027 Paris",
+      "location": "Paris, 52 avenue Hoche",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Banking-Graduate-Programme-2027-Paris_JR-0000124686",
+      "posted_date": "Posted Today",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures adopted due to risk mitigation.\nAdvise and influence decision making within own ",
+      "start_date": "2026-09-18",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understandi",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: Paris",
+        "Domain: banking, investment banking, risk",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "low",
       "excluded": false,
@@ -7543,87 +7543,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-09-18"
-    },
-    {
-      "id": "d7553707a587",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Public Markets Quants Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "0b87893e57d8",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Public Markets Equities Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "d423874cbe14",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Public Markets Multi-Asset Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
     },
     {
       "id": "e96a18ac15c7",
@@ -7896,6 +7815,60 @@
       "last_seen": "2026-09-18"
     },
     {
+      "id": "d7553707a587",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Quants Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "0b87893e57d8",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Equities Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
       "id": "a1d47023bfab",
       "bank": "Schroders",
       "category": "Asset Manager",
@@ -7916,6 +7889,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: wealth management, portfolio"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "d423874cbe14",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Public Markets Multi-Asset Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "low",
       "excluded": false,
@@ -8498,114 +8498,6 @@
       "last_seen": "2026-09-09"
     },
     {
-      "id": "4ef2b3e22b85",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Internal Audit Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1945",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: audit"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "18c6f8af60b2",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Internal Audit Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1955",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: audit"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "aadded6e1e16",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Internal Audit Placement Year Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1946",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: audit"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "59ce03c7a91e",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Finance Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1944",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "0acf9adc685a",
       "bank": "JP Morgan",
       "category": "Investment Bank",
@@ -8768,33 +8660,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "92edb567cea6",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Schroders Capital Infrastructure - Product Strategy Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953",
-      "posted_date": "2026-09-01",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: strategy"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "d3aaf8beb0de",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -8816,6 +8681,114 @@
         "Domain: asset management",
         "Languages: French",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "4ef2b3e22b85",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1945",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "18c6f8af60b2",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1955",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "aadded6e1e16",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Internal Audit Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1946",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: audit"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "59ce03c7a91e",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Finance Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1944",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance"
       ],
       "match_class": "low",
       "excluded": false,
@@ -8850,15 +8823,42 @@
       "last_seen": "2026-09-18"
     },
     {
+      "id": "92edb567cea6",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Schroders Capital Infrastructure - Product Strategy Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1953",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: strategy"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
       "id": "125075f2251a",
       "bank": "Barclays",
       "category": "Investment Bank",
       "title": "Sales, Trading and Structuring Graduate Programme 2027 Paris",
       "location": "Paris, 52 avenue Hoche",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Sales--Trading-and-Structuring-Graduate-Programme-2027-Paris_JR-0000124751",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted Today",
       "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the markets division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\nExecution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for the global markets division.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\n",
-      "start_date": "2026-09-03",
+      "start_date": "2026-09-18",
       "time_type": "Full time",
       "duration": "",
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\nManagement of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nTraining and mentoring of junior colleagues.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.",
@@ -8874,7 +8874,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-16"
+      "last_seen": "2026-09-18"
     },
     {
       "id": "1483f748a96d",
@@ -9243,110 +9243,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "31fcfe814ba1",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Marketing Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1951",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "d3efc74954ef",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Product Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "f7f880af7f43",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Client Group Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1943",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "7215b15b4bf9",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Business Change Project Delivery and Analysis Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1947",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "bee5e9ce860d",
       "bank": "Schroders",
       "category": "Asset Manager",
@@ -9662,6 +9558,110 @@
       "last_seen": "2026-09-18"
     },
     {
+      "id": "31fcfe814ba1",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Marketing Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1951",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "d3efc74954ef",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Product Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "f7f880af7f43",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Client Group Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1943",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "7215b15b4bf9",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Business Change Project Delivery and Analysis Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1947",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
       "id": "dc7e744df391",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -9749,7 +9749,7 @@
       "title": "2027 Public Markets Equities Graduate Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-09-18",
       "description": "",
       "start_date": "",
       "time_type": "",
@@ -9766,7 +9766,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-16"
+      "last_seen": "2026-09-18"
     },
     {
       "id": "cf9bdc55de38",
@@ -9775,7 +9775,7 @@
       "title": "2027 Public Markets Multi-Asset Graduate Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-09-18",
       "description": "",
       "start_date": "",
       "time_type": "",
@@ -9792,7 +9792,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-16"
+      "last_seen": "2026-09-18"
     },
     {
       "id": "2c9cdd55dcc5",
@@ -10048,7 +10048,7 @@
       "title": "2027 Finance Graduate Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1954",
-      "posted_date": "2026-08-28",
+      "posted_date": "2026-09-18",
       "description": "",
       "start_date": "",
       "time_type": "",
@@ -10065,7 +10065,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-16"
+      "last_seen": "2026-09-18"
     },
     {
       "id": "6bb5014fcbec",
@@ -10219,56 +10219,6 @@
       "last_seen": "2026-09-18"
     },
     {
-      "id": "eaedf970dff0",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Business Change Project Delivery and Analysis Placement Year Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1948",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
-      "id": "d603a4ce0852",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "2027 Business Transformation Placement Year Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1950",
-      "posted_date": "2026-08-28",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-28",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-09-16"
-    },
-    {
       "id": "fe24673b1ac6",
       "bank": "Schroders",
       "category": "Asset Manager",
@@ -10294,13 +10244,63 @@
       "last_seen": "2026-09-04"
     },
     {
+      "id": "eaedf970dff0",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Business Change Project Delivery and Analysis Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1948",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 17,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "minimal",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
+      "id": "d603a4ce0852",
+      "bank": "Schroders",
+      "category": "Asset Manager",
+      "title": "2027 Business Transformation Placement Year Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1950",
+      "posted_date": "2026-09-18",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-08-28",
+      "is_new": false,
+      "match_score": 17,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "minimal",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-18"
+    },
+    {
       "id": "dea8466f870b",
       "bank": "Schroders",
       "category": "Asset Manager",
       "title": "2027 People & Culture Graduate Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2000",
-      "posted_date": "2026-09-03",
+      "posted_date": "2026-09-18",
       "description": "",
       "start_date": "",
       "time_type": "",
@@ -10316,7 +10316,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-16"
+      "last_seen": "2026-09-18"
     },
     {
       "id": "7db6862424a6",
