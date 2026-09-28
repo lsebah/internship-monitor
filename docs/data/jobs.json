@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-28T15:14:59.926587+00:00",
+  "last_updated": "2026-09-28T18:53:38.709957+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
-      "count": 34,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "count": 40,
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 3,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "count": 5,
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-28T15:14:59.926587+00:00"
+      "timestamp": "2026-09-28T18:53:38.709957+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -639,7 +639,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
@@ -763,7 +763,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 77,
       "match_reasons": [
         "Location: Paris",
@@ -794,7 +794,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-09-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 77,
       "match_reasons": [
         "Location: Paris",
@@ -1099,7 +1099,7 @@
       "requirements": "About the role",
       "source": "workday",
       "first_seen": "2026-09-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 73,
       "match_reasons": [
         "Location: Paris",
@@ -2610,7 +2610,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "3edf6927f505",
@@ -2666,6 +2666,33 @@
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-28"
+    },
+    {
+      "id": "c573327c5ff7",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": " Investment Risk 2027 Summer Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101",
+      "posted_date": "2026-09-28",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nInvestment Risk – Summer 2027 Internship\nSystematic Investment Risk team sits at the heart of Man Group's systematic investment process, providing independent oversight of the risk profile of our trading strategies and funds. Working closely with portfolio managers, researchers, and technologists, the team ensures that risk is well understood, appropriately managed, and consistently reflected in how we allocate capital and construct portfolios.\nThis internship offers a unique opportunity to gain exposure to a fast-paced, quantitatively driven environment at the intersection of markets, mathematics, and technology. Interns will work alongside experienced risk professionals on real problems affecting live trading strategies, from day-to-day risk monitoring to longer-term projects enhancing our internal risk models and analytical tools. It's an excellent grounding for anyone interested in a career in quantitative finance and risk management.\nKey responsibilities\n:\nMonitor and manage risk across systematic trading strategies & funds\nWork with all areas within the business – both ",
+      "duration": "Summer 2027",
+      "requirements": "A strong mathematical and statistical background\nExcellent communication skills\nCurrently in your penultimate year of study, graduating in 2028\nLearning opportunities\nA broad understanding of the full range of Man Systematic trading strategies\nTechnical familiarity with both industry-standard and proprietary internal risk analytics & modelling techniques",
+      "source": "greenhouse",
+      "first_seen": "2026-09-28",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, trading",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3174,7 +3201,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3609,7 +3636,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3638,7 +3665,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales and Trading Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4001,7 +4028,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "c65abc301ee0",
@@ -4030,7 +4057,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "85db60a405c4",
@@ -4648,7 +4675,7 @@
       "requirements": "Understand the Individual Conduct Rules set out by the UK Regulator and ensure compliance in letter and in spirit\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "source": "workday",
       "first_seen": "2026-09-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 53,
       "match_reasons": [
         "Location: London",
@@ -4667,7 +4694,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4696,7 +4723,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4725,7 +4752,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Emerging Markets Trading (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4754,7 +4781,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4783,7 +4810,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4812,7 +4839,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales &amp; Trading Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21623-2027-Sales-Trading-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21623-2027-Sales-Trading-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4840,7 +4867,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Trading Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21615-2027-Institutional-Equities-Trading-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21615-2027-Institutional-Equities-Trading-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5459,7 +5486,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5487,7 +5514,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5515,7 +5542,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales &amp; Trading Off-Cycle Internship Business Control Unit (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21584-2027-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21584-2027-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5543,7 +5570,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales &amp; Trading Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21581-2027-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21581-2027-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6158,7 +6185,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6185,7 +6212,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6213,7 +6240,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6241,7 +6268,7 @@
       "category": "Investment Bank",
       "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6269,7 +6296,7 @@
       "category": "Investment Bank",
       "title": "2027 Quantitative Finance Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6876,12 +6903,38 @@
       "last_seen": "2026-09-28"
     },
     {
+      "id": "bcec4b52e73e",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Trading Summer 2027 Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
+      "posted_date": "2026-09-28",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\nAbout Man Central Trading\nMan Central Trading is a global team of more than 50 traders, execution researchers and engineers operating across multiple offices. Our mission is to maximise the preservation of alpha throughout the investment process by delivering execution excellence and trading specialisation.\nWe combine deep market expertise, rigorous execution research and best-in-class technology to trade effectively across asset classes and market environments.\nMan Central Trading is at the forefront of applying artificial intelligence to trading and execution. The team operates at the intersection of high-touch and quant trading, combining traders’ market expertise with systematic research and AI-driven tools.\nOur open, collaborative and fast-paced culture makes Man Central Trading an ideal place to learn and develop. The team offers a unique vantage point across Man Group, providing insight into a broad range of investment strategies and trading approaches.\nCentral Trading Internship\nThis 12-week internship offers the opportunity to work directly on the trading desk and ga",
+      "duration": "",
+      "requirements": "Strong background in mathematics, statistics and machine learning.\nExperience coding in Python.\nAbility to work and iterate effectively in a fast-paced environment.\nStrong interpersonal skills and confidence working with multiple countparrties\nInterest in financial markets, quant trading and market microstructure.\nInterest in artificial intelligence, including experience with or an interest in LLM-based workflows.",
+      "source": "greenhouse",
+      "first_seen": "2026-09-28",
+      "is_new": true,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, research",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-09-28"
+    },
+    {
       "id": "0974033f4f96",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - International Consultant Relations (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-International-Consultant-Relations-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-International-Consultant-Relations-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6908,7 +6961,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6936,7 +6989,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6963,7 +7016,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -8108,7 +8161,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "4dc50f710b52",
@@ -8135,7 +8188,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "0f2266177bf6",
@@ -8162,7 +8215,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     {
       "id": "15170f6ae29a",
@@ -8471,7 +8524,7 @@
       "category": "Investment Bank",
       "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -10480,7 +10533,7 @@
       "category": "Investment Bank",
       "title": "2027 Technology Industrial Placement Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-0067a36d5a8d/candidate/so/pm/1/pl/1/opp/21522-2027-Technology-Industrial-Placement-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-a78095b71374/candidate/so/pm/1/pl/1/opp/21522-2027-Technology-Industrial-Placement-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -11947,8 +12000,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 367,
-    "new_today": 5,
+    "total_jobs": 369,
+    "new_today": 2,
     "high_match": 59,
     "firms_scraped": 32,
     "firms_failed": 0,
