@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-09-29T13:55:48.709305+00:00",
+  "last_updated": "2026-09-29T17:11:28.997128+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-09-29T13:55:48.709305+00:00"
+      "timestamp": "2026-09-29T17:11:28.997128+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -639,7 +639,7 @@
       "requirements": "Your time here will look like this...\nSupport the RA team in preparing credit allocation and modification requests and coordinating the required approval processes.\nLiaise with Operations and other internal stakeholders to facilitate the prioritization and timely completion of credit request workflows.\nAssist in the preparation of client materials, including facility summary list and meeting presentations\nSupport the maintenance of client information and internal databases, ensuring information remains accurate and up to date.\nAssist the team with ad hoc projects and administrative tasks as re",
       "source": "workday",
       "first_seen": "2026-09-29",
-      "is_new": true,
+      "is_new": false,
       "match_score": 80,
       "match_reasons": [
         "Location: Paris",
@@ -2713,7 +2713,7 @@
       "requirements": "Currently pursuing a Bachelor's or Master’s degree in finance, Economics, Mathematics, Accounting, or a related quantitative field\nStrong analytical and quantitative skills, with comfort working with large datasets\nProficiency in Microsoft Excel (formulas, pivot tables); basic familiarity with financial concepts (interest rates, balance sheets, cash flow)\nExcellent attention to detail and strong organizational skills\nClear written and verbal communication skills\nAbility to work both independently and collaboratively in a fast-paced environment",
       "source": "greenhouse",
       "first_seen": "2026-09-29",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: London",
@@ -8475,7 +8475,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-09-29",
-      "is_new": true,
+      "is_new": false,
       "match_score": 37,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -12028,7 +12028,7 @@
   ],
   "stats": {
     "total_jobs": 370,
-    "new_today": 3,
+    "new_today": 0,
     "high_match": 59,
     "firms_scraped": 32,
     "firms_failed": 0,
