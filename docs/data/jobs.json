@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-02T13:45:49.486470+00:00",
+  "last_updated": "2026-10-02T16:58:31.040181+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 42,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "count": 40,
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 21,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 42,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "count": 41,
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-02T13:45:49.486470+00:00"
+      "timestamp": "2026-10-02T16:58:31.040181+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -3048,35 +3048,6 @@
       "last_seen": "2026-10-02"
     },
     {
-      "id": "a9d67a8088c6",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nR&Co4Generations est le nouveau véhicule philanthropique créé par le groupe Rothschild and Co en mai 2021. En définissant une stratégie commune et en regroupant l’ensemble des actions menées par nos différentes implantations géographiques, nous visons à renforcer notre engagement au service d’une grande cause, la jeunesse.\nAfin de maximiser notre impact, nous privilégions une approche de financement agile, mobilisant une diversité d’outils pour soutenir des associations ou des entreprises sociales innovantes : dons, prêts ou equity via notre activité de Venture Philanthropy.\nEn accord avec la stratégie globale de R&Co4Generations, notre activité de Venture Philanthropy cible des projets intervenant dans les secteurs de l’éducation/insertion professionnelle et transition écologique.\nMissions\nLe ou la stagiaire sera rattaché(e) à la responsable de R&Co4Generations aidera notamment l’équipe à constituer un dealflow d’opportunités d’investissement en Venture Philanthropy.\nSourcing: Soutien à l’équipe pour l’identification d’opportunités investissement en venture philanthropy et veille économique du secteur (avec focus emploi/insertion et changement climatique) ; analyse du marché et compréhension du business model des cibles potentielles en lien avec la stratégie d’investissement de R&Co4Generations.\nInvestissement : participation à l’analyse des dossiers (pre-screening, collecte et analyse de données complémentaires, visite in situ, etc. ) ; participation à diverses tâches relatives à la relations avec les investisseurs.\nSuivi des in",
-      "start_date": "2024-09-10",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, wealth management, asset management",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-02"
-    },
-    {
       "id": "5b8e378b2ea6",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3099,6 +3070,35 @@
         "Domain: equity, private equity, economics",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-02"
+    },
+    {
+      "id": "a9d67a8088c6",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nR&Co4Generations est le nouveau véhicule philanthropique créé par le groupe Rothschild and Co en mai 2021. En définissant une stratégie commune et en regroupant l’ensemble des actions menées par nos différentes implantations géographiques, nous visons à renforcer notre engagement au service d’une grande cause, la jeunesse.\nAfin de maximiser notre impact, nous privilégions une approche de financement agile, mobilisant une diversité d’outils pour soutenir des associations ou des entreprises sociales innovantes : dons, prêts ou equity via notre activité de Venture Philanthropy.\nEn accord avec la stratégie globale de R&Co4Generations, notre activité de Venture Philanthropy cible des projets intervenant dans les secteurs de l’éducation/insertion professionnelle et transition écologique.\nMissions\nLe ou la stagiaire sera rattaché(e) à la responsable de R&Co4Generations aidera notamment l’équipe à constituer un dealflow d’opportunités d’investissement en Venture Philanthropy.\nSourcing: Soutien à l’équipe pour l’identification d’opportunités investissement en venture philanthropy et veille économique du secteur (avec focus emploi/insertion et changement climatique) ; analyse du marché et compréhension du business model des cibles potentielles en lien avec la stratégie d’investissement de R&Co4Generations.\nInvestissement : participation à l’analyse des dossiers (pre-screening, collecte et analyse de données complémentaires, visite in situ, etc. ) ; participation à diverses tâches relatives à la relations avec les investisseurs.\nSuivi des in",
+      "start_date": "2024-09-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management, asset management",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3199,7 +3199,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3643,7 +3643,7 @@
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for capital markets.\nManagement of the development and implementation of financial models and strategies that support in decision making in Capital Markets.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focusing on quality execution.\nNo people leadership roles at this grade.",
       "source": "workday",
       "first_seen": "2026-10-02",
-      "is_new": true,
+      "is_new": false,
       "match_score": 57,
       "match_reasons": [
         "Location: Paris",
@@ -3721,7 +3721,7 @@
       "category": "Investment Bank",
       "title": "2027 Fixed Income Research Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3750,7 +3750,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3779,7 +3779,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales and Trading Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21611-2027-Sales-and-Trading-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4659,35 +4659,6 @@
       "last_seen": "2026-10-02"
     },
     {
-      "id": "46028540fbda",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Digital Transformation Stage - Janvier 2027 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Janvier-2027---Paris--H-F-_JR1002089",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Digital transformation\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nLe ou la stagiaire contribuera aux projets de l’équipe Transformation Digitale, notamment :\nIdentification de solutions technologiques et de startups pertinentes pour les participations d’Ardian, Benchmarking de solutions / outils (e.g. pour reporting, data analysis, cas d’usage de l’intelligence artificielle)\nAnalyses dans le cadre de Due Diligences digitales : marché (acteurs/ concurrents), parcours client digital, analyse de trafic web, etc.\nCodification de « best practices », incluant la rédaction de « case studies »\nSupport à la rédaction de memo (en anglais), aide à la création de dashboard d’analyse (e.g. amélioration de la préparation au risque cyber)\nCompétences requises\nRigueur\nCapacités analytiques\nMotivation\nAutonomie\nAgilité, réactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nCurieux, aimant apprendre vite, avec appétence forte pour le Digital au sens large (IT, digital marketing, technologies)\nLe profil\nEcole d’ingénieur, 3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nIntérêt pour la technologie et ses implications pour les entreprises\nBonne maîtrise d’Excel et Powerpoint appréciée\nPremière expérience en analyse data ou avec PowerBI serait un plus\nA propos de l’équipe\nL’équipe Transformation Digitale aide les sociétés dans lesquelles Ardian investit à créer de la valeur avec le Digital.\nPour Ardian, l’amélioration opérationnelle des participations est une source de création de valeur importante. Le Digital et la Donnée sont des leviers clé dans cette création de valeur, et Ardian a créé en 2019 une équipe dédiée à cette thématique. Les problématiques abordées sont variées : restructuration IT, optimisation des process (sales & marketing, supply chain, etc) par le digital, développement de nouveaux canaux de distribution (eCommerce), valorisation de la donnée, création de nouveaux business appuyés sur le digital et la donnée.\nL’équipe est aujourd’hui constituée de 4 personnes basées en France et en Allemagne.\nL’équipe travaille en étroite collaboration avec les Deal Teams (responsable de l’ensemble du cycle de vie d’une participation chez Ardian : depuis la Due Diligence jusqu’au désinvestissement, en passant par le suivi de la stratégie et de la performance pendant la durée de détention), ainsi qu’avec les Management Teams des participations.\nL’équipe Digitale tra",
-      "start_date": "2026-08-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-26",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: sales",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-02"
-    },
-    {
       "id": "e619cf06711f",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4708,6 +4679,35 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: finance",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-02"
+    },
+    {
+      "id": "46028540fbda",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Digital Transformation Stage - Janvier 2027 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Digital-Transformation-Stage---Janvier-2027---Paris--H-F-_JR1002089",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Digital transformation\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nLe rôle\nLe ou la stagiaire contribuera aux projets de l’équipe Transformation Digitale, notamment :\nIdentification de solutions technologiques et de startups pertinentes pour les participations d’Ardian, Benchmarking de solutions / outils (e.g. pour reporting, data analysis, cas d’usage de l’intelligence artificielle)\nAnalyses dans le cadre de Due Diligences digitales : marché (acteurs/ concurrents), parcours client digital, analyse de trafic web, etc.\nCodification de « best practices », incluant la rédaction de « case studies »\nSupport à la rédaction de memo (en anglais), aide à la création de dashboard d’analyse (e.g. amélioration de la préparation au risque cyber)\nCompétences requises\nRigueur\nCapacités analytiques\nMotivation\nAutonomie\nAgilité, réactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nCurieux, aimant apprendre vite, avec appétence forte pour le Digital au sens large (IT, digital marketing, technologies)\nLe profil\nEcole d’ingénieur, 3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nIntérêt pour la technologie et ses implications pour les entreprises\nBonne maîtrise d’Excel et Powerpoint appréciée\nPremière expérience en analyse data ou avec PowerBI serait un plus\nA propos de l’équipe\nL’équipe Transformation Digitale aide les sociétés dans lesquelles Ardian investit à créer de la valeur avec le Digital.\nPour Ardian, l’amélioration opérationnelle des participations est une source de création de valeur importante. Le Digital et la Donnée sont des leviers clé dans cette création de valeur, et Ardian a créé en 2019 une équipe dédiée à cette thématique. Les problématiques abordées sont variées : restructuration IT, optimisation des process (sales & marketing, supply chain, etc) par le digital, développement de nouveaux canaux de distribution (eCommerce), valorisation de la donnée, création de nouveaux business appuyés sur le digital et la donnée.\nL’équipe est aujourd’hui constituée de 4 personnes basées en France et en Allemagne.\nL’équipe travaille en étroite collaboration avec les Deal Teams (responsable de l’ensemble du cycle de vie d’une participation chez Ardian : depuis la Due Diligence jusqu’au désinvestissement, en passant par le suivi de la stratégie et de la performance pendant la durée de détention), ainsi qu’avec les Management Teams des participations.\nL’équipe Digitale tra",
+      "start_date": "2026-08-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-26",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: sales",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
       ],
@@ -4817,7 +4817,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-02",
-      "is_new": true,
+      "is_new": false,
       "match_score": 53,
       "match_reasons": [
         "Location: Paris",
@@ -4837,7 +4837,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4866,7 +4866,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4895,7 +4895,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Emerging Markets Trading (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4924,7 +4924,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4953,7 +4953,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4982,7 +4982,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales &amp; Trading Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21623-2027-Sales-Trading-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21623-2027-Sales-Trading-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5010,7 +5010,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Trading Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21615-2027-Institutional-Equities-Trading-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21615-2027-Institutional-Equities-Trading-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5573,7 +5573,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5601,7 +5601,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Off Cycle Internship - Transactional Management Group (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21585-2027-Institutional-Equities-Off-Cycle-Internship-Transactional-Management-Group-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5629,35 +5629,7 @@
       "category": "Investment Bank",
       "title": "2027 Sales &amp; Trading Off-Cycle Internship Business Control Unit (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21584-2027-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: trading, sales",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-02"
-    },
-    {
-      "id": "919729587e35",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales &amp; Trading Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21581-2027-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21584-2027-Sales-Trading-Off-Cycle-Internship-Business-Control-Unit-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5727,6 +5699,34 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-02"
+    },
+    {
+      "id": "919729587e35",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales &amp; Trading Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21581-2027-Sales-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, sales",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -6244,7 +6244,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6271,7 +6271,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6299,7 +6299,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6327,7 +6327,7 @@
       "category": "Investment Bank",
       "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6355,7 +6355,7 @@
       "category": "Investment Bank",
       "title": "2027 Quantitative Finance Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21635-2027-Quantitative-Finance-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6993,7 +6993,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - International Consultant Relations (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-International-Consultant-Relations-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-International-Consultant-Relations-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -7020,7 +7020,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -7048,7 +7048,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -7075,7 +7075,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -8550,12 +8550,39 @@
       "last_seen": "2026-10-02"
     },
     {
+      "id": "b61b184a04d4",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-02",
+      "is_new": true,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: sales"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-02"
+    },
+    {
       "id": "e476717a4bf1",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-534b67653d50/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-84b9fe34622f/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -11927,8 +11954,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 366,
-    "new_today": 2,
+    "total_jobs": 367,
+    "new_today": 1,
     "high_match": 58,
     "firms_scraped": 32,
     "firms_failed": 0,
