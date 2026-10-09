@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-09T14:17:07.302795+00:00",
+  "last_updated": "2026-10-09T17:40:04.100445+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 20,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "count": 19,
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 13,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "count": 14,
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 7,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "count": 6,
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 38,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-09T14:17:07.302795+00:00"
+      "timestamp": "2026-10-09T17:40:04.100445+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -3140,7 +3140,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3425,35 +3425,6 @@
       "last_seen": "2026-10-09"
     },
     {
-      "id": "45817a61b278",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Global Transaction Banking Off Cycle Internship Programme 2027 Paris",
-      "location": "Paris, 52 avenue Hoche",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Global-Transaction-Banking-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124634",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Transaction Banking division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\nExecution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for transaction banking, participating in the development of payment solutions for global companies as well as end-to-end product management with risk controls.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.\nTake ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\nGain and maintain an understanding of how assigned duties contribute to the activities of the team alongside knowledge of job activities and operational procedures within own role.\nFollow detailed and defined rules/ instructions and make simple judgements in straightforward situations typically having to select from defined and documented alternatives.\nDemonstrate a good knowledge and understanding of procedures.\nEvaluate and select the correct solution to problems to complete the tasks.\nPerform first line customer service related activities, interact with stakeholders on matters of customer service or administrative tasks, sometimes engaging with difficult contacts, networking with othe",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, risk, research",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-09"
-    },
-    {
       "id": "251d6c6f061b",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3534,6 +3505,35 @@
         "Domain: finance, fund",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-09"
+    },
+    {
+      "id": "45817a61b278",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Global Transaction Banking Off Cycle Internship Programme 2027 Paris",
+      "location": "Paris, 52 avenue Hoche",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Global-Transaction-Banking-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124634",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Transaction Banking division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\nExecution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for transaction banking, participating in the development of payment solutions for global companies as well as end-to-end product management with risk controls.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.\nTake ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\nGain and maintain an understanding of how assigned duties contribute to the activities of the team alongside knowledge of job activities and operational procedures within own role.\nFollow detailed and defined rules/ instructions and make simple judgements in straightforward situations typically having to select from defined and documented alternatives.\nDemonstrate a good knowledge and understanding of procedures.\nEvaluate and select the correct solution to problems to complete the tasks.\nPerform first line customer service related activities, interact with stakeholders on matters of customer service or administrative tasks, sometimes engaging with difficult contacts, networking with othe",
+      "start_date": "2026-09-01",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 57,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, risk, research",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3633,7 +3633,7 @@
       "category": "Investment Bank",
       "title": "2027 Fixed Income Research Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3662,7 +3662,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4749,7 +4749,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4778,7 +4778,7 @@
       "category": "Investment Bank",
       "title": "2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4807,7 +4807,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management  Off-cycle Internship – Emerging Markets Trading (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4836,7 +4836,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -4865,7 +4865,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Off-Cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21765-2027-Global-Capital-Markets-Off-Cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -5485,7 +5485,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6123,12 +6123,41 @@
       "last_seen": "2026-10-09"
     },
     {
+      "id": "640d21f7566f",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Client - Citi Research, Summer Analyst, London - United Kingdom, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Client---Citi-Research--Summer-Analyst--London---United-Kingdom--2027_26994966",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nYou're ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programmes equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti’s Client organization is looking for Summer Intern to join the Research team in London June-August 2027 for 10 weeks. Citi provides world-class products and financing solutions for corporations, governments, and institutional and retail investors through our dominant underwriting capabilities. Our global platform, broad product knowledge and on-the-ground local markets expertise coupled with complementary strengths in technology and distribution allows us to offer clients a wide range of comprehensive financial solutions. We address their needs by leveraging our products in currencies, sectors, geographies and asset classes; given the unparalleled breadth and depth of our global platform, Citi is able to consistently provide clients with innovative solutions regardless of complexity.\nYour time here will look something like this...\nWorking with a team covering a specific industry or macro area for the entirety of the summer, including involvement in the day-to-day responsibilities of an intern.\nDevelop a thorough understanding of financial markets. Learn to identify and analyse trends with the goal of producing cutting edge research and actionable recommendations.\nLearn to collect, outline and explain information giving insights that drive creative solutions.\nTake on various projects the team assigns.\nCreate, update and maintain economic or financial spreadsheets, quantitative models and databases of assigned companies.\nRefresh marketing handouts and assist with ad-hoc client requests.\nShadow Analysts by attending company and industry meetings as well as industry conferences.\nWe provide you with the knowledge and skills you need to succeed.\nThe 10 week summer analyst program starts in June and begins with an introduction to Citi and Research. You will then join a team where you will gain a experience by working on a projects as well as attending speaker presentations. High performing summer analysts will be considered for a full time position in 2028 after graduation.\nWe want ",
+      "start_date": "2026-10-09",
+      "time_type": "Full time",
+      "duration": "10 weeks",
+      "requirements": "We want to hear from you if...\nYou are due to graduating in Summer 2028\nOn course to achieve a 2.1 at undergraduate level in any degree discipline.\nYou are creative in solving problems and are intellectually curious\nYou are hard-working and diligent\nYou are enthusiastic, quick-thinking and able to juggle multiple tasks simultaneously",
+      "source": "workday",
+      "first_seen": "2026-10-09",
+      "is_new": true,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: research",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-09"
+    },
+    {
       "id": "8973da24c4b9",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6155,7 +6184,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6183,7 +6212,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship – Global Sales, Consultant Relations (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-Global-Sales-Consultant-Relations-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-Global-Sales-Consultant-Relations-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6211,7 +6240,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6765,7 +6794,7 @@
       "category": "Investment Bank",
       "title": "2027  Investment Management Summer Analyst Programme - Fixed Income (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6793,7 +6822,7 @@
       "category": "Investment Bank",
       "title": "2027 Operations Off-cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6820,7 +6849,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6848,7 +6877,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship – Parametric EMEA (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/21763-2027-Investment-Management-Off-Cycle-Internship-Parametric-EMEA-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6857,33 +6886,6 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-09"
-    },
-    {
-      "id": "9f9a06b3ba40",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-07-31",
       "is_new": false,
       "match_score": 40,
       "match_reasons": [
@@ -7030,6 +7032,33 @@
         "Domain: banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-09"
+    },
+    {
+      "id": "9f9a06b3ba40",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off-Cycle Internship - Real Estate Investing (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/21762-2027-Investment-Management-Off-Cycle-Internship-Real-Estate-Investing-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
       ],
       "match_class": "low",
       "excluded": false,
@@ -8025,7 +8054,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -8052,7 +8081,7 @@
       "category": "Investment Bank",
       "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-02d51805584a/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-ba79a29d5f84/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -11023,8 +11052,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 333,
-    "new_today": 0,
+    "total_jobs": 334,
+    "new_today": 1,
     "high_match": 58,
     "firms_scraped": 32,
     "firms_failed": 0,
