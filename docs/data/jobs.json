@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-13T14:55:36.749008+00:00",
+  "last_updated": "2026-10-13T18:36:52.706910+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 37,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-13T14:55:36.749008+00:00"
+      "timestamp": "2026-10-13T18:36:52.706910+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -5435,34 +5435,6 @@
       "last_seen": "2026-10-13"
     },
     {
-      "id": "1d446ccf62cd",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Private Credit Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Private-Credit-Stage---Janvier-2027-I-Paris--M-F-_JR1002152",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Fund Finance Private Crédit\nLocalisation : Paris\nContrat : Stage\nDébut de stage : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir dans l’équipe Funds Finance – Private Credit (investissements directs via des instruments de dettes).\nLa mission consiste à assister l’équipe dans son travail de contrôle, d’analyse et de suivi des Fonds sous gestion.\nDétail de la mission\nParticipation aux travaux de valorisation des entités et aux arrêtés comptables trimestriels\nContribution à l’élaboration de l'information financière en interne et en externe (capital accounts, rapport de gestion, fiches trimestrielles etc.)\nCalcul, analyse et reporting de la performance des fonds\nContacts avec l’ensemble des intervenants en France ou au Luxembourg pour l’organisation des flux d’informations, financiers et comptables : Front Office, administrateurs, relations investisseurs, service juridique, conformité…\nPréparation des notices d’appels et de distributions à destination des investisseurs et suivi de la bonne réception des flux d’appels et la bonne exécution des flux de distribution\nParticiper au maintien et développement des outils de suivis tels que FIA, FrontLoan et Business Object.\nCompétences requises\nRigueur\nOrganisation\nMotivation\nEsprit d’initiative et autonomie\nEsprit d'équipe\nConnaissances comptables et financières\nMaîtrise d’Excel\nLe profil\nEcoles de Commerce (option Finance, Audit ou Contrôle de Gestion)\nExpérience : Stage de fin d’étude privilégié / un stage d’audit ou en gestion d’actifs ou en contrôle de gestion déjà effectué. Bonne maitrise d’Excel\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-07-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-13"
-    },
-    {
       "id": "5c24d3d840ba",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -5512,6 +5484,34 @@
         "Type: Internship/Stage",
         "Domain: finance, fund, audit",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-13"
+    },
+    {
+      "id": "1d446ccf62cd",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Private Credit Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Private-Credit-Stage---Janvier-2027-I-Paris--M-F-_JR1002152",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Fund Finance Private Crédit\nLocalisation : Paris\nContrat : Stage\nDébut de stage : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir dans l’équipe Funds Finance – Private Credit (investissements directs via des instruments de dettes).\nLa mission consiste à assister l’équipe dans son travail de contrôle, d’analyse et de suivi des Fonds sous gestion.\nDétail de la mission\nParticipation aux travaux de valorisation des entités et aux arrêtés comptables trimestriels\nContribution à l’élaboration de l'information financière en interne et en externe (capital accounts, rapport de gestion, fiches trimestrielles etc.)\nCalcul, analyse et reporting de la performance des fonds\nContacts avec l’ensemble des intervenants en France ou au Luxembourg pour l’organisation des flux d’informations, financiers et comptables : Front Office, administrateurs, relations investisseurs, service juridique, conformité…\nPréparation des notices d’appels et de distributions à destination des investisseurs et suivi de la bonne réception des flux d’appels et la bonne exécution des flux de distribution\nParticiper au maintien et développement des outils de suivis tels que FIA, FrontLoan et Business Object.\nCompétences requises\nRigueur\nOrganisation\nMotivation\nEsprit d’initiative et autonomie\nEsprit d'équipe\nConnaissances comptables et financières\nMaîtrise d’Excel\nLe profil\nEcoles de Commerce (option Finance, Audit ou Contrôle de Gestion)\nExpérience : Stage de fin d’étude privilégié / un stage d’audit ou en gestion d’actifs ou en contrôle de gestion déjà effectué. Bonne maitrise d’Excel\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-07-01",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-01",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, audit",
+        "Start: Jan 2027"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -7583,7 +7583,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-10-13",
-      "is_new": true,
+      "is_new": false,
       "match_score": 37,
       "match_reasons": [
         "Location: London",
@@ -11015,7 +11015,7 @@
   ],
   "stats": {
     "total_jobs": 332,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 62,
     "firms_scraped": 32,
     "firms_failed": 0,
