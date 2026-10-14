@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-14T12:47:51.872213+00:00",
+  "last_updated": "2026-10-14T16:06:37.070755+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "count": 15,
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Man Group": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "count": 0,
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 37,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T12:47:51.872213+00:00"
+      "timestamp": "2026-10-14T16:06:37.070755+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2084,36 +2084,6 @@
       "last_seen": "2026-10-14"
     },
     {
-      "id": "d218b85bf74b",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Analyst Financier Buy Side  - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyst-Financier-Buy-Side----Janvier-2027_JR016378",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nContexte\nAu sein du département de gestion collective de Rothschild & Co Asset Management, caractérisée par une philosophie de gestion dite de conviction, vous intégrez l’équipe ESG & Analyse Financière sur la classe d’actifs Actions.\nDirectement rattaché(e) à l’équipe d’analystes, votre rôle sera de contribuer activement à l’analyse fondamentale et ESG de sociétés dans l’univers du STOXX600 et d’être force de proposition dans l’amélioration des outils de gestion.\nAu-delà de l’implication au sein de l’équipe d’analystes financiers & ESG, ce stage constitue une véritable opportunité de découvrir le fonctionnement des marchés financiers et des différents départements d’une société de gestion.\nRothschild & Co Asset Management, recherche un(e) Analyste Financier & Extra-Financier (ESG) Buy Side pour un stage d’une durée de 6 mois à partir de janvier 2027.\nMissions\nProduction de rapports d’analyse fondamentale ",
-      "start_date": "2026-09-03",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-03",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-14"
-    },
-    {
       "id": "9dc55390fc2d",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2202,6 +2172,36 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-02"
+    },
+    {
+      "id": "d218b85bf74b",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Analyst Financier Buy Side  - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyst-Financier-Buy-Side----Janvier-2027_JR016378",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nContexte\nAu sein du département de gestion collective de Rothschild & Co Asset Management, caractérisée par une philosophie de gestion dite de conviction, vous intégrez l’équipe ESG & Analyse Financière sur la classe d’actifs Actions.\nDirectement rattaché(e) à l’équipe d’analystes, votre rôle sera de contribuer activement à l’analyse fondamentale et ESG de sociétés dans l’univers du STOXX600 et d’être force de proposition dans l’amélioration des outils de gestion.\nAu-delà de l’implication au sein de l’équipe d’analystes financiers & ESG, ce stage constitue une véritable opportunité de découvrir le fonctionnement des marchés financiers et des différents départements d’une société de gestion.\nRothschild & Co Asset Management, recherche un(e) Analyste Financier & Extra-Financier (ESG) Buy Side pour un stage d’une durée de 6 mois à partir de janvier 2027.\nMissions\nProduction de rapports d’analyse fondamentale ",
+      "start_date": "2026-10-14",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-03",
+      "is_new": false,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-14"
     },
     {
       "id": "0a0f022350d9",
@@ -3081,35 +3081,6 @@
       "last_seen": "2026-10-12"
     },
     {
-      "id": "8baac324e78b",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for talented individuals to join our Quantitative Analysis off-cycle placement program within the Markets team in London. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this.\nOur placements run from three to six months with flexibility on start dates. We're committed to teaching you the ropes. As an incoming placement analyst, you will be placed in Quantitative Analysis, Structuring, or Exotics Trading. Here, new insights from the worlds of finance and academia drive innovation and excellence in mathematical and quantitative trading. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in the above areas. At the end of your placement, successful analysts will be considered for a place on a full-time program.\nWhat you’ll do\nWe'll empower you to create, implement, and manage the mathematical models that drive our success within the Markets business.\nWe'll offer you the opportunity to price, trade, and manage the risk associated with our diverse range of market products.\nWe'll enable you to collaborate with traders and salespeople in technical product areas, providing crucial assistance in addressing client needs.\nWe'll support your innovation by encouraging you to develop new products that align with our firm's risk framework.\nWe'll give you the platform to market new products to sal",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, trading",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-06"
-    },
-    {
       "id": "a9d67a8088c6",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3190,6 +3161,35 @@
         "Domain: banking, strategy, economics",
         "Languages: English, Spanish",
         "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-14"
+    },
+    {
+      "id": "8baac324e78b",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Markets, Quantitative Analysis, Off Cycle Placement , London, UK, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for talented individuals to join our Quantitative Analysis off-cycle placement program within the Markets team in London. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this.\nOur placements run from three to six months with flexibility on start dates. We're committed to teaching you the ropes. As an incoming placement analyst, you will be placed in Quantitative Analysis, Structuring, or Exotics Trading. Here, new insights from the worlds of finance and academia drive innovation and excellence in mathematical and quantitative trading. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in the above areas. At the end of your placement, successful analysts will be considered for a place on a full-time program.\nWhat you’ll do\nWe'll empower you to create, implement, and manage the mathematical models that drive our success within the Markets business.\nWe'll offer you the opportunity to price, trade, and manage the risk associated with our diverse range of market products.\nWe'll enable you to collaborate with traders and salespeople in technical product areas, providing crucial assistance in addressing client needs.\nWe'll support your innovation by encouraging you to develop new products that align with our firm's risk framework.\nWe'll give you the platform to market new products to sal",
+      "start_date": "2026-10-14",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, trading",
+        "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
@@ -8608,7 +8608,7 @@
       "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and co",
       "source": "workday",
       "first_seen": "2026-10-14",
-      "is_new": true,
+      "is_new": false,
       "match_score": 33,
       "match_reasons": [
         "Location: Paris",
@@ -10952,11 +10952,11 @@
   ],
   "stats": {
     "total_jobs": 330,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 61,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 16,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
