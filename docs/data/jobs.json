@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-14T16:06:37.070755+00:00",
+  "last_updated": "2026-10-14T19:57:32.666708+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "count": 13,
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 37,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-14T16:06:37.070755+00:00"
+      "timestamp": "2026-10-14T19:57:32.666708+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2496,35 +2496,6 @@
       "last_seen": "2026-10-14"
     },
     {
-      "id": "eee20292241e",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone\nInfrastructure Partners\nSummer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)\nBlackstone\nInfrastructure Partners\nBlackstone Infrastructure Partners is an active investor across energy, transportation, digital infrastructure and water and waste infrastructure sectors. We seek to apply a long-term buy-and-hold strategy to large-scale infrastructure assets with a focus on delivering stable, long-term capital appreciation together with a predictable annual cash flow yield. Our approach to infrastructure investing is one that focuses on responsible stewardship and stakeholder engagement to create value for our investors and the communities we serve.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Infrastructure Partners is seeking 2027 Summer Analysts to join the following groups:\nPrivate Equity Infrastructure Investment\nPrivate Equity Infrastructure Asset Management\nPlease see information regarding groups below:\nPrivate Equity Infrastructure Investment\nBlackstone’s Private Equity Infrastructure Group offers Summer Analysts the chance to engage in the direct acquisition of assets in a variety of sectors. The investment process develops both the financial skills of investment banking and the strategic thinking of management consulting. As a result, this analyst program is a unique experience among financial firms, enabling our Summer Analysts to develop a well-rounded business mind. Summer Analysts at Blackstone have the opportunity to participate in all aspects of proj",
-      "start_date": "2026-07-13",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, asset management",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-14"
-    },
-    {
       "expired": false,
       "deadline": "",
       "id": "508fe019a909",
@@ -2579,6 +2550,35 @@
         "Domain: M&A",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-14"
+    },
+    {
+      "id": "eee20292241e",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Infrastructure Partners Summer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Infrastructure-Partners-Summer-Analyst---Private-Equity-Infrastructure-Investment---Private-Equity-Infrastructure-Asset-Management--London-_43613",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone\nInfrastructure Partners\nSummer Analyst – Private Equity Infrastructure Investment & Private Equity Infrastructure Asset Management (London)\nBlackstone\nInfrastructure Partners\nBlackstone Infrastructure Partners is an active investor across energy, transportation, digital infrastructure and water and waste infrastructure sectors. We seek to apply a long-term buy-and-hold strategy to large-scale infrastructure assets with a focus on delivering stable, long-term capital appreciation together with a predictable annual cash flow yield. Our approach to infrastructure investing is one that focuses on responsible stewardship and stakeholder engagement to create value for our investors and the communities we serve.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Infrastructure Partners is seeking 2027 Summer Analysts to join the following groups:\nPrivate Equity Infrastructure Investment\nPrivate Equity Infrastructure Asset Management\nPlease see information regarding groups below:\nPrivate Equity Infrastructure Investment\nBlackstone’s Private Equity Infrastructure Group offers Summer Analysts the chance to engage in the direct acquisition of assets in a variety of sectors. The investment process develops both the financial skills of investment banking and the strategic thinking of management consulting. As a result, this analyst program is a unique experience among financial firms, enabling our Summer Analysts to develop a well-rounded business mind. Summer Analysts at Blackstone have the opportunity to participate in all aspects of proj",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavours.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, asset management",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
