@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-15T12:34:37.930821+00:00",
+  "last_updated": "2026-10-15T15:54:24.087532+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "count": 21,
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 14,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "count": 15,
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 40,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 37,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "count": 34,
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-15T12:34:37.930821+00:00"
+      "timestamp": "2026-10-15T15:54:24.087532+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1610,7 +1610,7 @@
       "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for Summer Analysts to join the Investment Banking Real Estate team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June 2027 and begins with a one-week training program in London. After which, you will join the UK, Europe and MEA Real Estate Investment Banking Team to support a growing business and be fully integrated to the team during your internship. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry    research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential).\nWho we think will be a great fit:\nWe’re lookin",
       "start_date": "2026-10-01",
       "time_type": "Full time",
@@ -1631,7 +1631,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "25de18635cbd",
@@ -2408,35 +2408,6 @@
       "last_seen": "2026-10-15"
     },
     {
-      "id": "3256febe1779",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
-      "start_date": "2026-06-17",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-17",
-      "is_new": false,
-      "match_score": 63,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, fund",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-15"
-    },
-    {
       "id": "15d3c6973304",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -2489,6 +2460,35 @@
         "Domain: finance, M&A, equity",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "3256febe1779",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Group Risk Management Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Risk-Management-Stage---Janvier-2027-I-Paris--M-F-_JR1002125",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Risk - Group Risk Management\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nArdian recherche un(e)stagiaire Group Risk Management pour assister le Senior Risk Officer basé à Paris dans ses missions quotidiennes. Le/la stagiaire aura pour principale mission de l’accompagner dans ses différentes missions de prévention, d’identification, d’évaluation et de correction des risques d’entreprise des entités du groupe ARDIAN basées en Europe. Le/la stagiaire sera amené, ponctuellement, à assister les 3 autres Senior Risk Officers basés à Londres, New York et Abu Dhabi et pourra être intégré à des projets transverses à l’équipe.\nSes missions couvriront notamment :\nContribuer activement au programme ERM du groupe, avec un focus sur les entités européennes\nParticiper à l’identification, l’évaluation et au suivi des risques (stratégiques, opérationnels, financiers, réglementaires ESG etc.)\nParticiper à la mise à jour des cartographies des risques et des plans de remédiations associés\nParticiper à la préparation des supports de présentation pour les comités risques et instances de gouvernance du groupe\nSuivre les indicateurs de risques clés (KRI) et analyser les incidents via notre outil interne de gestion des risques (Athena)\nContribuer à la rédaction de notes de synthèse, reportings et procédures internes\nCollaborer avec les équipes d’investissement, les fonctions centrales (Finance, Legal, Compliance entre autres) et les Risk Officers des autres bureaux (Londres, New York, Abu Dhabi)\nContribuer à la mise à jour d’une veille active sur les meilleures pratiques ERM et les évolutions réglementaires européennes.\nCompétences requises\nCapacités d’analyse, de synthèse et d’organisation\nRigueur\nProactivité\nAutonomie\nEsprit d’équipe\nLe Profil\nStage de césure ou de fin d’études (grade de Master)\nMaîtrise du Pack Office (en particulier Excel, Power Point, Word)\nLa connaissance d’outils de reporting ou de gestion des risques serait un atout.\nIntérêt marqué pour la gestion des risques, la gouvernance d’entreprise et/ou la réglementation financière.\nFrançais et anglais courants (environnement de travail international)\nA propos de l’équipe\nDans un environnement d’investissement global et réglementé, ARDIAN accorde une importance stratégique à la gestion des risques à l’échelle du groupe. L’équipe Risk est divisée en deux activités distinctes :\nFund Risk Management et\nGroup Risk Management.\nL’équipe Group Risk Management, composée de 5 perso",
+      "start_date": "2026-06-17",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-17",
+      "is_new": false,
+      "match_score": 63,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, fund",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3203,7 +3203,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Off-Cycle Internship (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21773-2027-Investment-Banking-Off-Cycle-Internship-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -3224,7 +3224,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "4d36980e648e",
@@ -3662,6 +3662,64 @@
       "last_seen": "2026-10-09"
     },
     {
+      "id": "09cc0752f65d",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Fixed Income Research Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-30",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: fixed income, research",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "64abbe5c3e75",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Banking Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
       "id": "a28d9ddf3be0",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -3828,64 +3886,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-15"
-    },
-    {
-      "id": "09cc0752f65d",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Fixed Income Research Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21953-2027-Fixed-Income-Research-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-30",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: fixed income, research",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
-    },
-    {
-      "id": "64abbe5c3e75",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Banking Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21778-2027-Investment-Banking-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
     },
     {
       "id": "f85e4cbd5177",
@@ -4749,6 +4749,122 @@
       "last_seen": "2026-10-02"
     },
     {
+      "id": "03a8c20baadd",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-25",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: fixed income",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "4afd6bda4507",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "17cfcd6b02d2",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management  Off-cycle Internship – Emerging Markets Trading (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "8d317b71ee81",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Global Capital Markets Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: capital markets",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
       "id": "743cd0164b30",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -4831,122 +4947,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-15"
-    },
-    {
-      "id": "03a8c20baadd",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-25",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: fixed income",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
-    },
-    {
-      "id": "4afd6bda4507",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22033-2027-Institutional-Equities-Trading-Off-Cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: trading",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
-    },
-    {
-      "id": "17cfcd6b02d2",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management  Off-cycle Internship – Emerging Markets Trading (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21981-2027-Investment-Management-Off-cycle-Internship-Emerging-Markets-Trading-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
-    },
-    {
-      "id": "8d317b71ee81",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Global Capital Markets Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21777-2027-Global-Capital-Markets-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: capital markets",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
     },
     {
       "id": "30c7a693a3bf",
@@ -5459,6 +5459,34 @@
       "last_seen": "2026-10-15"
     },
     {
+      "id": "48ac1aff9176",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-24",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
       "id": "afd7af9c4f3d",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -5511,34 +5539,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-15"
-    },
-    {
-      "id": "48ac1aff9176",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-24",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
     },
     {
       "id": "81b9ebd93b95",
@@ -5991,34 +5991,6 @@
       "last_seen": "2026-10-15"
     },
     {
-      "id": "3f7d0db25fd7",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Expansion Stage - Mars 2027 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Expansion-Stage---Mars-2027---Paris--H-F-_JR1002080-1",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Expansion\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe pan-européenne de 37 personnes localisé à Paris (22 personnes), Frankfurt (10 personnes) et Milan (5 personnes), le stagiaire participera et assistera l’équipe dans l’ensemble des tâches du métier d’investisseur de l’étude d’une opportunité à la réalisation d’un investissement :\nEvaluer des nouvelles opportunités d’investissements en amont (recherche et analyse de marché, dirigeants, valorisation, call experts…)\nParticiper à la rédaction de notes (en anglais) de précomité et de comité d’investissements sur des opportunités plus avancés (analyse de l’activité, du marché, analyse financière, valorisation) et suivi des due diligences (financière, stratégique, ESG)\nAssister les équipes d’investissement dans leur suivi des participations en portefeuille (acquisitions, analyse marché ou reporting interne et externe)\nSoutenir l’équipe dans ses tâches transverses (présentation marketing, outils d’optimisation, veille de marché)\nCompétences requises\nRigueur\nAutonomie\nImplication\nRéactivité\nBon relationnel\nEsprit d’équipe\nLe profil\nEtudiant en dernière année d’Ecole de Commerce ou d’Ingénieur ou année de césure\nUne première expérience en stage en banque d’investissement, conseil en stratégie ou fonds d’investissement est souhaitée\nBonne connaissance des modèles financiers\nMaîtrise d’Excel et de Power Point requise\nAnglais courant indispensable\nA propos de l’équipe :\nAvec plus de vingt ans d’expérience dans le LBO small-and-mid-sized, l’équipe Expansion a réalisé plus de 75 investissements et compte actuellement 17 sociétés en portefeuille. Au travers d’un fond d’environ 2 milliards d’euros levé en 2020, l’équipe Ardian Expansion investit des tickets d’equity entre 30M€ et 180M€ correspondant à des entreprises valorisées entre 50 et 350M€.\nAutres informations\nGratification selon profil\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-06-04",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-15"
-    },
-    {
       "id": "d5681db0a3b6",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -6033,6 +6005,34 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-07-10",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "3f7d0db25fd7",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Expansion Stage - Mars 2027 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Expansion-Stage---Mars-2027---Paris--H-F-_JR1002080-1",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Expansion\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe pan-européenne de 37 personnes localisé à Paris (22 personnes), Frankfurt (10 personnes) et Milan (5 personnes), le stagiaire participera et assistera l’équipe dans l’ensemble des tâches du métier d’investisseur de l’étude d’une opportunité à la réalisation d’un investissement :\nEvaluer des nouvelles opportunités d’investissements en amont (recherche et analyse de marché, dirigeants, valorisation, call experts…)\nParticiper à la rédaction de notes (en anglais) de précomité et de comité d’investissements sur des opportunités plus avancés (analyse de l’activité, du marché, analyse financière, valorisation) et suivi des due diligences (financière, stratégique, ESG)\nAssister les équipes d’investissement dans leur suivi des participations en portefeuille (acquisitions, analyse marché ou reporting interne et externe)\nSoutenir l’équipe dans ses tâches transverses (présentation marketing, outils d’optimisation, veille de marché)\nCompétences requises\nRigueur\nAutonomie\nImplication\nRéactivité\nBon relationnel\nEsprit d’équipe\nLe profil\nEtudiant en dernière année d’Ecole de Commerce ou d’Ingénieur ou année de césure\nUne première expérience en stage en banque d’investissement, conseil en stratégie ou fonds d’investissement est souhaitée\nBonne connaissance des modèles financiers\nMaîtrise d’Excel et de Power Point requise\nAnglais courant indispensable\nA propos de l’équipe :\nAvec plus de vingt ans d’expérience dans le LBO small-and-mid-sized, l’équipe Expansion a réalisé plus de 75 investissements et compte actuellement 17 sociétés en portefeuille. Au travers d’un fond d’environ 2 milliards d’euros levé en 2020, l’équipe Ardian Expansion investit des tickets d’equity entre 30M€ et 180M€ correspondant à des entreprises valorisées entre 50 et 350M€.\nAutres informations\nGratification selon profil\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-06-04",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-04",
       "is_new": false,
       "match_score": 47,
       "match_reasons": [
@@ -6109,7 +6109,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
       "location": "Madrid",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22231-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-Madrid/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6128,7 +6128,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "0557df9d2873",
@@ -6136,7 +6136,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22192-2027-Investment-Management-Off-Cycle-Internship-UK-Institutional-Sales-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6156,7 +6156,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "85a27d4eb518",
@@ -6164,7 +6164,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-Cycle Internship – Global Sales, Consultant Relations (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-Global-Sales-Consultant-Relations-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21966-2027-Investment-Management-Off-Cycle-Internship-Global-Sales-Consultant-Relations-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6184,7 +6184,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "256b0e9ceb98",
@@ -6192,7 +6192,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Banking Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6212,7 +6212,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "f9c3401e8e24",
@@ -6718,7 +6718,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Real Estate Investing (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22354-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22354-2027-Investment-Management-Off-cycle-Internship-Real-Estate-Investing-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6737,7 +6737,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "a0c360ede3da",
@@ -6745,7 +6745,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Off-cycle Internship - Liquidity (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22345-2027-Investment-Management-Off-cycle-Internship-Liquidity-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22345-2027-Investment-Management-Off-cycle-Internship-Liquidity-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6764,7 +6764,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "7827ca3f1de1",
@@ -6772,7 +6772,7 @@
       "category": "Investment Bank",
       "title": "2027  Investment Management Summer Analyst Programme - Fixed Income (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6792,7 +6792,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "51198f437826",
@@ -6800,7 +6800,7 @@
       "category": "Investment Bank",
       "title": "2027 Operations Off-cycle Internship (Paris)",
       "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6819,7 +6819,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "39c308f067ae",
@@ -6827,7 +6827,7 @@
       "category": "Investment Bank",
       "title": "2027 Global Capital Markets Summer Analyst Programme (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -6847,7 +6847,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "39b21940bd87",
@@ -7999,6 +7999,60 @@
       "last_seen": "2026-10-15"
     },
     {
+      "id": "b61b184a04d4",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-02",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: sales"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
+      "id": "e476717a4bf1",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-11",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-15"
+    },
+    {
       "id": "c8577cbcba11",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -8051,60 +8105,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-15"
-    },
-    {
-      "id": "b61b184a04d4",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-02",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: sales"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
-    },
-    {
-      "id": "e476717a4bf1",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-11",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-12"
     },
     {
       "id": "b82986319db3",
@@ -8554,7 +8554,7 @@
       "requirements": "",
       "source": "oracle_hcm",
       "first_seen": "2026-10-15",
-      "is_new": true,
+      "is_new": false,
       "match_score": 33,
       "match_reasons": [
         "Location: London",
@@ -8599,7 +8599,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Summer Analyst Programme - Real Assets (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -8617,7 +8617,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "016333067964",
@@ -8625,7 +8625,7 @@
       "category": "Investment Bank",
       "title": "2027 Investment Management Summer Analyst Programme -  Office of the COO (London)",
       "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f8976dcc9428/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-166a3fb40e50/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB",
       "posted_date": "",
       "description": "",
       "start_date": "",
@@ -8643,7 +8643,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-15"
     },
     {
       "id": "1483f748a96d",
@@ -10845,11 +10845,11 @@
   ],
   "stats": {
     "total_jobs": 326,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 61,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 17,
+    "firms_empty": 16,
     "firms_total": 76
   }
 }
