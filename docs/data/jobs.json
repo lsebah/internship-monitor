@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-19T14:32:25.942975+00:00",
+  "last_updated": "2026-10-19T17:53:51.944623+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 47,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 23,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 17,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -67,23 +67,23 @@
     },
     "Rothschild & Co": {
       "status": "success",
-      "count": 41,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "count": 42,
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 9,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 33,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-19T14:32:25.942975+00:00"
+      "timestamp": "2026-10-19T17:53:51.944623+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2188,7 +2188,7 @@
       "requirements": "Your time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry  research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
       "source": "workday",
       "first_seen": "2026-10-19",
-      "is_new": true,
+      "is_new": false,
       "match_score": 67,
       "match_reasons": [
         "Location: London",
@@ -2196,6 +2196,36 @@
         "Domain: banking, investment banking, capital markets",
         "Level: Undergraduate",
         "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-19"
+    },
+    {
+      "id": "857369d486d5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Documentation Juridique et Réglementaire - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Documentation-Juridique-et-Rglementaire---Janvier-2027_JR016588",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte :\nDans le cadre d’un stage de 6 mois, vous intégrerez l’équipe en charge de la documentation juridique et réglementaire de Rothschild & Co Martin Maurel.\nMissions :\nGestion documentaire\n:\nContribuer à la mise à jour des documents juridiques et de conformité pour différents pays\nDans le cadre des ",
+      "start_date": "2026-10-19",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-19",
+      "is_new": true,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -2937,35 +2967,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "a9d67a8088c6",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nR&Co4Generations est le nouveau véhicule philanthropique créé par le groupe Rothschild and Co en mai 2021. En définissant une stratégie commune et en regroupant l’ensemble des actions menées par nos différentes implantations géographiques, nous visons à renforcer notre engagement au service d’une grande cause, la jeunesse.\nAfin de maximiser notre impact, nous privilégions une approche de financement agile, mobilisant une diversité d’outils pour soutenir des associations ou des entreprises sociales innovantes : dons, prêts ou equity via notre activité de Venture Philanthropy.\nEn accord avec la stratégie globale de R&Co4Generations, notre activité de Venture Philanthropy cible des projets intervenant dans les secteurs de l’éducation/insertion professionnelle et transition écologique.\nMissions\nLe ou la stagiaire sera rattaché(e) à la responsable de R&Co4Generations aidera notamment l’équipe à constituer un dealflow d’opportunités d’investissement en Venture Philanthropy.\nSourcing: Soutien à l’équipe pour l’identification d’opportunités investissement en venture philanthropy et veille économique du secteur (avec focus emploi/insertion et changement climatique) ; analyse du marché et compréhension du business model des cibles potentielles en lien avec la stratégie d’investissement de R&Co4Generations.\nInvestissement : participation à l’analyse des dossiers (pre-screening, collecte et analyse de données complémentaires, visite in situ, etc. ) ; participation à diverses tâches relatives à la relations avec les investisseurs.\nSuivi des in",
-      "start_date": "2024-09-10",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-10-19",
-      "is_new": true,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, wealth management, asset management",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "97ed5f970108",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3075,6 +3076,35 @@
         "Domain: equity, private equity, economics",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-19"
+    },
+    {
+      "id": "a9d67a8088c6",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Venture Philanthropy Analyst – R&Co4Generations – Février 2025",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Venture-Philanthropy-Analyst---R-Co4Generations---Fvrier-2025_JR012488",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nContexte\nR&Co4Generations est le nouveau véhicule philanthropique créé par le groupe Rothschild and Co en mai 2021. En définissant une stratégie commune et en regroupant l’ensemble des actions menées par nos différentes implantations géographiques, nous visons à renforcer notre engagement au service d’une grande cause, la jeunesse.\nAfin de maximiser notre impact, nous privilégions une approche de financement agile, mobilisant une diversité d’outils pour soutenir des associations ou des entreprises sociales innovantes : dons, prêts ou equity via notre activité de Venture Philanthropy.\nEn accord avec la stratégie globale de R&Co4Generations, notre activité de Venture Philanthropy cible des projets intervenant dans les secteurs de l’éducation/insertion professionnelle et transition écologique.\nMissions\nLe ou la stagiaire sera rattaché(e) à la responsable de R&Co4Generations aidera notamment l’équipe à constituer un dealflow d’opportunités d’investissement en Venture Philanthropy.\nSourcing: Soutien à l’équipe pour l’identification d’opportunités investissement en venture philanthropy et veille économique du secteur (avec focus emploi/insertion et changement climatique) ; analyse du marché et compréhension du business model des cibles potentielles en lien avec la stratégie d’investissement de R&Co4Generations.\nInvestissement : participation à l’analyse des dossiers (pre-screening, collecte et analyse de données complémentaires, visite in situ, etc. ) ; participation à diverses tâches relatives à la relations avec les investisseurs.\nSuivi des in",
+      "start_date": "2024-09-10",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-19",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, wealth management, asset management",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3604,6 +3634,35 @@
       "last_seen": "2026-10-09"
     },
     {
+      "id": "a6f01e15d261",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stagiaire Business Intelligence - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Business-Intelligence---Janvier-2027_JR016589",
+      "posted_date": "Posted Today",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nVous êtes passionné(e) par l’analyse de données et curieux(se) des usages professionnels de l’intelligence artificielle ? Rejoignez notre équipe de Business Intelligence au sein de la Banque Privée Rothschild Martin Maurel.\nMissions :\n- Collecter, traiter et analyser des données internes ;\n- Enrichir et g",
+      "start_date": "2026-10-19",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-19",
+      "is_new": true,
+      "match_score": 57,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-19"
+    },
+    {
       "id": "dfdd1e6c413c",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -3618,7 +3677,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-19",
-      "is_new": true,
+      "is_new": false,
       "match_score": 57,
       "match_reasons": [
         "Location: Paris",
@@ -5358,7 +5417,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-19",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: Paris",
@@ -10678,9 +10737,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 320,
-    "new_today": 4,
-    "high_match": 61,
+    "total_jobs": 322,
+    "new_today": 2,
+    "high_match": 62,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 17,
