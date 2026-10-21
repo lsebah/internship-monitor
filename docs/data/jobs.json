@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-21T16:14:52.549978+00:00",
+  "last_updated": "2026-10-21T19:54:37.585755+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 23,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "count": 16,
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 9,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-21T16:14:52.549978+00:00"
+      "timestamp": "2026-10-21T19:54:37.585755+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1636,36 +1636,6 @@
       "last_seen": "2026-10-21"
     },
     {
-      "id": "857369d486d5",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Documentation Juridique et Réglementaire - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Documentation-Juridique-et-Rglementaire---Janvier-2027_JR016588",
-      "posted_date": "Posted 2 Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte :\nDans le cadre d’un stage de 6 mois, vous intégrerez l’équipe en charge de la documentation juridique et réglementaire de Rothschild & Co Martin Maurel.\nMissions :\nGestion documentaire\n:\nContribuer à la mise à jour des documents juridiques et de conformité pour différents pays\nDans le cadre des ",
-      "start_date": "2026-10-19",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-10-19",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-21"
-    },
-    {
       "id": "1ed28eebcb6d",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -1688,6 +1658,36 @@
         "Domain: banking, investment banking, capital markets",
         "Level: Undergraduate",
         "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-21"
+    },
+    {
+      "id": "857369d486d5",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Documentation Juridique et Réglementaire - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Documentation-Juridique-et-Rglementaire---Janvier-2027_JR016588",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte :\nDans le cadre d’un stage de 6 mois, vous intégrerez l’équipe en charge de la documentation juridique et réglementaire de Rothschild & Co Martin Maurel.\nMissions :\nGestion documentaire\n:\nContribuer à la mise à jour des documents juridiques et de conformité pour différents pays\nDans le cadre des ",
+      "start_date": "2026-10-19",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-19",
+      "is_new": false,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -3144,35 +3144,6 @@
       "last_seen": "2026-10-21"
     },
     {
-      "id": "f14d7cbe0c16",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Growth Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Growth-Stage---Janvier-2027-I-Paris--H-F-_JR1002107",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Fund Finance Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir dans l’équipe Funds Finance - Growth (investissements directs via des FCPI / FPCI\ndans des sociétés Innovantes (Software, Technologie de l’information et de l’internet…).\nLa mission consiste à assister les Finance Officers des structures Growth dans leur travail de contrôle, d’analyse et\nde suivi des Fonds sous gestion.\nDétail de la mission :\nParticipation aux comités de valorisation et arrêtés comptables trimestriels\nContribution à l’élaboration de l'information financière en interne et en externe (capital accounts, rapport\nde gestion, fiches trimestrielles etc.)\nCalcul, analyse et reporting de la performance des fonds\nContacts avec l’ensemble des intervenants pour l’organisation des flux d’informations, financiers et\ncomptables : Front Office, Back Office, relations investisseurs, service juridique, conformité…\nPréparation des notices d’appels et de distributions à destination des investisseurs et suivi de la bonne\nréception des flux d’appels et la bonne exécution des flux de distribution\nAnalyse des documents légaux des investissements\nVeille juridique des véhicules et suivi des ratios règlementaires\nCompétences requises\nRigueur\nOrganisation\nMotivation\nEsprit d'initiative et autonomie\nEsprit d'équipe\nConnaissances comptables et financières\nMaîtrise d'Excel\nProfil\nEtudiant en Master : stage de fin d’études ou stage de césure\nUn stage effectué en audit / contrôle de gestion ou un stage effectué en gestion d’actifs serait très apprécié\nUne connaissance VBA et une maitrise Excel sont des atouts\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-21"
-    },
-    {
       "id": "8ebc0c5bae64",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3222,6 +3193,35 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: equity, private equity, economics",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-21"
+    },
+    {
+      "id": "f14d7cbe0c16",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Fund Finance Growth Stage - Janvier 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Growth-Stage---Janvier-2027-I-Paris--H-F-_JR1002107",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Fund Finance Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir dans l’équipe Funds Finance - Growth (investissements directs via des FCPI / FPCI\ndans des sociétés Innovantes (Software, Technologie de l’information et de l’internet…).\nLa mission consiste à assister les Finance Officers des structures Growth dans leur travail de contrôle, d’analyse et\nde suivi des Fonds sous gestion.\nDétail de la mission :\nParticipation aux comités de valorisation et arrêtés comptables trimestriels\nContribution à l’élaboration de l'information financière en interne et en externe (capital accounts, rapport\nde gestion, fiches trimestrielles etc.)\nCalcul, analyse et reporting de la performance des fonds\nContacts avec l’ensemble des intervenants pour l’organisation des flux d’informations, financiers et\ncomptables : Front Office, Back Office, relations investisseurs, service juridique, conformité…\nPréparation des notices d’appels et de distributions à destination des investisseurs et suivi de la bonne\nréception des flux d’appels et la bonne exécution des flux de distribution\nAnalyse des documents légaux des investissements\nVeille juridique des véhicules et suivi des ratios règlementaires\nCompétences requises\nRigueur\nOrganisation\nMotivation\nEsprit d'initiative et autonomie\nEsprit d'équipe\nConnaissances comptables et financières\nMaîtrise d'Excel\nProfil\nEtudiant en Master : stage de fin d’études ou stage de césure\nUn stage effectué en audit / contrôle de gestion ou un stage effectué en gestion d’actifs serait très apprécié\nUne connaissance VBA et une maitrise Excel sont des atouts\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, fund, audit",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
       ],
@@ -7931,7 +7931,7 @@
       "requirements": "Must be authorized to work in the U.S.\nEmployment-based immigration sponsorship is not available for this position\nMust be located in one of the following states during the internship: AZ, CA, DC, FL, GA, IL, NJ, NY, TN, TX, VA, WI, AR, CO, IN, KY, LA, MA, MI, MN, MO, NE, NH, NC, OH, PA, SC, UT, WA, WY\nGraduate student or advanced undergraduate (i.e. student entering their final year of undergraduate studies)\nExcellent data analytics skills, including facility with Microsoft Excel and preferably one or more other statistical tool(s) (e.g., VBA, Python, R, SQL)\nAdvanced data visualization exper",
       "source": "greenhouse",
       "first_seen": "2026-10-21",
-      "is_new": true,
+      "is_new": false,
       "match_score": 37,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -9154,7 +9154,7 @@
       "requirements": "Must be authorized to work in the U.S.\nEmployment-based immigration sponsorship is not available for this position\nExperience and/or demonstrated interest in the Rise platform’s health and social-related thematic areas (education, healthcare, financial inclusion) is a plus\nExperience contributing to academic research and/or performing literature reviews is a plus, as is experience with non-climate related economic research\nFamiliarity with key questions and themes in the climate space, including awareness and basic understanding of important technologies\nDemonstrated ability to concisely synth",
       "source": "greenhouse",
       "first_seen": "2026-10-21",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -9178,7 +9178,7 @@
       "requirements": "Must be authorized to work in the U.S.\nEmployment-based immigration sponsorship is not available for this position\nExperience or demonstrated interest in international development, climate, consulting, impact investing, or a related field\nAbility to interpret and synthesize academic research, including interpreting statistical/econometric analyses (e.g., regression tables)\nInterest and aptitude in researching industries and technologies\nExcellent Excel skills",
       "source": "greenhouse",
       "first_seen": "2026-10-21",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -9202,7 +9202,7 @@
       "requirements": "Must be authorized to work in the U.S.\nEmployment-based immigration sponsorship is not available for this position\nMust be located in one of the following states during the internship: AZ, CA, DC, FL, GA, IL, NJ, NY, TN, TX, VA, WI, AR, CO, IN, KY, LA, MA, MI, MN, MO, NE, NH, NC, OH, PA, SC, UT, WA, WY\nExperience or demonstrated interest in responsible investing, corporate social responsibility, climate/sustainability, consulting, finance, impact investing, or a related field\nAbility to efficiently conduct and synthesize market research\nAbility to use AI-enabled research and productivity tools",
       "source": "greenhouse",
       "first_seen": "2026-10-21",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Type: Internship/Stage",
@@ -10764,7 +10764,7 @@
   ],
   "stats": {
     "total_jobs": 323,
-    "new_today": 4,
+    "new_today": 0,
     "high_match": 63,
     "firms_scraped": 32,
     "firms_failed": 0,
