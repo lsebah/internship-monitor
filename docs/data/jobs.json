@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-22T12:53:42.379655+00:00",
+  "last_updated": "2026-10-22T16:13:31.530610+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Bank of America": {
       "status": "success",
-      "count": 4,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "count": 6,
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-22T12:53:42.379655+00:00"
+      "timestamp": "2026-10-22T16:13:31.530610+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2738,36 +2738,6 @@
       "last_seen": "2026-10-22"
     },
     {
-      "id": "327d3f4acbbb",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788236",
-      "posted_date": "2026-09-07",
-      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-22"
-    },
-    {
       "id": "c573327c5ff7",
       "bank": "Man Group",
       "category": "Hedge Fund",
@@ -2820,6 +2790,66 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-12"
+    },
+    {
+      "id": "327d3f4acbbb",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+      "posted_date": "2026-10-22",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
+    },
+    {
+      "id": "fd9f89d1205a",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship – Paris",
+      "location": "Paris, Paris, France",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802076",
+      "posted_date": "2026-10-22",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-10-22",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
     },
     {
       "id": "b0bde83dc067",
@@ -3376,42 +3406,13 @@
       "last_seen": "2026-10-22"
     },
     {
-      "id": "b6f5ba7934ba",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788352",
-      "posted_date": "2026-09-07",
-      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, sales",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-22"
-    },
-    {
       "id": "b1ffcfd1e8b5",
       "bank": "JP Morgan",
       "category": "Investment Bank",
       "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - Paris",
       "location": "Paris, Paris, France",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788354",
-      "posted_date": "2026-09-07",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802419",
+      "posted_date": "2026-10-22",
       "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
       "start_date": "",
       "time_type": "",
@@ -3423,6 +3424,35 @@
       "match_score": 57,
       "match_reasons": [
         "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, sales",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
+    },
+    {
+      "id": "b6f5ba7934ba",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+      "posted_date": "2026-10-22",
+      "description": "If you are enthusiastic, committed and looking to apply what you’ve learned to real-world financial experience, we have a role for you!",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 57,
+      "match_reasons": [
+        "Location: London",
         "Type: Internship/Stage",
         "Domain: banking, investment banking, sales",
         "Duration: 6-month / off-cycle",
@@ -4449,7 +4479,7 @@
       "title": "Quantitative Researcher - Intern",
       "location": "London, Paris, Hong Kong, Tokyo",
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-      "posted_date": "2026-09-15",
+      "posted_date": "2026-10-22",
       "description": "Job Description\nThis is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading.\nJob Responsibilities\nPre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies\nIdentify features and relationships useful for the predictive modeling of market dynamics\nDesirable Candidates\nUndergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline\nProgramming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl\nStrong analytical and quantitative skills\nDemonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team\nThe annual base salary is $120,000-$180,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.",
       "duration": "",
       "requirements": "Demonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
@@ -5380,34 +5410,6 @@
       "last_seen": "2026-10-22"
     },
     {
-      "id": "5c24d3d840ba",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Sustainability Stage - Mars 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Direct-Private-Equity-Stage---Mars-2027-I-Paris--M-F-_JR1002139",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Sustainability\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nVous rejoindriez l'équipe Sustainability, composée de douze personnes basées\net plus particulièrement le\npôle Direct Private Equity\nà Paris et à New York. Plus précisément, vous soutiendriez deux personnes se concentrant sur nos activités d'investissement en private equity. Grâce à ce stage, vous participeriez directement aux projets de transformation d'Ardian et développeriez vos compétences au sein d'une entreprise leader sur les sujets ESG. Vous approfondiriez votre compréhension des marchés privés et de son rôle dans le développement d'une économie résiliente et d'une croissance durable.\nExemples de missions auxquelles vous contribueriez :\nSoutenir les activités liées au portefeuille : collecte de données, analyse et reporting, accompagnement des entreprises du portefeuille sur les questions ESG, développement d'études de cas, notes de brief, etc.\nParticiper à la production de présentations PowerPoint dédiées aux équipes d'investissement sur les priorités thématiques (par exemple, transition climatique, partage de la valeur, diversité et égalité des chances, gouvernance et éthique)\nContribuer au développement d'Ardian Circle, notre communauté d'entreprises du portefeuille sur les questions ESG, notamment dans l'organisation d'ateliers thématiques et de webinaires\nContribuer à la veille et à la production de notes thématiques\nRépondre aux questionnaires de due diligence et de reporting ESG, préparer les decks de réunions avec les clients et supports marketing.\nCompétences requises\nIntérêt démontré pour le développement durable/la finance durable, la connaissance des concepts clés ESG et des réglementations est un atout\nCompétences analytiques, avec la capacité de manipuler des données et d'appréhender des projets nouveaux et complexes\nEfficacité et bonne gestion des deadlines\nExcellente communication et en relations interpersonnelles\nEsprit d'équipe\nLe profil\nEtudiant.e en Master Sustainability, Business, Sciences Politiques, Ingénierie ou Economie\nAnglais courant indispensable\nBonne maîtrise d’Excel et PowerPoint exigée\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you w",
-      "start_date": "2026-09-11",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-11",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-22"
-    },
-    {
       "id": "bb2bae55da94",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -5428,6 +5430,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: finance, fund, audit",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
+    },
+    {
+      "id": "5c24d3d840ba",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Sustainability Stage - Mars 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Direct-Private-Equity-Stage---Mars-2027-I-Paris--M-F-_JR1002139",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Sustainability\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nVous rejoindriez l'équipe Sustainability, composée de douze personnes basées\net plus particulièrement le\npôle Direct Private Equity\nà Paris et à New York. Plus précisément, vous soutiendriez deux personnes se concentrant sur nos activités d'investissement en private equity. Grâce à ce stage, vous participeriez directement aux projets de transformation d'Ardian et développeriez vos compétences au sein d'une entreprise leader sur les sujets ESG. Vous approfondiriez votre compréhension des marchés privés et de son rôle dans le développement d'une économie résiliente et d'une croissance durable.\nExemples de missions auxquelles vous contribueriez :\nSoutenir les activités liées au portefeuille : collecte de données, analyse et reporting, accompagnement des entreprises du portefeuille sur les questions ESG, développement d'études de cas, notes de brief, etc.\nParticiper à la production de présentations PowerPoint dédiées aux équipes d'investissement sur les priorités thématiques (par exemple, transition climatique, partage de la valeur, diversité et égalité des chances, gouvernance et éthique)\nContribuer au développement d'Ardian Circle, notre communauté d'entreprises du portefeuille sur les questions ESG, notamment dans l'organisation d'ateliers thématiques et de webinaires\nContribuer à la veille et à la production de notes thématiques\nRépondre aux questionnaires de due diligence et de reporting ESG, préparer les decks de réunions avec les clients et supports marketing.\nCompétences requises\nIntérêt démontré pour le développement durable/la finance durable, la connaissance des concepts clés ESG et des réglementations est un atout\nCompétences analytiques, avec la capacité de manipuler des données et d'appréhender des projets nouveaux et complexes\nEfficacité et bonne gestion des deadlines\nExcellente communication et en relations interpersonnelles\nEsprit d'équipe\nLe profil\nEtudiant.e en Master Sustainability, Business, Sciences Politiques, Ingénierie ou Economie\nAnglais courant indispensable\nBonne maîtrise d’Excel et PowerPoint exigée\nAutres informations :\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you w",
+      "start_date": "2026-09-11",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-11",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
@@ -5618,7 +5648,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-10-22",
-      "is_new": true,
+      "is_new": false,
       "match_score": 47,
       "match_reasons": [
         "Location: Paris",
@@ -6667,32 +6697,6 @@
       "last_seen": "2026-10-22"
     },
     {
-      "id": "f4422ad60fba",
-      "bank": "Point72",
-      "category": "Hedge Fund",
-      "title": "Quantitative Software Developer Intern",
-      "location": "New York, London, or Paris",
-      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-      "posted_date": "2026-09-15",
-      "description": "Job Description\nWe are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and research infrastructure. Interns will work on small, highly collaborative teams.\nDesirable Candidates\nUndergraduate or graduate candidates in computer science or engineering\nSignificant experience in Python, C++, C, or Java\nSerious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers)\nIn-depth understanding of how userland programs run on Linux and interact with the kernel\nSome basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
-      "duration": "",
-      "requirements": "",
-      "source": "greenhouse",
-      "first_seen": "2026-05-05",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: trading, research",
-        "Level: Undergraduate"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-22"
-    },
-    {
       "id": "88d569ec666b",
       "bank": "Man Group",
       "category": "Hedge Fund",
@@ -6799,6 +6803,32 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-12"
+    },
+    {
+      "id": "f4422ad60fba",
+      "bank": "Point72",
+      "category": "Hedge Fund",
+      "title": "Quantitative Software Developer Intern",
+      "location": "New York, London, or Paris",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "posted_date": "2026-10-22",
+      "description": "Job Description\nWe are seeking a small number of highly talented interns to assist in the development, optimization, and monitoring of our production trading platform and research infrastructure. Interns will work on small, highly collaborative teams.\nDesirable Candidates\nUndergraduate or graduate candidates in computer science or engineering\nSignificant experience in Python, C++, C, or Java\nSerious interest in systems programming (e.g. Linux kernel development, compilers, embedded systems, networking, file systems, debuggers)\nIn-depth understanding of how userland programs run on Linux and interact with the kernel\nSome basic knowledge of Git, databases (e.g. MySQL), and web development frameworks is a plus\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
+      "duration": "",
+      "requirements": "",
+      "source": "greenhouse",
+      "first_seen": "2026-05-05",
+      "is_new": false,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: trading, research",
+        "Level: Undergraduate"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
     },
     {
       "id": "ff29e8b1e874",
@@ -7510,7 +7540,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-22"
     },
     {
       "id": "932c126c7687",
@@ -8050,6 +8080,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: risk"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-22"
+    },
+    {
+      "id": "bdadeb888dd5",
+      "bank": "Bank of America",
+      "category": "Investment Bank",
+      "title": "Leasing Credit – Global Vendor Finance and International Asset Finance, 2027 Summer Analyst - London",
+      "location": "London United Kingdom",
+      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14683-Leasing-Credit-Global-Vendor-Finance-and-International-Asset-Finance-2027-Summer-Analyst-London/en-GB",
+      "posted_date": "",
+      "description": "Leasing Credit – Global Vendor Finance and International Asset Finance, Summer Analyst London, United Kingdom About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do t",
+      "start_date": "",
+      "time_type": "Summer internship",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-22",
+      "is_new": true,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance"
       ],
       "match_class": "low",
       "excluded": false,
@@ -10791,8 +10848,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 324,
-    "new_today": 1,
+    "total_jobs": 326,
+    "new_today": 2,
     "high_match": 63,
     "firms_scraped": 32,
     "firms_failed": 0,
