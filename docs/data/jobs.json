@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-26T14:05:02.963272+00:00",
+  "last_updated": "2026-10-26T17:48:52.136360+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 15,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "count": 14,
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 5,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "count": 4,
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,13 +132,13 @@
     },
     "Schroders": {
       "status": "success",
-      "count": 6,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "count": 5,
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T14:05:02.963272+00:00"
+      "timestamp": "2026-10-26T17:48:52.136360+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2236,36 +2236,6 @@
       "last_seen": "2026-10-15"
     },
     {
-      "id": "1ed28eebcb6d",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, CEE, Greece & Cyprus, Summer Analyst, London, United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--CEE--Greece---Cyprus--Summer-Analyst--London--United-Kingdom-2027_261002673",
-      "posted_date": "Posted 7 Days Ago",
-      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for Summer Analysts to join the CEE, Greece & Cyprus Investment Banking team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June 2027 and begins with a one-week training program in London. After which, you will join the CEE, Greece & Cyprus Investment Banking team to support a growing business and be fully integrated to the team during your internship. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry  research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential).\nWho we think will be a great fit:\nWe’re looking f",
-      "start_date": "2026-10-19",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry  research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
-      "source": "workday",
-      "first_seen": "2026-10-19",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, capital markets",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-26"
-    },
-    {
       "id": "857369d486d5",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2288,6 +2258,36 @@
         "Domain: wealth management, asset management, advisory",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-26"
+    },
+    {
+      "id": "1ed28eebcb6d",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, CEE, Greece & Cyprus, Summer Analyst, London, United Kingdom 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--CEE--Greece---Cyprus--Summer-Analyst--London--United-Kingdom-2027_261002673",
+      "posted_date": "Posted 7 Days Ago",
+      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for Summer Analysts to join the CEE, Greece & Cyprus Investment Banking team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June 2027 and begins with a one-week training program in London. After which, you will join the CEE, Greece & Cyprus Investment Banking team to support a growing business and be fully integrated to the team during your internship. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry  research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential).\nWho we think will be a great fit:\nWe’re looking f",
+      "start_date": "2026-10-19",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Your time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry  research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
+      "source": "workday",
+      "first_seen": "2026-10-19",
+      "is_new": false,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, capital markets",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -2381,36 +2381,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-10-12"
-    },
-    {
-      "id": "046259d0dd5e",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "Banking Off Cycle Internship Programme 2027 Paris",
-      "location": "Paris, 52 avenue Hoche",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Banking-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124856",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.\nTake ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\nGain and maintain an understanding of how assigned duties contribute to the activities of the team alongside knowledge of job activities and operational procedures within own role.\nFollow detailed and defined rules/ instructions and make simple judgements in straightforward situations typically having to select from defined and documented alternatives.\nDemonstrate a good knowledge and understanding of procedures.\nEvaluate and select the correct solution to problems to complete the tasks.\nPerform first line customer service related activities, interact with stakeholders on matters of customer service or administrative tasks, sometimes engaging with difficult contacts, networking with other employees where appropriate.\nAll colleagues will be expected to demonstrate ",
-      "start_date": "2026-09-01",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.",
-      "source": "workday",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 63,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, risk",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-26"
     },
     {
       "id": "3f4fa0dadd17",
@@ -2551,6 +2521,36 @@
         "Type: Internship/Stage",
         "Domain: finance, M&A, equity",
         "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-26"
+    },
+    {
+      "id": "046259d0dd5e",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "Banking Off Cycle Internship Programme 2027 Paris",
+      "location": "Paris, 52 avenue Hoche",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Banking-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124856",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Investment Banking division. Gain broad exposure to different types of clients, transactions and focus on specialist areas.\nAccountabilities\nCollaboration on live deals, client pitches, support the team with advising on a broad range of corporate clients, delivering holistic, structured solutions to deliver on client goals.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.\nTake ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\nGain and maintain an understanding of how assigned duties contribute to the activities of the team alongside knowledge of job activities and operational procedures within own role.\nFollow detailed and defined rules/ instructions and make simple judgements in straightforward situations typically having to select from defined and documented alternatives.\nDemonstrate a good knowledge and understanding of procedures.\nEvaluate and select the correct solution to problems to complete the tasks.\nPerform first line customer service related activities, interact with stakeholders on matters of customer service or administrative tasks, sometimes engaging with difficult contacts, networking with other employees where appropriate.\nAll colleagues will be expected to demonstrate ",
+      "start_date": "2026-09-01",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for investment banking.\nDevelopment and implementation of financial models and strategies that support in decision making in investment banking. Understand how businesses work and learn from experts in the industry.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focussing on quality execution.\nNo people leadership roles at this grade.",
+      "source": "workday",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 63,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, risk",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
@@ -3797,7 +3797,7 @@
       "requirements": "Barclays Europe\nWorking in Madrid\nOur office in Madrid delivers informed strategic advice, comprehensive financial solutions and risk management services, creating sophisticated strategies customised to meet our clients’ needs.\nEntry Salary: €50,000\nUpper Salary: €50,000",
       "source": "workday",
       "first_seen": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "match_score": 57,
       "match_reasons": [
         "Location: Madrid (preferred)",
@@ -6206,7 +6206,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "match_score": 47,
       "match_reasons": [
         "Location: Paris",
@@ -10374,7 +10374,7 @@
   ],
   "stats": {
     "total_jobs": 309,
-    "new_today": 2,
+    "new_today": 0,
     "high_match": 64,
     "firms_scraped": 32,
     "firms_failed": 0,
