@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-26T17:48:52.136360+00:00",
+  "last_updated": "2026-10-26T20:52:58.958410+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 14,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 7,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 45,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 13,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -265,8 +265,8 @@
     },
     "TPG": {
       "status": "success",
-      "count": 4,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "count": 3,
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-26T17:48:52.136360+00:00"
+      "timestamp": "2026-10-26T20:52:58.958410+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -8727,30 +8727,6 @@
       "last_seen": "2026-10-18"
     },
     {
-      "id": "b4916658dbe1",
-      "bank": "TPG",
-      "category": "Private Equity",
-      "title": "Y Analytics, Climate Impact, Spring Research Assistant, Internship",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/8036080003",
-      "posted_date": "2026-10-21",
-      "description": "About TPG\nTPG is a leading global alternative asset management firm, founded in San Francisco in 1992, has investment and operational teams around the world. TPG invests across a broadly diversified set of strategies, including private equity, impact, credit, real estate, and market solutions, and our unique strategy is driven by collaboration, innovation, and inclusion. Our teams combine deep product and sector experience with broad capabilities and expertise to develop differentiated insights and add value for our fund investors, portfolio companies, management teams, and communities.\nTPG’s success depends on our people, and we build and sustain our world-class team by creating an inclusive, supportive culture within the firm that seeks excellence and encourages humility and transparency. The quality of our investments and our ability to build great companies depend on the originality of our insights. Reaching our firm’s full potential means supporting every team member to bring the fullness of their unique perspective to their work and to our community. We are committed to a diverse, equitable, and inclusive workplace to foster diversity of thought and reflect the breadth of our limited partners and portfolio companies.\nAbout Y Analytics\nY Analytics\nis\nTPG's i\nnnovative internal capability, purpose-built to understand and improve the environmental and social impacts of deployed capital, in alignment with value creation opportunities.\nY Analytics was launched in parallel to\nThe Rise Fund\nand founded in partnership with TPG/Rise to provide best-in-class insights and tools that improve capital allocation decisions. Our rigorous approach to impact assessment and management draws on evidentiary academic and economic research, enabling greater use of evidence in capital allocation decision-making and impact valuation.\nToday, Y Analytics directly supports impact assessments and decision-making for The Rise Fund, the\nTPG Rise Climate Fund\n, and other TPG companies/vehicles with impact objectives. Y Analytics’ mandate also covers responsible investing and sustainability across TPG’s firm and portfolio. We support TPG and its portfolio companies by assessing sustainability performance and advising on risk mitigation and value-creation opportunities.\nAs we continue to grow, we are leveraging our capabilities in new and innovative ways and sharing our learnings with the broader investment and research communities.\nDescription of Position\nY Analytics is seeking a Cl",
-      "duration": "",
-      "requirements": "Must be authorized to work in the U.S.\nEmployment-based immigration sponsorship is not available for this position\nExperience and/or demonstrated interest in the Rise platform’s health and social-related thematic areas (education, healthcare, financial inclusion) is a plus\nExperience contributing to academic research and/or performing literature reviews is a plus, as is experience with non-climate related economic research\nFamiliarity with key questions and themes in the climate space, including awareness and basic understanding of important technologies\nDemonstrated ability to concisely synth",
-      "source": "greenhouse",
-      "first_seen": "2026-10-21",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Type: Internship/Stage",
-        "Domain: asset management, risk, equity"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-26"
-    },
-    {
       "id": "3a10877942be",
       "bank": "TPG",
       "category": "Private Equity",
@@ -10373,7 +10349,7 @@
     }
   ],
   "stats": {
-    "total_jobs": 309,
+    "total_jobs": 308,
     "new_today": 0,
     "high_match": 64,
     "firms_scraped": 32,
