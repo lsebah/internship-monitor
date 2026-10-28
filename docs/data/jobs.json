@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-27T20:25:01.179378+00:00",
+  "last_updated": "2026-10-28T13:56:18.933140+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 26,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "count": 25,
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
-      "count": 7,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "count": 6,
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,8 +207,8 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 13,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "count": 12,
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 29,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "count": 26,
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-27T20:25:01.179378+00:00"
+      "timestamp": "2026-10-28T13:56:18.933140+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -369,7 +369,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b5e91c0f3ed6",
@@ -401,7 +401,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eb0c234cb948",
@@ -433,7 +433,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "32399efb74e0",
@@ -465,7 +465,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4110ec186958",
@@ -500,45 +500,13 @@
       "last_seen": "2026-10-14"
     },
     {
-      "id": "18eab2da889b",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Placement-Analyst-Internship--Paris---France-2027_26992441",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Citi is looking for Placement Intern Analysts to join the Investment Banking team in Paris in January 2027 for 6 months.\nThe Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting, and distributing equity, debt, and derivative securities. If none of these terms make sense right now, that’s ok, you will be an expert in 6 months!\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role in the team, and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nWe provide you with the knowledge and skills you need to succeed\nWe’re committed to teaching you the ropes. During your 6-month placement intern analyst program you will be assigned to the France Investment Banking team, where you’ll focus on financial analysis and business development. Successful placement analysts may be considered for a full-time position after graduation.\nYour time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027\nYou are currently enrolled in a university that can provide an internship agreement approved by Citi\nYou have a student status and related visa covering the whole internship period.\nYou have very good knowledge of Corporate Finance and Financial Markets\nYou are fluent in French and English, both written and oral (working language). Good level in additional languages beneficial but not essential\nYou have advanced skills in PowerPoint, Excel and Word\nWho we think will be a great fit...\nA dedication to learning and a true passion for the business are vital. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a glo",
-      "start_date": "2026-09-04",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Your time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 87,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
-        "Languages: French, English",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-13"
-    },
-    {
       "id": "06f9cfe7daec",
       "bank": "Deutsche Bank",
       "category": "Investment Bank",
       "title": "FX Risk Management Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/FX-Risk-Management-Sales-Intern--f-m-x-_R0449103",
-      "posted_date": "Posted 7 Days Ago",
+      "posted_date": "Posted 8 Days Ago",
       "description": "Job Description:\nDeutsche Bank is a client-focused global universal bank, driving change and innovation across the industry. We champion integrity, sustainable performance and innovation for our clients while continuing to reshape our culture and the way we work together.\nAcross the FX and metals (base and precious metals) product suite, the team supports clients based on their individual hedging requirements, including vanilla derivatives, structured solutions, general hedging and option strategies, and transformational transactions (project, M&A) through both e-commerce and voice-sales channels.\nJoin Deutsche Bank’s Risk Management Solutions (“RMS”) Corporate Foreign Exchange (“FX”) Sales team in Paris for a six-month internship starting in January 2027. The team serves a broad range of clients, including large-cap corporates, private equity and infrastructure funds, and non-bank financial institutions.\nResponsibilities\nSupport the Paris team with FX, and metals pricing and deal analysis.\nContribute to country, client and sector research.\nPrepare presentations for clients.\nSupport documentation and administrative activities.\nProvide broader assistance to sales colleagues in Italy and Spain.\nSkills\nEligibility to work in France is required.\nCandidates must be able to provide an internship agreement.\nStrong written and verbal communication skills in both French and English are mandatory. Another language is a plus.\nStrong analytical and synthesis skills, combined with a rigorous approach.\nA keen interest in and understanding of financial products and the financial services industry.\nA high level of commitment and the ability to work independently.\nA collaborative team player.\nProven ability to leverage AI tools to enhance productivity, optimise workflows to solve business problems, while applying critical judgment to ensure responsible and ethical use of data and AI outputs.\nBenefits and wellbeing:\nFeeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programmes centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com)\nAbout us and our teams:\nOur values define the working environment we strive to create – where our people have a sense of belonging and everyone feels welcomed, respected and can contribute and grow. We know that high-performing teams have different skills, backgrounds, and experiences",
       "start_date": "2026-10-20",
       "time_type": "Full time",
@@ -561,7 +529,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "cc8374be6a34",
@@ -570,7 +538,7 @@
       "title": "Structured Finance Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Finance-Sales-Intern--f-m-x-_R0453676",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "description": "Job Description:\nFor more than 150 years, our ambition to be the Global Hausbank for our clients has been powered by our people, who work across around 60 countries and represent more than 150 nationalities. Their knowledge, insight, expertise and passion help our clients navigate an increasingly complex world through our Corporate Bank, Private Bank, Investment Bank and Asset Management division.\nIf you are motivated to take initiative, collaborate with colleagues around the world and join a community where you can grow both professionally and personally, we would be pleased to welcome you to our team.\nTogether, we can make a meaningful difference for our clients in their home markets and internationally, supporting their long-term success and financial security.\nJoin Deutsche Bank’s Structured Finance Sales team in Paris for a six-month internship beginning in January 2027. You will support the Paris-based FIC Financing Sales team with its day-to-day activities and contribute to the broader Paris Global Markets division.\nResponsibilities\nSupport the origination and management of direct lending deal flow across a range of asset classes.\nPrepare internal screening memoranda using information memoranda and due diligence reports.\nMonitor corporate finance markets and share relevant developments with the team.\nSupport the negotiation of non-disclosure agreements and reliance letters with clients and the internal Legal team.\nMaintain and improve existing tools and spreadsheets to increase transaction execution efficiency for the Sales team.\nSkills\nExcellent written and verbal communication skills in French and English.\nAbility to provide a valid internship agreement.\nEligibility to work in France.\nStrong analytical and synthesis skills, combined with a rigorous approach to work.\nStrong interest in and understanding of financial products and the wider financial services industry.\nA collaborative, team-oriented mindset.\nProven ability to leverage AI tools to enhance productivity, optimise workflows to solve business problems, while applying critical judgment to ensure responsible and ethical use of data and AI outputs.\nBenefits and wellbeing:\nFeeling healthy, engaged and well supported enables us to do our best work and make the most of life outside the office. That is why Deutsche Bank is committed to providing benefits and programmes focused on wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com)\nAbout us and our teams:\nOur values define the workin",
       "start_date": "2026-10-12",
       "time_type": "Full time",
@@ -593,7 +561,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e118228beea9",
@@ -602,7 +570,7 @@
       "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
       "location": "Madrid  Spain",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Citi is actively seeking talented and ambitious Off-Cycle Analysts to join its dynamic Investment Banking team in Madrid, starting in January 2027. The Investment Banking group provides essential advisory services to corporate clients, assisting them with capital market fundraising initiatives and offering strategic support for a wide array of financial transactions. As an intern, you may contribute to projects involving mergers, acquisitions, divestitures, financial restructurings, as well as the underwriting and distribution of equity, debt, and derivative securities. No prior in-depth knowledge of these terms is required; our comprehensive internship program is specifically designed to enhance your understanding and equip you with the necessary skills. Regardless of your academic background, we are committed to providing the training and support essential for your success. We provide a foundational learning experience. The 6 month Internship Analyst program is set to commence in January 2027.\nAs an Off-Cycle Intern, you will become an integral member of the team and contribute directly to ongoing client projects and transaction execution. You will receive on-the-job training, mentorship and hands-on experience in a fast-paced and collaborative environment.\nResponsibilities\nDiligently collect and meticulously analyse company-specific information to facilitate transaction execution, which includes conducting thorough industry research and organizing extensive financial data.\nPerform in-depth analysis of financial data and develop robust financial models, encompassing company valuations, discounted cash flow (DCF) analysis, financing structures, and comparative analyses.\nGenerate and refine professional new business development presentations that effectively communicate complex financial concepts.\nEffectively coordinate tasks and workflow with both internal teams and external stakeholders, ensuring seamless project progression.\nPrepare all necessary internal documentation, including adherence to control and compliance regulations, to ensure operational integrity.\nAdditional Requirements\nA strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effe",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -624,7 +592,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "dac2b0f4acaa",
@@ -633,7 +601,7 @@
       "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Paris - France 2027",
       "location": "Paris  France",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Relationship-Analyst--Placement-Analyst-Internship--Paris---France-2027_26992471",
-      "posted_date": "Posted 28 Days Ago",
+      "posted_date": "Posted 29 Days Ago",
       "description": "You're the brain behind our work.\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role in your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti’s is looking for RA Intern to join the Corporate Banking team in Paris, France in January 2027.\nCorporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. Corporate Bankers drive the client dialogue on cash management, capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions. Unique with Citi, Corporate Bankers are also responsible for credit allocation as well as relationship management.\nCorporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking, and the Capital Markets Origination. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed.\nWe’re committed to teaching you the ropes. During the 6-month internship, you will be placed with a Corporate Banking team to work with for the duration of the Program. Top-performing RA Intern will have an opportunity to return to Citi after graduation to work as a full-time RA.\nYour time here will look like this...\nSupport the RA team in preparing credit allocation and modification requests and coordinating the required approval processes.\nLiaise with Operations and other internal stakeholders to facilitate the prioritization and timely completion of credit request workflows.\nAssist in the preparation of client materials, including facility summary list and meeting presentations\nSupport the maintenance of client information and internal databases, ensuring information remains accurate and up to date.\nAssist the team with ad hoc projects and administrative tasks as required.\nExposure to financial analysis would be considered an advantage; however, it is not a core responsibility of the rol",
       "start_date": "2026-09-29",
       "time_type": "Full time",
@@ -655,7 +623,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "38a6f0ebecd8",
@@ -664,7 +632,7 @@
       "title": "Stage Analyste ESG Obligataire - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyste-ESG-Obligataire---Janvier-2027_JR016506-1",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com.\nContexte\nRothschild & Co Asset Management recherche un(e) stagiaire au sein du département Fixed Income pour une durée de 6 mois à partir de janvier 2027.\nDirectement rattaché(e) à la recherche et sous la responsabilité de l’analyste ESG, vous intégrerez l’équipe Fixed Income composée de 14 personnes.\nMissions\nVeille sur les risques ESG des portefeuilles (émetteurs non couverts par MSCI, controverses, variations de note, dialogue avec les émetteurs, nouvelles émissions...).\nProcéder, de manière ponctuelle, à l’approfondissement des analyses ESG.\nDéveloppement d’outils informatiques pour aide l’analyse de performance ESG des portefeuilles.\nAssister à différents webinaires ESG avec des thématiques propres obligataires (Green bonds, risques ESG dans le risque de défaut,…).\nProfil\n•  Formation Finance Bac+ 4/5 et/ou école d'ingénieur.\n•  Notions d’analyse financière et connaissance du marché obligataire.\n•  B",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -686,7 +654,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "ff4775764120",
@@ -717,7 +685,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d6ab5dbed45a",
@@ -748,7 +716,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a87f2f659811",
@@ -788,7 +756,7 @@
       "title": "Cross-Asset Structured Products Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Cross-Asset-Structured-Products-Sales-Intern--f-m-x-_R0453173",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "description": "Job Description:\nFor over 150 years, our dedication to being the Global Hausbank for our clients has been driven by our people – in around 60 countries and across more than 150 nationalities. Their deep understanding, insights, expertise, and passion help our clients navigate an increasingly complex world – be it in our Corporate Bank, our Private Bank, our Investment Bank or our Asset Management division.\nIf you are motivated to take the initiative and collaborate with colleagues across the world; if you want to be part of a community where you can grow, both professionally and personally – then join our team.\nJoin Deutsche Bank’s Structured Products Sales team in Paris for a six-month internship starting in January 2027. You will help strengthen the Sales team by supporting its day-to-day activities, across Frabelux, Switzerland, UK&Ireland.\nResponsibilities\nPrepare trade ideas using research and trading axes, summarize weekly flows, and produce weekly market commentary for clients.\nSupport pre- and post-trade processes, including term sheets, booking, product setup, and fee payments.\nRespond to client enquiries, assist with structured-product pricing, and monitor market movements to support transaction execution.\nAssist the team with coordinating client KYC requirements for new-client onboarding and ongoing reviews.\nSkills\nEligible to work in France.\nAble to provide a valid internship agreement.\nStrong written and verbal communication skills in both French and English are required.\nStrong analytical and synthesis skills, with a rigorous approach to work.\nStrong interest in and knowledge of financial products and the financial services industry.\nCollaborative team player.\nPrevious relevant experience would be an advantage.\nProven ability to leverage AI tools to enhance productivity, optimise workflows to solve business problems, while applying critical judgment to ensure responsible and ethical use of data and AI outputs.\nBenefits and wellbeing:\nFeeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programmes centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com)\nAbout us and our teams:\nOur values define the working environment we strive to create – where our people have a sense of belonging and everyone feels welcomed, respected and can contribute and grow. We know that high-performing teams h",
       "start_date": "2026-10-12",
       "time_type": "Full time",
@@ -810,7 +778,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "213f6ed513af",
@@ -819,7 +787,7 @@
       "title": "Stage Gestion de Projet / Intelligence Artificielle - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Gestion-de-Projet---Intelligence-Artificielle---Janvier-2027_JR016509",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de Rothschild & Co Asset Management\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services Division spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts, commercialisés sous quatre marques fortes : Conviction, Valor, Thematic et 4Change, et bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 43 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com.\nContexte\nAu sein du pôle Fixed Income, nous recherchons un(e) stagiaire pour 6 mois à compter de janvier 2027, afin d’accélérer la mise en place d’outils relatifs à l’IA dans le workflow des analystes crédit et des gérants. Rejoindre l’équipe Fixed Income, c’est travailler dans un cadre stimulant avec des profils techniques variés.\nMissions\nCartographier les processus des analystes et des gérants (screening d’émetteurs IG/HY, veille, notes de comités, suivi d’évènements de crédit) et identifier les cas d’usage IA.\nInteraction avec des prestataires externes dans le but d’évaluer la pertinence de leur intégration dans le workflow des analystes et des gérants.\nCollaborer avec les équipes techniques pour développer et tester des solutions d'IA a",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -841,7 +809,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "395d0c3feb58",
@@ -850,7 +818,7 @@
       "title": "Stage Assistant(e) Gestion Obligataire - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Gestion-Obligataire---Janvier-2027_JR016508",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nContexte\nRothschild & Co Asset management, entité du groupe international Rothschild & Co, recherche un(e) étudiant(e) pour un stage de 6 mois qui débutera au mois de janvier 2027.\nMissions\nAu sein du pôle Fixed Income, vos missions seront les suivantes :\nAnalyse fondamentale crédit des sociétés (« Investment Grade » et « High Yield ») et des marchés financiers (chiffres économiques, évolution des taux, résultats des entreprises).\nRédaction de commentaires de gestion sur des fonds High Yield, Investment Grade et Convertibles.\nSuivi de la couverture de l’univers d’investissement avec des missions ciblées en fonction de l’actualité (nouvelles émissions, résultats, évènements de crédit…).\nÉlaboration de documents et rédaction de comptes rendus pour les différents comités hebdomadaires.\nDéveloppement, automatisation et maintenance d’outils informatiques de suivi de gestion.\nGestion de certaines demandes du ser",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -872,7 +840,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "888f4df9ed87",
@@ -903,7 +871,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c878dc17f59d",
@@ -966,7 +934,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4f01672a2d74",
@@ -975,7 +943,7 @@
       "title": "Rates Flow & Solutions Sales Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Rates-Flow---Solutions-Sales-Intern--f-m-x-_R0453673",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "description": "Job Description:\nFor more than 150 years, our commitment to serving as the Global Hausbank for our clients has been powered by our people—working across approximately 60 countries and representing more than 150 nationalities. Their deep understanding, insight, expertise and passion help our clients navigate an increasingly complex world, whether through our Corporate Bank, Private Bank, Investment Bank or Asset Management division.\nIf you are motivated to take initiative, collaborate with colleagues around the world and join a community where you can grow both professionally and personally, we would be pleased to welcome you to our team.\nTogether, we can make a meaningful impact for our clients at home and abroad, supporting their long-term success and financial security.\nJoin Deutsche Bank’s Rates team in Paris for a six-month internship starting in January 2027 and contribute to the continued growth of the Paris division. Your main objective will be to assist and support the Paris-based Rates team with its day-to-day activities.\nResponsibilities\nManage the internal and external flow of information shared with clients throughout the day, including axes, runs and news flow; maintain new-issue sales books; and support booking and settlement processes for bonds and swaps.\nSupport the team with the distribution of Deutsche Bank Research and the organization of roadshows.\nImprove and maintain existing tools and spreadsheets that enable the sales team to execute transactions efficiently.\nFollow up with the Middle Office on any post-trade issues.\nSkills\nEligibility to work in France.\nAbility to provide an internship agreement.\nStrong written and verbal communication skills in both French and English are essential.\nA strong sense of commitment and the ability to work autonomously.\nA keen interest in and understanding financial products and the financial services industry.\nStrong analytical and synthesis skills, with a rigorous and detail-oriented approach.\nProven ability to use AI tools to enhance productivity, optimise workflows and solve business problems, while applying critical judgement to ensure the responsible and ethical use of data and AI-generated outputs.\nBenefits and wellbeing:\nFeeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programmes centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.",
       "start_date": "2026-10-12",
       "time_type": "Full time",
@@ -997,7 +965,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1384b346b3a6",
@@ -1006,7 +974,7 @@
       "title": "Export Finance Paris Intern (f/m/x)",
       "location": "Paris",
       "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Structured-Trade-Export-Finance-Paris-Intern--f-m-x-_R0452722",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Job Description:\nFor more than 150 years, our commitment to being the Global Hausbank for our clients has been driven by our people—across around 60 countries and representing more than 150 nationalities. Their deep understanding, insight, expertise and passion help our clients navigate an increasingly complex world, whether through our Corporate Bank, Private Bank, Investment Bank or Asset Management division.\nIf you are motivated to take initiative, collaborate with colleagues around the world and join a community where you can grow both professionally and personally, we invite you to become part of our team.\nTogether, we can make a meaningful impact for our clients at home and abroad, supporting their long-term success and financial security.\nWe are looking for an intern for 6 months starting in January 2027.\nAbout the role\nThe Intern will strengthen the existing DB Structured Trade and Export Finance (STEF) Paris Front Office team that is responsible for the origination, structuring and execution of export credit facilities, with the support of Export Credit Agencies or private risk insurers, for the financing of the commercial contracts of Deutsche Bank’s exporting and importing clients worldwide (Corporates and Sovereigns). The main mission will be to assist and provide support to the Front Office team in their day-to-day tasks.\nResponsibilities:\n·      Support the team in its origination efforts, as well as in the execution phase and portfolio management of its lending book.\n·      Assist in the preparation of client presentations, meeting materials and call reports, as well as commercial proposals, including mandate letters, term sheets, pitch books and information memoranda.\n·      Support the completion of transaction due diligence processes, including credit, KYC, environmental and social, anti-financial crime and reputational risk assessments, as well as transaction profitability analysis and the preparation of credit memoranda.\n·      Support the negotiation and execution of legal documentation by liaising with external legal counsel, borrowers, exporters and syndicate banking partners, while ensuring effective coordination and handover with Middle Office, Back Office and other internal support functions.\n·      Coordinate with Middle Office teams on portfolio management activities in relation to loan utilizations, monitoring borrower compliance with reporting and financial covenants, and supporting internal reporting requirements.\nMandatory S",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -1027,7 +995,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8d8531fe1186",
@@ -1057,7 +1025,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eb65707ed20e",
@@ -1087,7 +1055,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "aa53c93dc0d4",
@@ -1117,7 +1085,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e8bde9446de0",
@@ -1147,7 +1115,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8f505e4787b0",
@@ -1178,7 +1146,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f2e6156ac46f",
@@ -1208,7 +1176,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "90547375ba77",
@@ -1238,7 +1206,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": false,
@@ -1269,7 +1237,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": false,
@@ -1301,7 +1269,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": false,
@@ -1333,7 +1301,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c8fcbc0ee543",
@@ -1363,7 +1331,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "405708a964ec",
@@ -1393,7 +1361,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f8e52f1886b8",
@@ -1423,7 +1391,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8eeeeb351733",
@@ -1453,7 +1421,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "18561d3aa7c3",
@@ -1483,7 +1451,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c2a1e279528a",
@@ -1513,7 +1481,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2d4256fb0ece",
@@ -1543,7 +1511,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "607bfc4664f2",
@@ -1573,7 +1541,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2f6d111d7cff",
@@ -1603,7 +1571,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1da43e788089",
@@ -1633,7 +1601,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d218b85bf74b",
@@ -1642,7 +1610,7 @@
       "title": "Stage Analyst Financier Buy Side  - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Analyst-Financier-Buy-Side----Janvier-2027_JR016378",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nContexte\nAu sein du département de gestion collective de Rothschild & Co Asset Management, caractérisée par une philosophie de gestion dite de conviction, vous intégrez l’équipe ESG & Analyse Financière sur la classe d’actifs Actions.\nDirectement rattaché(e) à l’équipe d’analystes, votre rôle sera de contribuer activement à l’analyse fondamentale et ESG de sociétés dans l’univers du STOXX600 et d’être force de proposition dans l’amélioration des outils de gestion.\nAu-delà de l’implication au sein de l’équipe d’analystes financiers & ESG, ce stage constitue une véritable opportunité de découvrir le fonctionnement des marchés financiers et des différents départements d’une société de gestion.\nRothschild & Co Asset Management, recherche un(e) Analyste Financier & Extra-Financier (ESG) Buy Side pour un stage d’une durée de 6 mois à partir de janvier 2027.\nMissions\nProduction de rapports d’analyse fondamentale ",
       "start_date": "2026-10-14",
       "time_type": "Full time",
@@ -1663,7 +1631,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "918ec23296d2",
@@ -1672,7 +1640,7 @@
       "title": "Stage Business Development - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Business-Development---Janvier-2027_JR016570",
-      "posted_date": "Posted 15 Days Ago",
+      "posted_date": "Posted 16 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel recherche un(e) stagiaire pour intégrer le département Business Development de la Banque Privée. Le stage est à pourvoir à partir du mois de Juillet 2026 pour une durée de 6 mois.\nMissions\nAu sein du département Business Development, au cœur de la Banque Privée, vous",
       "start_date": "2026-10-12",
       "time_type": "Full time",
@@ -1693,7 +1661,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "02b6c0c4f148",
@@ -1753,7 +1721,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e28878dd373a",
@@ -1783,7 +1751,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "25de18635cbd",
@@ -1813,7 +1781,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5aa6f058a36b",
@@ -1843,7 +1811,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "fe174887e18f",
@@ -1873,7 +1841,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "348897cc8794",
@@ -1903,7 +1871,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "47a80eb00e5e",
@@ -1933,7 +1901,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5cf9cd5d1549",
@@ -1963,7 +1931,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2389a36af212",
@@ -1993,7 +1961,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "73422721c204",
@@ -2023,7 +1991,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "58aa22ba4b96",
@@ -2053,7 +2021,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5c9af7ed11ca",
@@ -2083,7 +2051,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "ac6b5f9e1ee4",
@@ -2113,7 +2081,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9dc55390fc2d",
@@ -2143,7 +2111,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3b74694b8da4",
@@ -2173,7 +2141,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2360d5297640",
@@ -2212,7 +2180,7 @@
       "title": "Stage Chargé(e) de Marketing Design - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Charg-e--de-Marketing-Design---Janvier-2027_JR016607",
-      "posted_date": "Posted 4 Days Ago",
+      "posted_date": "Posted 5 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de Rothschild & Co Asset Management\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 47 milliards d’euros et regroupons près de 196 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nMissions\nBasé(e) à Paris et rattaché(e) au pôle Création graphique & Design au sein de l’équipe Marketing & Communication, vous contribuerez à des projets associant marketing, communication, design et événementiel.\nPositionnée au cœur du business development, l’équipe accompagne les ambitions de l’entreprise en France comme à l’international.\nCe stage de six mois vous permettra également de mener un véritable projet de bout en bout et de travailler en équipe avec des interlocuteurs variés. Une immersion concrète et responsabilisante, au service d’une marque internationale ambitieuse et d’un collectif engagé.\nVos missions vous permettront notamment de :\n·\nContribuer à des projets Marketing & Communication à 360°\nParticiper à la conception et au déploiement de campagnes, lancements de fonds, initiatives de marque et communications institutionnelles, de la formalisation du besoin à la réalisation des différents supports.\n·\n",
       "start_date": "2026-10-23",
       "time_type": "Full time",
@@ -2233,7 +2201,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1ed28eebcb6d",
@@ -2272,7 +2240,7 @@
       "title": "Stage Documentation Juridique et Réglementaire - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Documentation-Juridique-et-Rglementaire---Janvier-2027_JR016588",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte :\nDans le cadre d’un stage de 6 mois, vous intégrerez l’équipe en charge de la documentation juridique et réglementaire de Rothschild & Co Martin Maurel.\nMissions :\nGestion documentaire\n:\nContribuer à la mise à jour des documents juridiques et de conformité pour différents pays\nDans le cadre des ",
       "start_date": "2026-10-19",
       "time_type": "Full time",
@@ -2293,7 +2261,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0a0f022350d9",
@@ -2322,7 +2290,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "cdd4ec32afe0",
@@ -2351,7 +2319,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3f4fa0dadd17",
@@ -2380,7 +2348,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2477cbbad637",
@@ -2409,7 +2377,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b17c342767e9",
@@ -2438,7 +2406,36 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "8fe9f7cb19f1",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Infrastructure Nature-Based Solutions Stage - Mars 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Mars-2027-I-Paris--M-F-_JR1002117",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Infrastructure Capital Natural (NBS)\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nA propos de l’équipe\nLa mission couvrira les activités propres à un fonds d’investissement Infrastructure ainsi que des missions spécifiques au Capital Naturel. Cette stratégie vise l’investissement dans des projets de reforestation dont le sous-jacent est la vente de crédits carbone. Les géographies d’investissement visées sont principalement l’Amérique latine, l’Afrique ainsi que l’Asie du Sud-Est. La classe d’actifs a été développée au sein d’Ardian Infrastructure depuis un an et correspond à une expertise à part entière. En raison de la nature nouvelle de l’initiative, le stage offre un haut niveau d’exposition à l’investissement. L’expérience professionnelle et la capacité d’autonomie sont valorisées. Enfin, le candidat devra montrer un fort intérêt pour le marché carbone.\nInvestissement\n:\nConstruction de modèles financiers de valorisation de projets : prévisions, optimisation de la structure financière, études de sensibilité par actif ou sur portefeuille,\nPréparation de synthèses de valorisation présentées à l’ensemble de l’équipe\nParticipation aux processus de Due Diligence (aspects financiers principalement)\nSuivi de marché des acteurs du marché du carbone\nParticipation à l’élaboration de présentation pour le Fundraising\nUtilisation et créations de modèles uniques et propre au financement de projet en capital naturel\nMissions transverses :\nAnalyse de nouveaux périmètres d’investissement (nouveaux pays ou secteurs)\nAnalyse des principales transactions réalisées dans différents secteurs au cours des derniers mois\nCompétences requises\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nGrande école d’ingénieur ou de commerce\nAnglais courant indispensable\nUne première expérience en stage en private equity fund, M&A ou Structure/Leveraged Finance team est appréciée\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nUne culture du marché du carbone volontaire est appréciée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 63,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
     },
     {
       "id": "15d3c6973304",
@@ -2463,35 +2460,6 @@
         "Domain: M&A, equity, private equity",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "8fe9f7cb19f1",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Infrastructure Nature-Based Solutions Stage - Mars 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Infrastructure-Nature-Based-Solutions-Stage---Mars-2027-I-Paris--M-F-_JR1002117",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Infrastructure Capital Natural (NBS)\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nA propos de l’équipe\nLa mission couvrira les activités propres à un fonds d’investissement Infrastructure ainsi que des missions spécifiques au Capital Naturel. Cette stratégie vise l’investissement dans des projets de reforestation dont le sous-jacent est la vente de crédits carbone. Les géographies d’investissement visées sont principalement l’Amérique latine, l’Afrique ainsi que l’Asie du Sud-Est. La classe d’actifs a été développée au sein d’Ardian Infrastructure depuis un an et correspond à une expertise à part entière. En raison de la nature nouvelle de l’initiative, le stage offre un haut niveau d’exposition à l’investissement. L’expérience professionnelle et la capacité d’autonomie sont valorisées. Enfin, le candidat devra montrer un fort intérêt pour le marché carbone.\nInvestissement\n:\nConstruction de modèles financiers de valorisation de projets : prévisions, optimisation de la structure financière, études de sensibilité par actif ou sur portefeuille,\nPréparation de synthèses de valorisation présentées à l’ensemble de l’équipe\nParticipation aux processus de Due Diligence (aspects financiers principalement)\nSuivi de marché des acteurs du marché du carbone\nParticipation à l’élaboration de présentation pour le Fundraising\nUtilisation et créations de modèles uniques et propre au financement de projet en capital naturel\nMissions transverses :\nAnalyse de nouveaux périmètres d’investissement (nouveaux pays ou secteurs)\nAnalyse des principales transactions réalisées dans différents secteurs au cours des derniers mois\nCompétences requises\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nGrande école d’ingénieur ou de commerce\nAnglais courant indispensable\nUne première expérience en stage en private equity fund, M&A ou Structure/Leveraged Finance team est appréciée\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel exigée\nUne culture du marché du carbone volontaire est appréciée\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 63,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
@@ -2594,7 +2562,7 @@
       "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "Citi is looking for placement analysts to join the Investment Banking Healthcare team in London, from February 2027.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. During our 3-6 month placement analyst program, which starts in February 2027, you will be assigned to the IB Healthcare team. Successful placement analysts will be considered for a full time position after graduation.\nYour time here will look something like this:\nKeeping up to date on the latest news, developments and trends that are driving equity markets by using the intelligence of Citi’s global equities platform, communicating that information to your clients.\nDevelop an understanding of how companies are viewed and valued by institutional investors through speaking to some of the most important mutual fund and hedge fund managers.\nBuild financial models, assess valuation, and explore transaction opportunities for your clients\nConduct research and analyse industry trends.\nHelp to strengthen your clients’ shareholder base by conducting analysis on potential new investors.\nParticipate in client development by having an active role in building new and existing client relationships, and assisting in the presentation of new ideas to clients.\nWe want to hear from you if:\nYou are studying for a degree that allows for a 3-6-month industrial placement or have graduated.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are available to start in February 2027.\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their careers in Investment Banking. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you. We’ll also be looking for the following:\nCommitment to personal growth and career development including mobility and flexibility. You also have a strong desire to learn, are proactive, building rapport and relationships in team environments.\nDesire to develop a deep understanding of the financial industry.\nIntellectual curiosity and proactive approach to searching for new and creative ideas.\nStrong communication, planning, and organizational skills.\nUnquestioned commitment to integrity and ethical decision-making.\nInterest in business.\nWe will be recruiting on a rolling basis therefore ",
       "start_date": "2026-10-27",
       "time_type": "Full time",
@@ -2615,7 +2583,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": false,
@@ -2646,7 +2614,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": false,
@@ -2677,7 +2645,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eee20292241e",
@@ -2736,7 +2704,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3edf6927f505",
@@ -2796,7 +2764,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "fd9f89d1205a",
@@ -2826,7 +2794,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b0bde83dc067",
@@ -2914,7 +2882,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1a8e9f0a3290",
@@ -2943,7 +2911,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4281cd23b217",
@@ -2972,7 +2940,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a9d67a8088c6",
@@ -3001,7 +2969,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b20221207e5a",
@@ -3031,7 +2999,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "97ed5f970108",
@@ -3060,7 +3028,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8ebc0c5bae64",
@@ -3089,7 +3057,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f14d7cbe0c16",
@@ -3118,7 +3086,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5b8e378b2ea6",
@@ -3150,35 +3118,6 @@
       "last_seen": "2026-10-23"
     },
     {
-      "id": "8c643efbb585",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern - December 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
-      "posted_date": "Posted 5 Days Ago",
-      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. deal flow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and ",
-      "start_date": "2026-10-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
-      "source": "workday",
-      "first_seen": "2026-10-22",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
       "id": "8baac324e78b",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -3208,13 +3147,42 @@
       "last_seen": "2026-10-24"
     },
     {
+      "id": "8c643efbb585",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - December 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
+      "posted_date": "Posted 6 Days Ago",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. deal flow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and ",
+      "start_date": "2026-10-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
+      "source": "workday",
+      "first_seen": "2026-10-22",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
       "id": "b24dd17939dc",
       "bank": "Ardian",
       "category": "Private Equity",
       "title": "Employees' investments Fund Administrative Assistant Stage - Janvier 2027 | Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Employees--investments-Fund-Administrative-Assistant-Stage---Janvier-2027---Paris--M-F-_JR1002091-1",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "Département : Employees’ Investment\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Janvier 2027\nDescriptif du stage\nL’offre de stage est à pourvoir dans l’équipe Employees Investments (investissements des salariés).\nLa mission consiste à assister l’équipe Employees Investments dans leur suivi de l’investissement des salariés dans les Fonds.\nDétail de la mission\n:\nParticipation au bon déroulé des appels et des distributions à destination des employés (suivis, classements, vérifications…)\nSoutien dans l’activité des fonds gérés par ARDIAN France et/ou des fonds administrés (transferts, souscription, rachat des parts, etc...)\nContacts avec l’ensemble des intervenants pour l’organisation des flux d’informations, financiers et comptables : service comptabilité, dépositaires, fund finance….\nMise à jour et vérifications des fichiers de transferts et des fichiers d’opérations\nContribuer aux différents travaux de reporting de positions et fiscaux\nContribuer aux différentes missions relatives à l'actionnariat salarié\nSuivi de la boite emails de l’équipe en collaboration avec d’autres membres de l’équipe. Répondre aux différentes questions reçues sous la supervision d’un collaborateur de l’équipe.\nEnvoi de l’email hebdomadaire des flux en cours et à venir.\nAide à l’équipe sur les opérations d’envergure (Publipostage, IFU, Reportings fiscaux)\nQualités requises\nDiscrétion\nRigoureux et précis\nOrganisé\nMotivation\nMaîtrise d’Excel\nProfil\nDiplôme de comptabilité et/ou de finance et/ou administratif (DUT GEA par exemple) niveau Bac+2 minimum ; stage de fin d’étude\nExpérience : un stage effectué en audit / comptabilité ou un stage effectué en gestion d’actifs serait très apprécié. Une maitrise Excel est un des atouts\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-10-19",
       "time_type": "Full time",
@@ -3234,7 +3202,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0817e2d05d8a",
@@ -3292,7 +3260,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "46b8588d4eaa",
@@ -3321,7 +3289,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "22820e700ed4",
@@ -3350,7 +3318,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1a1704003780",
@@ -3379,7 +3347,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -3408,7 +3376,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b6f5ba7934ba",
@@ -3437,7 +3405,35 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "22db6152f00e",
+      "bank": "Barclays",
+      "category": "Investment Bank",
+      "title": "International Corporate Banking Graduate Programme 2027 Madrid",
+      "location": "Madrid, Calle de Jose Abascal",
+      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Madrid-Calle-de-Jose-Abascal/International-Corporate-Banking-Graduate-Programme-2027-Madrid_JR-0000124209",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities within the International Corporate Banking division by providing transactional support that help senior colleagues manage key client relationships, make informed decisions, develop new products and services, and identify new opportunities.\nAccountabilities\nSupport the management of clients as a key member within the Relationship Team – assist in managing client relationships by responding to queries, supporting onboarding, and contributing to proposals for cash management, trade finance, and lending solutions.\nWork alongside senior bankers to help identify and manage opportunities within Global Treasury Coverage – with a focus on products and services provided by International Corporate Banking.\nPreparation of meeting materials, researching sector specific themes, and collaborating with teams across the Investment Bank.\nSupport the end-to-end deal process, including credit analysis, financial modelling, internal committees and documentation for debt facilities and treasury solutions.\nIdentify opportunities for new products and services, contribute to business cases, and assist in launching initiatives that align with sustainability and growth objectives.\nTake ownership for embedding risk controls, adhering to policies, and escalating breaches appropriately.\nParticipate in structured learning programmes covering credit skills, client management, and treasury coverage products, while seeking continuous improvement through mentorship and feedback.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviors to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropri",
+      "start_date": "2026-10-26",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Barclays Europe\nWorking in Madrid\nOur office in Madrid delivers informed strategic advice, comprehensive financial solutions and risk management services, creating sophisticated strategies customised to meet our clients’ needs.\nEntry Salary: €50,000\nUpper Salary: €50,000",
+      "source": "workday",
+      "first_seen": "2026-10-26",
+      "is_new": false,
+      "match_score": 57,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, corporate banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e47eefd3a9f7",
@@ -3446,7 +3442,7 @@
       "title": "Capital Markets Off Cycle Internship Programme 2027 Paris",
       "location": "Paris, Origami",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-Origami/Capital-Markets-Off-Cycle-Internship-Programme-2027-Paris_JR-0000124479",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Capital Markets division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\nExecution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for capital markets, advising a broad range of corporate clients, to deliver holistic, structured solutions.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for capital markets.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nManagement of the development and implementation of financial models and strategies that support in decision making in Capital Markets.\nAnalyst Expectations\nTo meet the needs of stakeholders/ customers through transactional processing and customer service.\nPerform routine and specific tasks as assigned, focusing on quality execution.\nNo people leadership roles at this grade.\nExecute work requirements as identified in processes and procedures, identify escalation of policy breaches as required.\nTake ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\nGain and maintain an understanding of how assigned duties contribute to the activities of the team alongside knowledge of job activities and operational procedures within own role.\nFollow detailed and defined rules/ instructions and make simple judgements in straightforward situations typically having to select from defined and documented alternatives.\nDemonstrate a good knowledge and understanding of procedures.\nEvaluate and select the correct solution to problems to complete the tasks.\nPerform first line customer service related activities, interact with stakeholders on matters of customer service or administrat",
       "start_date": "2026-10-02",
       "time_type": "Full time",
@@ -3466,7 +3462,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c957536bb31b",
@@ -3475,7 +3471,7 @@
       "title": "Stage Service Clients - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Service-Clients---Janvier-2027_JR016533",
-      "posted_date": "Posted 26 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nÀ propos de la division Asset Management de Rothschild & Co\nDivision spécialisée en gestion d’actifs du groupe Rothschild & Co, nous offrons des services personnalisés de gestion à une large clientèle d’investisseurs institutionnels, d’intermédiaires financiers et de distributeurs. Nous articulons notre développement autour d’une gamme de fonds ouverts bénéficiant de nos expertises de long terme en gestion active et de conviction ainsi qu’en gestion déléguée. Basés à Paris et présents dans 9 pays en Europe, nous gérons plus de 50 milliards d’euros et regroupons plus de 200 collaborateurs. Plus d’informations sur am.eu.rothschildandco.com\nSon développement s'articule autour de deux expertises complémentaires en :\n- Gestion active de conviction (actions, taux, diversifiée, thématiques...) ;\n- Architecture ouverte (sélection des meilleurs gestionnaires présents sur les plus grandes places financières mondiales sur des stratégies traditionnelles ou alternatives).\nConvaincus que la prise en compte des critères liés aux questions Environnementales, Sociales et de Gouvernance (ESG) devient indispensable pour répondre aux attentes grandissantes des investisseurs en matière d'impact sociétal de leurs portefeuilles, nous intégrons une politique ESG à l’ensemble de notre gamme de fonds.\nDépartement\nAu sein de Rothschild & Co Asset Management, vous rejoindrez le Service Clients, composé de quatre personnes. Le Service Clients fait partie des équipes Business Development de Rothschild & Co Asset Management.\nVous participerez activement aux missions de ",
       "start_date": "2026-10-01",
       "time_type": "Full time",
@@ -3495,7 +3491,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1efc02f5e51e",
@@ -3504,7 +3500,7 @@
       "title": "Stage Produits Structurés - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Produits-Structurs---Janvier-2027_JR016532",
-      "posted_date": "Posted 26 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nMissions\nEn soutien du département produits structurés, vous serez rattaché(e) à ce service et serez en charge de :\nProduction de documents marketing (email, slides, brochures descriptives etc…) à destination interne et externe\nParticipation aux réflexions produits et à la synthèse d’idées\nElaboration et anima",
       "start_date": "2026-10-01",
       "time_type": "Full time",
@@ -3524,7 +3520,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a36937771934",
@@ -3553,7 +3549,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "251d6c6f061b",
@@ -3582,7 +3578,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "12805238a5c0",
@@ -3678,7 +3674,7 @@
       "title": "Stagiaire Business Intelligence - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stagiaire-Business-Intelligence---Janvier-2027_JR016589",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nVous êtes passionné(e) par l’analyse de données et curieux(se) des usages professionnels de l’intelligence artificielle ? Rejoignez notre équipe de Business Intelligence au sein de la Banque Privée Rothschild Martin Maurel.\nMissions :\n- Collecter, traiter et analyser des données internes ;\n- Enrichir et g",
       "start_date": "2026-10-19",
       "time_type": "Full time",
@@ -3698,7 +3694,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "dfdd1e6c413c",
@@ -3707,7 +3703,7 @@
       "title": "Stage Comptabilité Fiscale - Janvier 2027",
       "location": "Paris",
       "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Comptabilit-Fiscale---Janvier-2027_JR016585",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nMissions\nRattaché(e) au Pôle fiscalité de la Direction Comptable, vous interviendrez sur des sujets variés mêlant fiscalité, comptabilité et reporting groupe, notamment :\nParticipation au calcul des impôts sur les sociétés et préparation des provisions ;\nContribution à l’ élaboration des déclarations annu",
       "start_date": "2026-10-19",
       "time_type": "Full time",
@@ -3727,35 +3723,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "22db6152f00e",
-      "bank": "Barclays",
-      "category": "Investment Bank",
-      "title": "International Corporate Banking Graduate Programme 2027 Madrid",
-      "location": "Madrid, Calle de Jose Abascal",
-      "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Madrid-Calle-de-Jose-Abascal/International-Corporate-Banking-Graduate-Programme-2027-Madrid_JR-0000124209",
-      "posted_date": "Posted Yesterday",
-      "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities within the International Corporate Banking division by providing transactional support that help senior colleagues manage key client relationships, make informed decisions, develop new products and services, and identify new opportunities.\nAccountabilities\nSupport the management of clients as a key member within the Relationship Team – assist in managing client relationships by responding to queries, supporting onboarding, and contributing to proposals for cash management, trade finance, and lending solutions.\nWork alongside senior bankers to help identify and manage opportunities within Global Treasury Coverage – with a focus on products and services provided by International Corporate Banking.\nPreparation of meeting materials, researching sector specific themes, and collaborating with teams across the Investment Bank.\nSupport the end-to-end deal process, including credit analysis, financial modelling, internal committees and documentation for debt facilities and treasury solutions.\nIdentify opportunities for new products and services, contribute to business cases, and assist in launching initiatives that align with sustainability and growth objectives.\nTake ownership for embedding risk controls, adhering to policies, and escalating breaches appropriately.\nParticipate in structured learning programmes covering credit skills, client management, and treasury coverage products, while seeking continuous improvement through mentorship and feedback.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviors to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropri",
-      "start_date": "2026-10-26",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Barclays Europe\nWorking in Madrid\nOur office in Madrid delivers informed strategic advice, comprehensive financial solutions and risk management services, creating sophisticated strategies customised to meet our clients’ needs.\nEntry Salary: €50,000\nUpper Salary: €50,000",
-      "source": "workday",
-      "first_seen": "2026-10-26",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e1aa2bd36a8d",
@@ -3784,7 +3752,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a28d9ddf3be0",
@@ -3812,7 +3780,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "6c1011e407fd",
@@ -3840,7 +3808,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e075559b8c63",
@@ -3868,7 +3836,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0a65ea33f94c",
@@ -3896,7 +3864,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "61bc71e98fcd",
@@ -3924,7 +3892,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e4e60a216723",
@@ -4039,7 +4007,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "98836783533b",
@@ -4068,7 +4036,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d23c22f2c608",
@@ -4097,7 +4065,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eef530ac48c2",
@@ -4155,7 +4123,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c65abc301ee0",
@@ -4184,7 +4152,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "85db60a405c4",
@@ -4213,7 +4181,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0b8f93ece3e5",
@@ -4242,7 +4210,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0a7e933c328f",
@@ -4271,7 +4239,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3a506648372b",
@@ -4300,7 +4268,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "ba58a05065e4",
@@ -4329,7 +4297,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "54fe2bb80d15",
@@ -4358,7 +4326,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3384a9189adf",
@@ -4387,7 +4355,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "794fad16fec1",
@@ -4416,7 +4384,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "de3e838c9593",
@@ -4443,7 +4411,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7a15baa37efc",
@@ -4452,7 +4420,7 @@
       "title": "Group Finance Treasury Stage - Mars 2027 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Group-Finance-Treasury-Stage---Mars-2027-I-Paris--H-F-_JR1002259",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Département : Group Finance - Treasury\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nIntégré(e) dans l’équipe Group Finance - Treasury composée de 5 personnes à Paris, la/le stagiaire assistera et participera à l’ensemble des problématiques de couverture, de trésorerie et de cash management pour l’ensemble des fonds et des filiales du groupe ARDIAN. Il interviendra notamment sur les missions suivantes au sein du département :\nGestion des risques financiers :\nSupport dans la mise en place et le suivi des couvertures (Pricing opérations Fx et Taux)\nEchanges avec les différentes parties concernées (Banques, Fund Finance, Administrateurs des fonds)\nSuivi du risque de contrepartie\nReporting des opérations de couvertures à destination du GMT et des équipes de gestion\nRédaction de point marchés sur l’environnement économique\nSuivi de la trésorerie du groupe Ardian ainsi que l’ensemble des fonds :\nSuivi quotidien de la trésorerie du groupe ARDIAN et des fonds gérés\nSuivi mensuel des positions de cash et des prévisions du groupe ARDIAN\nProduction de reporting hebdomadaire et mensuel de suivi du cash et des couvertures à destination du GMT\nAdministration des outils de trésorerie, paiements et de valorisations :\nAdministration du TMS (Kyriba) pour le groupe Ardian\nAdministration de l’outil Front Office (Titan)\nAssister l’équipe dans les process d’ouvertures de comptes (KYC, Abonnement Swift...)\nProduction mensuelle des valorisations des couvertures de change à destination des fonds\nCompétences requises\nRigueur et autonomie pour s’assurer de la qualité et de la pertinence des documents et informations fournis en interne et à l’extérieur de la société\nMotivation\nRéactivité\nEsprit d’équipe\nCommunication : anticiper et remonter les informations rapidement à son supérieur hiérarchique\nTrès bonnes qualités relationnelles\nEfficacité\nForte résistance au stress\nLe profil\nEtudiant en École de Commerce ou d’Ingénieur/Université – spécialisation en Finance (en année de césure ou dernière année d’étude).\nAnglais courant indispensable (nombreux échanges avec des interlocuteurs non-francophones)\nOutils : La connaissance de Bloomberg et/ou Reuters et Kyriba est un plus\nIdéalement, une première expérience réussie au sein d’un département trésorerie d’un grand groupe ou en salle de marchés de banque.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant i",
       "start_date": "2026-10-02",
       "time_type": "Full time",
@@ -4472,7 +4440,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b5378e864ffd",
@@ -4481,7 +4449,7 @@
       "title": "Fund Finance Intern - November 2026 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Fund-Finance-Intern---November-2026---London_JR1002251",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30 Days Ago",
       "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,115 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nWithin the Fund Finance team, the Intern Analyst will be part of a team composed of people located in London, New York and Canada. The Intern will work primarily with Funds of Funds, focusing on multiple investment strategies such as Primary, Early Secondary and Secondary Funds. Its core focus is structured across four main responsibilities: Fund Monitoring, Cash Management, Control and Reporting.\nThe intern will be working closely with various members of the team to support the workflow on their respective perimeter of funds and vehicles. It will involve day-to-day tasks, transversal projects and widespread communication across the firm.\nJob Responsibilities:\nSupervision and monitoring of investment vehicles, master funds and parallel funds.\nReconciliation of weekly dashboards for various meetings, as well as optimization of cash held at numerous levels of investments.\nWorking on recurrent analysis and ad-hoc queries with other departments among the firm (Investment team, Investor relation, Compliance, Legal, Treasury, etc.).\nPreparation of debt related tasks for multiple vehicles (covenants, reporting, repayments, interest computation, etc.).\nReconciliation of financial information – Ensure the quality of the data in requi",
       "start_date": "2026-09-28",
       "time_type": "Full time",
@@ -4500,7 +4468,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7b3627895098",
@@ -4529,7 +4497,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "dd407960f54e",
@@ -4557,7 +4525,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8d778afd7fcd",
@@ -4585,7 +4553,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "019488310813",
@@ -4679,7 +4647,7 @@
       "title": "Sustainability Non Controlling Stage - Janvier 2027 I Paris  (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Non-Controlling-Stage---Janvier-2027-I-Paris---H-F-_JR1002142",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "description": "Département : Sustainability\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nVous rejoindriez l'équipe Sustainability, composée de douze personnes basées à Paris et à New York. Plus précisément, vous soutiendriez deux personnes se concentrant sur nos activités d'investissement Secondaries & Primaries, Private Credit et Co-Investment et sur les missions de\nSustainability market intelligence\n. Grâce à ce stage, vous participeriez directement aux projets de transformation d'Ardian et développeriez vos compétences au sein d'une entreprise leader sur les sujets ESG. Vous approfondiriez votre compréhension des marchés privés et de son rôle dans le développement d'une économie résiliente et d'une croissance durable.\nExemples de missions auxquelles vous contribueriez :\nSoutenir les activités liées au portefeuille : collecte de données, analyse et reporting, accompagnement des entreprises et des gérants du portefeuille sur les questions ESG, développement d'études de cas, notes de brief, etc.\nParticiper à la production de présentations PowerPoint dédiées aux équipes d'investissement sur leur portefeuille ou sur des sujets thématiques\nContribuer à l’organisation d’ateliers Ardian Circle, webinaires de partage de connaissance et de bonnes pratiques Sustainability à destination de nos gérants en portefeuille\nRépondre aux questionnaires de due diligence et de reporting ESG, préparer les decks de réunions avec les clients et des supports marketing\nContribuer à la production de documents de\nSustainability market intelligence\nContribuer à la veille et à la production de notes thématiques\nCompétences requises\nIntérêt démontré pour le développement durable/la finance durable, la connaissance des concepts clés ESG et des réglementations est un atout\nCompétences analytiques, avec la capacité de manipuler des données et d'appréhender des projets nouveaux et complexes\nEfficacité, bonne gestion des deadlines et rigueur\nExcellente communication et en relations interpersonnelles\nEsprit d'équipe\nProfil\nEtudiant en Master Sustainability, Business, Sciences Politiques, Ingénierie ou Economie\nAnglais courant indispensable\nBonne maîtrise d’Excel et PowerPoint exigée\nConvention de stage obligatoire\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for ",
       "start_date": "2026-10-21",
       "time_type": "Full time",
@@ -4699,7 +4667,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c15b00ba6fd7",
@@ -4708,7 +4676,7 @@
       "title": "Fund Finance Cross Functional Stage - Mars 2027 I Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Cross-Functional-Stage---Mars-2027-I-Paris--H-F-_JR1002096",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "Département : Fund Finance - Cross Functional\nLieu : Paris\nDurée : 6 mois\nDate de début : Mars 2027\nL’équipe\nVous rejoindrez l’équipe « Fund Finance – Cross-Functional », basée à Paris. Cette équipe transverse est en charge du pilotage des projets impactant les équipes Fund Finance, de la coordination des relations avec les principaux prestataires des fonds (auditeurs, administrateurs/comptables, banques, prestataires fiscaux) et de l’amélioration continue des processus, tant internes qu’externes. Ses missions incluent notamment des projets IT, des initiatives de digitalisation et d’automatisation, ainsi que des travaux d’analyse de données et de reporting.\nLes projets peuvent être de différentes natures :\nen collaboration avec le département informatique, pour des projets de digitalisation/optimisation des process du Fund Finance.\nen collaboration avec d’autres équipes Ardian (ex : Taxes, Compliance, Juridique,…) pour analyser les impacts d’une nouvelle réglementation et apporter une réponse homogène.\nen collaboration avec les différentes parties prenantes afin d’optimiser les process existants.\nVous participerez/contribuerez aux tâches suivantes :\nGESTION DE PROJET\nContribution aux projets de digitalisation (conception et tests) des outils en place (eFront, Business Object et applications internes…).\nCoordination des différentes équipes, planning de tests, suivi des livrables dans le respect des délais.\nParticipation à la mise en place de SharePoint Online\nParticipation à la rédaction relative aux projets\nSUIVI DE PRESTATAIRES\nCoordination et suivi des campagnes fiscales et des campagnes de facturation\nParticipation à l’amélioration des process existants pour un gain d’efficacité.\nLes prestataires et les équipes Ardian se situent dans différents pays (US, Luxembourg, Angleterre…) un bon niveau en anglais est primordial\nANALYSE DE DONNEES/REPORTING\nCréation/optimisation/développement de fichiers excel\nRédaction de procédures et de réponses des reportings réglementaires\nRéalisation de présentations PowerPoint pour les réunions récurrentes au sein du département Fund Finance\nSUPPORT\nVous participerez au support de premier niveau des outils en place (Efront, Business Object et applications internes…).\nCompétences requises\nGestion de projet\nAnglais courant\nMaîtrise du pack office\nEsprit d’équipe\nAutonomie\nEsprit d’analyse et de synthèse\nCapacité d’écoute/de synthèse/ et d’organisation\nFacilité à communiquer\nProfil\nEcole de d’ingénieur et/ou équivalent univers",
       "start_date": "2026-10-27",
       "time_type": "Full time",
@@ -4727,7 +4695,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "03a8c20baadd",
@@ -4756,7 +4724,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4afd6bda4507",
@@ -4785,7 +4753,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "09b65cc29b0d",
@@ -4813,7 +4781,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "644795f3abe4",
@@ -4842,7 +4810,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "743cd0164b30",
@@ -4870,7 +4838,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "ef72728e7ab3",
@@ -4898,7 +4866,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3c68a19025d4",
@@ -4926,7 +4894,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "17cfcd6b02d2",
@@ -5013,7 +4981,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9d8391b790ba",
@@ -5041,35 +5009,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "291ea4b0d074",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775312",
-      "posted_date": "2026-08-31",
-      "description": "Spend your summer alongside the top professionals in the business to come up with solutions that shape the global economy.\n\nPut your energy, insight and analytical prowess to work at the heart of J.P.Morgan. Spend time in our Public Sector Group, managing some of the most senior relationships in the firm, with public sector institutions across multiple businesses. Our clients include, central banks, sovereign wealth funds, public pension funds and other sovereign related investors, governments, policy related financial institutions, and international institutions. We build relationships with clients' senior leadership, including strategic decision makers, investment management and risk management.\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking, risk",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f27c1058affc",
@@ -5098,7 +5038,35 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "291ea4b0d074",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775312",
+      "posted_date": "2026-08-31",
+      "description": "Spend your summer alongside the top professionals in the business to come up with solutions that shape the global economy.\n\nPut your energy, insight and analytical prowess to work at the heart of J.P.Morgan. Spend time in our Public Sector Group, managing some of the most senior relationships in the firm, with public sector institutions across multiple businesses. Our clients include, central banks, sovereign wealth funds, public pension funds and other sovereign related investors, governments, policy related financial institutions, and international institutions. We build relationships with clients' senior leadership, including strategic decision makers, investment management and risk management.\n",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, corporate banking, risk",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
     },
     {
       "id": "04a5bc928b68",
@@ -5127,7 +5095,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a4daeddebf2a",
@@ -5136,7 +5104,7 @@
       "title": "Foudation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Janvier-2027-I-Paris--M-F-_JR1002092",
-      "posted_date": "Posted 27 Days Ago",
+      "posted_date": "Posted 28 Days Ago",
       "description": "Département : Foundation\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nCommunication : Production extensive de contenus sur la Fondation en interne et en externe\nEditoriale : supports de présentation, éléments de langage sur la stratégie de la Fondation, visuels (photos/vidéos), newsletters, brochure, etc.\nDigitale : Suivi et mise à jour du site web et de l’intranet. Rédaction de contenus sur LinkedIn (sur nos partenaires, les actions organisées, à venir, etc.)\nEvènementielle : Organisation d’événements internes (dans le cadre de notre programme d’engagement collaborateurs Act4Change) et externes avec nos associations partenaires\nTransverse : support de l’équipe sur les sujets en cours :\nSupport sur le pôle engagement des collaborateurs\nSupport sur l’outil CRM :\nSupport de l’équipe sur les tâches récurrentes : logistique, veille sur le secteur philanthropique & solidaire, benchmarks, etc.\nCompétences requises\nMaitrise de l’anglais et du français indispensable\nOrganisation et rigueur\nAisance relationnelle et communication interculturelle\nCréativité\nAutonomie\nEsprit d’analyse, de synthèse et critique\nEsprit d’équipe\nPrise d’initiatives\nLe profil\nType de diplôme : Master 1 ou 2 en : Communication des organisations, RSE, Développement Durable, Management des organisations, Innovation Sociale, Stratégie.\nUne première expérience professionnelle dans une Fondation ou une association est un plus.\nLa Fondation Ardian\nLa mission de la Fondation Ardian, créée en 2010 à l’initiative de quelques salariés d’Ardian, est de favoriser l’ascension sociale de personnes de milieu modeste - de la petite enfance à la vie adulte - en Europe, en Amérique et en Asie. Depuis 2025, la Fondation soutient des projets en recherche scientifique fondamentale.\nNotre engagement se traduit en plusieurs actions :\nLe développement de projets liés à la petite enfance et à l’éducation\nL’engagement de nos collaborateurs en don de temps, compétences et monétaire\nLa recherche scientifique fondamentale\nLe budget annuel 2025 de la Fondation s’élève à 5.6 millions d’euros.\nCompte tenu du développement en cours, la Fondation Ardian souhaiterait se doter de ressources supplémentaires.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%), tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and",
       "start_date": "2026-09-30",
       "time_type": "Full time",
@@ -5155,7 +5123,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8826dc5019b5",
@@ -5183,7 +5151,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "89a24e701172",
@@ -5211,7 +5179,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5c24d3d840ba",
@@ -5239,7 +5207,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bb2bae55da94",
@@ -5267,7 +5235,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1d446ccf62cd",
@@ -5360,7 +5328,7 @@
       "title": "Data Scientist Stage - Mars 2027 | Paris (H/F)",
       "location": "Paris",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Data-Sciencist-Stage---Mars-2027---Paris--H-F-_JR1002090",
-      "posted_date": "Posted 8 Days Ago",
+      "posted_date": "Posted 9 Days Ago",
       "description": "Département :\nData Science\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nProjet data liés au portefeuille : Analyses et modèles appliqués aux actifs en portefeuille d’Ardian (énergies renouvelables, transport, retail, healthcare, etc.) ainsi qu’aux besoins internes de la société de gestion.\nAnalyses de churn clients : Modélisation et identification des facteurs de départ des clients.\nTraitement automatique du texte : Classification de documents, extraction d’informations, et utilisation d’IA générative pour automatiser l’analyse textuelle.\nAnalyse géospatiales : Identification de\nwhite spots\net exploitation de données spatiales pour optimiser les décisions.\nStatistiques avancées ; calcul de VaR (Value-ar-Risk), modélisation des prix de l'éléctricité, analyses quantitatives complexes.\nCe poste requiert une grande part d’autonomie qui s’accompagne également d’une supervision régulière par les autres data scientistes et managers de l’équipe. Il offre également une exposition directe au management des entreprises concernées.\nCompétences requises\nRigueur\nMotivation\nAutonomie\nRéactivité\nEsprit d’équipe et grandes qualités de communication\nCapacité à vulgariser des notions techniques complexes\nEfficacité\nLe profil\nEtudiant en 3ème année (stage de fin d’études) ou de 2ème année (2ème stage de césure) d’école d’ingénieur ou école de commerce actuellement en Master de Data Science, Statistiques, Mathématiques, Recherche Opérationnelle ou domaine assimilé\nPremière expérience en data science requise\nMaîtrise avancée de Python (pandas, scikit-learn) requise\nAnglais courant indispensable\nToute démonstration d’intérêt (ou précédente expérience) pour le secteur du private equity ou le secteur financier sera appréciée\nBonne maîtrise de Powerpoint requise\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
       "start_date": "2026-10-19",
       "time_type": "Full time",
@@ -5379,7 +5347,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2752d14ffd09",
@@ -5407,7 +5375,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "6452a47abd58",
@@ -5435,7 +5403,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "48ac1aff9176",
@@ -5463,7 +5431,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "81b9ebd93b95",
@@ -5491,7 +5459,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "baf2ae4e816e",
@@ -5519,7 +5487,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "919729587e35",
@@ -5547,7 +5515,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "afd7af9c4f3d",
@@ -5574,7 +5542,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4ddccad034f9",
@@ -5601,7 +5569,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1069fde398f6",
@@ -5657,7 +5625,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f913031e9a5a",
@@ -5685,7 +5653,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "fcb2ac675a49",
@@ -5713,7 +5681,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "07b7c45b4b7e",
@@ -5741,7 +5709,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "916fa3b3c83b",
@@ -5769,7 +5737,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "6f2f28831587",
@@ -5797,7 +5765,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "640d21f7566f",
@@ -5806,7 +5774,7 @@
       "title": "Client - Citi Research, Summer Analyst, London - United Kingdom, 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Client---Citi-Research--Summer-Analyst--London---United-Kingdom--2027_26994966",
-      "posted_date": "Posted 18 Days Ago",
+      "posted_date": "Posted 19 Days Ago",
       "description": "You're the brains behind our work.\nYou're ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programmes equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti’s Client organization is looking for Summer Intern to join the Research team in London June-August 2027 for 10 weeks. Citi provides world-class products and financing solutions for corporations, governments, and institutional and retail investors through our dominant underwriting capabilities. Our global platform, broad product knowledge and on-the-ground local markets expertise coupled with complementary strengths in technology and distribution allows us to offer clients a wide range of comprehensive financial solutions. We address their needs by leveraging our products in currencies, sectors, geographies and asset classes; given the unparalleled breadth and depth of our global platform, Citi is able to consistently provide clients with innovative solutions regardless of complexity.\nYour time here will look something like this...\nWorking with a team covering a specific industry or macro area for the entirety of the summer, including involvement in the day-to-day responsibilities of an intern.\nDevelop a thorough understanding of financial markets. Learn to identify and analyse trends with the goal of producing cutting edge research and actionable recommendations.\nLearn to collect, outline and explain information giving insights that drive creative solutions.\nTake on various projects the team assigns.\nCreate, update and maintain economic or financial spreadsheets, quantitative models and databases of assigned companies.\nRefresh marketing handouts and assist with ad-hoc client requests.\nShadow Analysts by attending company and industry meetings as well as industry conferences.\nWe provide you with the knowledge and skills you need to succeed.\nThe 10 week summer analyst program starts in June and begins with an introduction to Citi and Research. You will then join a team where you will gain a experience by working on a projects as well as attending speaker presentations. High performing summer analysts will be considered for a full time position in 2028 after graduation.\nWe want ",
       "start_date": "2026-10-09",
       "time_type": "Full time",
@@ -5826,7 +5794,35 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "76895c0c3ef9",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Sustainability Real Assets Stage - Mars 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Janvier-2027-I-Paris--H-F-_JR1002141",
+      "posted_date": "Posted 2 Days Ago",
+      "description": "Département : Sustainability\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nAu sein de l'\néquipe Sustainability\nd'Ardian, vous interviendrez en support des collaborateurs dédiés à nos activités\nReal Assets — Infrastructure et Real Estate\n— et travaillerez en étroite collaboration avec les équipes d'investissement et d'asset management concernées.\nCe stage vous permettra de participer directement aux projets de transformation d’Ardian et de développer vos compétences au sein d’une entreprise leader sur les enjeux ESG. Vous approfondirez votre compréhension des marchés privés et de leur rôle dans le développement d’une économie résiliente et d’une croissance durable.\nVous contribuerez principalement aux activités d’engagement avec les sociétés du portefeuille Infrastructure, coordonnées entre l’équipe Sustainability et l’équipe Asset Management, notamment :\nRevue de la documentation ESG des sociétés du portefeuille Infrastructure, évaluation des progrès et soutien aux initiatives d’engagement thématiques ;\nPréparation de fiches synthétiques pour appuyer les échanges avec les équipes de direction et d’investissement, résumant les avancées sur les initiatives clés, les tendances et les objectifs de durabilité ;\nContribution à la création de questionnaires pour collecter des informations ESG auprès des sociétés du portefeuille et participation aux échanges avec ces sociétés ;\nSuivi de l’avancement de la campagne de collecte de données, analyse et revue des données afin d’identifier les principales tendances ESG et alimenter la stratégie d’engagement ESG d’Ardian ;\nPréparation de rapports synthétiques en coordination avec l’équipe Asset Management pour partager les principaux enseignements avec les sociétés du portefeuille.\nAutres missions indicatives :\nSoutien au développement des stratégies climat et biodiversité sur l’ensemble du portefeuille\nRéponse aux questionnaires de due diligence et de reporting ESG, préparer les decks de réunions avec les clients et des supports marketing pour les activités Real Assets\nContribution à la production de notes thématiques\nCompétences requises\nIntérêt démontré pour la durabilité et la finance durable ; la connaissance des concepts et réglementations ESG est un atout.\nExpérience préalable en stage dans le domaine des infrastructures (fonds d’investissement, conseil, bureaux d’ingénierie…) et compréhension des principaux enjeux de ce secteur.\nSolides compétences analytiques et en gestion de données, ma",
+      "start_date": "2026-10-26",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-26",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, asset management",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d95271742872",
@@ -5908,7 +5904,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7a1886d678e0",
@@ -5936,7 +5932,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d17d56d6485f",
@@ -5963,35 +5959,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "7d0d0d095ee5",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Audit Interne Stage - Septembre 2026 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Audit-Interne-Stage---Septembre-2026-I-Paris--H-F-_JR1002069",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Audit Interne\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Septembre 2026\nLe rôle :\nL’équipe Audit Interne d'Ardian a pour objectif de fournir une assurance indépendante, objective et des services de conseil conçus pour ajouter de la valeur et améliorer les opérations d'Ardian. L'équipe d'Audit Interne d'Ardian recherche un stagiaire pour contribuer à l'évaluation et à l'amélioration de l'efficacité des processus de gestion des risques, de contrôle interne et de gouvernance au sein du groupe Ardian.\nL'équipe est composée de 3 professionnels d'horizons divers (2 membres basés à Paris et 1 à Jersey).\nL'Auditeur Interne stagiaire devra :\nParticiper à divers audits internes afin d'évaluer l'adéquation, l'efficacité et l'efficience des contrôles et procédures internes établis\nDévelopper progressivement des connaissances et des compétences élargies en rapport avec tout le groupe Ardian\nParticiper et/ou mener des entretiens et préparer les comptes rendus\nParticiper aux discussions sur les conclusions et les recommandations de l'audit avec les responsables hiérarchiques\nContribuer à la préparation des rapports d'audit interne conformément au plan validé\nContrôler et suivre la mise en œuvre, en temps voulu, des actions recommandées dans les rapports d'audit\nParticiper au suivi des évolutions législatives et réglementaires et les partager au sein de l'équipe.\nCompétences requises :\nEngagement\nDiscipline\nCuriosité intellectuelle et esprit critique\nCapacité de synthèse et de présentation des idées\nIntelligence relationnelle et esprit d'équipe\nSouci du détail et volonté de trouver des améliorations et des gains d'efficacité dans les processus\nAutonomie dans le travail, fortes capacités d'organisation et flexibilité pour respecter les délais.\nLe profil :\nFormation : master en Finance, Management ou Economie (université, école de commerce ou d’ingénieur)\nUne première expérience pertinente d’un an requise à un poste d’Auditeur Externe ou Interne\nIdéalement une expérience complémentaire en gestion d’actifs ou en lien avec cette activité\nTrès bonne communication tant à l’oral qu’à l’écrit en anglais et en français\nBonne maîtrise des outils informatiques (pack Office, notamment Excel, Word et PowerPoint).\nAutres informations :\nGratification selon profil\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nProcédure de can",
-      "start_date": "2026-06-03",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-03",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, audit",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d5681db0a3b6",
@@ -6014,6 +5982,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "7d0d0d095ee5",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Audit Interne Stage - Septembre 2026 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Audit-Interne-Stage---Septembre-2026-I-Paris--H-F-_JR1002069",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Audit Interne\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Septembre 2026\nLe rôle :\nL’équipe Audit Interne d'Ardian a pour objectif de fournir une assurance indépendante, objective et des services de conseil conçus pour ajouter de la valeur et améliorer les opérations d'Ardian. L'équipe d'Audit Interne d'Ardian recherche un stagiaire pour contribuer à l'évaluation et à l'amélioration de l'efficacité des processus de gestion des risques, de contrôle interne et de gouvernance au sein du groupe Ardian.\nL'équipe est composée de 3 professionnels d'horizons divers (2 membres basés à Paris et 1 à Jersey).\nL'Auditeur Interne stagiaire devra :\nParticiper à divers audits internes afin d'évaluer l'adéquation, l'efficacité et l'efficience des contrôles et procédures internes établis\nDévelopper progressivement des connaissances et des compétences élargies en rapport avec tout le groupe Ardian\nParticiper et/ou mener des entretiens et préparer les comptes rendus\nParticiper aux discussions sur les conclusions et les recommandations de l'audit avec les responsables hiérarchiques\nContribuer à la préparation des rapports d'audit interne conformément au plan validé\nContrôler et suivre la mise en œuvre, en temps voulu, des actions recommandées dans les rapports d'audit\nParticiper au suivi des évolutions législatives et réglementaires et les partager au sein de l'équipe.\nCompétences requises :\nEngagement\nDiscipline\nCuriosité intellectuelle et esprit critique\nCapacité de synthèse et de présentation des idées\nIntelligence relationnelle et esprit d'équipe\nSouci du détail et volonté de trouver des améliorations et des gains d'efficacité dans les processus\nAutonomie dans le travail, fortes capacités d'organisation et flexibilité pour respecter les délais.\nLe profil :\nFormation : master en Finance, Management ou Economie (université, école de commerce ou d’ingénieur)\nUne première expérience pertinente d’un an requise à un poste d’Auditeur Externe ou Interne\nIdéalement une expérience complémentaire en gestion d’actifs ou en lien avec cette activité\nTrès bonne communication tant à l’oral qu’à l’écrit en anglais et en français\nBonne maîtrise des outils informatiques (pack Office, notamment Excel, Word et PowerPoint).\nAutres informations :\nGratification selon profil\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nProcédure de can",
+      "start_date": "2026-06-03",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-03",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, audit",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
@@ -6082,34 +6078,6 @@
       "last_seen": "2026-10-15"
     },
     {
-      "id": "76895c0c3ef9",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Sustainability Real Assets Stage - Mars 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Sustainability-Real-Assets-Stage---Janvier-2027-I-Paris--H-F-_JR1002141",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Sustainability\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nAu sein de l'\néquipe Sustainability\nd'Ardian, vous interviendrez en support des collaborateurs dédiés à nos activités\nReal Assets — Infrastructure et Real Estate\n— et travaillerez en étroite collaboration avec les équipes d'investissement et d'asset management concernées.\nCe stage vous permettra de participer directement aux projets de transformation d’Ardian et de développer vos compétences au sein d’une entreprise leader sur les enjeux ESG. Vous approfondirez votre compréhension des marchés privés et de leur rôle dans le développement d’une économie résiliente et d’une croissance durable.\nVous contribuerez principalement aux activités d’engagement avec les sociétés du portefeuille Infrastructure, coordonnées entre l’équipe Sustainability et l’équipe Asset Management, notamment :\nRevue de la documentation ESG des sociétés du portefeuille Infrastructure, évaluation des progrès et soutien aux initiatives d’engagement thématiques ;\nPréparation de fiches synthétiques pour appuyer les échanges avec les équipes de direction et d’investissement, résumant les avancées sur les initiatives clés, les tendances et les objectifs de durabilité ;\nContribution à la création de questionnaires pour collecter des informations ESG auprès des sociétés du portefeuille et participation aux échanges avec ces sociétés ;\nSuivi de l’avancement de la campagne de collecte de données, analyse et revue des données afin d’identifier les principales tendances ESG et alimenter la stratégie d’engagement ESG d’Ardian ;\nPréparation de rapports synthétiques en coordination avec l’équipe Asset Management pour partager les principaux enseignements avec les sociétés du portefeuille.\nAutres missions indicatives :\nSoutien au développement des stratégies climat et biodiversité sur l’ensemble du portefeuille\nRéponse aux questionnaires de due diligence et de reporting ESG, préparer les decks de réunions avec les clients et des supports marketing pour les activités Real Assets\nContribution à la production de notes thématiques\nCompétences requises\nIntérêt démontré pour la durabilité et la finance durable ; la connaissance des concepts et réglementations ESG est un atout.\nExpérience préalable en stage dans le domaine des infrastructures (fonds d’investissement, conseil, bureaux d’ingénierie…) et compréhension des principaux enjeux de ce secteur.\nSolides compétences analytiques et en gestion de données, ma",
-      "start_date": "2026-10-26",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-10-26",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, asset management",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
       "id": "8973da24c4b9",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -6134,7 +6102,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7716a078e416",
@@ -6162,7 +6130,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "220a790a422a",
@@ -6190,7 +6158,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0557df9d2873",
@@ -6302,7 +6270,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "df964aa5f672",
@@ -6330,7 +6298,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "578d7be20f6b",
@@ -6358,7 +6326,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5229efca4219",
@@ -6386,7 +6354,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "88d569ec666b",
@@ -6440,7 +6408,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a1d96770e86f",
@@ -6468,7 +6436,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f4422ad60fba",
@@ -6521,7 +6489,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a0c360ede3da",
@@ -6548,7 +6516,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7827ca3f1de1",
@@ -6576,7 +6544,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "51198f437826",
@@ -6603,7 +6571,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "39c308f067ae",
@@ -6658,7 +6626,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8ea868119967",
@@ -6685,7 +6653,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "966aeee2595b",
@@ -6712,7 +6680,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bb7ef9681ee4",
@@ -6768,7 +6736,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e8557452bff2",
@@ -6795,7 +6763,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "977c5832be3c",
@@ -6822,7 +6790,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c09ca113d6cb",
@@ -6849,7 +6817,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8b46786ffad8",
@@ -6957,34 +6925,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "37f43abae142",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-25",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c67ce2be62b6",
@@ -7007,6 +6948,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "37f43abae142",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-25",
+      "is_new": false,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales"
       ],
       "match_class": "low",
       "excluded": false,
@@ -7066,7 +7034,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e96a18ac15c7",
@@ -7093,7 +7061,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0ce24c5623e6",
@@ -7120,7 +7088,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3b1cc2f339c8",
@@ -7147,7 +7115,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "58981ba5172c",
@@ -7174,7 +7142,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c981e33351ce",
@@ -7201,7 +7169,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "08265de02452",
@@ -7228,7 +7196,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4dc50f710b52",
@@ -7255,7 +7223,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0f2266177bf6",
@@ -7282,7 +7250,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "c5d7eb586f35",
@@ -7309,7 +7277,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d81e115f0f79",
@@ -7336,7 +7304,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "3eb273a55887",
@@ -7361,7 +7329,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "64a4bfb9f7c1",
@@ -7392,7 +7360,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b61b184a04d4",
@@ -7419,7 +7387,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "e476717a4bf1",
@@ -7446,7 +7414,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d7edcf65d485",
@@ -7473,7 +7441,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bdadeb888dd5",
@@ -7500,7 +7468,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0e47df2fca83",
@@ -7581,7 +7549,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bb17f2ebab0b",
@@ -7608,7 +7576,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "18793fa9e3ec",
@@ -7635,7 +7603,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9fcbedbdf752",
@@ -7662,7 +7630,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b6c923984536",
@@ -7689,7 +7657,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "0acf9adc685a",
@@ -7716,7 +7684,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "b7c4abefa6d6",
@@ -7743,7 +7711,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9adcd1c72be6",
@@ -7769,7 +7737,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f3a2e3a01cca",
@@ -7796,7 +7764,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eaec3716841c",
@@ -7824,7 +7792,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "7ace1a02f5ce",
@@ -7851,7 +7819,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d3aaf8beb0de",
@@ -7879,7 +7847,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4ef2b3e22b85",
@@ -7960,7 +7928,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "fb4ef166b34b",
@@ -7969,7 +7937,7 @@
       "title": "Global Transaction Banking Graduate Programme 2027 Paris",
       "location": "Paris, 52 avenue Hoche",
       "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Paris-52-avenue-Hoche/Global-Transaction-Banking-Graduate-Programme-2027-Paris_JR-0000124699",
-      "posted_date": "Posted 13 Days Ago",
+      "posted_date": "Posted 14 Days Ago",
       "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the Transaction Banking division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\nExecution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for transaction banking, participating in the development of payment solutions for global companies as well as end-to-end product management with risk controls.\nCollaboration with cross-functional teams to support business initiatives.\nParticipation in training and development programs to enhance skills and knowledge.\nIdentification of opportunities, development of business cases, management of the deployment and launch of new products and services for transaction banking.\nManagement of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\nAnalyst Expectations\nTo perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\nRequires in-depth technical knowledge and experience in their assigned area of expertise.\nThorough understanding of the underlying principles and concepts within the area of expertise.\nThey lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\nIf the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\nOR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\nWill have an impact on the work of related teams within the area.\nPartner with other functions and business areas.\nTakes responsibility for end results of a team’s operational processing and activities.\nEscalate breaches of policies / procedure appropriately.\nTake responsibility for embedding new policies/ procedures ad",
       "start_date": "2026-10-14",
       "time_type": "Full time",
@@ -7987,7 +7955,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "8075763ba5d4",
@@ -8013,7 +7981,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "016333067964",
@@ -8039,7 +8007,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9fe45823eb3d",
@@ -8065,7 +8033,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2694e9555222",
@@ -8092,7 +8060,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "a92510c0711e",
@@ -8119,7 +8087,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "f2e7d79b4940",
@@ -8145,7 +8113,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "1545b037043c",
@@ -8171,7 +8139,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "61a8875c151c",
@@ -8197,7 +8165,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "265411a6aa21",
@@ -8223,7 +8191,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bac21fa1e47f",
@@ -8249,7 +8217,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "bd5f70a44690",
@@ -8275,7 +8243,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "ed698f6f6015",
@@ -8301,7 +8269,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "54781111f6b2",
@@ -8327,7 +8295,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "21cbedc76419",
@@ -8353,7 +8321,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "2a79deefc722",
@@ -8379,7 +8347,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "4244e953a112",
@@ -8405,7 +8373,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "5622fabe0000",
@@ -8431,7 +8399,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "65e65efad30f",
@@ -8457,33 +8425,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
-    },
-    {
-      "id": "1a9a6e7185b6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
-      "posted_date": "2026-08-31",
-      "description": "Spend your summer in one of our key business areas.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9a4f77bc3f9e",
@@ -8509,7 +8451,33 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "1a9a6e7185b6",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
+      "posted_date": "2026-08-31",
+      "description": "Spend your summer in one of our key business areas.",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-09-01",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
     },
     {
       "id": "d3efc74954ef",
@@ -8585,7 +8553,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "9301267d5533",
@@ -8609,7 +8577,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "dc7e744df391",
@@ -8636,7 +8604,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": true,
@@ -8669,7 +8637,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": true,
@@ -8702,7 +8670,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "expired": true,
@@ -8734,7 +8702,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "cb6dfd271dc6",
@@ -8760,7 +8728,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "110088e44215",
@@ -8785,7 +8753,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "781dcefbbb09",
@@ -8810,7 +8778,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "918666632e1a",
@@ -8835,7 +8803,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "6058d9460f2a",
@@ -8860,7 +8828,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     {
       "id": "eaedf970dff0",
@@ -8894,7 +8862,7 @@
       "title": "Functions - Internal Audit, Summer Analyst - London, 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Functions---Internal-Audit--Summer-Analyst---London--2027_261002816",
-      "posted_date": "Posted 6 Days Ago",
+      "posted_date": "Posted 7 Days Ago",
       "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when. Citi’s Internal Audit Group is looking for Summer Analysts to join the team in London. Citi's Internal Audit division provides independent assessments of the company's governance, risk management and internal control environment for key stakeholders including the Board of Directors, senior management and Citi’s numerous regulators globally. Internal Audit is a change agent within Citi aimed to enhance the control culture of Citi worldwide and thereby support senior management decision making around the globe.\nWe provide you with the knowledge and skills you need to succeed.\nCiti’s Internal Audit Summer Analyst Program is a 10-week internship opportunity in London. This Program will provide development-focused opportunities coupled with structured classroom training, mentoring and individual development. As an Internal Audit Summer Analyst, you will face off into one of Citi’s core businesses or global functions to ensure that a sound control framework and environment is in place globally through the delivery of independent and timely assurance.\nYour time here will look something like this...\nThe Internal Audit Summer Analyst program begins in June with a 3-day training program, providing Summer Analysts with an overview of Citi and an introduction to Citi’s Internal Audit Organization. The Summer Program will provide Summer Analysts with Senior and Junior Mentors, networking opportunities and Senior Speaker Events where Citi’s senior IA professionals will host discussions and answer questions about their careers and IA functions. Most opportunities will require and enable cross-functional exposure, giving candidates a well-rounded experience at Citi. The Summer Analysts will receive real-world work and will be expected to add value to their teams during the 10 weeks. In addition to their daily work, the Summer Analysts will also have the opportunity to network with other Citi interns, current program participants, and other IA professionals. The program concludes with the Summer Ana",
       "start_date": "2026-10-21",
       "time_type": "Full time",
@@ -8913,7 +8881,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     }
   ],
   "direct_links": [
@@ -10161,9 +10129,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 301,
+    "total_jobs": 300,
     "new_today": 0,
-    "high_match": 64,
+    "high_match": 63,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 16,
