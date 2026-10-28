@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-28T13:56:18.933140+00:00",
+  "last_updated": "2026-10-28T17:33:27.025051+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 25,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "count": 23,
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 26,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "count": 28,
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "EQT": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "count": 1,
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T13:56:18.933140+00:00"
+      "timestamp": "2026-10-28T17:33:27.025051+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2972,36 +2972,6 @@
       "last_seen": "2026-10-28"
     },
     {
-      "id": "b20221207e5a",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "HR Learning Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Human Resources – Learning Team\nStage de 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nRattaché(e) à la Learning Manager, le/la stagiaire sera pleinement intégré(e) à l'équipe et prendra en charge les missions suivantes :\nGestion et animation de la plateforme eLearning (LMS Rise Up)\nGérer les e-learnings obligatoires : inscriptions, mise à jour des contenus et émission des rapports statistiques\nMettre à jour régulièrement le catalogue de formations et assurer la curation de contenus e-learning\nCréer et actualiser des contenus digitaux de formation\nSuivre les inscriptions et analyser les statistiques apprenants\nAssurer la promotion de la plateforme et la communication auprès des collaborateurs\nSuivi du plan de formation et des demandes individuelles\nIdentifier et recenser les besoins de formation des collaborateurs\nGérer les inscriptions et mettre à jour les tableaux de bord de suivi\nAssurer le suivi budgétaire et la mise à jour du plan de formation\nOrganiser les formations récurrentes (SST, lutte anti-incendie, etc.)\nRechercher des programmes adaptés et coordonner les actions de formation intra-entreprise\nTraiter les factures liées aux formation\nMigration des données vers Training Orchestra (TMS)\nSaisir et reporter l'ensemble des données de formation dans l'outil Training Orchestra à partir des fichiers Excel existants (migration Excel → TMS)\nFiabiliser et structurer les données : sessions, participants, organismes, budgets\nContribuer à la montée en qualité de la base de données formation dans l'outil\nProfil\nÉtudiant(e) en Licence 3, Master 1 ou Master 2 en Ressources Humaines, Gestion ou équivalent\nÉcoles de commerce, universités ou Bachelor Assistant de Gestion avec spécialisation RH\nUne première expérience (stage ou alternance) d'au moins 6 mois dans un poste similaire et/ou en digital/création de contenus est appréciée\nCompétences\nRigueur, autonomie et sens de l'organisation\nCréativité et appétence pour la création de contenus digitaux\nDynamisme et curiosité intellectuelle\nExcellentes compétences rédactionnelles\nMaîtrise du Pack Office (Word, Excel, PowerPoint)\nAnglais courant indispensable (environnement international)\nIntérêt pour le secteur de la finance, un plus\nAutres informations\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%)\nTickets restaurant\nTo enhance your recruitment prospects and prepare for po",
-      "start_date": "2026-09-21",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Level: Undergraduate",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-28"
-    },
-    {
       "id": "97ed5f970108",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3031,35 +3001,6 @@
       "last_seen": "2026-10-28"
     },
     {
-      "id": "8ebc0c5bae64",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Capital Markets Stage - Mars 2027 | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Capital-Markets-Stage---Mars-2027---Paris--H-F-_JR1002111",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Capital Markets\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nAu sein d’une équipe de 8 personnes, le/la stagiaire est rattaché(e) au Co-Head de l’équipe Capital Markets, sous la responsabilité directe du CFO d’Ardian. Il/elle accompagnera l’équipe de Capital Markets sur les financements des activités Expansion (fonds LBO mid-cap), Buyout (fonds LBO large cap), Real Estate et Fund Financing et ses principales missions seront les suivantes :\nLBO (fonds Expansion et Buyout):\nEn relation avec les équipes d’investissement de Paris, Londres, New-York, Francfort, Madrid et Milan, il/elle prendra part à l’origination, la structuration et la mise en place des financements LBO auprès des banques et des fonds de dette (négociation et préparation des term sheets, commitment letters et documentation de financement, et exécution des closings)\nIntégration de financements dans la construction de modèles financiers, optimisation de la structure d’endettement, études de sensibilité\nReporting des financements existants, suivi des covenants et gestion du portefeuille\nFund Financing\nPréparation et mise en place et suivi des financements au niveau des fonds (Equity Bridge Facilities, NAV facilities, Continuation Fund financing etc.) pour toutes les activités d’Ardian : production de RFP, suivi des négociations…\nRevue des documents de structuration des fonds en lien avec le Fund Financing (LPA, Side Letters)\nGestion du portefeuille de financements\nReal Estate\nEn relation avec les équipes d’investissement de Paris, Frankfurt, Milan et Madrid, il/elle prendra part à l’origination, la structuration et la mise en place des financements Real Estate auprès des banques et des fonds de dette (négociation et préparation des term sheets, commitment letters et documentation de financement, et exécution des closings)\nIntégration des hypothèses de financements dans les modèles financiers, optimisation de la structure d’endettement, analyses de sensibilité, production de teaser à destination des prêteurs\nReporting des financements existants, suivi des covenants et gestion du portefeuille\nMais il/elle sera également amené(e) à intervenir sur les sujets suivants :\nParticipation à la mise en place des instruments de couverture du risque de taux et de change, suivi des opérations en cours\nAmélioration des outils de suivi IT existants\nCe stage constitue une excellente porte d’entrée vers les métiers du financement, au sein du premier fonds d’investissement e",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, capital markets, equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-28"
-    },
-    {
       "id": "f14d7cbe0c16",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -3082,6 +3023,35 @@
         "Domain: finance, fund, audit",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "8ebc0c5bae64",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Capital Markets Stage - Mars 2027 | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Capital-Markets-Stage---Mars-2027---Paris--H-F-_JR1002111",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Département : Capital Markets\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Mars 2027\nLe rôle\nAu sein d’une équipe de 8 personnes, le/la stagiaire est rattaché(e) au Co-Head de l’équipe Capital Markets, sous la responsabilité directe du CFO d’Ardian. Il/elle accompagnera l’équipe de Capital Markets sur les financements des activités Expansion (fonds LBO mid-cap), Buyout (fonds LBO large cap), Real Estate et Fund Financing et ses principales missions seront les suivantes :\nLBO (fonds Expansion et Buyout):\nEn relation avec les équipes d’investissement de Paris, Londres, New-York, Francfort, Madrid et Milan, il/elle prendra part à l’origination, la structuration et la mise en place des financements LBO auprès des banques et des fonds de dette (négociation et préparation des term sheets, commitment letters et documentation de financement, et exécution des closings)\nIntégration de financements dans la construction de modèles financiers, optimisation de la structure d’endettement, études de sensibilité\nReporting des financements existants, suivi des covenants et gestion du portefeuille\nFund Financing\nPréparation et mise en place et suivi des financements au niveau des fonds (Equity Bridge Facilities, NAV facilities, Continuation Fund financing etc.) pour toutes les activités d’Ardian : production de RFP, suivi des négociations…\nRevue des documents de structuration des fonds en lien avec le Fund Financing (LPA, Side Letters)\nGestion du portefeuille de financements\nReal Estate\nEn relation avec les équipes d’investissement de Paris, Frankfurt, Milan et Madrid, il/elle prendra part à l’origination, la structuration et la mise en place des financements Real Estate auprès des banques et des fonds de dette (négociation et préparation des term sheets, commitment letters et documentation de financement, et exécution des closings)\nIntégration des hypothèses de financements dans les modèles financiers, optimisation de la structure d’endettement, analyses de sensibilité, production de teaser à destination des prêteurs\nReporting des financements existants, suivi des covenants et gestion du portefeuille\nMais il/elle sera également amené(e) à intervenir sur les sujets suivants :\nParticipation à la mise en place des instruments de couverture du risque de taux et de change, suivi des opérations en cours\nAmélioration des outils de suivi IT existants\nCe stage constitue une excellente porte d’entrée vers les métiers du financement, au sein du premier fonds d’investissement e",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, capital markets, equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3196,6 +3166,36 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: finance, fund, audit",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "b20221207e5a",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "HR Learning Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
+      "posted_date": "Posted Today",
+      "description": "Département : Human Resources – Learning Team\nStage de 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nRattaché(e) à la Learning Manager, le/la stagiaire sera pleinement intégré(e) à l'équipe et prendra en charge les missions suivantes :\nGestion et animation de la plateforme eLearning (LMS Rise Up)\nGérer les e-learnings obligatoires : inscriptions, mise à jour des contenus et émission des rapports statistiques\nMettre à jour régulièrement le catalogue de formations et assurer la curation de contenus e-learning\nCréer et actualiser des contenus digitaux de formation\nSuivre les inscriptions et analyser les statistiques apprenants\nAssurer la promotion de la plateforme et la communication auprès des collaborateurs\nSuivi du plan de formation et des demandes individuelles\nIdentifier et recenser les besoins de formation des collaborateurs\nGérer les inscriptions et mettre à jour les tableaux de bord de suivi\nAssurer le suivi budgétaire et la mise à jour du plan de formation\nOrganiser les formations récurrentes (SST, lutte anti-incendie, etc.)\nRechercher des programmes adaptés et coordonner les actions de formation intra-entreprise\nTraiter les factures liées aux formation\nMigration des données vers Training Orchestra (TMS)\nSaisir et reporter l'ensemble des données de formation dans l'outil Training Orchestra à partir des fichiers Excel existants (migration Excel → TMS)\nFiabiliser et structurer les données : sessions, participants, organismes, budgets\nContribuer à la montée en qualité de la base de données formation dans l'outil\nProfil\nÉtudiant(e) en Licence 3, Master 1 ou Master 2 en Ressources Humaines, Gestion ou équivalent\nÉcoles de commerce, universités ou Bachelor Assistant de Gestion avec spécialisation RH\nUne première expérience (stage ou alternance) d'au moins 6 mois dans un poste similaire et/ou en digital/création de contenus est appréciée\nCompétences\nRigueur, autonomie et sens de l'organisation\nCréativité et appétence pour la création de contenus digitaux\nDynamisme et curiosité intellectuelle\nExcellentes compétences rédactionnelles\nMaîtrise du Pack Office (Word, Excel, PowerPoint)\nAnglais courant indispensable (environnement international)\nIntérêt pour le secteur de la finance, un plus\nAutres informations\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%)\nTickets restaurant\nTo enhance your recruitment prospects and prepare for po",
+      "start_date": "2026-10-28",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Level: Undergraduate",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027"
       ],
@@ -5266,34 +5266,6 @@
       "last_seen": "2026-10-23"
     },
     {
-      "id": "19e298b8bc57",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-08-05",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-05",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: asset management, equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-20"
-    },
-    {
       "id": "e67fb0ffa21f",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -5342,6 +5314,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: risk, equity, private equity",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "19e298b8bc57",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity Real Estate Stage - Mars 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Real-Estate-Stage---Mars-2027-I-Paris--M-F-_JR1002144",
+      "posted_date": "Posted Today",
+      "description": "Département : Real Estate\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle\nAu sein d’une équipe de 22 professionnels en Europe, le stagiaire sera rattaché à l’équipe parisienne composée de 8 personnes. Les principales missions seront les suivantes :\nAssistance à la préparation des modélisations de transactions\nAssistance et participation à la rédaction des mémorandums d’investissement et visites d’actifs\nAssistance et participation à la mise en place et mise à jour de présentation de reporting, en lien avec les autres équipes d’Ardian\nAssistance pour mise à jour des business plans du portefeuille parisien\nVeille et analyse des indicateurs du marché francilien et français\nParticipation aux missions d’asset management du portefeuille parisien\nLe stage offre l’opportunité d’une excellente introduction au métier du Real Estate / Private Equity\nCompétences requises\nRigueur\nMotivation\nCuriosité\nAutonomie\nPro activité\nEsprit d’équipe\nGrandes qualités de communication\nEfficacité\nLe profil\n3ème année (stage de fin d’études) ou 2ème année (2ème stage de césure)\nAnglais courant indispensable\nBonne connaissance des modèles financiers\nBonne maîtrise d’Excel et Power Point exigée\nUne expérience en immobilier est un plus\nA propos de l’équipe\nLa gestion d’actifs immobiliers est la dernière activité lancée par Ardian.\nArdian Real Estate investit majoritairement dans les immeubles de bureaux, localisés dans les grandes villes européennes, au sein desquelles la croissance économique soutenue et la pénurie de bureaux modernes et de grande qualité ouvrent des perspectives de création de valeur conséquente.\nConstituée en 2015, l’équipe a poursuivi son développement et a finalisé la levée de son second fonds à hauteur 1.2md€, en cours d’investissement.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant impérativement d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-10-28",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-05",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: asset management, equity, private equity",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
@@ -6465,6 +6465,60 @@
       "last_seen": "2026-10-27"
     },
     {
+      "id": "57ae0503ee63",
+      "bank": "EQT",
+      "category": "Private Equity",
+      "title": "Summer Analyst Programme 2027 – EQT Real Estate",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/4691218101",
+      "posted_date": "2026-10-28",
+      "description": "Join EQT Real Estate’s Summer Internship Programme and gain hands-on experience in real estate investment and asset management. This immersive 10-week opportunity is designed to develop future leaders through exciting, meaningful work across logistics and residential transactions.\nAbout the EQT Real Estate team\nEQT Real Estate is the real estate division of EQT, a purpose-driven global investment organization. With over 400 professionals in offices across North and South America, Europe, and Asia-Pacific, EQT Real Estate acquires, develops, leases, and manages logistics, industrial, residential, and office/life science properties globally. Our mission is to deliver superior real estate solutions to tenants and leading value-add, core-plus, and core returns to our investment partners.\nIn Europe, EQT Real Estate comprises a diverse team of over 160 professionals operating in 12 countries and growing. We invest across residential (BTR/PRS, student housing) and logistics (big-box, mid-box, and last-mile) sectors through value-add, core-plus, and core strategies.\nAbout the role\nThe EQT Real Estate Summer Internship Programme offers a comprehensive introduction to the real estate industry through real-life exposure to investments and asset management. You’ll be involved in the full investment lifecycle – from acquisition and underwriting to leasing and reporting.\nThe internship runs for 10 weeks, from mid-June to August 2027, and is based in London.\nKey Responsibilities\nConduct financial analysis to support acquisitions, leasing, financing, and dispositions\nAssist in preparing Investment Committee materials in collaboration with the legal and diligence teams\nContribute to leasing and pipeline updates, as well as quarterly performance reports\nSupport the preparation of marketing materials such as tour cards, pitch decks, and social media content\nUndertake market research and update templates, trackers, and internal tools\nParticipate in site visits and client meetings\nAbout you\nWe are looking for passionate, curious individuals who are eager to learn and thrive in a fast-paced and collaborative environment. You should be detail-oriented, proactive, and adaptable, with strong communication skills and a willingness to roll up your sleeves.\nDesired Skills and Experience\nStrong analytical and critical thinking skills\nProficiency in Excel is a plus but not required\nInterest in real estate investment and/or asset management\nCollaborative mindset and effective time manag",
+      "duration": "27– 10 weeks",
+      "requirements": "Strong analytical and critical thinking skills\nProficiency in Excel is a plus but not required\nInterest in real estate investment and/or asset management\nCollaborative mindset and effective time management\nFluency in English; additional European languages are a plus\nWhat we offer",
+      "source": "greenhouse",
+      "first_seen": "2026-10-28",
+      "is_new": true,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, financial analysis, research",
+        "Languages: English"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "03683a24257b",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Investor Relations Syndication Stage - Mars 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Investor-Relations-Syndication-Stage---Mars-2027---Paris--M-F-_JR1002130",
+      "posted_date": "Posted Today",
+      "description": "Département : Relations Investisseur\nDurée du stage : 6 mois\nLieu : Paris\nDébut : Mars 2027\nLe rôle :\nDepuis 2020, Ardian a mis en place une équipe de syndication dédiée pour coordonner tous les processus de co-investissement au sein d'Ardian et en particulier pour :\nS'assurer que les opportunités de co-investissement et les allocations de tickets associées sont proposées aux Limited Partners conformément à la documentation juridique du fonds ;\nDiriger les processus de syndication en assurant une coordination efficace entre toutes les équipes d'Ardian et avec les Limited Partners impliqués dans ces processus ;\nConstruire une base de données complète, fournir des présentations et des rapports sur les co-investissements à travers toutes les expertises d'Ardian et faire un rapport mensuel au Comex.\nVotre mission couvrira en particulier les volets suivants :\nAide à l’organisation des différentes étapes du lancement des syndications : suivre et coordonner le processus de syndication en interne\nCollecte des documents de souscription auprès des investisseurs et examen de ces documents en collaboration avec les fonctions de soutien concernées (service juridique, service compliance, service financier, etc…)\nPréparation des documents de suivi et supervision de la bonne exécution générale des clôtures\nPréparation du rapport de syndication mensuel à envoyer au Comex\nMise à jour régulière de la base de données consolidée des syndications\nCompétences requises :\nExcellentes qualités commerciales\nRigueur, forte motivation et implication dans son travail\nAisance relationnelle\nGoût pour le travail d’équipe\nLe profil\nÉtudiant en dernière année d’École de Commerce ou d’Ingénieur ou année de césure\nUne première expérience en stage en banque d’investissement, conseil en stratégie ou fonds d’investissement est souhaitée\nMaîtrise d’Excel et de Power Point requise\nAnglais courant indispensable\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
+      "start_date": "2026-10-28",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-28",
+      "is_new": true,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: compliance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
       "id": "ff29e8b1e874",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -7417,33 +7471,6 @@
       "last_seen": "2026-10-28"
     },
     {
-      "id": "d7edcf65d485",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Financial Resources &amp; Strategy Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21513-2027-Financial-Resources-Strategy-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-25",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: strategy"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-10-28"
-    },
-    {
       "id": "bdadeb888dd5",
       "bank": "Bank of America",
       "category": "Investment Bank",
@@ -7464,6 +7491,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: finance"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-10-28"
+    },
+    {
+      "id": "d7edcf65d485",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Financial Resources &amp; Strategy Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21513-2027-Financial-Resources-Strategy-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-25",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: strategy"
       ],
       "match_class": "low",
       "excluded": false,
@@ -10129,12 +10183,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 300,
-    "new_today": 0,
+    "total_jobs": 302,
+    "new_today": 2,
     "high_match": 63,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 16,
+    "firms_empty": 15,
     "firms_total": 76
   }
 }
