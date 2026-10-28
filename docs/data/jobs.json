@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-10-28T17:33:27.025051+00:00",
+  "last_updated": "2026-10-28T20:45:26.636597+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 41,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 23,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 44,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 28,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-10-28T17:33:27.025051+00:00"
+      "timestamp": "2026-10-28T20:45:26.636597+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -6470,14 +6470,14 @@
       "category": "Private Equity",
       "title": "Summer Analyst Programme 2027 – EQT Real Estate",
       "location": "London, England, United Kingdom",
-      "url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/4691218101",
+      "url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5019561101",
       "posted_date": "2026-10-28",
       "description": "Join EQT Real Estate’s Summer Internship Programme and gain hands-on experience in real estate investment and asset management. This immersive 10-week opportunity is designed to develop future leaders through exciting, meaningful work across logistics and residential transactions.\nAbout the EQT Real Estate team\nEQT Real Estate is the real estate division of EQT, a purpose-driven global investment organization. With over 400 professionals in offices across North and South America, Europe, and Asia-Pacific, EQT Real Estate acquires, develops, leases, and manages logistics, industrial, residential, and office/life science properties globally. Our mission is to deliver superior real estate solutions to tenants and leading value-add, core-plus, and core returns to our investment partners.\nIn Europe, EQT Real Estate comprises a diverse team of over 160 professionals operating in 12 countries and growing. We invest across residential (BTR/PRS, student housing) and logistics (big-box, mid-box, and last-mile) sectors through value-add, core-plus, and core strategies.\nAbout the role\nThe EQT Real Estate Summer Internship Programme offers a comprehensive introduction to the real estate industry through real-life exposure to investments and asset management. You’ll be involved in the full investment lifecycle – from acquisition and underwriting to leasing and reporting.\nThe internship runs for 10 weeks, from mid-June to August 2027, and is based in London.\nKey Responsibilities\nConduct financial analysis to support acquisitions, leasing, financing, and dispositions\nAssist in preparing Investment Committee materials in collaboration with the legal and diligence teams\nContribute to leasing and pipeline updates, as well as quarterly performance reports\nSupport the preparation of marketing materials such as tour cards, pitch decks, and social media content\nUndertake market research and update templates, trackers, and internal tools\nParticipate in site visits and client meetings\nAbout you\nWe are looking for passionate, curious individuals who are eager to learn and thrive in a fast-paced and collaborative environment. You should be detail-oriented, proactive, and adaptable, with strong communication skills and a willingness to roll up your sleeves.\nDesired Skills and Experience\nStrong analytical and critical thinking skills\nProficiency in Excel is a plus but not required\nInterest in real estate investment and/or asset management\nCollaborative mindset and effective time manag",
       "duration": "27– 10 weeks",
       "requirements": "Strong analytical and critical thinking skills\nProficiency in Excel is a plus but not required\nInterest in real estate investment and/or asset management\nCollaborative mindset and effective time management\nFluency in English; additional European languages are a plus\nWhat we offer",
       "source": "greenhouse",
       "first_seen": "2026-10-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 43,
       "match_reasons": [
         "Location: London",
@@ -6505,7 +6505,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-28",
-      "is_new": true,
+      "is_new": false,
       "match_score": 43,
       "match_reasons": [
         "Location: Paris",
@@ -10184,7 +10184,7 @@
   ],
   "stats": {
     "total_jobs": 302,
-    "new_today": 2,
+    "new_today": 0,
     "high_match": 63,
     "firms_scraped": 32,
     "firms_failed": 0,
