@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-03T14:57:34.687117+00:00",
+  "last_updated": "2026-11-03T18:45:21.837556+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 35,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 24,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "count": 23,
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 16,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 42,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "BBVA": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "count": 2,
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 5,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-03T14:57:34.687117+00:00"
+      "timestamp": "2026-11-03T18:45:21.837556+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1177,6 +1177,37 @@
       "last_seen": "2026-11-03"
     },
     {
+      "id": "e91cb4b590f8",
+      "bank": "BBVA",
+      "category": "Bank",
+      "title": "Summer Internship – Corporate & Investment Banking (Industry Coverage)",
+      "location": "PARIS, París",
+      "url": "https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/job/PARIS-Pars/Summer-Internship---Corporate---Investment-Banking--Industry-Coverage-_JR00119199",
+      "posted_date": "Posted Today",
+      "description": "Excited to grow your career?\nBBVA is a global company with more than 160 years of history that operates in more than 25 countries where we serve more than 80 million customers. We are more than 121,000 professionals working in multidisciplinary teams with profiles as diverse as financiers, legal experts, data scientists, developers, engineers and designers.\nThe\nCorporate & Investment Banking – Industry Coverage\narea acts as the strategic partner and primary point of contact for large corporations and institutions regarding their most critical financial decisions. Specialized in key sectors of the global economy—such as TMT, Energy, Industrials, Consumer & Retail, and Infrastructure—the team combines deep market analysis and sector trends to identify high-impact business opportunities, originate corporate transactions, and coordinate tailor-made solutions in close collaboration with product teams (M&A, Capital Markets, and Structured Finance).\nAbout the job:\nSummer Internship – Corporate & Investment Banking (Industry Coverage)\nLocation:\nParis\nPeriod:\nJune – July 2027 (2 months, full-time)\nDivision:\nCorporate & Investment Banking – Industry Coverage\nScope:\nInternational (Spain, UK, France, Germany, and Italy)\nApplication Deadline:\n08/11/2027 at 23:59\nExperience an immersive summer in Investment Banking\nAre you passionate about the financial world and want to discover from the inside how large corporations are advised on their most strategic decisions? Do you have analytical curiosity, market vision, and a desire to learn from leading professionals in the sector?\nWe invite you to join our\nSummer Internship in Investment Banking Coverage\n, part of the\nGlobal Junior Talent Program at SIX\n. Over two months, you will immerse yourself in a formative experience designed to accelerate your development in corporate and investment banking, gaining a comprehensive view of the business, financial modeling, and strategic analysis.\nYou will be part of an international community of students coordinated from London, participate in multidisciplinary dynamics across different countries, and have the constant guidance of a\nmentor\nfrom day one to support your learning curve.\nHow will you collaborate and what will you lea\nrn?\nDuring your internship, you will integrate into the team and actively collaborate in the day-to-day operations of the five strategic sectors of Coverage:\nTMT · Industrials · Energy · Consumer & Retail · Construction & Infrastructure\nYour role will focus on",
+      "start_date": "2026-11-03",
+      "time_type": "",
+      "duration": "2 months",
+      "requirements": "Penultimate year students pursuing a Bachelor’s or Master’s degree in Business Administration, Economics, Finance, related Dual Degrees, or Engineering with a strong analytical profile.\nFluent in French and English (C1 level required for both)\n, as you will work in an international and local environment.\nGenuine motivation for investment banking, corporate finance, and market dynamics.\nRigor, logical reasoning, and attention to detail in data management.\nIntellectual curiosity, personal initiative, and the ability to integrate and collaborate within a team.",
+      "source": "workday",
+      "first_seen": "2026-11-03",
+      "is_new": true,
+      "match_score": 73,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
+        "Languages: French, English",
+        "Level: Undergraduate",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-03"
+    },
+    {
       "expired": false,
       "deadline": "",
       "id": "eaf15de635b4",
@@ -1586,7 +1617,7 @@
       "requirements": "Penultimate year students pursuing a Bachelor’s or Master’s degree in Business Administration, Economics, Finance, related Dual Degrees, or Engineering with a strong analytical profile.\nFluent in English,\nas you will work in an international and local environment.\nGenuine motivation for investment banking, corporate finance, and market dynamics.\nRigor, logical reasoning, and attention to detail in data management.\nIntellectual curiosity, personal initiative, and the ability to integrate and collaborate within a team.",
       "source": "workday",
       "first_seen": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 70,
       "match_reasons": [
         "Location: London",
@@ -4987,7 +5018,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "match_score": 50,
       "match_reasons": [
         "Location: Paris",
@@ -9612,9 +9643,9 @@
     }
   ],
   "stats": {
-    "total_jobs": 282,
-    "new_today": 2,
-    "high_match": 64,
+    "total_jobs": 283,
+    "new_today": 1,
+    "high_match": 65,
     "firms_scraped": 32,
     "firms_failed": 0,
     "firms_empty": 16,
