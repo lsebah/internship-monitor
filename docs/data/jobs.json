@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-04T18:59:50.108542+00:00",
+  "last_updated": "2026-11-04T21:42:09.709559+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 35,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 22,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Wells Fargo": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "count": 1,
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 42,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 26,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-04T18:59:50.108542+00:00"
+      "timestamp": "2026-11-04T21:42:09.709559+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -6493,6 +6493,34 @@
       "last_seen": "2026-11-04"
     },
     {
+      "id": "6695652583ab",
+      "bank": "Wells Fargo",
+      "category": "Investment Bank",
+      "title": "Technology Internship Program",
+      "location": "CITY OF LONDON,",
+      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
+      "posted_date": "Posted Today",
+      "description": "Wells Fargo is seeking aspiring Software Engineers to join the 2027 Technology Internship Program. Learn more at\nEarly Careers – Wells Fargo Technology\nThe Wells Fargo Technology Internship Program provides participants with a 10-week experience designed to immerse students in real-world engineering, modern software development practices, and enterprise-scale technology at Wells Fargo. The program blends technical execution with business context, emphasizing innovation, velocity, and responsible technology development.\nParticipants will:\n·       Work hands-on with impactful, production-aligned projects\n·       Gain exposure to modern engineering practices and AI-enabled development workflows\n·       Participate in structured training, mentorship, and networking with senior technology leaders\nUpon successful completion, high-performing interns may receive an offer to join the EMEA 2028 Technology Analyst Program.\nIn this role, your responsibilities as a Software Engineering Intern may include:\nDesign, develop, test, and deploy scalable applications, including enhancements, bug fixes, and new services across enterprise platforms\nCollaborate in Agile (Scrum / Kanban) teams to deliver high-quality, secure, and maintainable code\nDevelop platform and operational solutions\nAI-Enabled Engineering & Modern Development Practices:\nLeverage enterprise-approved generative AI tools (e.g., Copilot, Devin, etc.) and AI platforms to accelerate development, including:\nGenerating unit and integration test cases aligned with Wells Fargo QA standards\nAssisting with code development, documentation, and refactoring within approved toolchain boundaries\nSupporting rapid prototyping and solution design exploration within sandbox/non-production environments\nPartner with senior engineers to review, validate, and govern AI-generated code to ensure alignment with enterprise architecture, risk, and security standards\nContribute to AI-augmented development workflows including automated documentation, code review assistance, and developer productivity tooling within approved SDLC processes\nExplore opportunities to integrate AI/ML capabilities into applications (e.g., intelligent automation, predictive insights, natural language interfaces) in alignment with Model Risk Management (MRM) guidelines and regulatory requirements\nApply prompt engineering techniques to improve accuracy, efficiency, and reliability of AI-assisted outputs while adhering to data handling and confidentiality policies",
+      "start_date": "2026-11-04",
+      "time_type": "Full time",
+      "duration": "10 weeks",
+      "requirements": "Data, Platforms, and Architecture:\nBuild and maintain APIs, microservices, and cloud-based applications\nContribute to data engineering efforts, including data modeling, pipeline development, and analytics environments",
+      "source": "workday",
+      "first_seen": "2026-11-04",
+      "is_new": true,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-04"
+    },
+    {
       "id": "37f43abae142",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -9613,12 +9641,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 282,
-    "new_today": 0,
+    "total_jobs": 283,
+    "new_today": 1,
     "high_match": 65,
     "firms_scraped": 32,
     "firms_failed": 0,
-    "firms_empty": 15,
+    "firms_empty": 14,
     "firms_total": 76
   }
 }
