@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-05T15:18:36.220406+00:00",
+  "last_updated": "2026-11-05T19:11:30.012235+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
-      "count": 11,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "count": 12,
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 35,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 22,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 15,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-05T15:18:36.220406+00:00"
+      "timestamp": "2026-11-05T19:11:30.012235+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -3567,7 +3567,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-11-05",
-      "is_new": true,
+      "is_new": false,
       "match_score": 57,
       "match_reasons": [
         "Location: Paris",
@@ -4191,7 +4191,7 @@
       "title": "Quantitative Researcher - Intern",
       "location": "London, Paris, Hong Kong, Tokyo",
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-      "posted_date": "2026-10-30",
+      "posted_date": "2026-11-05",
       "description": "Job Description\nThis is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading.\nJob Responsibilities\nPre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies\nIdentify features and relationships useful for the predictive modeling of market dynamics\nDesirable Candidates\nUndergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline\nProgramming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl\nStrong analytical and quantitative skills\nDemonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team\nThe annual base salary is $120,000-$180,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.",
       "duration": "",
       "requirements": "Demonstrated interest in financial markets and systematic trading\nClear, concise, and proactive communicator\nDetail-oriented\nWilling to take ownership of his/her work, working both independently and within a small team",
@@ -8014,6 +8014,32 @@
       "last_seen": "2026-11-05"
     },
     {
+      "id": "6f7768fd3ca8",
+      "bank": "JP Morgan",
+      "category": "Investment Bank",
+      "title": "2027 Machine Learning Center of Excellence (NLP) - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793",
+      "posted_date": "2026-11-05",
+      "description": "MLCOE is a world-class machine learning team with state-of-the-art methods to solve financial problems using our unique datasets.\n",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-11-05",
+      "is_new": true,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-05"
+    },
+    {
       "id": "dc7e744df391",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -9589,7 +9615,7 @@
     }
   ],
   "stats": {
-    "total_jobs": 281,
+    "total_jobs": 282,
     "new_today": 1,
     "high_match": 65,
     "firms_scraped": 32,
