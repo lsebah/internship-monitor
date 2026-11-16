@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-15T20:48:26.239024+00:00",
+  "last_updated": "2026-11-16T16:54:29.351210+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 35,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "count": 34,
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 26,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "count": 25,
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Citi": {
-      "status": "success",
-      "count": 14,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Wells Fargo": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Deutsche Bank": {
-      "status": "success",
-      "count": 2,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 2,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "count": 0,
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "success",
-      "count": 33,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Santander": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,33 +98,33 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Julius Baer": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Fidelity International": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -132,22 +132,22 @@
     },
     "Schroders": {
       "status": "success",
-      "count": 4,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "count": 3,
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Invesco": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,32 +206,32 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "success",
-      "count": 12,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 27,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-15T20:48:26.239024+00:00"
+      "timestamp": "2026-11-16T16:54:29.351210+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -840,7 +840,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "e91cb4b590f8",
@@ -1174,7 +1174,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": false,
@@ -1206,7 +1206,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": false,
@@ -1238,7 +1238,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "c8fcbc0ee543",
@@ -2463,7 +2463,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": false,
@@ -2494,7 +2494,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "ecd710d7c273",
@@ -2554,7 +2554,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "fd9f89d1205a",
@@ -2584,7 +2584,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "464941088c97",
@@ -2875,94 +2875,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "46b8588d4eaa",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Bank - Global Investment Banking Working Student Program - Off-Cycle Internship – Madrid",
-      "location": "Madrid, Madrid, Spain",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780014",
-      "posted_date": "2026-08-31",
-      "description": "Spend your internship alongside the top professionals in the business to come up with solutions that shape the global economy.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "22820e700ed4",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship - Madrid",
-      "location": "Madrid, Madrid, Spain",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780002",
-      "posted_date": "2026-08-31",
-      "description": "Spend your internship alongside the top professionals in the business to come up with solutions that shape the global economy.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "1a1704003780",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking Analyst Program - Large Cap - Off-Cycle Internship (July-Dec) - Madrid",
-      "location": "Madrid, Madrid, Spain",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779692",
-      "posted_date": "2026-08-31",
-      "description": "Spend your internship alongside the top professionals in the business to come up with solutions that shape the global economy.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 57,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2991,7 +2904,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "b6f5ba7934ba",
@@ -3020,7 +2933,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "bc4a6f629d2d",
@@ -3310,7 +3223,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "6c1011e407fd",
@@ -3479,7 +3392,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "98836783533b",
@@ -3508,7 +3421,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "d23c22f2c608",
@@ -3537,7 +3450,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "0df08051c57b",
@@ -3566,7 +3479,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "c65abc301ee0",
@@ -3624,7 +3537,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "0b8f93ece3e5",
@@ -3653,7 +3566,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "0a7e933c328f",
@@ -3682,7 +3595,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "3a506648372b",
@@ -3711,7 +3624,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "ba58a05065e4",
@@ -3740,7 +3653,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "54fe2bb80d15",
@@ -3769,7 +3682,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "3384a9189adf",
@@ -3798,7 +3711,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "794fad16fec1",
@@ -3827,7 +3740,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "de3e838c9593",
@@ -3854,7 +3767,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "e619cf06711f",
@@ -4025,7 +3938,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "4afd6bda4507",
@@ -4054,7 +3967,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "09b65cc29b0d",
@@ -4082,7 +3995,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "644795f3abe4",
@@ -4111,7 +4024,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "743cd0164b30",
@@ -4224,7 +4137,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "9d8391b790ba",
@@ -4252,64 +4165,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "291ea4b0d074",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking Analyst Program - Public Sector - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775312",
-      "posted_date": "2026-08-31",
-      "description": "Spend your summer alongside the top professionals in the business to come up with solutions that shape the global economy.\n\nPut your energy, insight and analytical prowess to work at the heart of J.P.Morgan. Spend time in our Public Sector Group, managing some of the most senior relationships in the firm, with public sector institutions across multiple businesses. Our clients include, central banks, sovereign wealth funds, public pension funds and other sovereign related investors, governments, policy related financial institutions, and international institutions. We build relationships with clients' senior leadership, including strategic decision makers, investment management and risk management.\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking, risk",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "04a5bc928b68",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788659",
-      "posted_date": "2026-09-07",
-      "description": "Join us to deliver innovative quant solutions for global markets. Solve complex problems and grow through hands-on learning. ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: research",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "f27c1058affc",
@@ -4338,7 +4194,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "1cee6c365890",
@@ -4618,7 +4474,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "6452a47abd58",
@@ -4646,7 +4502,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "48ac1aff9176",
@@ -4674,7 +4530,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "81b9ebd93b95",
@@ -4702,7 +4558,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "baf2ae4e816e",
@@ -4730,7 +4586,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "afd7af9c4f3d",
@@ -4812,7 +4668,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "f913031e9a5a",
@@ -4840,7 +4696,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "fcb2ac675a49",
@@ -4868,91 +4724,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "07b7c45b4b7e",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking Analyst Program - International ABL - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320",
-      "posted_date": "2026-08-31",
-      "description": "Spend your summer alongside the top professionals in the business to come up with solutions that shape the global economy.\n\nPut your energy, insight and analytical prowess to work at the heart of J.P. Morgan by spending time in our International Asset-Based Lending (ABL) business within Global Banking (GB), developing and working on solutions for the world's preeminent companies. Our ABL International originators support over 20 European jurisdictions and four (4) in Asia Pacific and over the course of your internship, you’ll have the opportunity to work with senior originators, credit risk managers, bankers and clients across multiple sub-lines of business (LOBs), including Commercial Banking, Global Corporate Banking (mid-cap & large-cap), and the Investment Bank. \n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking, risk",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "916fa3b3c83b",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Investment Banking Analyst Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710",
-      "posted_date": "2026-08-31",
-      "description": "Drive innovation in a dynamic internship with training, mentorship, and real experience supporting client growth and risk management.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, risk",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "6f2f28831587",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Banking - Risk Management Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775727",
-      "posted_date": "2026-08-31",
-      "description": "Lead risk solutions, expand product expertise, and grow through training, mentorship, and impactful projects in a collaborative team.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, risk",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "76895c0c3ef9",
@@ -5147,7 +4919,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "8973da24c4b9",
@@ -5174,7 +4946,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "85a27d4eb518",
@@ -5202,7 +4974,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "7716a078e416",
@@ -5230,7 +5002,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "220a790a422a",
@@ -5258,7 +5030,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "595620feb852",
@@ -5286,7 +5058,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "df964aa5f672",
@@ -5314,7 +5086,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "578d7be20f6b",
@@ -5345,62 +5117,6 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "5229efca4219",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking Analyst Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775302",
-      "posted_date": "2026-09-01",
-      "description": "Spend your summer alongside the top professionals in the business to come up with solutions that shape the global economy.\n\nPut your energy, insight and analytical prowess to work at the heart of J.P. Morgan. Spend time in our Global Corporate Banking (GCB) business, developing and working on solutions for the world's preeminent companies. Over the course of your internship, you'll work with senior bankers and clients, develop vital skills and start building your professional network as you get a first look at the biggest clients in Corporate Banking. In GCB you will learn a great deal about how the huge and sophisticated \"engine\" that is JPMorgan Chase works.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "fb7aa926bf86",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Research – Asset Management - Summer Analyst Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
-      "posted_date": "2026-09-22",
-      "description": "We are looking for innovative problem-solvers who want to build quantitative models that shape how we invest billions across global markets. ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-22",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, research",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
       "id": "a1d96770e86f",
       "bank": "Schroders",
       "category": "Asset Manager",
@@ -5426,7 +5142,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "57ae0503ee63",
@@ -5507,7 +5223,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "92f20208170d",
@@ -5534,7 +5250,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "ae90a6b845a0",
@@ -5561,7 +5277,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "ff29e8b1e874",
@@ -5588,7 +5304,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "a0c360ede3da",
@@ -5615,7 +5331,34 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "51198f437826",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Operations Off-cycle Internship (Paris)",
+      "location": "Paris",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-10-04",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
     },
     {
       "id": "7827ca3f1de1",
@@ -5639,33 +5382,6 @@
         "Type: Internship/Stage",
         "Domain: fixed income",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "51198f437826",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Operations Off-cycle Internship (Paris)",
-      "location": "Paris",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22238-2027-Operations-Off-cycle-Internship-Paris/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-04",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "low",
       "excluded": false,
@@ -5697,7 +5413,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "8ea868119967",
@@ -5724,7 +5440,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "966aeee2595b",
@@ -5751,35 +5467,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "2af1e150a4b3",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 – Research – Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476",
-      "posted_date": "2026-08-31",
-      "description": "Within global markets, you will explore the sophisticated financial solutions we deliver across asset classes.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: research",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "e8557452bff2",
@@ -5806,7 +5494,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "977c5832be3c",
@@ -5833,7 +5521,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "c09ca113d6cb",
@@ -5969,7 +5657,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "e96a18ac15c7",
@@ -5996,7 +5684,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "0f2266177bf6",
@@ -6023,169 +5711,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "0ce24c5623e6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 – Global Markets – Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
-      "posted_date": "2026-08-31",
-      "description": "Apply your knowledge with enthusiasm and commitment in this real-world financial role.\n\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "3b1cc2f339c8",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Asset Management - Risk Summer Internship Program - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894",
-      "posted_date": "2026-08-31",
-      "description": "Asset Management internship in Private Bank Risk Solutions for global clients, targeting students graduating January - July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, risk"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "58981ba5172c",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Asset Management Investments - Summer Internship Program - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295",
-      "posted_date": "2026-08-31",
-      "description": "Work with portfolio managers and investment specialists while gaining exposure to every facet of asset management.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, portfolio"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "c981e33351ce",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 - Corporate Functions - Corporate Analyst Development Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775238",
-      "posted_date": "2026-08-31",
-      "description": "Solve real business problems, turn data into insights, and gain exposure to how a global firm operates.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "08265de02452",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Research - Risk - Off-Cycle - Analyst– London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
-      "posted_date": "2026-08-31",
-      "description": "We are looking for Innovative problem-solvers wanted for developing complex solutions in global finance. ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-22",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Domain: finance, risk, research",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "4dc50f710b52",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Research - Risk - Off-Cycle - Associate – London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
-      "posted_date": "2026-08-31",
-      "description": "We are looking for Innovative problem-solvers wanted for developing complex solutions in global finance.  ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-22",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Domain: finance, risk, research",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "c5d7eb586f35",
@@ -6212,7 +5738,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "b61b184a04d4",
@@ -6239,7 +5765,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "e476717a4bf1",
@@ -6266,7 +5792,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "d7edcf65d485",
@@ -6347,7 +5873,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "b6c923984536",
@@ -6374,88 +5900,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "bb17f2ebab0b",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Internal Audit | One Year Work Placement",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/181881",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: audit"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "18793fa9e3ec",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Compliance | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170152",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: compliance"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "9fcbedbdf752",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Risk | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/172894",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "eaec3716841c",
@@ -6483,114 +5928,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "0acf9adc685a",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 – Sales – Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555",
-      "posted_date": "2026-08-31",
-      "description": "Apply your knowledge with enthusiasm and commitment in this real-world financial role.\n\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: sales"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "b7c4abefa6d6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Chase Digital Development Programme – Summer Internship (London)",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305",
-      "posted_date": "2026-08-31",
-      "description": "Join JPMorgan Chase's digital transformation journey as we invest in innovative ways to engage customers and enhance satisfaction through delightful digital experiences. We're revolutionizing mobile banking with seamless digital journeys, always open to new ideas and customer-focused. Join the Chase Digital Development Programme and be part of a friendly, committed, and growth-oriented team. During your 9-week summer internship, learn to balance business innovation with customer needs while building new products. With our recent launch of a digital bank in the UK and plans for further growth, it's an exciting time to be part of our team.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "9adcd1c72be6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Advisor Summer Internship Program - Madrid",
-      "location": "Madrid, Madrid, Spain",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774210",
-      "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "f3a2e3a01cca",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 - Corporate Functions - Global Finance & Business Management - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774857",
-      "posted_date": "2026-08-31",
-      "description": "If you like analyzing results and using data to drive decisions, then we have a role for you.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "d3aaf8beb0de",
@@ -6618,7 +5956,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "5a6ba218b535",
@@ -6645,7 +5983,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "7ace1a02f5ce",
@@ -6672,7 +6010,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "8075763ba5d4",
@@ -6698,7 +6036,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "016333067964",
@@ -6724,7 +6062,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "9fe45823eb3d",
@@ -6777,7 +6115,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "a92510c0711e",
@@ -6804,7 +6142,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "61a8875c151c",
@@ -6830,7 +6168,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "bac21fa1e47f",
@@ -6856,7 +6194,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "ed698f6f6015",
@@ -6882,319 +6220,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "f2e7d79b4940",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Operations | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170158",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "1545b037043c",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Controllers | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170163",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "265411a6aa21",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Human Capital Management | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170145",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "bd5f70a44690",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Corporate and Workplace Solutions | Summer Analyst",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170173",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "54781111f6b2",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
-      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716",
-      "posted_date": "2026-08-31",
-      "description": "Join a dynamic, diverse team engineering large scale, resilient technology solutions that drive our global business.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-09",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "21cbedc76419",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow, London",
-      "location": "LONDON, LONDON, United Kingdom | GLASGOW, LANARKSHIRE, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
-      "posted_date": "2026-08-31",
-      "description": " \nLead impactful data and intelligence solutions as a Summer Analyst, turning business goals into measurable, end to end outcomes.\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "2a79deefc722",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Advisor Summer Internship Program - Paris",
-      "location": "Paris, Paris, France",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774216",
-      "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "4244e953a112",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Advisor Summer Internship Program - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470",
-      "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "5622fabe0000",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 - Corporate Functions - Human Resources Analyst Development Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774369",
-      "posted_date": "2026-08-31",
-      "description": "Own a project end-to-end, solve real HR challenges, and launch your career at one of the world's top financial institutions.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "65e65efad30f",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Private Bank - Investment Solutions Summer Internship Program - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281",
-      "posted_date": "2026-08-31",
-      "description": "Collaborate with advisors as a summer intern in our Private Bank. Perfect for students graduating between January 2028 and July 2028.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "9a4f77bc3f9e",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Bank - Global Payments Analyst Program - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774762",
-      "posted_date": "2026-08-31",
-      "description": "Gain hands-on experience in global payments and master how money moves in an innovative, rapidly evolving financial landscape\n",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "1a9a6e7185b6",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
-      "posted_date": "2026-08-31",
-      "description": "Spend your summer in one of our key business areas.",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "6f7768fd3ca8",
@@ -7220,7 +6246,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "3a10877942be",
@@ -7244,7 +6270,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "9301267d5533",
@@ -7268,7 +6294,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "dc7e744df391",
@@ -7321,7 +6347,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": true,
@@ -7354,7 +6380,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": true,
@@ -7387,7 +6413,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "expired": true,
@@ -7419,7 +6445,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "cb6dfd271dc6",
@@ -7445,7 +6471,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "110088e44215",
@@ -7495,57 +6521,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "918666632e1a",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | London | Controllers | One Year Work Placement",
-      "location": "London, Greater London, England, United Kingdom",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170142",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
-    },
-    {
-      "id": "6058d9460f2a",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | Paris | Human Capital Management | One Year Work Placement",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170149",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-08-15",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: Paris"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "735f878813f3",
@@ -8846,12 +7822,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 255,
+    "total_jobs": 217,
     "new_today": 0,
     "high_match": 61,
-    "firms_scraped": 32,
-    "firms_failed": 0,
-    "firms_empty": 18,
+    "firms_scraped": 16,
+    "firms_failed": 16,
+    "firms_empty": 8,
     "firms_total": 76
   }
 }
