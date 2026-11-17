@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-17T20:10:37.024503+00:00",
+  "last_updated": "2026-11-17T23:18:46.173742+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Citi": {
-      "status": "error",
-      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Wells Fargo": {
       "status": "error",
       "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Deutsche Bank": {
       "status": "error",
       "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "error",
       "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Fidelity International": {
       "status": "error",
       "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "error",
       "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "count": 1,
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T20:10:37.024503+00:00"
+      "timestamp": "2026-11-17T23:18:46.173742+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2635,6 +2635,35 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-04"
+    },
+    {
+      "id": "03c12d616be0",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity-Co-investment Stage - Juillet 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Co-investment-Stage---Juillet-2027---Paris--M-F-_JR1002339",
+      "posted_date": "Posted Yesterday",
+      "description": "Département : Co-Investment\nDurée : 6 mois\nLocalisation: Paris\nDate de début de stage: Juillet 2027\nLe rôle\nVous rejoindrez l’équipe de Co-investissement d'Ardian en tant que Private Equity Junior Analyst, et participerez à l'exécution de transactions minoritaires dans notre bureau de Paris. Vous participerez à chaque étape du processus d’investissement :\nDue Diligence\n– analyser et évaluer de manière critique les dossiers d’investissement de fonds de Private Equity Tier-1, les DD des conseils, les présentations du management, et participer à des réunions avec les fonds, les équipes dirigeantes et des experts sectoriels afin de développer une opinion d’investissement indépendante.\nRédaction des Investment Committee Memos (IC Memo)\n– exploiter les rapports des conseils et les recherches internes pour rédiger des sections complètes des mémos destinés au Comité d’Investissement, réaliser des analyses de valorisation et contribuer activement aux discussions d’équipe et aux Comités d’Investissement.\nAnalyse financière\n– construire des modèles LBO, challenger les hypothèses et tester la robustesse des scénarios, réaliser des analyses financières pour étayer les recommandations d’investissement.\nSuivi de portefeuille\n– suivre la performance des sociétés en portefeuille, identifier les principaux leviers de création de valeur et signaler les risques potentiels.\nVous serez pleinement intégré(e) à la deal team sur une grande variété de transactions – généralement entre 3 et 6 deals finalisés au cours de votre stage – chacune apportant un nouveau secteur, une nouvelle géographie et un nouveau fonds de Private Equity de premier plan, avec sa propre culture et approche d’investissement. Vous développerez dès le premier jour une culture business transversale, des compétences analytiques solides et un véritable jugement d’investissement.\nLe profil\nExcellents résultats académiques au sein d’une grande école de commerce, d’ingénieurs ou d’une université de premier plan\nUne expérience préalable en finance (M&A, conseil en stratégie, ou Private Equity)\nMaîtrise avancée d’Excel et des modèles LBO, ainsi qu’une bonne aisance avec les outils d’IA\nAu‑delà des compétences techniques, nous recherchons de la curiosité intellectuelle, un esprit critique et la capacité à travailler de manière autonome au sein d’une équipe\nUne maîtrise de l’anglais, notamment à l’écrit, est indispensable\nA propos de l’équipe\nArdian est l’un des principaux gestionnaires d’actifs sur les marchés privés ",
+      "start_date": "2026-11-16",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-11-17",
+      "is_new": true,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-17"
     },
     {
       "id": "4d36980e648e",
@@ -7636,12 +7665,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 211,
-    "new_today": 0,
+    "total_jobs": 212,
+    "new_today": 1,
     "high_match": 55,
-    "firms_scraped": 19,
-    "firms_failed": 13,
-    "firms_empty": 11,
+    "firms_scraped": 17,
+    "firms_failed": 15,
+    "firms_empty": 8,
     "firms_total": 76
   }
 }
