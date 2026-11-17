@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-16T23:57:51.093906+00:00",
+  "last_updated": "2026-11-17T16:48:43.281424+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 10,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "count": 2,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Deutsche Bank": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Barclays": {
-      "status": "error",
-      "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "BBVA": {
-      "status": "error",
-      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Santander": {
-      "status": "error",
-      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,14 +98,14 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "error",
-      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Fidelity International": {
       "status": "error",
       "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,16 +208,16 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "error",
       "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T23:57:51.093906+00:00"
+      "timestamp": "2026-11-17T16:48:43.281424+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -777,7 +777,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e91cb4b590f8",
@@ -1111,7 +1111,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": false,
@@ -1143,7 +1143,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": false,
@@ -1175,7 +1175,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "c8fcbc0ee543",
@@ -1418,36 +1418,6 @@
       "last_seen": "2026-11-04"
     },
     {
-      "id": "f8e52f1886b8",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Conformité Banque d'Affaires - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Conformit-Banque-d-Affaires---Janvier-2027_JR016466",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel, recherche un(e) stagiaire au sein de l’équipe Conformité Banque d’Affaires  (M&A, financial advisory, sovereign advisory) pour une durée de 6 mois à partir de janvier 2027.\nDirectement rattaché(e) au Directeur de la Conformité de la Banque d’Affaires, vous intègrere",
-      "start_date": "2026-09-21",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-16",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, M&A",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
-    },
-    {
       "id": "532929b1998a",
       "bank": "BBVA",
       "category": "Bank",
@@ -1507,36 +1477,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-16"
-    },
-    {
-      "id": "ea9911170369",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking - Financial Institution Group (FIG), Summer Analyst, London, United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Financial-Institution-Group--FIG---Summer-Analyst--London--United-Kingdom-2027_26998415",
-      "posted_date": "Posted 11 Days Ago",
-      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for summer analysts to join the Investment Banking Financial Institutions Group (FIG) team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June 2027 and begins with a one-week training program in London. After which you’ll be assigned to the UK, Europe & MEA FIG team, where you’ll focus on financial analysis and business development. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential).\nWho we think will be a great fit:\nWe’re looking for motivated individu",
-      "start_date": "2026-10-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
-      "source": "workday",
-      "first_seen": "2026-11-02",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, capital markets",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
     },
     {
       "id": "d218b85bf74b",
@@ -1629,36 +1569,6 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "c3f6f9ee0635",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Corporate Banking, Summer Analyst, London – United Kingdom, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689",
-      "posted_date": "Posted 3 Days Ago",
-      "description": "You're the brains behind our work.\nYou're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti is looking for summer analysts to join the Corporate Banking team in London. Corporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. As a Corporate Banker, you will drive the client dialogue on capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions.\nUnique to Citi, Corporate Bankers are also responsible for deciding where to invest the firm's capital and executing on those investments. Corporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking and the Capital Markets. If none of these terms make sense right now, that's ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed.\nWe're committed to teaching you the ropes. The 10-week summer analyst program starts in June and begins with one-week of training in London after which you will be placed with a Corporate Banking team to work with for the duration of the program. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this...\nConduct accounting and financial statement analysis, cash flow modelling, and capital markets analysis\nComplete fundamental risk and credit analysis\nLiaise with product partners\nAssist in the presentation and development of new ideas to clients\nStructure deals\nWe want to hear from you if...\nYou are in your penultimate/final year of university\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business\nYou are fluent in a 2nd language (this is desirable but not essential)\nWho we think will be a great fit...\nA dedication to learning and a true pas",
-      "start_date": "2026-10-30",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this...\nConduct accounting and financial statement analysis, cash flow modelling, and capital markets analysis\nComplete fundamental risk and credit analysis\nLiaise with product partners\nAssist in the presentation and development of new ideas to clients\nStructure deals",
-      "source": "workday",
-      "first_seen": "2026-11-02",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
-    },
-    {
       "id": "f287bccf8815",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -1686,7 +1596,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "918ec23296d2",
@@ -2370,7 +2280,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": false,
@@ -2401,7 +2311,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "ecd710d7c273",
@@ -2461,7 +2371,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "fd9f89d1205a",
@@ -2491,7 +2401,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "464941088c97",
@@ -2727,35 +2637,6 @@
       "last_seen": "2026-11-04"
     },
     {
-      "id": "f14d7cbe0c16",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Fund Finance Growth Stage - Janvier 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Fund-Finance-Growth-Stage---Janvier-2027-I-Paris--H-F-_JR1002107",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Fund Finance Growth\nDurée : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nL’offre de stage est à pourvoir dans l’équipe Funds Finance - Growth (investissements directs via des FCPI / FPCI\ndans des sociétés Innovantes (Software, Technologie de l’information et de l’internet…).\nLa mission consiste à assister les Finance Officers des structures Growth dans leur travail de contrôle, d’analyse et\nde suivi des Fonds sous gestion.\nDétail de la mission :\nParticipation aux comités de valorisation et arrêtés comptables trimestriels\nContribution à l’élaboration de l'information financière en interne et en externe (capital accounts, rapport\nde gestion, fiches trimestrielles etc.)\nCalcul, analyse et reporting de la performance des fonds\nContacts avec l’ensemble des intervenants pour l’organisation des flux d’informations, financiers et\ncomptables : Front Office, Back Office, relations investisseurs, service juridique, conformité…\nPréparation des notices d’appels et de distributions à destination des investisseurs et suivi de la bonne\nréception des flux d’appels et la bonne exécution des flux de distribution\nAnalyse des documents légaux des investissements\nVeille juridique des véhicules et suivi des ratios règlementaires\nCompétences requises\nRigueur\nOrganisation\nMotivation\nEsprit d'initiative et autonomie\nEsprit d'équipe\nConnaissances comptables et financières\nMaîtrise d'Excel\nProfil\nEtudiant en Master : stage de fin d’études ou stage de césure\nUn stage effectué en audit / contrôle de gestion ou un stage effectué en gestion d’actifs serait très apprécié\nUne connaissance VBA et une maitrise Excel sont des atouts\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%) et tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nTo enhance your recruitment prospects and prepare for potential interviews, please consult our\nResource Center\n. There, you will gain access to a wide range of advice, preparatory materials, and testimonials.",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, fund, audit",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
-    },
-    {
       "id": "4d36980e648e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -2782,7 +2663,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2811,7 +2692,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "b6f5ba7934ba",
@@ -2840,7 +2721,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "bc4a6f629d2d",
@@ -3130,7 +3011,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "6c1011e407fd",
@@ -3299,7 +3180,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "98836783533b",
@@ -3328,7 +3209,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "d23c22f2c608",
@@ -3357,7 +3238,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "0df08051c57b",
@@ -3386,7 +3267,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "c65abc301ee0",
@@ -3444,7 +3325,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "0b8f93ece3e5",
@@ -3473,7 +3354,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "0a7e933c328f",
@@ -3502,7 +3383,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "3a506648372b",
@@ -3531,7 +3412,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "ba58a05065e4",
@@ -3560,7 +3441,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "54fe2bb80d15",
@@ -3589,7 +3470,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "3384a9189adf",
@@ -3618,7 +3499,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "794fad16fec1",
@@ -3647,7 +3528,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "de3e838c9593",
@@ -3674,7 +3555,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e619cf06711f",
@@ -3845,7 +3726,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "4afd6bda4507",
@@ -3874,7 +3755,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "09b65cc29b0d",
@@ -3902,7 +3783,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "644795f3abe4",
@@ -3931,7 +3812,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "743cd0164b30",
@@ -4044,7 +3925,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "9d8391b790ba",
@@ -4072,7 +3953,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "f27c1058affc",
@@ -4101,7 +3982,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "1cee6c365890",
@@ -4300,34 +4181,6 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "a4daeddebf2a",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Foudation Engagement & Communication Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Foudation-Engagement---Communication-Stage---Janvier-2027-I-Paris--M-F-_JR1002092",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Département : Foundation\nDurée du Stage : 6 mois\nLieu : Paris\nDate de début : Janvier 2027\nLe rôle\nCommunication : Production extensive de contenus sur la Fondation en interne et en externe\nEditoriale : supports de présentation, éléments de langage sur la stratégie de la Fondation, visuels (photos/vidéos), newsletters, brochure, etc.\nDigitale : Suivi et mise à jour du site web et de l’intranet. Rédaction de contenus sur LinkedIn (sur nos partenaires, les actions organisées, à venir, etc.)\nEvènementielle : Organisation d’événements internes (dans le cadre de notre programme d’engagement collaborateurs Act4Change) et externes avec nos associations partenaires\nTransverse : support de l’équipe sur les sujets en cours :\nSupport sur le pôle engagement des collaborateurs\nSupport sur l’outil CRM :\nSupport de l’équipe sur les tâches récurrentes : logistique, veille sur le secteur philanthropique & solidaire, benchmarks, etc.\nCompétences requises\nMaitrise de l’anglais et du français indispensable\nOrganisation et rigueur\nAisance relationnelle et communication interculturelle\nCréativité\nAutonomie\nEsprit d’analyse, de synthèse et critique\nEsprit d’équipe\nPrise d’initiatives\nLe profil\nType de diplôme : Master 1 ou 2 en : Communication des organisations, RSE, Développement Durable, Management des organisations, Innovation Sociale, Stratégie.\nUne première expérience professionnelle dans une Fondation ou une association est un plus.\nLa Fondation Ardian\nLa mission de la Fondation Ardian, créée en 2010 à l’initiative de quelques salariés d’Ardian, est de favoriser l’ascension sociale de personnes de milieu modeste - de la petite enfance à la vie adulte - en Europe, en Amérique et en Asie. Depuis 2025, la Fondation soutient des projets en recherche scientifique fondamentale.\nNotre engagement se traduit en plusieurs actions :\nLe développement de projets liés à la petite enfance et à l’éducation\nL’engagement de nos collaborateurs en don de temps, compétences et monétaire\nLa recherche scientifique fondamentale\nLe budget annuel 2025 de la Fondation s’élève à 5.6 millions d’euros.\nCompte tenu du développement en cours, la Fondation Ardian souhaiterait se doter de ressources supplémentaires.\nAutres informations\nGratification selon profil\nEnveloppe CSE\nRemboursement du titre de transport (66%), tickets restaurant\nConvention de stage obligatoire – provenant d’un établissement d’enseignement supérieur\nPrésence physique dans nos bureaux requise\nTo enhance your recruitment prospects and",
-      "start_date": "2026-09-30",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-01",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
-    },
-    {
       "id": "1d446ccf62cd",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4381,7 +4234,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "6452a47abd58",
@@ -4409,7 +4262,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "48ac1aff9176",
@@ -4437,7 +4290,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "81b9ebd93b95",
@@ -4465,7 +4318,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "baf2ae4e816e",
@@ -4493,7 +4346,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "afd7af9c4f3d",
@@ -4575,7 +4428,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "f913031e9a5a",
@@ -4603,7 +4456,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "fcb2ac675a49",
@@ -4631,7 +4484,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "76895c0c3ef9",
@@ -4798,7 +4651,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "8973da24c4b9",
@@ -4825,7 +4678,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "85a27d4eb518",
@@ -4853,7 +4706,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "7716a078e416",
@@ -4881,7 +4734,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "220a790a422a",
@@ -4909,7 +4762,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "595620feb852",
@@ -4937,7 +4790,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "df964aa5f672",
@@ -4965,7 +4818,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "578d7be20f6b",
@@ -5021,7 +4874,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "57ae0503ee63",
@@ -5158,7 +5011,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "92f20208170d",
@@ -5185,7 +5038,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "ae90a6b845a0",
@@ -5212,7 +5065,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "ff29e8b1e874",
@@ -5239,7 +5092,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "a0c360ede3da",
@@ -5266,7 +5119,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "51198f437826",
@@ -5293,7 +5146,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "7827ca3f1de1",
@@ -5348,7 +5201,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "8ea868119967",
@@ -5375,7 +5228,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "966aeee2595b",
@@ -5402,7 +5255,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e8557452bff2",
@@ -5429,7 +5282,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "977c5832be3c",
@@ -5456,7 +5309,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "c09ca113d6cb",
@@ -5592,7 +5445,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e96a18ac15c7",
@@ -5619,7 +5472,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "0f2266177bf6",
@@ -5646,7 +5499,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "c5d7eb586f35",
@@ -5673,7 +5526,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "b61b184a04d4",
@@ -5700,7 +5553,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e476717a4bf1",
@@ -5727,7 +5580,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "d7edcf65d485",
@@ -5757,33 +5610,6 @@
       "last_seen": "2026-11-09"
     },
     {
-      "id": "bdadeb888dd5",
-      "bank": "Bank of America",
-      "category": "Investment Bank",
-      "title": "Leasing Credit – Global Vendor Finance and International Asset Finance, 2027 Summer Analyst - London",
-      "location": "London United Kingdom",
-      "url": "https://bankcampuscareers.tal.net/vx/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/14683-Leasing-Credit-Global-Vendor-Finance-and-International-Asset-Finance-2027-Summer-Analyst-London/en-GB",
-      "posted_date": "",
-      "description": "Leasing Credit – Global Vendor Finance and International Asset Finance, Summer Analyst London, United Kingdom About Us At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do t",
-      "start_date": "",
-      "time_type": "Summer internship",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-22",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-02"
-    },
-    {
       "id": "b82986319db3",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -5808,7 +5634,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "b6c923984536",
@@ -5835,7 +5661,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "eaec3716841c",
@@ -5863,7 +5689,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "d3aaf8beb0de",
@@ -5891,7 +5717,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "5a6ba218b535",
@@ -5918,7 +5744,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5945,7 +5771,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "e118228beea9",
@@ -5998,7 +5824,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "016333067964",
@@ -6024,7 +5850,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "9fe45823eb3d",
@@ -6077,7 +5903,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "a92510c0711e",
@@ -6104,7 +5930,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "61a8875c151c",
@@ -6130,7 +5956,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "bac21fa1e47f",
@@ -6156,7 +5982,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "ed698f6f6015",
@@ -6182,7 +6008,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "6f7768fd3ca8",
@@ -6208,7 +6034,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "3a10877942be",
@@ -6232,7 +6058,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "9301267d5533",
@@ -6256,7 +6082,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "d5681db0a3b6",
@@ -6335,7 +6161,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": true,
@@ -6368,7 +6194,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": true,
@@ -6401,7 +6227,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "expired": true,
@@ -6433,7 +6259,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "cb6dfd271dc6",
@@ -6459,7 +6285,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "110088e44215",
@@ -6509,7 +6335,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     {
       "id": "735f878813f3",
@@ -6543,7 +6369,7 @@
       "title": "Functions - Internal Audit, Summer Analyst - London, 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Functions---Internal-Audit--Summer-Analyst---London--2027_261002816",
-      "posted_date": "Posted 25 Days Ago",
+      "posted_date": "Posted 27 Days Ago",
       "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when. Citi’s Internal Audit Group is looking for Summer Analysts to join the team in London. Citi's Internal Audit division provides independent assessments of the company's governance, risk management and internal control environment for key stakeholders including the Board of Directors, senior management and Citi’s numerous regulators globally. Internal Audit is a change agent within Citi aimed to enhance the control culture of Citi worldwide and thereby support senior management decision making around the globe.\nWe provide you with the knowledge and skills you need to succeed.\nCiti’s Internal Audit Summer Analyst Program is a 10-week internship opportunity in London. This Program will provide development-focused opportunities coupled with structured classroom training, mentoring and individual development. As an Internal Audit Summer Analyst, you will face off into one of Citi’s core businesses or global functions to ensure that a sound control framework and environment is in place globally through the delivery of independent and timely assurance.\nYour time here will look something like this...\nThe Internal Audit Summer Analyst program begins in June with a 3-day training program, providing Summer Analysts with an overview of Citi and an introduction to Citi’s Internal Audit Organization. The Summer Program will provide Summer Analysts with Senior and Junior Mentors, networking opportunities and Senior Speaker Events where Citi’s senior IA professionals will host discussions and answer questions about their careers and IA functions. Most opportunities will require and enable cross-functional exposure, giving candidates a well-rounded experience at Citi. The Summer Analysts will receive real-world work and will be expected to add value to their teams during the 10 weeks. In addition to their daily work, the Summer Analysts will also have the opportunity to network with other Citi interns, current program participants, and other IA professionals. The program concludes with the Summer Ana",
       "start_date": "2026-10-21",
       "time_type": "Full time",
@@ -6562,7 +6388,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-17"
     }
   ],
   "direct_links": [
@@ -7810,12 +7636,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 217,
+    "total_jobs": 211,
     "new_today": 0,
-    "high_match": 58,
-    "firms_scraped": 21,
-    "firms_failed": 11,
-    "firms_empty": 12,
+    "high_match": 55,
+    "firms_scraped": 24,
+    "firms_failed": 8,
+    "firms_empty": 15,
     "firms_total": 76
   }
 }
