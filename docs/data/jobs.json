@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-16T21:22:52.389901+00:00",
+  "last_updated": "2026-11-16T23:57:51.093906+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Citi": {
-      "status": "error",
-      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 10,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Wells Fargo": {
-      "status": "error",
-      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "error",
-      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Fidelity International": {
       "status": "error",
       "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "error",
       "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,30 +208,30 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-16T21:22:52.389901+00:00"
+      "timestamp": "2026-11-16T23:57:51.093906+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -360,38 +360,6 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: M&A, risk, sales",
-        "Languages: French, English",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "b5e91c0f3ed6",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Citi is looking for Placement Intern Analyst to join the Investment Banking (FIG) team in Paris in January 2027 for 6 months.\nThe Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting, and distributing equity, debt, and derivative securities. If none of these terms make sense right now, that’s ok, you will be an expert in 6 months!\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role in the team, and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nWe provide you with the knowledge and skills you need to succeed.\nWe’re committed to teaching you the ropes. During your 6-month placement intern analyst program you will be assigned to the France Investment Banking FIG team, where you’ll focus on financial analysis and business development.\nYour time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027\nYou are currently enrolled in a university that can provide an internship agreement\nYou have a student status and related visa covering the whole internship period.\nYou have very good knowledge of Corporate Finance and Financial Markets\nYou are fluent in French and English, both written and oral (working language). Good level in additional languages beneficial but not essential\nYou have advanced skills in PowerPoint, Excel and Word\nWho we think will be a great fit...\nA dedication to learning and a true passion for the business are vital. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the future of banking and want to make an impact on the corporate level. We val",
-      "start_date": "2026-09-08",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Your time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 87,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
         "Languages: French, English",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
@@ -500,37 +468,6 @@
       "last_seen": "2026-11-10"
     },
     {
-      "id": "e118228beea9",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-      "location": "Madrid  Spain",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Citi is actively seeking talented and ambitious Off-Cycle Analysts to join its dynamic Investment Banking team in Madrid, starting in January 2027. The Investment Banking group provides essential advisory services to corporate clients, assisting them with capital market fundraising initiatives and offering strategic support for a wide array of financial transactions. As an intern, you may contribute to projects involving mergers, acquisitions, divestitures, financial restructurings, as well as the underwriting and distribution of equity, debt, and derivative securities. No prior in-depth knowledge of these terms is required; our comprehensive internship program is specifically designed to enhance your understanding and equip you with the necessary skills. Regardless of your academic background, we are committed to providing the training and support essential for your success. We provide a foundational learning experience. The 6 month Internship Analyst program is set to commence in January 2027.\nAs an Off-Cycle Intern, you will become an integral member of the team and contribute directly to ongoing client projects and transaction execution. You will receive on-the-job training, mentorship and hands-on experience in a fast-paced and collaborative environment.\nResponsibilities\nDiligently collect and meticulously analyse company-specific information to facilitate transaction execution, which includes conducting thorough industry research and organizing extensive financial data.\nPerform in-depth analysis of financial data and develop robust financial models, encompassing company valuations, discounted cash flow (DCF) analysis, financing structures, and comparative analyses.\nGenerate and refine professional new business development presentations that effectively communicate complex financial concepts.\nEffectively coordinate tasks and workflow with both internal teams and external stakeholders, ensuring seamless project progression.\nPrepare all necessary internal documentation, including adherence to control and compliance regulations, to ensure operational integrity.\nAdditional Requirements\nA strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effe",
-      "start_date": "2026-09-28",
-      "time_type": "Full time",
-      "duration": "6 month",
-      "requirements": "A strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effectively.\nA steadfast commitment to continuous personal growth and career development, including demonstrating adaptability and flexibility in a dynamic work environment.\nA fervent desire to learn, a proactive attitude, and a",
-      "source": "workday",
-      "first_seen": "2026-09-24",
-      "is_new": false,
-      "match_score": 83,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, equity",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
       "id": "cc8374be6a34",
       "bank": "Deutsche Bank",
       "category": "Investment Bank",
@@ -591,7 +528,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "dac2b0f4acaa",
@@ -622,7 +559,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "38a6f0ebecd8",
@@ -746,7 +683,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "213f6ed513af",
@@ -1268,37 +1205,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "405708a964ec",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Markets – Sales and Trading, Off-Cycle Internship, Paris – France, 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Off-Cycle-Internship--Paris---France--2027_26992518",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for intern analysts to join our Markets team in Paris. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this\nWe're committed to teaching you the ropes. The Markets intern analyst program runs for six months starting in January 2027. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in areas such as rates, equities, commodities, credit, futures and FX. At the end of your internship, successful analysts may be considered for a place on a full-time program.\nWhat you’ll do\nWe'll help you learn market making and trading book risk management.\nWe'll offer you the opportunity to make a significant impact on the trading desk by developing pricing, hedging and analysis tools and strategies.\nWe'll let you learn from experienced traders as they handle real-time pricing and risk.\nWe'll give you the opportunity to support key desk tasks like risk reconciliation, P&L, and trade booking – great for learning core operations.\nWe’ll offer you the opportunity to contribute to quantitative research projects focused on identifying systematic trading strategies and improving existing risk models.\nWe'll provide you with space to develop trade ideas, watch market trends, and improve analysis using Python and VBA to best identify parameter dislocations.\nWe'll offer you the opportunity to assist in drafting",
-      "start_date": "2026-09-21",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: risk, trading, sales",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "607bfc4664f2",
@@ -1572,6 +1479,36 @@
       "last_seen": "2026-11-08"
     },
     {
+      "id": "405708a964ec",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Markets – Sales and Trading, Off-Cycle Internship, Paris – France, 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Markets---Sales-and-Trading--Off-Cycle-Internship--Paris---France--2027_26992518",
+      "posted_date": "Posted Today",
+      "description": "You're the brains behind our work.\nAre you ready to bring your knowledge from the classroom to the trading floor? Citi wants to help you get there! Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth; it is not a question of if, but when.\nCiti is looking for intern analysts to join our Markets team in Paris. Markets at Citi provides world-class solutions that are as sophisticated and diverse as the needs of the corporates, institutions, governments and individual investors we serve in 160 countries and territories. We work on trading floors in over 80 countries, enriching client relationships around the clock. The breadth and depth of our underwriting, structuring, securitisation, sales and trading and distribution capabilities span asset classes and currencies, sectors and industries. And our expertise covers a vast array of products including equities, commodities, credit, futures and foreign exchange (FX).\nYour time here will look something like this\nWe're committed to teaching you the ropes. The Markets intern analyst program runs for six months starting in January 2027. Working alongside our experienced professionals, incoming analysts will have the opportunity to actively participate and develop their skills in areas such as rates, equities, commodities, credit, futures and FX. At the end of your internship, successful analysts may be considered for a place on a full-time program.\nWhat you’ll do\nWe'll help you learn market making and trading book risk management.\nWe'll offer you the opportunity to make a significant impact on the trading desk by developing pricing, hedging and analysis tools and strategies.\nWe'll let you learn from experienced traders as they handle real-time pricing and risk.\nWe'll give you the opportunity to support key desk tasks like risk reconciliation, P&L, and trade booking – great for learning core operations.\nWe’ll offer you the opportunity to contribute to quantitative research projects focused on identifying systematic trading strategies and improving existing risk models.\nWe'll provide you with space to develop trade ideas, watch market trends, and improve analysis using Python and VBA to best identify parameter dislocations.\nWe'll offer you the opportunity to assist in drafting",
+      "start_date": "2026-11-16",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Please see the requirements listed above.\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: risk, trading, sales",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
+    },
+    {
       "id": "ea9911170369",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -1654,36 +1591,6 @@
         "Domain: wealth management, asset management, advisory",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "02b6c0c4f148",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422",
-      "posted_date": "Posted 24 Days Ago",
-      "description": "You're the brains behind our work:\nYou’re ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility and career growth is not a question of if, but when.\nCiti is looking for Summer Analysts to join the Investment Banking Real Estate team in London. The Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting and distributing equity, debt and derivative securities. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. The 10-week summer analyst program starts in June 2027 and begins with a one-week training program in London. After which, you will join the UK, Europe and MEA Real Estate Investment Banking Team to support a growing business and be fully integrated to the team during your internship. Successful summer analysts will be considered for a full-time position after graduation.\nYour time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry    research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.\nWe want to hear from you if:\nYou are in your penultimate/final year of university.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are fluent in a 2nd language (this is desirable but not essential).\nWho we think will be a great fit:\nWe’re lookin",
-      "start_date": "2026-10-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this:\nCollect and analyse company information to assist transactions, including conducting industry    research, revising and organizing financial data.\nAnalyse financial data and develop financial models including company valuations, discounted cash flow analysis, financing and comparative analyses.\nCreate and finalize new business development presentations.\nCoordinate tasks with internal and external working teams.\nPrepare required internal documentation e.g. control and compliance regulations.",
-      "source": "workday",
-      "first_seen": "2026-10-01",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, capital markets",
-        "Level: Undergraduate",
-        "Markets (Equities / FICC / Structuration)",
         "Track privilégié: Corporate / Banking"
       ],
       "match_class": "good",
@@ -2266,7 +2173,7 @@
       "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
-      "posted_date": "Posted 19 Days Ago",
+      "posted_date": "Posted 20 Days Ago",
       "description": "Citi is looking for placement analysts to join the Investment Banking Healthcare team in London, from February 2027.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. During our 3-6 month placement analyst program, which starts in February 2027, you will be assigned to the IB Healthcare team. Successful placement analysts will be considered for a full time position after graduation.\nYour time here will look something like this:\nKeeping up to date on the latest news, developments and trends that are driving equity markets by using the intelligence of Citi’s global equities platform, communicating that information to your clients.\nDevelop an understanding of how companies are viewed and valued by institutional investors through speaking to some of the most important mutual fund and hedge fund managers.\nBuild financial models, assess valuation, and explore transaction opportunities for your clients\nConduct research and analyse industry trends.\nHelp to strengthen your clients’ shareholder base by conducting analysis on potential new investors.\nParticipate in client development by having an active role in building new and existing client relationships, and assisting in the presentation of new ideas to clients.\nWe want to hear from you if:\nYou are studying for a degree that allows for a 3-6-month industrial placement or have graduated.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are available to start in February 2027.\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their careers in Investment Banking. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you. We’ll also be looking for the following:\nCommitment to personal growth and career development including mobility and flexibility. You also have a strong desire to learn, are proactive, building rapport and relationships in team environments.\nDesire to develop a deep understanding of the financial industry.\nIntellectual curiosity and proactive approach to searching for new and creative ideas.\nStrong communication, planning, and organizational skills.\nUnquestioned commitment to integrity and ethical decision-making.\nInterest in business.\nWe will be recruiting on a rolling basis therefore ",
       "start_date": "2026-10-27",
       "time_type": "Full time",
@@ -2287,7 +2194,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     {
       "id": "3f4fa0dadd17",
@@ -4755,33 +4662,6 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "f4bc49c95366",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Services - Summer Analyst, UK - London, 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the workplace, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success comes with growth. Our program equips you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility—career growth is not a question of if, but when.\nWhat is Services?\nCiti’s Services organization plays a crucial role in supporting institutional clients through a wide range of innovative solutions, enabling them to navigate complex financial landscapes. Our business provides integrated cash management and trade finance solutions to help multinational corporations, financial institutions, and public sector organizations optimize liquidity, working capital, and streamline transactions globally. Our business also delivers custody, fund administration, collateral management, and performance analytics, helping asset managers, institutional investors, and financial institutions efficiently manage and safeguard assets. With our global reach, including presence in over 90 countries, cutting-edge technology, and client-first approach, we provide seamless solutions that drive business success in an evolving financial world.\nIn this rapidly evolving landscape, we are increasingly leveraging advanced analytics and artificial intelligence (AI) to enhance our offerings, improve efficiency, and provide deeper insights to our clients. This includes utilizing AI-powered tools for predictive analytics, automation of routine tasks, and generating actionable insights from vast datasets to inform strategic decisions across our services portfolio.\nWe provide you with the knowledge and skills you need to succeed.\nThe Citi Services 10-week Summer Analyst Program gives entry-level employees hands-on experience through training sessions and real, on-the-job learning. Summer Analysts work closely with their teams, owning projects that drive meaningful impact. After an initial week of training and a placement process based on your interests and our needs, you’ll be assigned to a team where you’ll focus on financial analysis, business development, client engagement, and market research.\nYour time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.\nDevelop materials that support business developmen",
-      "start_date": "2026-09-17",
-      "time_type": "Full time",
-      "duration": "Summer 2028",
-      "requirements": "Your time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.",
-      "source": "workday",
-      "first_seen": "2026-09-17",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, portfolio, fund"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
       "id": "640d21f7566f",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -4804,6 +4684,33 @@
         "Domain: research",
         "Level: Undergraduate",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "f4bc49c95366",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Services - Summer Analyst, UK - London, 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the workplace, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success comes with growth. Our program equips you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility—career growth is not a question of if, but when.\nWhat is Services?\nCiti’s Services organization plays a crucial role in supporting institutional clients through a wide range of innovative solutions, enabling them to navigate complex financial landscapes. Our business provides integrated cash management and trade finance solutions to help multinational corporations, financial institutions, and public sector organizations optimize liquidity, working capital, and streamline transactions globally. Our business also delivers custody, fund administration, collateral management, and performance analytics, helping asset managers, institutional investors, and financial institutions efficiently manage and safeguard assets. With our global reach, including presence in over 90 countries, cutting-edge technology, and client-first approach, we provide seamless solutions that drive business success in an evolving financial world.\nIn this rapidly evolving landscape, we are increasingly leveraging advanced analytics and artificial intelligence (AI) to enhance our offerings, improve efficiency, and provide deeper insights to our clients. This includes utilizing AI-powered tools for predictive analytics, automation of routine tasks, and generating actionable insights from vast datasets to inform strategic decisions across our services portfolio.\nWe provide you with the knowledge and skills you need to succeed.\nThe Citi Services 10-week Summer Analyst Program gives entry-level employees hands-on experience through training sessions and real, on-the-job learning. Summer Analysts work closely with their teams, owning projects that drive meaningful impact. After an initial week of training and a placement process based on your interests and our needs, you’ll be assigned to a team where you’ll focus on financial analysis, business development, client engagement, and market research.\nYour time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.\nDevelop materials that support business developmen",
+      "start_date": "2026-09-17",
+      "time_type": "Full time",
+      "duration": "Summer 2028",
+      "requirements": "Your time here will look something like this:\nConduct market research to assess industry trends and the impact of macroeconomic factors.",
+      "source": "workday",
+      "first_seen": "2026-09-17",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, portfolio, fund"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -5169,6 +5076,62 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
+    },
+    {
+      "id": "02b6c0c4f148",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422",
+      "posted_date": "Posted 25 Days Ago",
+      "description": "26998422",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-01",
+      "is_new": false,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "b5e91c0f3ed6",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "26992470",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
     },
     {
       "id": "50d4b188d0a3",
@@ -5978,6 +5941,33 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: sales"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-16"
+    },
+    {
+      "id": "e118228beea9",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+      "location": "Madrid  Spain",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "26996278",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-24",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "low",
       "excluded": false,
@@ -7822,10 +7812,10 @@
   "stats": {
     "total_jobs": 217,
     "new_today": 0,
-    "high_match": 61,
-    "firms_scraped": 16,
-    "firms_failed": 16,
-    "firms_empty": 7,
+    "high_match": 58,
+    "firms_scraped": 21,
+    "firms_failed": 11,
+    "firms_empty": 12,
     "firms_total": 76
   }
 }
