@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-18T16:20:07.216311+00:00",
+  "last_updated": "2026-11-18T19:42:15.532476+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Citi": {
-      "status": "error",
-      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "success",
+      "count": 2,
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Wells Fargo": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Deutsche Bank": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Barclays": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "error",
-      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Fidelity International": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "error",
       "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,18 +206,18 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "error",
       "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Apax Partners": {
-      "status": "error",
-      "error": "ScrapeError: Lever Apax Partners unreachable: ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T16:20:07.216311+00:00"
+      "timestamp": "2026-11-18T19:42:15.532476+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -683,7 +683,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "213f6ed513af",
@@ -1205,7 +1205,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "607bfc4664f2",
@@ -7641,9 +7641,9 @@
     "total_jobs": 211,
     "new_today": 0,
     "high_match": 55,
-    "firms_scraped": 23,
-    "firms_failed": 9,
-    "firms_empty": 15,
+    "firms_scraped": 17,
+    "firms_failed": 15,
+    "firms_empty": 8,
     "firms_total": 76
   }
 }
