@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-17T23:18:46.173742+00:00",
+  "last_updated": "2026-11-18T16:20:07.216311+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Citi": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Wells Fargo": {
-      "status": "error",
-      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Barclays": {
-      "status": "error",
-      "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "BBVA": {
-      "status": "error",
-      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "error",
-      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Fidelity International": {
-      "status": "error",
-      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "error",
       "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,32 +206,32 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "error",
-      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Apax Partners": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "status": "error",
+      "error": "ScrapeError: Lever Apax Partners unreachable: ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-17T23:18:46.173742+00:00"
+      "timestamp": "2026-11-18T16:20:07.216311+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -777,7 +777,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e91cb4b590f8",
@@ -1111,7 +1111,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": false,
@@ -1143,7 +1143,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": false,
@@ -1175,7 +1175,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "c8fcbc0ee543",
@@ -2280,7 +2280,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": false,
@@ -2311,7 +2311,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "ecd710d7c273",
@@ -2371,7 +2371,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "fd9f89d1205a",
@@ -2401,7 +2401,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "464941088c97",
@@ -2651,7 +2651,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-11-17",
-      "is_new": true,
+      "is_new": false,
       "match_score": 60,
       "match_reasons": [
         "Location: Paris",
@@ -2692,7 +2692,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2721,7 +2721,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "b6f5ba7934ba",
@@ -2750,7 +2750,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "bc4a6f629d2d",
@@ -3040,7 +3040,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "6c1011e407fd",
@@ -3209,7 +3209,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "98836783533b",
@@ -3238,7 +3238,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "d23c22f2c608",
@@ -3267,7 +3267,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "0df08051c57b",
@@ -3296,7 +3296,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "c65abc301ee0",
@@ -3354,7 +3354,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "0b8f93ece3e5",
@@ -3383,7 +3383,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "0a7e933c328f",
@@ -3412,7 +3412,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "3a506648372b",
@@ -3441,7 +3441,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "ba58a05065e4",
@@ -3470,7 +3470,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "54fe2bb80d15",
@@ -3499,7 +3499,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "3384a9189adf",
@@ -3528,7 +3528,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "794fad16fec1",
@@ -3557,7 +3557,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "de3e838c9593",
@@ -3584,7 +3584,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e619cf06711f",
@@ -3755,7 +3755,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "4afd6bda4507",
@@ -3784,7 +3784,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "09b65cc29b0d",
@@ -3812,7 +3812,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "644795f3abe4",
@@ -3841,7 +3841,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "743cd0164b30",
@@ -3954,7 +3954,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "9d8391b790ba",
@@ -3982,7 +3982,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "f27c1058affc",
@@ -4011,7 +4011,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "1cee6c365890",
@@ -4263,7 +4263,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "6452a47abd58",
@@ -4291,7 +4291,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "48ac1aff9176",
@@ -4319,7 +4319,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "81b9ebd93b95",
@@ -4347,7 +4347,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "baf2ae4e816e",
@@ -4375,7 +4375,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "afd7af9c4f3d",
@@ -4457,7 +4457,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "f913031e9a5a",
@@ -4485,7 +4485,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "fcb2ac675a49",
@@ -4513,7 +4513,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "76895c0c3ef9",
@@ -4680,7 +4680,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "8973da24c4b9",
@@ -4707,7 +4707,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "85a27d4eb518",
@@ -4735,7 +4735,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "7716a078e416",
@@ -4763,7 +4763,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "220a790a422a",
@@ -4791,7 +4791,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "595620feb852",
@@ -4819,7 +4819,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "df964aa5f672",
@@ -4847,7 +4847,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "578d7be20f6b",
@@ -4903,7 +4903,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "57ae0503ee63",
@@ -5040,7 +5040,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "92f20208170d",
@@ -5067,7 +5067,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "ae90a6b845a0",
@@ -5094,7 +5094,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "ff29e8b1e874",
@@ -5121,7 +5121,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "a0c360ede3da",
@@ -5148,7 +5148,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "51198f437826",
@@ -5175,7 +5175,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "7827ca3f1de1",
@@ -5230,7 +5230,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "8ea868119967",
@@ -5257,7 +5257,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "966aeee2595b",
@@ -5284,7 +5284,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e8557452bff2",
@@ -5311,7 +5311,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "977c5832be3c",
@@ -5338,34 +5338,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
-    },
-    {
-      "id": "c09ca113d6cb",
-      "bank": "Schroders",
-      "category": "Asset Manager",
-      "title": "Internship: Real Estate Investment - 6 months (January - June 2027)",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1971",
-      "posted_date": "2026-09-18",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-09-01",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "9856e5ea3dae",
@@ -5474,7 +5447,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e96a18ac15c7",
@@ -5501,7 +5474,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "0f2266177bf6",
@@ -5528,7 +5501,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "c5d7eb586f35",
@@ -5555,7 +5528,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "b61b184a04d4",
@@ -5582,7 +5555,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e476717a4bf1",
@@ -5609,7 +5582,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "d7edcf65d485",
@@ -5663,7 +5636,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "b6c923984536",
@@ -5690,7 +5663,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "eaec3716841c",
@@ -5718,7 +5691,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "d3aaf8beb0de",
@@ -5746,7 +5719,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "5a6ba218b535",
@@ -5773,7 +5746,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5800,7 +5773,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "e118228beea9",
@@ -5853,7 +5826,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "016333067964",
@@ -5879,7 +5852,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "9fe45823eb3d",
@@ -5932,7 +5905,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "a92510c0711e",
@@ -5959,7 +5932,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "61a8875c151c",
@@ -5985,7 +5958,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "bac21fa1e47f",
@@ -6011,7 +5984,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "ed698f6f6015",
@@ -6037,7 +6010,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "6f7768fd3ca8",
@@ -6063,7 +6036,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "3a10877942be",
@@ -6087,7 +6060,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "9301267d5533",
@@ -6111,7 +6084,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "d5681db0a3b6",
@@ -6190,7 +6163,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": true,
@@ -6223,7 +6196,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": true,
@@ -6256,7 +6229,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "expired": true,
@@ -6288,7 +6261,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "cb6dfd271dc6",
@@ -6314,7 +6287,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "110088e44215",
@@ -6364,7 +6337,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     {
       "id": "735f878813f3",
@@ -7665,12 +7638,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 212,
-    "new_today": 1,
+    "total_jobs": 211,
+    "new_today": 0,
     "high_match": 55,
-    "firms_scraped": 17,
-    "firms_failed": 15,
-    "firms_empty": 8,
+    "firms_scraped": 23,
+    "firms_failed": 9,
+    "firms_empty": 15,
     "firms_total": 76
   }
 }
