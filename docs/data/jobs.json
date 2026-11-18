@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-18T19:42:15.532476+00:00",
+  "last_updated": "2026-11-18T22:49:49.547877+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Citi": {
-      "status": "success",
-      "count": 2,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Wells Fargo": {
       "status": "error",
       "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Deutsche Bank": {
       "status": "error",
       "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Santander": {
-      "status": "error",
-      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "error",
       "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Fidelity International": {
       "status": "error",
       "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "error",
       "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "error",
-      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-18T19:42:15.532476+00:00"
+      "timestamp": "2026-11-18T22:49:49.547877+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -4544,6 +4544,33 @@
       "last_seen": "2026-11-15"
     },
     {
+      "id": "d17d56d6485f",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Secondaries & Primaries IT Project Management Intern - September 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-IT-Project-Management-Intern---September-2026---London_JR1001984",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nAs part of the Ardian Secondaries & Primaries team, you will act as a support to the investment team for all IT topics and database management. In particular, you will be in charge of managing all aspects of an IT project (drafting the expression of needs, specifications, tests and delivery recipes, user support) as part of the upgrade of existing modules or the development of new ones.\nJob Responsibilities:\nProject management on the development of IT tools in response to the functional needs of the Secondaries & Primaries team\nDaily interaction with the DSI team to monitor ongoing projects and regular reports to the Secondaries & Primaries team\nReceipt of deliveries and acceptance testing\nConsistency testing and cleaning of the information present in the different databases\nSpecialised business and technical knowledge:\nRigorous and organized\nProblem-solving skills\nA Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:\nGraduate of an Engineering School or Business School, with a focus on information ",
+      "start_date": "2026-09-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "A Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:",
+      "source": "workday",
+      "first_seen": "2026-05-13",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-18"
+    },
+    {
       "id": "640d21f7566f",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -4621,33 +4648,6 @@
         "Type: Internship/Stage",
         "Domain: wealth management, asset management, advisory",
         "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-15"
-    },
-    {
-      "id": "d17d56d6485f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Secondaries & Primaries IT Project Management Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-IT-Project-Management-Intern---September-2026---London_JR1001984",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nAs part of the Ardian Secondaries & Primaries team, you will act as a support to the investment team for all IT topics and database management. In particular, you will be in charge of managing all aspects of an IT project (drafting the expression of needs, specifications, tests and delivery recipes, user support) as part of the upgrade of existing modules or the development of new ones.\nJob Responsibilities:\nProject management on the development of IT tools in response to the functional needs of the Secondaries & Primaries team\nDaily interaction with the DSI team to monitor ongoing projects and regular reports to the Secondaries & Primaries team\nReceipt of deliveries and acceptance testing\nConsistency testing and cleaning of the information present in the different databases\nSpecialised business and technical knowledge:\nRigorous and organized\nProblem-solving skills\nA Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:\nGraduate of an Engineering School or Business School, with a focus on information ",
-      "start_date": "2026-09-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "A Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:",
-      "source": "workday",
-      "first_seen": "2026-05-13",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -7641,9 +7641,9 @@
     "total_jobs": 211,
     "new_today": 0,
     "high_match": 55,
-    "firms_scraped": 17,
-    "firms_failed": 15,
-    "firms_empty": 8,
+    "firms_scraped": 19,
+    "firms_failed": 13,
+    "firms_empty": 10,
     "firms_total": 76
   }
 }
