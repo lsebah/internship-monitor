@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-19T19:42:24.581964+00:00",
+  "last_updated": "2026-11-19T22:53:16.280745+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 34,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 25,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Citi": {
       "status": "error",
       "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Wells Fargo": {
-      "status": "error",
-      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Santander": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,33 +98,33 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "error",
-      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "error",
-      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 3,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,32 +206,32 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "error",
-      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 10,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "error",
-      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -243,13 +243,13 @@
     },
     "Permira": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "count": 2,
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-19T19:42:24.581964+00:00"
+      "timestamp": "2026-11-19T22:53:16.280745+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1591,7 +1591,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "cdd4ec32afe0",
@@ -2270,6 +2270,32 @@
       "last_seen": "2026-11-19"
     },
     {
+      "id": "f608f51d47f0",
+      "bank": "Permira",
+      "category": "Private Equity",
+      "title": "Financial Planning and Analysis (FP&A) - Trainee (12 months)",
+      "location": "Madrid",
+      "url": "https://job-boards.eu.greenhouse.io/permiraexternalprivate/jobs/5042514101",
+      "posted_date": "2026-11-19",
+      "description": "About Permira\nPermira is a global investment firm that backs successful businesses with growth ambitions. Founded in 1985, the firm advises funds across two core asset classes, private equity and credit, with total committed capital of approximately €89bn. The Permira private equity funds make both buyout and growth equity investments in four key sectors: Technology, Consumer, Healthcare and Services. The Permira credit funds support businesses with flexible financing solutions across Direct Lending, Strategic Opportunities and CLO Management. Established in 2007, the firm advises investment funds and products which have provided approximately €25 billion of debt capital to over 300 businesses.\nOVERVIEW\nAs a trainee  in the Financial Planning and Analysis (FP&A) or Controlling team, you will have the opportunity to gain practical experience and develop essential skills in financial analysis, budgeting, forecasting, and reporting. This one-year internship will provide you with exposure to the dynamic world of private equity investments and the financial operations of portfolio companies.\nKEY RESPONSABILITIES\nFinancial Analysis: Assist in conducting financial analysis and modelling to support investment decision-making processes. This includes evaluating financial statements, performing corporate strategy analysis, and assessing the firm´s performance.\nBudgeting and Forecasting: Collaborate with the FP&A team to assist in the preparation of annual budgets and periodic forecasts for the company. Help analyse variances between actual and projected financial results and provide insights to support decision-making.\nReporting and Presentation: Assist in the preparation of financial reports and presentations for internal stakeholders, including senior management and investment teams. Help consolidate financial data and present key findings in a clear and concise manner.\nData Management: Support the team in maintaining accurate financial data and ensuring data integrity across various systems and platforms. Assist in streamlining data collection processes and implementing improvements where necessary.\nAd hoc Projects: Contribute to special projects as assigned by the FP&A or Controlling team, which may involve financial due diligence, market research, or process improvement initiatives. Take ownership of assigned tasks and deliver high-quality results within specified timelines.\nCollaboration: Work closely with cross-functional teams, including accounting, operatio",
+      "duration": "",
+      "requirements": "Bachelor's or Master's degree in Finance, Business Administration, Accounting, Economics or Engineering.\nStrong analytical and quantitative skills, with the ability to interpret financial data and perform financial modelling.\nAdvanced Microsoft Excel and PowerPoint, with experience in financial modelling preferred.\nKnowledge of accounting principles and financial statement analysis.\nExcellent attention to detail and organizational skills.\nStrong written and verbal communication skills.",
+      "source": "greenhouse",
+      "first_seen": "2026-11-19",
+      "is_new": true,
+      "match_score": 57,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Level: Undergraduate"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-19"
+    },
+    {
       "id": "bc4a6f629d2d",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2585,7 +2611,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "a28d9ddf3be0",
@@ -2613,7 +2639,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "e075559b8c63",
@@ -2641,7 +2667,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "0a65ea33f94c",
@@ -2669,7 +2695,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "61bc71e98fcd",
@@ -2697,7 +2723,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "9dddb89ef634",
@@ -3386,7 +3412,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "ef72728e7ab3",
@@ -3414,7 +3440,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "3c68a19025d4",
@@ -3919,7 +3945,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "4ddccad034f9",
@@ -3946,7 +3972,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "a20be1015b59",
@@ -7211,12 +7237,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 197,
-    "new_today": 0,
+    "total_jobs": 198,
+    "new_today": 1,
     "high_match": 40,
-    "firms_scraped": 18,
-    "firms_failed": 14,
-    "firms_empty": 10,
+    "firms_scraped": 27,
+    "firms_failed": 5,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
