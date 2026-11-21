@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-20T22:28:54.077767+00:00",
+  "last_updated": "2026-11-21T15:14:15.633038+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 33,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 25,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "count": 23,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Citi": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Wells Fargo": {
       "status": "error",
       "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "BBVA": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Santander": {
-      "status": "error",
-      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,14 +98,14 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "error",
-      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Julius Baer": {
-      "status": "error",
-      "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "State Street": {
       "status": "error",
       "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -207,17 +207,17 @@
     },
     "Blackstone": {
       "status": "success",
-      "count": 10,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "count": 4,
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-20T22:28:54.077767+00:00"
+      "timestamp": "2026-11-21T15:14:15.633038+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -652,7 +652,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e91cb4b590f8",
@@ -865,7 +865,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": false,
@@ -897,7 +897,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": false,
@@ -929,7 +929,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "c8fcbc0ee543",
@@ -1736,6 +1736,35 @@
       "last_seen": "2026-11-15"
     },
     {
+      "id": "008f6ad9ee31",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Corporate Finance Intern - January 2027 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Corporate-Finance-Intern---January-2027---London_JR1002346",
+      "posted_date": "Posted Yesterday",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Corporate Finance Intern will be part of the Corporate Finance team.\nThe team is responsible for all Statutory, Regulatory, and Management reporting for Ardian UK.\nReporting to the Corporate Finance Manager, the Corporate Finance Intern will be part of a small, professional team.\nJob Responsibilities:\nPrepare reconciliations of Balance sheet accounts; and Profit and Loss analysis as required.\nPrepare Cost Centre analysis and reporting\nLog invoices to the system and assisting in the preparation of payment runs\nAssisting in the preparation of accruals and prepayments schedules\nComplete regular periodic bank reconciliations, updates and analysis\nReview employees’ expenses\nPrepare recharge schedules and analysis to the Funds, and other Ardian entities\nProvide detailed analysis to support the PSA (PAYE Settlement Agreement) process/submission\nComplete quarterly ONS (Office for National Statistics) surveys for Ardian UK\nMaintain/ draft process and procedure notes for all finance tasks\nSpecialised business and technical knowledge:\nStrong academic background\nGood communication and interpersonal skills\nAdvanced Excel skills\nExcellent numeracy, accuracy, and attention to detail\nAbility to work effectively within a team and collabo",
+      "start_date": "2026-11-20",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Advanced Excel skills\nExcellent numeracy, accuracy, and attention to detail\nAbility to work effectively within a team and collaboratively across multiple departments\nShould be highly organized and motivated\nEducation and Experience:\nEducated to degree level",
+      "source": "workday",
+      "first_seen": "2026-11-20",
+      "is_new": false,
+      "match_score": 63,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-21"
+    },
+    {
       "expired": false,
       "deadline": "",
       "id": "508fe019a909",
@@ -1764,7 +1793,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": false,
@@ -1795,37 +1824,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "ecd710d7c273",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Corporate & Investment Bank - Global Investment Banking Analyst Program - Off-Cycle Internship- Paris",
-      "location": "Paris, Paris, France",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741915",
-      "posted_date": "2026-04-30",
-      "description": "Spend your internship alongside the top professionals in the business to come up with solutions that shape the global economy",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-01",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "327d3f4acbbb",
@@ -1855,7 +1854,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "fd9f89d1205a",
@@ -1885,7 +1884,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "464941088c97",
@@ -1976,6 +1975,35 @@
       "last_seen": "2026-11-15"
     },
     {
+      "id": "8c643efbb585",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - December 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
+      "posted_date": "Posted 30 Days Ago",
+      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. deal flow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and ",
+      "start_date": "2026-10-22",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
+      "source": "workday",
+      "first_seen": "2026-10-22",
+      "is_new": false,
+      "match_score": 60,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, M&A, equity",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-21"
+    },
+    {
       "id": "a9d67a8088c6",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -2063,35 +2091,6 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "03c12d616be0",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Equity-Co-investment Stage - Juillet 2027 | Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Co-investment-Stage---Juillet-2027---Paris--M-F-_JR1002339",
-      "posted_date": "Posted Yesterday",
-      "description": "Département : Co-Investment\nDurée : 6 mois\nLocalisation: Paris\nDate de début de stage: Juillet 2027\nLe rôle\nVous rejoindrez l’équipe de Co-investissement d'Ardian en tant que Private Equity Junior Analyst, et participerez à l'exécution de transactions minoritaires dans notre bureau de Paris. Vous participerez à chaque étape du processus d’investissement :\nDue Diligence\n– analyser et évaluer de manière critique les dossiers d’investissement de fonds de Private Equity Tier-1, les DD des conseils, les présentations du management, et participer à des réunions avec les fonds, les équipes dirigeantes et des experts sectoriels afin de développer une opinion d’investissement indépendante.\nRédaction des Investment Committee Memos (IC Memo)\n– exploiter les rapports des conseils et les recherches internes pour rédiger des sections complètes des mémos destinés au Comité d’Investissement, réaliser des analyses de valorisation et contribuer activement aux discussions d’équipe et aux Comités d’Investissement.\nAnalyse financière\n– construire des modèles LBO, challenger les hypothèses et tester la robustesse des scénarios, réaliser des analyses financières pour étayer les recommandations d’investissement.\nSuivi de portefeuille\n– suivre la performance des sociétés en portefeuille, identifier les principaux leviers de création de valeur et signaler les risques potentiels.\nVous serez pleinement intégré(e) à la deal team sur une grande variété de transactions – généralement entre 3 et 6 deals finalisés au cours de votre stage – chacune apportant un nouveau secteur, une nouvelle géographie et un nouveau fonds de Private Equity de premier plan, avec sa propre culture et approche d’investissement. Vous développerez dès le premier jour une culture business transversale, des compétences analytiques solides et un véritable jugement d’investissement.\nLe profil\nExcellents résultats académiques au sein d’une grande école de commerce, d’ingénieurs ou d’une université de premier plan\nUne expérience préalable en finance (M&A, conseil en stratégie, ou Private Equity)\nMaîtrise avancée d’Excel et des modèles LBO, ainsi qu’une bonne aisance avec les outils d’IA\nAu‑delà des compétences techniques, nous recherchons de la curiosité intellectuelle, un esprit critique et la capacité à travailler de manière autonome au sein d’une équipe\nUne maîtrise de l’anglais, notamment à l’écrit, est indispensable\nA propos de l’équipe\nArdian est l’un des principaux gestionnaires d’actifs sur les marchés privés ",
-      "start_date": "2026-11-16",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-11-17",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-17"
-    },
-    {
       "id": "4d36980e648e",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -2118,7 +2117,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2147,7 +2146,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "b6f5ba7934ba",
@@ -2176,7 +2175,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "f608f51d47f0",
@@ -2202,7 +2201,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "bc4a6f629d2d",
@@ -2492,7 +2491,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "6c1011e407fd",
@@ -2633,7 +2632,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "98836783533b",
@@ -2662,7 +2661,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "d23c22f2c608",
@@ -2691,7 +2690,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "0df08051c57b",
@@ -2720,36 +2719,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "c65abc301ee0",
-      "bank": "JP Morgan",
-      "category": "Investment Bank",
-      "title": "2027 Global Corporate Banking - Mid-Cap - Off-Cycle Internship Program – Paris",
-      "location": "Paris, Paris, France",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742431",
-      "posted_date": "2026-04-30",
-      "description": "Spend your internship alongside the top professionals in the business to come up with solutions that shape the global economy",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-04",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "85db60a405c4",
@@ -2778,7 +2748,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "0b8f93ece3e5",
@@ -2807,7 +2777,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "0a7e933c328f",
@@ -2836,7 +2806,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "3a506648372b",
@@ -2865,7 +2835,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "ba58a05065e4",
@@ -2894,7 +2864,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "54fe2bb80d15",
@@ -2923,7 +2893,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "3384a9189adf",
@@ -2952,7 +2922,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "794fad16fec1",
@@ -2981,7 +2951,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "de3e838c9593",
@@ -3008,7 +2978,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e619cf06711f",
@@ -3153,35 +3123,6 @@
       "last_seen": "2026-11-12"
     },
     {
-      "id": "008f6ad9ee31",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Corporate Finance Intern - January 2027 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Corporate-Finance-Intern---January-2027---London_JR1002346",
-      "posted_date": "Posted Today",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-11-20",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, corporate finance",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
       "id": "03a8c20baadd",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -3208,7 +3149,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "4afd6bda4507",
@@ -3237,7 +3178,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "09b65cc29b0d",
@@ -3265,7 +3206,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "644795f3abe4",
@@ -3407,7 +3348,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "9d8391b790ba",
@@ -3435,7 +3376,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "f27c1058affc",
@@ -3464,7 +3405,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "1cee6c365890",
@@ -3716,7 +3657,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "6452a47abd58",
@@ -3744,7 +3685,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "48ac1aff9176",
@@ -3772,7 +3713,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "81b9ebd93b95",
@@ -3800,7 +3741,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "baf2ae4e816e",
@@ -3828,7 +3769,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "afd7af9c4f3d",
@@ -3883,7 +3824,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "fcb2ac675a49",
@@ -3911,7 +3852,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "f913031e9a5a",
@@ -3968,33 +3909,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
-    },
-    {
-      "id": "d17d56d6485f",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Secondaries & Primaries IT Project Management Intern - September 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-IT-Project-Management-Intern---September-2026---London_JR1001984",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nAs part of the Ardian Secondaries & Primaries team, you will act as a support to the investment team for all IT topics and database management. In particular, you will be in charge of managing all aspects of an IT project (drafting the expression of needs, specifications, tests and delivery recipes, user support) as part of the upgrade of existing modules or the development of new ones.\nJob Responsibilities:\nProject management on the development of IT tools in response to the functional needs of the Secondaries & Primaries team\nDaily interaction with the DSI team to monitor ongoing projects and regular reports to the Secondaries & Primaries team\nReceipt of deliveries and acceptance testing\nConsistency testing and cleaning of the information present in the different databases\nSpecialised business and technical knowledge:\nRigorous and organized\nProblem-solving skills\nA Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:\nGraduate of an Engineering School or Business School, with a focus on information ",
-      "start_date": "2026-09-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "A Broad set of quantitative and qualitative skills\nStrong Team player\nVery good command of Excel, PowerPoint, VBA\nStrong interest and/or prior relevant experience in IT project management\nInterest and notion of bases in the field of finance / Private Equity\nEducation and Experience:",
-      "source": "workday",
-      "first_seen": "2026-05-13",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
     },
     {
       "id": "640d21f7566f",
@@ -4106,7 +4020,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "8973da24c4b9",
@@ -4133,7 +4047,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "0557df9d2873",
@@ -4161,35 +4075,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "7716a078e416",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-08",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "220a790a422a",
@@ -4210,6 +4096,34 @@
       "match_score": 43,
       "match_reasons": [
         "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-21"
+    },
+    {
+      "id": "7716a078e416",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Quantitative Finance Off-Cycle Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21636-2027-Quantitative-Finance-Off-Cycle-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-08",
+      "is_new": false,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: London",
         "Type: Internship/Stage",
         "Domain: finance",
         "Duration: 6-month / off-cycle"
@@ -4301,7 +4215,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "df964aa5f672",
@@ -4329,7 +4243,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "578d7be20f6b",
@@ -4385,7 +4299,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "57ae0503ee63",
@@ -4634,7 +4548,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "92f20208170d",
@@ -4661,7 +4575,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "ae90a6b845a0",
@@ -4688,7 +4602,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "ff29e8b1e874",
@@ -4715,7 +4629,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "a0c360ede3da",
@@ -4742,7 +4656,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "51198f437826",
@@ -4769,7 +4683,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "7827ca3f1de1",
@@ -4824,7 +4738,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "8ea868119967",
@@ -4851,7 +4765,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "966aeee2595b",
@@ -4878,7 +4792,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e8557452bff2",
@@ -4905,7 +4819,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "977c5832be3c",
@@ -4932,7 +4846,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "9856e5ea3dae",
@@ -5041,7 +4955,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e96a18ac15c7",
@@ -5068,7 +4982,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "0f2266177bf6",
@@ -5095,7 +5009,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "c5d7eb586f35",
@@ -5122,7 +5036,34 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
+    },
+    {
+      "id": "03c12d616be0",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Equity-Co-investment Stage - Juillet 2027 | Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Private-Equity-Co-investment-Stage---Juillet-2027---Paris--M-F-_JR1002339",
+      "posted_date": "Posted 5 Days Ago",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-11-17",
+      "is_new": false,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-21"
     },
     {
       "id": "b61b184a04d4",
@@ -5149,7 +5090,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e476717a4bf1",
@@ -5176,7 +5117,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "d7edcf65d485",
@@ -5230,7 +5171,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "b6c923984536",
@@ -5257,7 +5198,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "eaec3716841c",
@@ -5285,7 +5226,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "d3aaf8beb0de",
@@ -5313,7 +5254,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "5a6ba218b535",
@@ -5340,7 +5281,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5367,7 +5308,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e118228beea9",
@@ -5420,7 +5361,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "016333067964",
@@ -5446,7 +5387,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "4ddccad034f9",
@@ -5525,7 +5466,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "a92510c0711e",
@@ -5552,7 +5493,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "61a8875c151c",
@@ -5578,7 +5519,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "bac21fa1e47f",
@@ -5604,7 +5545,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "ed698f6f6015",
@@ -5630,7 +5571,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "6f7768fd3ca8",
@@ -5656,7 +5597,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "3a10877942be",
@@ -5680,7 +5621,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "9301267d5533",
@@ -5704,7 +5645,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "f656b9b1205d",
@@ -5729,23 +5670,23 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
-      "id": "8c643efbb585",
+      "id": "d17d56d6485f",
       "bank": "Ardian",
       "category": "Private Equity",
-      "title": "Private Credit Intern - December 2026 | London",
+      "title": "Secondaries & Primaries IT Project Management Intern - September 2026 | London",
       "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
-      "posted_date": "Posted 29 Days Ago",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-IT-Project-Management-Intern---September-2026---London_JR1001984",
+      "posted_date": "Posted 30+ Days Ago",
       "description": "",
       "start_date": "",
       "time_type": "",
       "duration": "",
       "requirements": "",
       "source": "workday",
-      "first_seen": "2026-10-22",
+      "first_seen": "2026-05-13",
       "is_new": false,
       "match_score": 30,
       "match_reasons": [
@@ -5755,7 +5696,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "d5681db0a3b6",
@@ -5834,7 +5775,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": true,
@@ -5867,7 +5808,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": true,
@@ -5900,7 +5841,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "expired": true,
@@ -5932,7 +5873,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "cb6dfd271dc6",
@@ -5958,7 +5899,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "e76b03b36a19",
@@ -5984,7 +5925,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "110088e44215",
@@ -6034,7 +5975,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     {
       "id": "735f878813f3",
@@ -7335,12 +7276,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 202,
+    "total_jobs": 200,
     "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 23,
-    "firms_failed": 9,
-    "firms_empty": 12,
+    "firms_scraped": 27,
+    "firms_failed": 5,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
