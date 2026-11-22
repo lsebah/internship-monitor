@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-22T15:10:51.625277+00:00",
+  "last_updated": "2026-11-22T18:47:25.551118+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 11,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 33,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 23,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "count": 24,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "count": 10,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "error",
-      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "BBVA": {
-      "status": "error",
-      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Santander": {
-      "status": "error",
-      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "error",
       "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Fidelity International": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 4,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,18 +206,18 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "error",
-      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 10,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 26,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "count": 1,
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-22T15:10:51.625277+00:00"
+      "timestamp": "2026-11-22T18:47:25.551118+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -372,27 +372,27 @@
       "last_seen": "2026-11-15"
     },
     {
-      "id": "eb0c234cb948",
+      "id": "b5e91c0f3ed6",
       "bank": "Citi",
       "category": "Investment Bank",
-      "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
-      "location": "London  United Kingdom",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Financing--Equity-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993441",
+      "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470",
       "posted_date": "Posted 30+ Days Ago",
-      "description": "You're the brains behind our work.\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti is looking for a placement analyst to join the Equity Capital Markets (ECM) team in London, from January 2027. The ECM business works with our corporate, private equity and government clients,  providing advisory services on a wide range of activities including Initial Public Offerings (IPOs), Accelerated Equity Offerings (AEOs), Rights Issues, and other types of capital-raising projects). Our bankers work closely with our other business units to ensure client access to the full range of products and expertise within the organisation.\nWe provide you with the knowledge and skills you need to succeed.\nWe’re committed to teaching you the ropes. The Equity Capital Markets placement analyst program trains and grows key players in today’s changing economic environment and will equip them with the knowledge and training they need to help companies and governments raise capital in new and innovative ways. The 6-month program starts in January 2027. Successful Placement Analysts will be considered for a full-time position after graduation.\nYour time here will look something like this...\nDeveloping pitchbooks and executing ECM mandates for Citi clients (while working closely with M&A, Financing and Debt Capital Markets teams where necessary), interacting with clients and various levels of management\nManaging the transaction process (compliance checks, committee approvals, liaising with research compliance), working with senior bankers and management on transaction terms\nAnalysing financial data and understanding financial models including stand-alone company valuations, discounted cash flow analysis, financing, comparative and pro-formal analyses\nDeveloping a regular dialogue with Citi’s sales force globally and understanding the investor base. Interacting with Citi’s network around the globe to ensure activities are coordinated across the franchise\nWe want to hear from you if...\nYou are in your penultimate year of university\nExpected to achieve or have achieved a 2:1 (or equivalent) at ",
-      "start_date": "2026-09-11",
+      "description": "Citi is looking for Placement Intern Analyst to join the Investment Banking (FIG) team in Paris in January 2027 for 6 months.\nThe Investment Banking group advises corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions. Initiatives you may be working on with clients include mergers, acquisitions, divestitures, financial restructurings, underwriting, and distributing equity, debt, and derivative securities. If none of these terms make sense right now, that’s ok, you will be an expert in 6 months!\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role in the team, and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nWe provide you with the knowledge and skills you need to succeed.\nWe’re committed to teaching you the ropes. During your 6-month placement intern analyst program you will be assigned to the France Investment Banking FIG team, where you’ll focus on financial analysis and business development.\nYour time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027\nYou are currently enrolled in a university that can provide an internship agreement\nYou have a student status and related visa covering the whole internship period.\nYou have very good knowledge of Corporate Finance and Financial Markets\nYou are fluent in French and English, both written and oral (working language). Good level in additional languages beneficial but not essential\nYou have advanced skills in PowerPoint, Excel and Word\nWho we think will be a great fit...\nA dedication to learning and a true passion for the business are vital. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the future of banking and want to make an impact on the corporate level. We val",
+      "start_date": "2026-09-08",
       "time_type": "Full time",
-      "duration": "",
-      "requirements": "Your time here will look something like this...\nDeveloping pitchbooks and executing ECM mandates for Citi clients (while working closely with M&A, Financing and Debt Capital Markets teams where necessary), interacting with clients and various levels of management\nManaging the transaction process (compliance checks, committee approvals, liaising with research compliance), working with senior bankers and management on transaction terms\nAnalysing financial data and understanding financial models including stand-alone company valuations, discounted cash flow analysis, financing, comparative and pr",
+      "duration": "6 months",
+      "requirements": "Your time here will look something like this...\nConduct research and analyze industry trends related to business development\nBuild financial models, assess valuation and explore corporate finance solutions for big-picture financial analyses\nParticipate in client development, including coordinating data with clients and assisting in presentation of new ideas to clients\nWe want to hear from you if...\nYou are available to start in January 2027",
       "source": "workday",
-      "first_seen": "2026-09-11",
+      "first_seen": "2026-09-04",
       "is_new": false,
       "match_score": 87,
       "match_reasons": [
-        "Location: London",
+        "Location: Paris",
         "Type: Internship/Stage",
-        "Domain: banking, M&A, capital markets",
-        "Level: Undergraduate",
+        "Domain: finance, banking, investment banking",
+        "Languages: French, English",
         "Duration: 6-month / off-cycle",
         "Start: Jan 2027",
         "Markets (Equities / FICC / Structuration)",
@@ -401,7 +401,7 @@
       "match_class": "excellent",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "e00873c93613",
@@ -468,6 +468,99 @@
       "last_seen": "2026-11-10"
     },
     {
+      "id": "e118228beea9",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+      "location": "Madrid  Spain",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Citi is actively seeking talented and ambitious Off-Cycle Analysts to join its dynamic Investment Banking team in Madrid, starting in January 2027. The Investment Banking group provides essential advisory services to corporate clients, assisting them with capital market fundraising initiatives and offering strategic support for a wide array of financial transactions. As an intern, you may contribute to projects involving mergers, acquisitions, divestitures, financial restructurings, as well as the underwriting and distribution of equity, debt, and derivative securities. No prior in-depth knowledge of these terms is required; our comprehensive internship program is specifically designed to enhance your understanding and equip you with the necessary skills. Regardless of your academic background, we are committed to providing the training and support essential for your success. We provide a foundational learning experience. The 6 month Internship Analyst program is set to commence in January 2027.\nAs an Off-Cycle Intern, you will become an integral member of the team and contribute directly to ongoing client projects and transaction execution. You will receive on-the-job training, mentorship and hands-on experience in a fast-paced and collaborative environment.\nResponsibilities\nDiligently collect and meticulously analyse company-specific information to facilitate transaction execution, which includes conducting thorough industry research and organizing extensive financial data.\nPerform in-depth analysis of financial data and develop robust financial models, encompassing company valuations, discounted cash flow (DCF) analysis, financing structures, and comparative analyses.\nGenerate and refine professional new business development presentations that effectively communicate complex financial concepts.\nEffectively coordinate tasks and workflow with both internal teams and external stakeholders, ensuring seamless project progression.\nPrepare all necessary internal documentation, including adherence to control and compliance regulations, to ensure operational integrity.\nAdditional Requirements\nA strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effe",
+      "start_date": "2026-09-28",
+      "time_type": "Full time",
+      "duration": "6 month",
+      "requirements": "A strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effectively.\nA steadfast commitment to continuous personal growth and career development, including demonstrating adaptability and flexibility in a dynamic work environment.\nA fervent desire to learn, a proactive attitude, and a",
+      "source": "workday",
+      "first_seen": "2026-09-24",
+      "is_new": false,
+      "match_score": 83,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking, equity",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "ff4775764120",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris---France-2027_26992458",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "You’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti is looking for Intern Analysts to join the Corporate Banking team in Paris, France in January 2027.\nCorporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. Corporate Bankers drive the client dialogue on cash management, capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions. Unique to Citi, Corporate Bankers are also responsible for credit allocation as well as relationship management.\nCorporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking, and the Capital Markets Origination. If none of these terms make sense right now, that’s ok! Our Internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe’re committed to teaching you the ropes. During the 6 months internship, you will be placed with a Corporate Banking team to work with for the duration of the Program. Top-performing Intern Analysts will return to Citi after graduation to work as a full-time Analyst.\nYour time here will look something like this...\nAs an Intern, main tasks involve:\nCredit Analysis: Financial and operational analysis, including historical and projected performance of the clients\nPreparation of materials for Risk and Business approval committees: credit memos for annual reviews and episodic transactions (e.g. M&A, DCM, ECM, project finance, etc.)\nBank’s credit exposure and capital management: Gather data through various Citi’s systems in order (1) to monitor bank’s exposure and profitability with its client, as well as (2) to produce concise analysis for the team\nAssistance in client relationship development and business origination: Research and presentation of potential relationship development in the field of numerous Citi’s products (e.g. IB, Capital Markets Origination, Treasury and Trade Services, ",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Who we think will be a great fit...",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "dac2b0f4acaa",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Relationship-Analyst--Placement-Analyst-Internship--Paris---France-2027_26992471",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "You're the brain behind our work.\nYou’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role in your team and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when.\nCiti’s is looking for RA Intern to join the Corporate Banking team in Paris, France in January 2027.\nCorporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. Corporate Bankers drive the client dialogue on cash management, capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions. Unique with Citi, Corporate Bankers are also responsible for credit allocation as well as relationship management.\nCorporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking, and the Capital Markets Origination. If none of these terms make sense right now, that’s ok! Our internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe provide you with the knowledge and skills you need to succeed.\nWe’re committed to teaching you the ropes. During the 6-month internship, you will be placed with a Corporate Banking team to work with for the duration of the Program. Top-performing RA Intern will have an opportunity to return to Citi after graduation to work as a full-time RA.\nYour time here will look like this...\nSupport the RA team in preparing credit allocation and modification requests and coordinating the required approval processes.\nLiaise with Operations and other internal stakeholders to facilitate the prioritization and timely completion of credit request workflows.\nAssist in the preparation of client materials, including facility summary list and meeting presentations\nSupport the maintenance of client information and internal databases, ensuring information remains accurate and up to date.\nAssist the team with ad hoc projects and administrative tasks as required.\nExposure to financial analysis would be considered an advantage; however, it is not a core responsibility of the rol",
+      "start_date": "2026-09-29",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Your time here will look like this...\nSupport the RA team in preparing credit allocation and modification requests and coordinating the required approval processes.\nLiaise with Operations and other internal stakeholders to facilitate the prioritization and timely completion of credit request workflows.\nAssist in the preparation of client materials, including facility summary list and meeting presentations\nSupport the maintenance of client information and internal databases, ensuring information remains accurate and up to date.\nAssist the team with ad hoc projects and administrative tasks as re",
+      "source": "workday",
+      "first_seen": "2026-09-29",
+      "is_new": false,
+      "match_score": 80,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "excellent",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "38a6f0ebecd8",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -530,6 +623,37 @@
       "last_seen": "2026-11-13"
     },
     {
+      "id": "888f4df9ed87",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "You are ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it’s honing your skills or building your network; we know that success cannot come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team. We provide you with the knowledge and skills you need to succeed.\nOur Financing DCM Team based in Paris is currently looking for an Intern Analyst to start in January 2027. We are advising our clients regarding the issuance of various fixed income products and their capital structure. As an intern analyst in the DCM team, you will get the unique opportunity to work alongside a small team where you will be able to actively participate in day-to-day tasks as well as work closely with other related departments such as Markets and Corporate & Investment Bankers.\nYour time here will look something like this...\nSupporting senior team members in the origination& execution of live transactions that include benchmark bonds, loans as well as private placements for Financial Institutions and Corporate clients, with a focus on France, Belgium, and Luxembourg.\nPreparation of pitch books during the preliminary stages of a transaction\nCollecting market information to support client coverage and decision making\nPreparation of term sheets and indicative pricing updates\nCondensing research from a vast variety of sources and prepare macro and credit market updates for our clients\nWe want to hear from you if...\nYou are available to start in January 2027\nYou are currently enrolled in a tier-1 university or top French \"Ecole de Commerce\" or \"Ecole d’Ingénieur\" that can provide an internship agreement\nYou are fluent in French and English – Another European language (Italian, Spanish…) would be desirable\nYou have excellent analytical, presentation, and numerical skills\nYou are fully proficient in Microsoft Office (Excel, PowerPoint, Word) - Bloomberg, Dealogic or FactSet knowledge would be a strong plus\nYou thrive in a fast-paced ever-changing environment\nWith student status and related visa covering the whole internship period\nWho we think will be a great fit...\nWe’re looking for motivated individuals, who are eager to grow their careers. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you.\nWe’ll also be looking for the following:\nCommitment t",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "You are fully proficient in Microsoft Office (Excel, PowerPoint, Word) - Bloomberg, Dealogic or FactSet knowledge would be a strong plus\nYou thrive in a fast-paced ever-changing environment\nWith student status and related visa covering the whole internship period\nWho we think will be a great fit...",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 77,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, capital markets, fixed income",
+        "Languages: French, English, Spanish",
+        "Start: Jan 2027",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "213f6ed513af",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -590,37 +714,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-21"
-    },
-    {
-      "id": "888f4df9ed87",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "You are ready to bring your knowledge from the classroom to the boardroom; and Citi wants to help you get there. Whether it’s honing your skills or building your network; we know that success cannot come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team. We provide you with the knowledge and skills you need to succeed.\nOur Financing DCM Team based in Paris is currently looking for an Intern Analyst to start in January 2027. We are advising our clients regarding the issuance of various fixed income products and their capital structure. As an intern analyst in the DCM team, you will get the unique opportunity to work alongside a small team where you will be able to actively participate in day-to-day tasks as well as work closely with other related departments such as Markets and Corporate & Investment Bankers.\nYour time here will look something like this...\nSupporting senior team members in the origination& execution of live transactions that include benchmark bonds, loans as well as private placements for Financial Institutions and Corporate clients, with a focus on France, Belgium, and Luxembourg.\nPreparation of pitch books during the preliminary stages of a transaction\nCollecting market information to support client coverage and decision making\nPreparation of term sheets and indicative pricing updates\nCondensing research from a vast variety of sources and prepare macro and credit market updates for our clients\nWe want to hear from you if...\nYou are available to start in January 2027\nYou are currently enrolled in a tier-1 university or top French \"Ecole de Commerce\" or \"Ecole d’Ingénieur\" that can provide an internship agreement\nYou are fluent in French and English – Another European language (Italian, Spanish…) would be desirable\nYou have excellent analytical, presentation, and numerical skills\nYou are fully proficient in Microsoft Office (Excel, PowerPoint, Word) - Bloomberg, Dealogic or FactSet knowledge would be a strong plus\nYou thrive in a fast-paced ever-changing environment\nWith student status and related visa covering the whole internship period\nWho we think will be a great fit...\nWe’re looking for motivated individuals, who are eager to grow their careers. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you.\nWe’ll also be looking for the following:\nCommitment t",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "You are fully proficient in Microsoft Office (Excel, PowerPoint, Word) - Bloomberg, Dealogic or FactSet knowledge would be a strong plus\nYou thrive in a fast-paced ever-changing environment\nWith student status and related visa covering the whole internship period\nWho we think will be a great fit...",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 77,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, capital markets, fixed income",
-        "Languages: French, English, Spanish",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
     },
     {
       "expired": false,
@@ -932,6 +1025,36 @@
       "last_seen": "2026-11-22"
     },
     {
+      "id": "c8fcbc0ee543",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris--France-2026_25908794",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "You’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team, and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when. Citi is looking for Intern Analysts to join the Corporate Banking team in Paris, France in January 2026.\nCorporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. Corporate Bankers drive the client dialogue on cash management, capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions. Unique to Citi, Corporate Bankers are also responsible for credit allocation as well as relationship management. Corporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking, and the Capital Markets Origination. If none of these terms make sense right now, that’s ok! Our Internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe’re committed to teaching you the ropes. During the 6 months internship, you will be placed with a Corporate Banking team to work with for the duration of the Program. Top-performing Intern Analysts will return to Citi after graduation to work as a full-time Analyst.\nYour time here will look something like this...\nAs an Intern, main tasks involve:\nCredit Analysis: Financial and operational analysis, including historical and projected performance of the clients\nPreparation of materials for Risk and Business approval committees: credit memos for annual reviews and episodic transactions (e.g. M&A, DCM, ECM, project finance, etc.)\nBank’s credit exposure and capital management: Gather data through various Citi’s systems in order (1) to monitor bank’s exposure and profitability with its client, as well as (2) to produce concise analysis for the team\nAssistance in client relationship development and business origination: Research and presentation of potential relationship development in the field of numerous Citi’s products (e.g. IB, Capital Markets Origination, Treasury and Trade Services,",
+      "start_date": "2025-09-30",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Who we think will be a great fit...",
+      "source": "workday",
+      "first_seen": "2026-04-17",
+      "is_new": false,
+      "match_score": 70,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: finance, banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "1da43e788089",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -1020,36 +1143,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-21"
-    },
-    {
-      "id": "c8fcbc0ee543",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris, France 2026",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris--France-2026_25908794",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "You’re ready to bring your knowledge from the classroom to the boardroom, and Citi wants to help you get there. Whether it’s honing your skills or building your network, we know that success can’t come without growth. Our programs equip you with the knowledge and training you need to play a valuable role on your team, and establish a long-term career here. At Citi, we value internal mobility, and career growth is not a question of if, but when. Citi is looking for Intern Analysts to join the Corporate Banking team in Paris, France in January 2026.\nCorporate Bankers are relationship-focused finance professionals responsible for understanding the wide range of complex financial issues facing our clients around the world. Corporate Bankers drive the client dialogue on cash management, capital structure, liability management, liquidity and funding strategies, risk management, and investment solutions. Unique to Citi, Corporate Bankers are also responsible for credit allocation as well as relationship management. Corporate Bankers work in partnership with various Citi groups across the firm including Risk Management, Investment Banking, and the Capital Markets Origination. If none of these terms make sense right now, that’s ok! Our Internship is designed to help you increase your knowledge, so whatever your degree is in we will give you the training and support you need to excel.\nWe’re committed to teaching you the ropes. During the 6 months internship, you will be placed with a Corporate Banking team to work with for the duration of the Program. Top-performing Intern Analysts will return to Citi after graduation to work as a full-time Analyst.\nYour time here will look something like this...\nAs an Intern, main tasks involve:\nCredit Analysis: Financial and operational analysis, including historical and projected performance of the clients\nPreparation of materials for Risk and Business approval committees: credit memos for annual reviews and episodic transactions (e.g. M&A, DCM, ECM, project finance, etc.)\nBank’s credit exposure and capital management: Gather data through various Citi’s systems in order (1) to monitor bank’s exposure and profitability with its client, as well as (2) to produce concise analysis for the team\nAssistance in client relationship development and business origination: Research and presentation of potential relationship development in the field of numerous Citi’s products (e.g. IB, Capital Markets Origination, Treasury and Trade Services,",
-      "start_date": "2025-09-30",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Who we think will be a great fit...",
-      "source": "workday",
-      "first_seen": "2026-04-17",
-      "is_new": false,
-      "match_score": 70,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: finance, banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
     },
     {
       "id": "532929b1998a",
@@ -1143,6 +1236,36 @@
       "last_seen": "2026-11-21"
     },
     {
+      "id": "25de18635cbd",
+      "bank": "Rothschild & Co",
+      "category": "Investment Bank",
+      "title": "Stage Assistant(e) Evénementiel - Janvier 2027",
+      "location": "Paris",
+      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Evnementiel---Janvier-2027_JR016496-1",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel recherche un(e) stagiaire pour effectuer un stage d’une durée de 6 mois à compter de Janvier 2027.\nMissions\nDirectement rattaché(e) à la Responsable des Relations Publiques, vos missions principales seront les suivantes :\nOrganisation et suivi des évènements clients,",
+      "start_date": "2026-09-23",
+      "time_type": "Full time",
+      "duration": "6 mois",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-23",
+      "is_new": false,
+      "match_score": 67,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: wealth management, asset management, advisory",
+        "Duration: 6-month / off-cycle",
+        "Start: Jan 2027",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "good",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "857369d486d5",
       "bank": "Rothschild & Co",
       "category": "Investment Bank",
@@ -1187,36 +1310,6 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-10-12",
-      "is_new": false,
-      "match_score": 67,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: wealth management, asset management, advisory",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "25de18635cbd",
-      "bank": "Rothschild & Co",
-      "category": "Investment Bank",
-      "title": "Stage Assistant(e) Evénementiel - Janvier 2027",
-      "location": "Paris",
-      "url": "https://rothschildandco.wd3.myworkdayjobs.com/en-US/RothschildAndCo_Lateral/job/Paris/Stage-Assistant-e--Evnementiel---Janvier-2027_JR016496-1",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Rothschild & Co\nRothschild & Co est un groupe international de services financiers de premier plan, contrôlé par la famille depuis sept générations et au centre des marchés financiers depuis plus de 200 ans.\nNotre expertise, notre savoir-faire et notre réseau mondial nous permettent de proposer une vision unique qui bénéficie à l’activité et la richesse de nos clients et de nos parties prenantes, en respectant notre planète.\nNos équipes de 4 200 spécialistes du conseil financier présents sur le terrain dans plus de 40 pays, apportent une vision internationale unique à travers quatre activités de premier plan – Global Advisory, Wealth Management, Asset Management et Five Arrows.\nEn notre qualité de groupe familial fondé sur les relations humaines, nous attachons une importance particulière au recrutement et au développement de carrière de nos collaborateurs afin qu'ils puissent s'épanouir dans leur parcours professionnel.\nA propos de Rothschild & Co Martin Maurel\nRothschild & Co Martin Maurel est née en 2017 du rapprochement de deux banques privées familiales et indépendantes, fondées et dirigées par la famille Rothschild et la famille Maurel, qui entretiennent des relations privilégiées depuis trois générations. Rothschild & Co Martin Maurel bénéficie d’une part de l’assise internationale du groupe Rothschild & Co, tout en disposant d’un fort ancrage régional, mais aussi de l’implication des deux familles dans la conduite stratégique du nouvel ensemble et dans les prises de décisions significatives. Nous sommes des entrepreneurs indépendants : notre modèle familial et notre esprit d’entreprise nous permettent de construire, dans la durée, une relation de confiance et de proximité avec nos clients. Notre singularité s’inscrit dans cet ADN de banque familiale. Cette qualité de relation rare conforte la confiance que nos clients nous accordent, souvent de génération en génération. Nous leur devons de veiller à la valorisation de leurs actifs et à la sécurité de leurs investissements, avec la confidentialité que ce métier exige. Professionnels expérimentés, nos banquiers tissent jour après jour des relations de confiance pérennes avec chacun de leurs clients.\nContexte\nRothschild & Co Martin Maurel recherche un(e) stagiaire pour effectuer un stage d’une durée de 6 mois à compter de Janvier 2027.\nMissions\nDirectement rattaché(e) à la Responsable des Relations Publiques, vos missions principales seront les suivantes :\nOrganisation et suivi des évènements clients,",
-      "start_date": "2026-09-23",
-      "time_type": "Full time",
-      "duration": "6 mois",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-23",
       "is_new": false,
       "match_score": 67,
       "match_reasons": [
@@ -1503,6 +1596,35 @@
       "last_seen": "2026-11-17"
     },
     {
+      "id": "0a0f022350d9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners Off Cycle Intern (London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $100B of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone’s Off Cycle program offers a unique experience among financial firms, enabling participants to develop a well-rounded perspective on business and investing.  Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the secondary private equity industry. The Off Cycle Intern will be involved in extensive valuation analysis and financial modeling of portfolio companies and funds across all private equity asset classes. The Off Cycle Intern will gain valuable experience by working on secondary transactions, co-investments, primary commitments and other unique deals.  Additional responsibilities include preparing Investment Committee memos, structuring and executing investments, and conducting various research projects.\nQualifications:\nBlackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nSincere commitment to personal and professional development\nExcellent attention to detail\nIntellectual curiosity\nGood judgement\nRequirements:\nTo be considered for the 2027 Off Cycle Intern",
+      "start_date": "2026-09-04",
+      "time_type": "Full time",
+      "duration": "6 months",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 63,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "cdd4ec32afe0",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -1596,7 +1718,7 @@
       "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
-      "posted_date": "Posted 20 Days Ago",
+      "posted_date": "Posted 26 Days Ago",
       "description": "Citi is looking for placement analysts to join the Investment Banking Healthcare team in London, from February 2027.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. During our 3-6 month placement analyst program, which starts in February 2027, you will be assigned to the IB Healthcare team. Successful placement analysts will be considered for a full time position after graduation.\nYour time here will look something like this:\nKeeping up to date on the latest news, developments and trends that are driving equity markets by using the intelligence of Citi’s global equities platform, communicating that information to your clients.\nDevelop an understanding of how companies are viewed and valued by institutional investors through speaking to some of the most important mutual fund and hedge fund managers.\nBuild financial models, assess valuation, and explore transaction opportunities for your clients\nConduct research and analyse industry trends.\nHelp to strengthen your clients’ shareholder base by conducting analysis on potential new investors.\nParticipate in client development by having an active role in building new and existing client relationships, and assisting in the presentation of new ideas to clients.\nWe want to hear from you if:\nYou are studying for a degree that allows for a 3-6-month industrial placement or have graduated.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are available to start in February 2027.\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their careers in Investment Banking. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you. We’ll also be looking for the following:\nCommitment to personal growth and career development including mobility and flexibility. You also have a strong desire to learn, are proactive, building rapport and relationships in team environments.\nDesire to develop a deep understanding of the financial industry.\nIntellectual curiosity and proactive approach to searching for new and creative ideas.\nStrong communication, planning, and organizational skills.\nUnquestioned commitment to integrity and ethical decision-making.\nInterest in business.\nWe will be recruiting on a rolling basis therefore ",
       "start_date": "2026-10-27",
       "time_type": "Full time",
@@ -1617,7 +1739,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "8fe9f7cb19f1",
@@ -1944,35 +2066,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
-    },
-    {
-      "id": "8c643efbb585",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Private Credit Intern - December 2026 | London",
-      "location": "London",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nArdian’s Private Credit team is offering an internship in the London office to assist in the identification, analysis, and execution of potential private credit investments. Ardian’s Private Credit team is one of the largest and most active private credit players in Europe, with approximately $10 billion under management. The team consists of 25 investment professionals based in London, Paris, and Frankfurt.\nJob Responsibilities:\nAssisting in investment memorandum production, including reviewing diligence and joining diligence calls, memo drafting and financial modelling\nAssisting in management of the team CRM (e.g. deal flow and pipeline tracking)\nAssisting in production of minutes following team meetings and investment committees\nInvolvement in portfolio company monitoring and supporting the production of internal updates\nSpecialised business and technical knowledge:\nHigh analytical and intellectual capability\nKnowledge of financial statement analysis, valuation techniques and competency in Excel, Word, and PowerPoint\nThe candidate should possess strong qualitative and interpersonal skills, and be a strong team player\nThis list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and ",
-      "start_date": "2026-10-22",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "This list is not exhaustive and will vary depending on the capabilities of the intern and the needs of the team.\nEducation and Experience:\nDegree either completed or due to be completed from a leading university. Minimum 2:1\nPrevious roles / internships in one of the following areas would be valuable:\n​Private Equity or Private Credit\nM&A / leveraged finance / DCM",
-      "source": "workday",
-      "first_seen": "2026-10-22",
-      "is_new": false,
-      "match_score": 60,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, M&A, equity",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-22"
     },
     {
       "id": "97ed5f970108",
@@ -2494,6 +2587,62 @@
       "last_seen": "2026-11-22"
     },
     {
+      "id": "6c1011e407fd",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate Debt Strategies\nSummer Analyst -\nPrivate Investments\n&\nCapital Markets\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nReal Estate Debt Strategies\nBlackstone’s Real Estate Debt Strategies Group (“BREDS”) provides capital solutions across the commercial real estate capital structure, focusing on the origination, acquisition, and active management of real estate debt investments globally. Summer Analysts in BREDS gain hands on exposure to the evaluation and execution of European real estate debt investments, working alongside investme",
+      "start_date": "2026-11-10",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: capital markets, risk, equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "a28d9ddf3be0",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
+      "start_date": "2026-08-10",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-08-10",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, risk, equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "61bc71e98fcd",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2519,7 +2668,35 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "e075559b8c63",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate\nPartners\nSummer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nBlackstone Real Estate Partners is seeking 202\n7\nSummer Analysts to join the following groups:\nReal Estate Acquisitions\nReal Estate Asset Management\nReal Estate Capital Markets\nReal Estate Core+\nPlease see information\nregarding\ngroups\nbelow:\nReal Estate Acquisitions\nBlackstone’s Real Estate Acquisitions Group focuses on originating,\nunderwriting\nand executing real estate investment opportunities. As a S",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have\ndemonstrated\nexcellence in prior endeavours\nThe successful candidate must\nStrong verbal and written communication skills",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: asset management, capital markets, risk",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
     },
     {
       "id": "9dddb89ef634",
@@ -3125,6 +3302,62 @@
       "last_seen": "2026-11-22"
     },
     {
+      "id": "743cd0164b30",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nSummer Analysts in\nin Private Credit Strategies gain exposure and participate in a wide range of European C",
+      "start_date": "2026-08-20",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
+      "source": "workday",
+      "first_seen": "2026-08-21",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "ef72728e7ab3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
+      "start_date": "2026-07-31",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
+      "source": "workday",
+      "first_seen": "2026-07-31",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: finance, equity, private equity",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "644795f3abe4",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -3632,6 +3865,60 @@
       "last_seen": "2026-11-22"
     },
     {
+      "id": "afd7af9c4f3d",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Technology and Innovations (BXTI), Software Engineer Summer Analyst\nBlackstone Real Estate\nBlackstone Technology & Innovations (BXTI) is the technology organization that powers one of the world's leading alternative asset managers. We build platforms, applications, data systems, and automation capabilities that help Blackstone operate at scale, make investment decisions, manage risk, and deliver value to investors and portfolio companies.\nAt BXTI, engineers work directly on business-critical systems that support Blackstone's global operations. Our teams are highly collaborative, entrepreneurial, and focused on solving complex problems with technology. Interns are treated as engineers from day one and are given opportunities to contribute meaningful work alongside experienced developers, architects, and product teams.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nAs a Summer Analyst in Software Engineering, you will help design, build, and support technology solutions used across Blackstone's businesses. Depending on team placement, you may work on software applications, cloud platforms, data systems, infrastructure automation, AI-enabled solutions, or internal developer platforms.\nYou will collaborate with engineers, product managers, data practitioners, and business stakeholders to solve real-world problems and deliver solutions that are scalable, resilient, and impactful.\nOur teams leverage modern software engineering practices, cloud technologies, automation, and data platforms, including AI-assisted development to",
+      "start_date": "2026-09-07",
+      "time_type": "Full time",
+      "duration": "10 week",
+      "requirements": "Blackstone seeks individuals who are highly motivated, intellectually curious, and excited by solving challenging problems through technology.\nSuccessful candidates will demonstrate:\nStrong programming fundamentals in any modern programming language\nAnalytical thinking and problem-solving skills\nInterest in software engineering, cloud computing, data systems, or platform technologies\nAbility to work effectively within collaborative teams",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk, equity, private equity"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "4ddccad034f9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
+      "location": "Berkeley Square House London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
+      "posted_date": "",
+      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Private\nWealth Summer\nAnalyst\n(London)\nBlackstone Private Wealth\nBlackstone Private Wealth was\nestablished\nto answer the growing demand for Blackstone products from high-net worth investors. Partnering with many of the world’s largest private banks and wealth management firms as well as family offices, Blackstone’s Private Wealth team packages and delivers the full breadth of Blackstone’s alternative product capability to these firms and their clients and provides ongoing product and advisor support, as well as education and training around alternatives.\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10-week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Private Wealth Summer Analyst program is a unique experience among financial firms, enabling analysts to gain exposure to all aspects of\nprivate wealth\nbusiness.  The\nSummer A\nnalyst role is focused on supporting several areas of\nBlackstone\nP\nrivate Wealth\nin capacities ranging from fund development\n,\nmarketing,\ncapital raising to product management\n, client\nservicing\nand business analytics.\nSummer Analyst work may include:\nSupporting our client management teams with fund due diligence, onboarding, market\nintelligence\nand fundraising\nAnalyzing business/market trends and\nproviding\ntargeted prospecting guidance to sales and service teams\nCollaborating across various Blackstone business units to drive and support Private Wealth initiatives and activities\nPresenting projects, analys\ni\ns, and key insights to senior management\nQualifications\nBlackstone\nseeks\nto hire individuals who work well in a team-driven workin",
+      "start_date": "2026-07-13",
+      "time_type": "Full time",
+      "duration": "",
+      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: wealth management, sales, equity"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
       "id": "a20be1015b59",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -4022,34 +4309,6 @@
       "last_seen": "2026-11-22"
     },
     {
-      "id": "e075559b8c63",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Partners Summer Analyst – Acquisitions, Asset Management, Capital Markets and Core+ (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Partners-Summer-Analyst---Acquisitions--Asset-Management--Capital-Markets-and-Core---London-_43155",
-      "posted_date": "",
-      "description": "43155 | Real Estate",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: asset management, capital markets",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
       "id": "7716a078e416",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -4306,7 +4565,7 @@
       "title": "Banking, Investment Banking, Real Estate, Summer Analyst, London, United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30+ Days Ago",
       "description": "26998422",
       "start_date": "",
       "time_type": "",
@@ -4325,91 +4584,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "ff4775764120",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Corporate Banking, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Placement-Analyst-Internship--Paris---France-2027_26992458",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "26992458",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "dac2b0f4acaa",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Corporate Banking, Relationship Analyst, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Corporate-Banking--Relationship-Analyst--Placement-Analyst-Internship--Paris---France-2027_26992471",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "26992471",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-29",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, corporate banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
-    },
-    {
-      "id": "b5e91c0f3ed6",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Financial Institution Group, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Investment-Banking--Financial-Institution-Group--Placement-Analyst-Internship--Paris---France-2027_26992470",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "26992470",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "cc8374be6a34",
@@ -4600,61 +4775,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-22"
-    },
-    {
-      "id": "0a0f022350d9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
-      "posted_date": "",
-      "description": "45297 | Strategic Incentives Group",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "6c1011e407fd",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-      "posted_date": "",
-      "description": "43199 | Real Estate",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: capital markets",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
     },
     {
       "id": "7827ca3f1de1",
@@ -4899,7 +5019,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "37f43abae142",
@@ -5115,7 +5235,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "b82986319db3",
@@ -5282,31 +5402,31 @@
       "last_seen": "2026-11-22"
     },
     {
-      "id": "e118228beea9",
+      "id": "eb0c234cb948",
       "bank": "Citi",
       "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-      "location": "Madrid  Spain",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+      "title": "Banking, Financing, Equity Capital Markets, Placement Analyst, London - United Kingdom 2027",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Financing--Equity-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993441",
       "posted_date": "Posted 30+ Days Ago",
-      "description": "26996278",
+      "description": "26993441",
       "start_date": "",
       "time_type": "",
       "duration": "",
       "requirements": "",
       "source": "workday",
-      "first_seen": "2026-09-24",
+      "first_seen": "2026-09-11",
       "is_new": false,
       "match_score": 33,
       "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Domain: banking, investment banking",
-        "Track privilégié: Corporate / Banking"
+        "Location: London",
+        "Domain: banking, capital markets, equity",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-22"
     },
     {
       "id": "8075763ba5d4",
@@ -5359,136 +5479,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-22"
-    },
-    {
-      "id": "afd7af9c4f3d",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
-      "posted_date": "",
-      "description": "45358",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "743cd0164b30",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
-      "posted_date": "",
-      "description": "43864 | Credit",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-21",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "a28d9ddf3be0",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
-      "posted_date": "",
-      "description": "43862 | Credit",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-08-10",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "ef72728e7ab3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-      "posted_date": "",
-      "description": "43623 | Strategic Partners",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
-    },
-    {
-      "id": "4ddccad034f9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Private Wealth Summer Analyst (London)",
-      "location": "Berkeley Square House London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Private-Wealth-Summer-Analyst--London-_43183",
-      "posted_date": "",
-      "description": "43183 | Private Wealth",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-21"
     },
     {
       "id": "9fe45823eb3d",
@@ -5741,6 +5731,58 @@
         "Location: London",
         "Domain: strategy, research",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "00bb36974f42",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Technology, Application Development, Full-Time Analyst, United Kingdom - London, 2027 (2026 Summer Intern Converts Only)",
+      "location": "London  United Kingdom",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Technology--Application-Development--Full-Time-Analyst--United-Kingdom---London--2027--2026-Summer-Intern-Converts-Only-_261006358",
+      "posted_date": "Posted 13 Days Ago",
+      "description": "261006358",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-11-22",
+      "is_new": true,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-22"
+    },
+    {
+      "id": "8c643efbb585",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Private Credit Intern - December 2026 | London",
+      "location": "London",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Private-Credit-Intern---April-2026---London_JR1002279-1",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-10-22",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
       ],
       "match_class": "low",
       "excluded": false,
@@ -7299,12 +7341,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 201,
-    "new_today": 0,
-    "high_match": 38,
-    "firms_scraped": 20,
-    "firms_failed": 12,
-    "firms_empty": 10,
+    "total_jobs": 202,
+    "new_today": 1,
+    "high_match": 41,
+    "firms_scraped": 28,
+    "firms_failed": 4,
+    "firms_empty": 15,
     "firms_total": 76
   }
 }
