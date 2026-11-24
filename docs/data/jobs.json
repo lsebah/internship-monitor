@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-23T23:00:18.412130+00:00",
+  "last_updated": "2026-11-24T02:44:01.705551+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 32,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Citi": {
-      "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Bank of America": {
       "status": "success",
-      "count": 3,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "count": 1,
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Wells Fargo": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Barclays": {
-      "status": "error",
-      "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,14 +98,14 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "error",
-      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "error",
       "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "State Street": {
       "status": "error",
       "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Invesco": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,30 +208,30 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "error",
-      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 3,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-23T23:00:18.412130+00:00"
+      "timestamp": "2026-11-24T02:44:01.705551+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -620,38 +620,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
-    },
-    {
-      "id": "4f01672a2d74",
-      "bank": "Deutsche Bank",
-      "category": "Investment Bank",
-      "title": "Rates Flow & Solutions Sales Intern (f/m/x)",
-      "location": "Paris",
-      "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Paris/Rates-Flow---Solutions-Sales-Intern--f-m-x-_R0453673",
-      "posted_date": "Posted 28 Days Ago",
-      "description": "Job Description:\nFor more than 150 years, our commitment to serving as the Global Hausbank for our clients has been powered by our people—working across approximately 60 countries and representing more than 150 nationalities. Their deep understanding, insight, expertise and passion help our clients navigate an increasingly complex world, whether through our Corporate Bank, Private Bank, Investment Bank or Asset Management division.\nIf you are motivated to take initiative, collaborate with colleagues around the world and join a community where you can grow both professionally and personally, we would be pleased to welcome you to our team.\nTogether, we can make a meaningful impact for our clients at home and abroad, supporting their long-term success and financial security.\nJoin Deutsche Bank’s Rates team in Paris for a six-month internship starting in January 2027 and contribute to the continued growth of the Paris division. Your main objective will be to assist and support the Paris-based Rates team with its day-to-day activities.\nResponsibilities\nManage the internal and external flow of information shared with clients throughout the day, including axes, runs and news flow; maintain new-issue sales books; and support booking and settlement processes for bonds and swaps.\nSupport the team with the distribution of Deutsche Bank Research and the organization of roadshows.\nImprove and maintain existing tools and spreadsheets that enable the sales team to execute transactions efficiently.\nFollow up with the Middle Office on any post-trade issues.\nSkills\nEligibility to work in France.\nAbility to provide an internship agreement.\nStrong written and verbal communication skills in both French and English are essential.\nA strong sense of commitment and the ability to work autonomously.\nA keen interest in and understanding financial products and the financial services industry.\nStrong analytical and synthesis skills, with a rigorous and detail-oriented approach.\nProven ability to use AI tools to enhance productivity, optimise workflows and solve business problems, while applying critical judgement to ensure the responsible and ethical use of data and AI-generated outputs.\nBenefits and wellbeing:\nFeeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programmes centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.",
-      "start_date": "2026-10-12",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Eligibility to work in France.\nAbility to provide an internship agreement.\nStrong written and verbal communication skills in both French and English are essential.\nA strong sense of commitment and the ability to work autonomously.\nA keen interest in and understanding financial products and the financial services industry.\nStrong analytical and synthesis skills, with a rigorous and detail-oriented approach.",
-      "source": "workday",
-      "first_seen": "2026-10-12",
-      "is_new": false,
-      "match_score": 73,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: asset management, sales, research",
-        "Languages: French, English",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "good",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "f2e6156ac46f",
@@ -772,7 +741,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": false,
@@ -804,7 +773,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": false,
@@ -836,7 +805,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "607bfc4664f2",
@@ -1550,7 +1519,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": false,
@@ -1581,7 +1550,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "327d3f4acbbb",
@@ -1611,7 +1580,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "fd9f89d1205a",
@@ -1641,7 +1610,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "464941088c97",
@@ -1786,7 +1755,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -1815,7 +1784,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "b6f5ba7934ba",
@@ -1844,7 +1813,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "f608f51d47f0",
@@ -1870,7 +1839,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "a6f01e15d261",
@@ -2131,7 +2100,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "6c1011e407fd",
@@ -2272,7 +2241,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "98836783533b",
@@ -2301,7 +2270,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "d23c22f2c608",
@@ -2330,7 +2299,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "0df08051c57b",
@@ -2359,7 +2328,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "85db60a405c4",
@@ -2388,7 +2357,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "0b8f93ece3e5",
@@ -2417,7 +2386,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "0a7e933c328f",
@@ -2446,7 +2415,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "3a506648372b",
@@ -2475,7 +2444,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "ba58a05065e4",
@@ -2504,7 +2473,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "54fe2bb80d15",
@@ -2533,7 +2502,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "3384a9189adf",
@@ -2562,7 +2531,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "794fad16fec1",
@@ -2591,7 +2560,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "de3e838c9593",
@@ -2618,7 +2587,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "e619cf06711f",
@@ -2789,7 +2758,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "4afd6bda4507",
@@ -2818,7 +2787,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "09b65cc29b0d",
@@ -2846,7 +2815,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "743cd0164b30",
@@ -2988,7 +2957,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "9d8391b790ba",
@@ -3016,7 +2985,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "f27c1058affc",
@@ -3045,7 +3014,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "1d446ccf62cd",
@@ -3242,7 +3211,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "6452a47abd58",
@@ -3270,7 +3239,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "48ac1aff9176",
@@ -3298,7 +3267,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "81b9ebd93b95",
@@ -3326,7 +3295,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "baf2ae4e816e",
@@ -3354,7 +3323,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "afd7af9c4f3d",
@@ -3436,7 +3405,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "fcb2ac675a49",
@@ -3464,7 +3433,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "f913031e9a5a",
@@ -3687,7 +3656,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "8973da24c4b9",
@@ -3714,7 +3683,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "0557df9d2873",
@@ -3742,7 +3711,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "220a790a422a",
@@ -3770,7 +3739,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "7716a078e416",
@@ -3854,7 +3823,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "df964aa5f672",
@@ -3882,7 +3851,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "578d7be20f6b",
@@ -3938,7 +3907,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "cca820f9645e",
@@ -4217,7 +4186,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "50d4b188d0a3",
@@ -4244,7 +4213,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "92f20208170d",
@@ -4271,7 +4240,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "ae90a6b845a0",
@@ -4298,7 +4267,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "ff29e8b1e874",
@@ -4325,7 +4294,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "a0c360ede3da",
@@ -4352,7 +4321,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "51198f437826",
@@ -4379,7 +4348,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "d45fee0fa7eb",
@@ -4462,7 +4431,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "8ea868119967",
@@ -4489,7 +4458,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "966aeee2595b",
@@ -4516,7 +4485,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "e8557452bff2",
@@ -4543,7 +4512,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "977c5832be3c",
@@ -4570,7 +4539,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "b20221207e5a",
@@ -4820,33 +4789,6 @@
       "last_seen": "2026-11-22"
     },
     {
-      "id": "37f43abae142",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-25",
-      "is_new": false,
-      "match_score": 37,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: trading, sales"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-09"
-    },
-    {
       "id": "985927d66b60",
       "bank": "Goldman Sachs",
       "category": "Investment Bank",
@@ -4871,7 +4813,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "e96a18ac15c7",
@@ -4898,7 +4840,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "0f2266177bf6",
@@ -4925,7 +4867,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "c5d7eb586f35",
@@ -4952,7 +4894,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "19e298b8bc57",
@@ -5033,7 +4975,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "e476717a4bf1",
@@ -5060,7 +5002,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "d7edcf65d485",
@@ -5114,7 +5056,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "b6c923984536",
@@ -5141,7 +5083,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "eaec3716841c",
@@ -5169,7 +5111,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "d3aaf8beb0de",
@@ -5197,7 +5139,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "5a6ba218b535",
@@ -5224,7 +5166,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5251,7 +5193,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "897e2d7e1981",
@@ -5278,7 +5220,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "eb0c234cb948",
@@ -5358,7 +5300,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "016333067964",
@@ -5384,33 +5326,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
-    },
-    {
-      "id": "9fe45823eb3d",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Technology Summer Analyst Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21520-2027-Technology-Summer-Analyst-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-25",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "2694e9555222",
@@ -5437,7 +5353,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "a92510c0711e",
@@ -5464,7 +5380,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "61a8875c151c",
@@ -5490,7 +5406,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "bac21fa1e47f",
@@ -5516,7 +5432,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "ed698f6f6015",
@@ -5542,7 +5458,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "6f7768fd3ca8",
@@ -5568,7 +5484,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "9301267d5533",
@@ -5592,7 +5508,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "9f824c203698",
@@ -5618,7 +5534,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "f656b9b1205d",
@@ -5643,7 +5559,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "00bb36974f42",
@@ -5854,7 +5770,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "baffd71bede1",
@@ -5880,7 +5796,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": true,
@@ -5913,7 +5829,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": true,
@@ -5946,7 +5862,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "expired": true,
@@ -5978,7 +5894,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "e76b03b36a19",
@@ -6004,32 +5920,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
-    },
-    {
-      "id": "110088e44215",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Technology Industrial Placement Programme (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21522-2027-Technology-Industrial-Placement-Programme-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-10-25",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "781dcefbbb09",
@@ -6054,7 +5945,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "735f878813f3",
@@ -7355,12 +7246,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 204,
+    "total_jobs": 200,
     "new_today": 0,
-    "high_match": 32,
-    "firms_scraped": 26,
-    "firms_failed": 6,
-    "firms_empty": 15,
+    "high_match": 31,
+    "firms_scraped": 23,
+    "firms_failed": 9,
+    "firms_empty": 14,
     "firms_total": 76
   }
 }
