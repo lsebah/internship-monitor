@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-24T18:46:37.268490+00:00",
+  "last_updated": "2026-11-24T21:39:51.129481+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
-      "count": 32,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "count": 30,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "count": 9,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Wells Fargo": {
-      "status": "error",
-      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "error",
-      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,14 +98,14 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Julius Baer": {
-      "status": "error",
-      "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Fidelity International": {
-      "status": "error",
-      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 9,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 3,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-24T18:46:37.268490+00:00"
+      "timestamp": "2026-11-24T21:39:51.129481+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -434,37 +434,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-10"
-    },
-    {
-      "id": "e118228beea9",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
-      "location": "Madrid  Spain",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "Citi is actively seeking talented and ambitious Off-Cycle Analysts to join its dynamic Investment Banking team in Madrid, starting in January 2027. The Investment Banking group provides essential advisory services to corporate clients, assisting them with capital market fundraising initiatives and offering strategic support for a wide array of financial transactions. As an intern, you may contribute to projects involving mergers, acquisitions, divestitures, financial restructurings, as well as the underwriting and distribution of equity, debt, and derivative securities. No prior in-depth knowledge of these terms is required; our comprehensive internship program is specifically designed to enhance your understanding and equip you with the necessary skills. Regardless of your academic background, we are committed to providing the training and support essential for your success. We provide a foundational learning experience. The 6 month Internship Analyst program is set to commence in January 2027.\nAs an Off-Cycle Intern, you will become an integral member of the team and contribute directly to ongoing client projects and transaction execution. You will receive on-the-job training, mentorship and hands-on experience in a fast-paced and collaborative environment.\nResponsibilities\nDiligently collect and meticulously analyse company-specific information to facilitate transaction execution, which includes conducting thorough industry research and organizing extensive financial data.\nPerform in-depth analysis of financial data and develop robust financial models, encompassing company valuations, discounted cash flow (DCF) analysis, financing structures, and comparative analyses.\nGenerate and refine professional new business development presentations that effectively communicate complex financial concepts.\nEffectively coordinate tasks and workflow with both internal teams and external stakeholders, ensuring seamless project progression.\nPrepare all necessary internal documentation, including adherence to control and compliance regulations, to ensure operational integrity.\nAdditional Requirements\nA strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effe",
-      "start_date": "2026-09-28",
-      "time_type": "Full time",
-      "duration": "6 month",
-      "requirements": "A strong eagerness to cultivate a profound understanding of the financial industry and its intricate mechanisms.\nExhibit intellectual curiosity, demonstrating a proactive and innovative approach to identifying and exploring new ideas and solutions.\nPossess excellent communication skills, coupled with strong planning and organizational abilities to manage multiple tasks effectively.\nA steadfast commitment to continuous personal growth and career development, including demonstrating adaptability and flexibility in a dynamic work environment.\nA fervent desire to learn, a proactive attitude, and a",
-      "source": "workday",
-      "first_seen": "2026-09-24",
-      "is_new": false,
-      "match_score": 83,
-      "match_reasons": [
-        "Location: Madrid (preferred)",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking, equity",
-        "Duration: 6-month / off-cycle",
-        "Start: Jan 2027",
-        "Markets (Equities / FICC / Structuration)",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "excellent",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-23"
     },
     {
       "id": "38a6f0ebecd8",
@@ -1288,35 +1257,6 @@
       "last_seen": "2026-11-17"
     },
     {
-      "id": "0a0f022350d9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners Off Cycle Intern (London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $100B of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone’s Off Cycle program offers a unique experience among financial firms, enabling participants to develop a well-rounded perspective on business and investing.  Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the secondary private equity industry. The Off Cycle Intern will be involved in extensive valuation analysis and financial modeling of portfolio companies and funds across all private equity asset classes. The Off Cycle Intern will gain valuable experience by working on secondary transactions, co-investments, primary commitments and other unique deals.  Additional responsibilities include preparing Investment Committee memos, structuring and executing investments, and conducting various research projects.\nQualifications:\nBlackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties\nSincere commitment to personal and professional development\nExcellent attention to detail\nIntellectual curiosity\nGood judgement\nRequirements:\nTo be considered for the 2027 Off Cycle Intern",
-      "start_date": "2026-09-04",
-      "time_type": "Full time",
-      "duration": "6 months",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 63,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
       "id": "cdd4ec32afe0",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2103,62 +2043,6 @@
       "last_seen": "2026-11-24"
     },
     {
-      "id": "6c1011e407fd",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n202\n7\nBlackstone Real Estate Debt Strategies\nSummer Analyst -\nPrivate Investments\n&\nCapital Markets\n(London)\nBlackstone Real Estate\nBlackstone is a global leader in real estate investing. Blackstone’s real estate business was founded in 1991 and has US\n$319\nbillion\nof\ninvestor capital under management. Blackstone is the largest owner of commercial real estate globally,\nowning\nand operating assets across every major geography and sector, including\nlogistics\n, data centers, residential, office and hospitality. Our opportunistic funds\nseek\nto\nacquire\nundermanaged, well-located assets across the world. Blackstone’s Core+ business invests in\nsubstantially stabilized\nreal estate assets globally, through both institutional strategies and strategies tailored for income-focused individual investors including Blackstone Real Estate Income Trust, Inc. (BREIT). Blackstone Real Estate also\noperates\none of the leading global real estate debt businesses, providing comprehensive financing solutions across the capital structure and risk spectrum, including management of Blackstone Mortgage Trust (NYSE: BXMT).\nProgramme\nDescription\nBlackstone's Summer Analyst Program is a\n10 week\nin-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nReal Estate Debt Strategies\nBlackstone’s Real Estate Debt Strategies Group (“BREDS”) provides capital solutions across the commercial real estate capital structure, focusing on the origination, acquisition, and active management of real estate debt investments globally. Summer Analysts in BREDS gain hands on exposure to the evaluation and execution of European real estate debt investments, working alongside investme",
-      "start_date": "2026-11-10",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone\nto hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound\njudgment\nand have\ndemonstrated\nexcellence in prior endeavors.",
-      "source": "workday",
-      "first_seen": "2026-06-15",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: capital markets, risk, equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "a28d9ddf3be0",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nInfrastructure & Asset-Based Credit Group\nBXCI’s Infrastructure & Asset-Based Credit Group (“IABC”) manages $90 billion of assets under management and includes ~70 investment professionals across North America, Europe, and Asia. The global platform invests in a broad range of credit assets secured by physical or financial collateral, with deep expertise in commercial finance, consumer finance, leasing, and infrastructure, among other sectors. IABC benefits from Blackstone’s vast insights and consistent investment approach to inv",
-      "start_date": "2026-08-10",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-08-10",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, risk, equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
       "id": "61bc71e98fcd",
       "bank": "Blackstone",
       "category": "Private Equity",
@@ -2294,64 +2178,6 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: banking, corporate banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "85db60a405c4",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, Jan - March",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170844",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-26",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
-        "Duration: 6-month / off-cycle",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "0b8f93ece3e5",
-      "bank": "Goldman Sachs",
-      "category": "Investment Bank",
-      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, April - June",
-      "location": "Paris, Ile-de-France, France",
-      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170843",
-      "posted_date": "2026-08-15",
-      "description": " ",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oracle_hcm",
-      "first_seen": "2026-05-26",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, investment banking",
         "Duration: 6-month / off-cycle",
         "Track privilégié: Corporate / Banking"
       ],
@@ -2528,6 +2354,64 @@
         "Domain: trading, sales",
         "Duration: 6-month / off-cycle",
         "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "85db60a405c4",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, Jan - March",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170844",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-26",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "0b8f93ece3e5",
+      "bank": "Goldman Sachs",
+      "category": "Investment Bank",
+      "title": "2027 | EMEA | Paris | Investment Banking, Classic | Seasonal/Off Cycle Internship, April - June",
+      "location": "Paris, Ile-de-France, France",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/170843",
+      "posted_date": "2026-08-15",
+      "description": " ",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oracle_hcm",
+      "first_seen": "2026-05-26",
+      "is_new": false,
+      "match_score": 53,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, investment banking",
+        "Duration: 6-month / off-cycle",
+        "Track privilégié: Corporate / Banking"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -2783,62 +2667,6 @@
         "Type: Internship/Stage",
         "Domain: trading, sales",
         "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "743cd0164b30",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)\nBlackstone\nBlackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s nearly $1.2 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\nBlackstone Credit & Insurance\nBlackstone Credit & Insurance (“BXCI”) is one of the world’s leading credit investors. Our investments span the credit markets, including private investment grade, asset based lending, public investment grade and high yield, sustainable resources, infrastructure debt, collateralized loan obligations, direct lending and opportunistic credit. We seek to generate attractive risk-adjusted returns for institutional and individual investors by offering companies capital needed to strengthen and grow their businesses. BXCI is also a leading provider of investment management services for insurers, helping those companies better deliver for policyholders through our world-class capabilities in investment grade private credit.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nSummer Analysts in\nin Private Credit Strategies gain exposure and participate in a wide range of European C",
-      "start_date": "2026-08-20",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong communication skills\nA demonstrated ability to write effectively\nBe a collaborative team player with solid work ethic\nExcellent attention to detail",
-      "source": "workday",
-      "first_seen": "2026-08-21",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "ef72728e7ab3",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Strategic Partners,\nReal Estate\nSecondaries Summer Analyst\n(London)\nStrategic Partners\nBlackstone Strategic Partners is a global capital solutions provider, with $\n100\nB of investor capital under management. We offer a range of liquidity opportunities to both limited and general partners, including secondaries, GP Stakes and co-investments across private markets. Founded in 2000, we are one of the world’s largest and most established secondaries platforms.\nProgramme Description:\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nBlackstone’s Summer Analyst program offers a unique experience among financial firms, enabling participants to enhance their perspective on business and investing. Strategic Partners provides the opportunity to join one of the most active and long-tenured investment teams in the\nreal estate\nsecondaries industry.\nSummer Analyst work may include:\nThe real estate vertical is a dedicated group of individuals within Strategic Partners focused exclusively on real estate secondaries investing. The Strategic Partners Real Estate Secondaries Summer Analyst will be involved in extensive valuation analysis and financial modeling of real estate funds and properties across all geographies and asset classes, including multifamily, industrial and logistics, hospitality, retail and niche sectors such as cold storage and data centers. The Strategic Partners Real Estate Secondaries Summer Analyst will gain valuable experience by working on secondary transactions, fund and asset-level recapitalizations, co-investments, primary commitments",
-      "start_date": "2026-07-31",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks to hire individuals who work well in a team-driven working group, are highly motivated, intelligent, have sound judgment and have demonstrated excellence in prior endeavors.\nThe successful candidate must possess:\nStrong verbal and written communication skills\nA desire to work in a team environment with dynamic roles\nA basic knowledge of accounting and finance\nSelf-motivation to find solutions independently, and humility to acknowledge limits and uncertainties",
-      "source": "workday",
-      "first_seen": "2026-07-31",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: finance, equity, private equity",
-        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3291,33 +3119,6 @@
         "Type: Internship/Stage",
         "Domain: trading, sales",
         "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "afd7af9c4f3d",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
-      "posted_date": "",
-      "description": "Blackstone is the world’s largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone’s over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at\nwww.blackstone.com\n. Follow @blackstone on\nLinkedIn\n,\nX (Twitter)\n, and\nInstagram\n.\n2027 Blackstone Technology and Innovations (BXTI), Software Engineer Summer Analyst\nBlackstone Real Estate\nBlackstone Technology & Innovations (BXTI) is the technology organization that powers one of the world's leading alternative asset managers. We build platforms, applications, data systems, and automation capabilities that help Blackstone operate at scale, make investment decisions, manage risk, and deliver value to investors and portfolio companies.\nAt BXTI, engineers work directly on business-critical systems that support Blackstone's global operations. Our teams are highly collaborative, entrepreneurial, and focused on solving complex problems with technology. Interns are treated as engineers from day one and are given opportunities to contribute meaningful work alongside experienced developers, architects, and product teams.\nProgramme Description\nBlackstone's Summer Analyst Program is a 10 week in-person experience, offering participants extensive exposure across the firm. This program provides Summer Analysts with valuable guidance through mentorship, continuous feedback, technical and soft skill training, networking opportunities with professionals across the firm and the unique chance to fully immerse themselves in Blackstone's culture.\nJob Description\nAs a Summer Analyst in Software Engineering, you will help design, build, and support technology solutions used across Blackstone's businesses. Depending on team placement, you may work on software applications, cloud platforms, data systems, infrastructure automation, AI-enabled solutions, or internal developer platforms.\nYou will collaborate with engineers, product managers, data practitioners, and business stakeholders to solve real-world problems and deliver solutions that are scalable, resilient, and impactful.\nOur teams leverage modern software engineering practices, cloud technologies, automation, and data platforms, including AI-assisted development to",
-      "start_date": "2026-09-07",
-      "time_type": "Full time",
-      "duration": "10 week",
-      "requirements": "Blackstone seeks individuals who are highly motivated, intellectually curious, and excited by solving challenging problems through technology.\nSuccessful candidates will demonstrate:\nStrong programming fundamentals in any modern programming language\nAnalytical thinking and problem-solving skills\nInterest in software engineering, cloud computing, data systems, or platform technologies\nAbility to work effectively within collaborative teams",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk, equity, private equity"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3939,6 +3740,34 @@
       "last_seen": "2026-11-22"
     },
     {
+      "id": "888f4df9ed87",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
+      "location": "Paris  France",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "26992465",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 43,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: banking, capital markets",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
       "id": "c8fcbc0ee543",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -3964,7 +3793,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "ff4775764120",
@@ -3992,35 +3821,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
-    },
-    {
-      "id": "888f4df9ed87",
-      "bank": "Citi",
-      "category": "Investment Bank",
-      "title": "Banking, Financing, Debt Capital Markets, Placement Analyst Internship, Paris - France 2027",
-      "location": "Paris  France",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Paris--France/Banking--Financing--Debt-Capital-Markets--Placement-Analyst-Internship--Paris---France-2027_26992465",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "26992465",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 43,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: banking, capital markets",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "dac2b0f4acaa",
@@ -4048,7 +3849,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "b5e91c0f3ed6",
@@ -4076,7 +3877,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "02b6c0c4f148",
@@ -4315,6 +4116,61 @@
       "match_score": 40,
       "match_reasons": [
         "Location: Paris",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "6c1011e407fd",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Real Estate Debt Strategies Summer Analyst - Private Investments & Capital Markets (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Real-Estate-Debt-Strategies-Summer-Analyst---Private-Investments---Capital-Markets--London-_43199",
+      "posted_date": "",
+      "description": "43199 | Real Estate",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-06-15",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: capital markets",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "0a0f022350d9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
+      "posted_date": "",
+      "description": "45297 | Strategic Incentives Group",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: London",
         "Type: Internship/Stage",
         "Duration: 6-month / off-cycle"
       ],
@@ -5196,6 +5052,33 @@
       "last_seen": "2026-11-24"
     },
     {
+      "id": "e118228beea9",
+      "bank": "Citi",
+      "category": "Investment Bank",
+      "title": "Banking, Investment Banking, Placement Analyst, Madrid - Spain 2027",
+      "location": "Madrid  Spain",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Madrid--Spain/Banking--Investment-Banking--Placement-Analyst--Madrid---Spain-2027_26996278",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "26996278",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-24",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: Madrid (preferred)",
+        "Domain: banking, investment banking",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
       "id": "eb0c234cb948",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -5220,7 +5103,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "7a15baa37efc",
@@ -5290,6 +5173,110 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-10-12",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "afd7af9c4f3d",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Technology & Innovations - Software Engineer Summer Analyst",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358",
+      "posted_date": "",
+      "description": "45358",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "743cd0164b30",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Private Credit Strategies Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Private-Credit-Strategies-Summer-Analyst--London-_43864",
+      "posted_date": "",
+      "description": "43864 | Credit",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-21",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "a28d9ddf3be0",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Credit and Insurance, Infrastructure and Asset Based Credit Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Infrastructure-and-Asset-Based-Credit-Summer-Analyst--London-_43862",
+      "posted_date": "",
+      "description": "43862 | Credit",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-08-10",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-24"
+    },
+    {
+      "id": "ef72728e7ab3",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Real Estate Secondaries Summer Analyst (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Real-Estate-Secondaries-Summer-Analyst--London-_43623",
+      "posted_date": "",
+      "description": "43623 | Strategic Partners",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-31",
       "is_new": false,
       "match_score": 30,
       "match_reasons": [
@@ -5593,7 +5580,7 @@
       "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
-      "posted_date": "Posted 27 Days Ago",
+      "posted_date": "Posted 28 Days Ago",
       "description": "261003080",
       "start_date": "",
       "time_type": "",
@@ -5611,7 +5598,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "8c643efbb585",
@@ -5725,7 +5712,7 @@
       "title": "Banking, Financing, Debt Capital Markets, Placement Analyst, London - United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Financing--Debt-Capital-Markets--Placement-Analyst--London---United-Kingdom-2027_26993437",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "26993437",
       "start_date": "",
       "time_type": "",
@@ -5743,7 +5730,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     {
       "id": "db20e8e6fe18",
@@ -7247,10 +7234,10 @@
   "stats": {
     "total_jobs": 200,
     "new_today": 0,
-    "high_match": 31,
-    "firms_scraped": 26,
-    "firms_failed": 6,
-    "firms_empty": 14,
+    "high_match": 30,
+    "firms_scraped": 28,
+    "firms_failed": 4,
+    "firms_empty": 17,
     "firms_total": 76
   }
 }
