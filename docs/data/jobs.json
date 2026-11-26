@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-25T23:58:26.685581+00:00",
+  "last_updated": "2026-11-26T17:39:16.099874+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Citi": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Wells Fargo": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Deutsche Bank": {
       "status": "error",
       "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Barclays": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Santander": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "State Street": {
       "status": "error",
       "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Invesco": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,9 +206,9 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "success",
-      "count": 9,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T23:58:26.685581+00:00"
+      "timestamp": "2026-11-26T17:39:16.099874+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -776,7 +776,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "8d8531fe1186",
@@ -897,7 +897,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": false,
@@ -929,7 +929,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": false,
@@ -961,7 +961,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "c8fcbc0ee543",
@@ -1736,7 +1736,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": false,
@@ -1767,7 +1767,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "327d3f4acbbb",
@@ -1797,7 +1797,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "fd9f89d1205a",
@@ -1827,7 +1827,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "464941088c97",
@@ -2001,7 +2001,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2030,7 +2030,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "b6f5ba7934ba",
@@ -2059,7 +2059,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "f608f51d47f0",
@@ -2085,7 +2085,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "a6f01e15d261",
@@ -2346,7 +2346,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "61bc71e98fcd",
@@ -2403,7 +2403,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "98836783533b",
@@ -2432,7 +2432,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "d23c22f2c608",
@@ -2461,7 +2461,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "0df08051c57b",
@@ -2490,7 +2490,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "0a7e933c328f",
@@ -2519,7 +2519,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "3a506648372b",
@@ -2548,7 +2548,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "ba58a05065e4",
@@ -2577,7 +2577,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "54fe2bb80d15",
@@ -2606,7 +2606,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "3384a9189adf",
@@ -2635,7 +2635,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "794fad16fec1",
@@ -2664,7 +2664,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "85db60a405c4",
@@ -2749,7 +2749,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e619cf06711f",
@@ -2863,7 +2863,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "4afd6bda4507",
@@ -2892,7 +2892,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "09b65cc29b0d",
@@ -2920,7 +2920,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "644795f3abe4",
@@ -3006,7 +3006,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "9d8391b790ba",
@@ -3034,7 +3034,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "f27c1058affc",
@@ -3063,7 +3063,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "8826dc5019b5",
@@ -3148,7 +3148,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "6452a47abd58",
@@ -3176,7 +3176,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "48ac1aff9176",
@@ -3204,7 +3204,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "81b9ebd93b95",
@@ -3232,7 +3232,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "baf2ae4e816e",
@@ -3260,7 +3260,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "a20be1015b59",
@@ -3288,7 +3288,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "fcb2ac675a49",
@@ -3316,7 +3316,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "f913031e9a5a",
@@ -3372,7 +3372,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "1d446ccf62cd",
@@ -3540,7 +3540,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "8973da24c4b9",
@@ -3567,7 +3567,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "0557df9d2873",
@@ -3595,7 +3595,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "220a790a422a",
@@ -3623,7 +3623,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e075559b8c63",
@@ -3735,7 +3735,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "df964aa5f672",
@@ -3763,7 +3763,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "578d7be20f6b",
@@ -3819,7 +3819,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "cca820f9645e",
@@ -3902,7 +3902,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "50d4b188d0a3",
@@ -3929,7 +3929,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "92f20208170d",
@@ -3956,7 +3956,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "ae90a6b845a0",
@@ -3983,7 +3983,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "ff29e8b1e874",
@@ -4010,7 +4010,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "a0c360ede3da",
@@ -4037,7 +4037,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "51198f437826",
@@ -4202,7 +4202,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "8ea868119967",
@@ -4229,7 +4229,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "966aeee2595b",
@@ -4256,7 +4256,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e8557452bff2",
@@ -4283,7 +4283,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "977c5832be3c",
@@ -4310,7 +4310,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "b20221207e5a",
@@ -4611,7 +4611,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e96a18ac15c7",
@@ -4638,7 +4638,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "0f2266177bf6",
@@ -4665,7 +4665,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "c5d7eb586f35",
@@ -4692,7 +4692,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "19e298b8bc57",
@@ -4827,7 +4827,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e476717a4bf1",
@@ -4854,7 +4854,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "d7edcf65d485",
@@ -4881,7 +4881,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "b82986319db3",
@@ -4908,7 +4908,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "b6c923984536",
@@ -4935,7 +4935,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "eaec3716841c",
@@ -4963,7 +4963,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "d3aaf8beb0de",
@@ -4991,7 +4991,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "5a6ba218b535",
@@ -5018,7 +5018,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5045,7 +5045,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "897e2d7e1981",
@@ -5072,7 +5072,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "7a15baa37efc",
@@ -5125,7 +5125,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "016333067964",
@@ -5151,7 +5151,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "afd7af9c4f3d",
@@ -5308,7 +5308,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "a92510c0711e",
@@ -5335,7 +5335,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "61a8875c151c",
@@ -5361,7 +5361,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "bac21fa1e47f",
@@ -5387,7 +5387,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "ed698f6f6015",
@@ -5413,7 +5413,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "6f7768fd3ca8",
@@ -5439,7 +5439,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "9301267d5533",
@@ -5463,7 +5463,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "9f824c203698",
@@ -5489,7 +5489,32 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
+    },
+    {
+      "id": "f656b9b1205d",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Solutions Graduate Analyst",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
+      "posted_date": "2026-11-23",
+      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\n2027 Solutions Graduate Programme\nAbout Man Solutions:\nMan Solutions is a seasoned team of investment experts and innovators who are dedicated to the mission of delivering alpha via multi-strategy products and bespoke investment solutions for our clients.\nThe Solutions business is defined by its entrepreneurial spirit and culture of excellence.  We are responsible for all cross-content and customised solutions at Man.  We prioritise attracting exceptional talent and broadening our range of expertise, whilst remaining focussed on delivering superior performance to our clients.\nWe believe that our ability to recruit and develop the top talent in the industry is at the heart of our success.  Our philosophy is to recruit exceptional people of all levels, and to ensure everyone has the opportunity to realise their potential.  We look for people who are differentiated in their thinking and who, by challenging convictions, provide a collaborative yet independent approach to investing.\nWhat will I do on the Solutions Graduate Programme:\nSuccessful candidates for the Solutions Graduat",
+      "duration": "",
+      "requirements": "University degree in a relevant subject at a minimum 2:1 level.\nKeen interest in financial markets.\nExcellent organisational and time management skills to succeed in a fast-paced environment.\nAbility to take ownership and work independently as well as on a team.\nProven proficiency in problem resolution and demonstrated initiative.\nSuperior attention to detail.",
+      "source": "greenhouse",
+      "first_seen": "2026-11-20",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: London",
+        "Domain: strategy, research",
+        "Markets (Equities / FICC / Structuration)"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-26"
     },
     {
       "id": "00bb36974f42",
@@ -5776,7 +5801,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "baffd71bede1",
@@ -5802,7 +5827,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": true,
@@ -5835,7 +5860,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": true,
@@ -5868,7 +5893,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "expired": true,
@@ -5900,7 +5925,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "e76b03b36a19",
@@ -5926,7 +5951,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "781dcefbbb09",
@@ -5951,7 +5976,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "735f878813f3",
@@ -5977,29 +6002,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
-    },
-    {
-      "id": "f656b9b1205d",
-      "bank": "Man Group",
-      "category": "Hedge Fund",
-      "title": "Solutions Graduate Analyst",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
-      "posted_date": "2026-11-23",
-      "description": "",
-      "duration": "",
-      "requirements": "",
-      "source": "greenhouse",
-      "first_seen": "2026-11-20",
-      "is_new": false,
-      "match_score": 17,
-      "match_reasons": [
-        "Location: London"
-      ],
-      "match_class": "minimal",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
     },
     {
       "id": "f6b7c3feca7f",
@@ -7278,9 +7280,9 @@
     "total_jobs": 201,
     "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 28,
-    "firms_failed": 4,
-    "firms_empty": 18,
+    "firms_scraped": 20,
+    "firms_failed": 12,
+    "firms_empty": 11,
     "firms_total": 76
   }
 }
