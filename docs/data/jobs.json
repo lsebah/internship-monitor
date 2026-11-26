@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-25T20:47:40.230457+00:00",
+  "last_updated": "2026-11-25T23:58:26.685581+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 24,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 13,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "count": 0,
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Wells Fargo": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Deutsche Bank": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Barclays": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "count": 0,
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -66,24 +66,24 @@
       "count": 0
     },
     "Rothschild & Co": {
-      "status": "error",
-      "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "BBVA": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Julius Baer": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,12 +133,12 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Invesco": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "PIMCO": {
       "status": "link_only",
@@ -147,7 +147,7 @@
     "Vanguard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "success",
       "count": 9,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,7 +217,7 @@
     "Apollo Global Management": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -225,13 +225,13 @@
     },
     "Ardian": {
       "status": "success",
-      "count": 9,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "count": 0,
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-25T20:47:40.230457+00:00"
+      "timestamp": "2026-11-25T23:58:26.685581+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -5492,31 +5492,6 @@
       "last_seen": "2026-11-25"
     },
     {
-      "id": "f656b9b1205d",
-      "bank": "Man Group",
-      "category": "Hedge Fund",
-      "title": "Solutions Graduate Analyst",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
-      "posted_date": "2026-11-23",
-      "description": "About Man Group\nMan Group is a global alternative investment management firm focused on pursuing outperformance for sophisticated clients via our Systematic, Discretionary and Solutions offerings. Powered by talent and advanced technology, our single and multi-manager investment strategies are underpinned by deep research and span public and private markets, across all major asset classes, with a significant focus on alternatives. Man Group takes a partnership approach to working with clients, establishing deep connections and creating tailored solutions to meet their investment goals and those of the millions of retirees and savers they represent.\nHeadquartered in London, we manage $253.6 billion* and operate across multiple offices globally. Man Group plc is listed on the London Stock Exchange under the ticker EMG.LN and is a constituent of the FTSE 250 Index. Further information can be found at\nwww.man.com\nAt Man Group, we respect your privacy and we are committed to protecting and safeguarding your Personal Data. We have developed policies and processes which are designed to provide for the security and integrity of your Personal Data. We are committed to Processing your Personal Data fairly and lawfully, and being open and transparent about such Processing. For further information on how we process your data, please see the privacy notice for applicants\nhere.\n* As at 30 June 2026\n2027 Solutions Graduate Programme\nAbout Man Solutions:\nMan Solutions is a seasoned team of investment experts and innovators who are dedicated to the mission of delivering alpha via multi-strategy products and bespoke investment solutions for our clients.\nThe Solutions business is defined by its entrepreneurial spirit and culture of excellence.  We are responsible for all cross-content and customised solutions at Man.  We prioritise attracting exceptional talent and broadening our range of expertise, whilst remaining focussed on delivering superior performance to our clients.\nWe believe that our ability to recruit and develop the top talent in the industry is at the heart of our success.  Our philosophy is to recruit exceptional people of all levels, and to ensure everyone has the opportunity to realise their potential.  We look for people who are differentiated in their thinking and who, by challenging convictions, provide a collaborative yet independent approach to investing.\nWhat will I do on the Solutions Graduate Programme:\nSuccessful candidates for the Solutions Graduat",
-      "duration": "",
-      "requirements": "University degree in a relevant subject at a minimum 2:1 level.\nKeen interest in financial markets.\nExcellent organisational and time management skills to succeed in a fast-paced environment.\nAbility to take ownership and work independently as well as on a team.\nProven proficiency in problem resolution and demonstrated initiative.\nSuperior attention to detail.",
-      "source": "greenhouse",
-      "first_seen": "2026-11-20",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: London",
-        "Domain: strategy, research",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
-    },
-    {
       "id": "00bb36974f42",
       "bank": "Citi",
       "category": "Investment Bank",
@@ -5766,7 +5741,7 @@
       "requirements": "",
       "source": "workday",
       "first_seen": "2026-11-25",
-      "is_new": true,
+      "is_new": false,
       "match_score": 30,
       "match_reasons": [
         "Location: London",
@@ -6002,6 +5977,29 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
+    },
+    {
+      "id": "f656b9b1205d",
+      "bank": "Man Group",
+      "category": "Hedge Fund",
+      "title": "Solutions Graduate Analyst",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
+      "posted_date": "2026-11-23",
+      "description": "",
+      "duration": "",
+      "requirements": "",
+      "source": "greenhouse",
+      "first_seen": "2026-11-20",
+      "is_new": false,
+      "match_score": 17,
+      "match_reasons": [
+        "Location: London"
+      ],
+      "match_class": "minimal",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-25"
     },
     {
       "id": "f6b7c3feca7f",
@@ -7278,10 +7276,10 @@
   ],
   "stats": {
     "total_jobs": 201,
-    "new_today": 1,
+    "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 31,
-    "firms_failed": 1,
+    "firms_scraped": 28,
+    "firms_failed": 4,
     "firms_empty": 18,
     "firms_total": 76
   }
