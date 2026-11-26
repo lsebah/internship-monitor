@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-26T17:39:16.099874+00:00",
+  "last_updated": "2026-11-26T20:39:45.874442+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 24,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "count": 23,
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Citi": {
       "status": "error",
       "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Wells Fargo": {
       "status": "error",
       "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Deutsche Bank": {
       "status": "error",
       "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Barclays": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Santander": {
-      "status": "error",
-      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "error",
-      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Fidelity International": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Invesco": {
       "status": "error",
       "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,16 +208,16 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "KKR": {
       "status": "link_only",
       "count": 0
     },
     "Apollo Global Management": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
@@ -226,12 +226,12 @@
     "Ardian": {
       "status": "error",
       "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T17:39:16.099874+00:00"
+      "timestamp": "2026-11-26T20:39:45.874442+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -2837,35 +2837,6 @@
       "last_seen": "2026-11-21"
     },
     {
-      "id": "03a8c20baadd",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-25",
-      "is_new": false,
-      "match_score": 50,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: fixed income",
-        "Duration: 6-month / off-cycle",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-26"
-    },
-    {
       "id": "4afd6bda4507",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -2916,6 +2887,35 @@
         "Type: Internship/Stage",
         "Domain: trading, sales",
         "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-26"
+    },
+    {
+      "id": "03a8c20baadd",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management  Off-cycle Internship – Fixed Income (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22234-2027-Investment-Management-Off-cycle-Internship-Fixed-Income-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-25",
+      "is_new": false,
+      "match_score": 50,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: fixed income",
+        "Duration: 6-month / off-cycle",
+        "Markets (Equities / FICC / Structuration)"
       ],
       "match_class": "moderate",
       "excluded": false,
@@ -3179,34 +3179,6 @@
       "last_seen": "2026-11-26"
     },
     {
-      "id": "48ac1aff9176",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-24",
-      "is_new": false,
-      "match_score": 47,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: equity, private equity",
-        "Duration: 6-month / off-cycle"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-26"
-    },
-    {
       "id": "81b9ebd93b95",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -3255,6 +3227,34 @@
         "Location: Paris",
         "Type: Internship/Stage",
         "Domain: trading, sales",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "moderate",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-26"
+    },
+    {
+      "id": "48ac1aff9176",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Investment Management Off Cycle Internship - Private Equity Solutions (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22233-2027-Investment-Management-Off-Cycle-Internship-Private-Equity-Solutions-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-24",
+      "is_new": false,
+      "match_score": 47,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: equity, private equity",
         "Duration: 6-month / off-cycle"
       ],
       "match_class": "moderate",
@@ -4530,6 +4530,33 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-12"
+    },
+    {
+      "id": "37f43abae142",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 Sales &amp; Trading Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/21511-2027-Sales-Trading-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-11-26",
+      "is_new": true,
+      "match_score": 37,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: trading, sales"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-26"
     },
     {
       "id": "0a65ea33f94c",
@@ -7277,8 +7304,8 @@
     }
   ],
   "stats": {
-    "total_jobs": 201,
-    "new_today": 0,
+    "total_jobs": 202,
+    "new_today": 1,
     "high_match": 38,
     "firms_scraped": 20,
     "firms_failed": 12,
