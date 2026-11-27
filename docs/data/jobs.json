@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-27T20:25:57.348465+00:00",
+  "last_updated": "2026-11-27T23:53:41.099788+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 22,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Citi": {
       "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Wells Fargo": {
-      "status": "error",
-      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
-    },
-    "Deutsche Bank": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
+    },
+    "Deutsche Bank": {
+      "status": "error",
+      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -98,33 +98,33 @@
       "count": 0
     },
     "Lombard Odier": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Lombard Odier unreachable: HTTP 429",
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Julius Baer": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "error",
-      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Fidelity International": {
-      "status": "error",
-      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "State Street": {
-      "status": "error",
-      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -206,9 +206,9 @@
       "count": 0
     },
     "Blackstone": {
-      "status": "error",
-      "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "error",
       "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "success",
-      "count": 1,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T20:25:57.348465+00:00"
+      "timestamp": "2026-11-27T23:53:41.099788+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -4012,6 +4012,33 @@
       "last_seen": "2026-11-27"
     },
     {
+      "id": "0a0f022350d9",
+      "bank": "Blackstone",
+      "category": "Private Equity",
+      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
+      "location": "London",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
+      "posted_date": "",
+      "description": "45297 | Strategic Incentives Group",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-04",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Duration: 6-month / off-cycle"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-27"
+    },
+    {
       "id": "51198f437826",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -4060,33 +4087,6 @@
         "Type: Internship/Stage",
         "Domain: capital markets",
         "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
-    },
-    {
-      "id": "0a0f022350d9",
-      "bank": "Blackstone",
-      "category": "Private Equity",
-      "title": "2027 Blackstone Strategic Partners Off Cycle Intern (London)",
-      "location": "London",
-      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Strategic-Partners-Off-Cycle-Intern--London-_45297",
-      "posted_date": "",
-      "description": "45297 | Strategic Incentives Group",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-04",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Duration: 6-month / off-cycle"
       ],
       "match_class": "low",
       "excluded": false,
@@ -7226,9 +7226,9 @@
     "total_jobs": 199,
     "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 20,
-    "firms_failed": 12,
-    "firms_empty": 10,
+    "firms_scraped": 23,
+    "firms_failed": 9,
+    "firms_empty": 14,
     "firms_total": 76
   }
 }
