@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-26T20:39:45.874442+00:00",
+  "last_updated": "2026-11-27T00:16:37.051430+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
-      "count": 23,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "count": 22,
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Citi": {
-      "status": "error",
-      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Wells Fargo": {
       "status": "error",
       "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Deutsche Bank": {
       "status": "error",
       "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "BBVA": {
-      "status": "error",
-      "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
-    },
-    "Santander": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
+    },
+    "Santander": {
+      "status": "error",
+      "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,31 +100,31 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Julius Baer": {
       "status": "error",
       "error": "ScrapeError: Workday Julius Baer unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
       "count": 0
     },
     "BlackRock": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Fidelity International": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "State Street": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Invesco": {
-      "status": "error",
-      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "error",
-      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "error",
       "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "error",
-      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "status": "success",
+      "count": 8,
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-26T20:39:45.874442+00:00"
+      "timestamp": "2026-11-27T00:16:37.051430+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -776,7 +776,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "8d8531fe1186",
@@ -897,7 +897,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": false,
@@ -929,7 +929,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": false,
@@ -961,7 +961,7 @@
       "match_class": "good",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "c8fcbc0ee543",
@@ -1685,7 +1685,7 @@
       "title": "Corporate Finance Intern - January 2027 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Corporate-Finance-Intern---January-2027---London_JR1002346",
-      "posted_date": "Posted 5 Days Ago",
+      "posted_date": "Posted 6 Days Ago",
       "description": "Company Overview:\nArdian is a world leading private investment house, managing or advising $200bn of assets on behalf of more than 1,920 clients globally. Our broad expertise, spanning Private Equity, Real Assets and Credit, enables us to offer a wide range of investment opportunities and respond flexibly to our clients’ differing needs. Through Ardian Customized Solutions we create bespoke portfolios that allow institutional clients to specify the precise mix of assets they require and to gain access to funds managed by leading third-party sponsors.\nWe also provide a specialist service for private clients through Ardian Private Wealth Solutions. Ardian is majority-owned by its employees and places great emphasis on developing its people and fostering a collaborative culture based on collective intelligence. Over 1,120 employees, spread across 22 offices in Europe, the Americas and Asia, and the Middle East, are strongly committed to the principles of Responsible Investment and are determined to make finance a force for good in society. Our goal is to deliver excellent investment performance combined with high ethical standards and social responsibility.\nAt Ardian we invest all of ourselves in building companies that last.\nJob Purpose:\nThe Corporate Finance Intern will be part of the Corporate Finance team.\nThe team is responsible for all Statutory, Regulatory, and Management reporting for Ardian UK.\nReporting to the Corporate Finance Manager, the Corporate Finance Intern will be part of a small, professional team.\nJob Responsibilities:\nPrepare reconciliations of Balance sheet accounts; and Profit and Loss analysis as required.\nPrepare Cost Centre analysis and reporting\nLog invoices to the system and assisting in the preparation of payment runs\nAssisting in the preparation of accruals and prepayments schedules\nComplete regular periodic bank reconciliations, updates and analysis\nReview employees’ expenses\nPrepare recharge schedules and analysis to the Funds, and other Ardian entities\nProvide detailed analysis to support the PSA (PAYE Settlement Agreement) process/submission\nComplete quarterly ONS (Office for National Statistics) surveys for Ardian UK\nMaintain/ draft process and procedure notes for all finance tasks\nSpecialised business and technical knowledge:\nStrong academic background\nGood communication and interpersonal skills\nAdvanced Excel skills\nExcellent numeracy, accuracy, and attention to detail\nAbility to work effectively within a team and collabo",
       "start_date": "2026-11-20",
       "time_type": "Full time",
@@ -1705,7 +1705,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": false,
@@ -1736,7 +1736,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": false,
@@ -1767,7 +1767,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "327d3f4acbbb",
@@ -1797,7 +1797,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "fd9f89d1205a",
@@ -1827,7 +1827,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "464941088c97",
@@ -1914,7 +1914,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "a9d67a8088c6",
@@ -2001,7 +2001,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "b1ffcfd1e8b5",
@@ -2030,7 +2030,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "b6f5ba7934ba",
@@ -2059,7 +2059,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "f608f51d47f0",
@@ -2085,7 +2085,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "a6f01e15d261",
@@ -2346,7 +2346,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "61bc71e98fcd",
@@ -2403,7 +2403,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "98836783533b",
@@ -2432,7 +2432,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "d23c22f2c608",
@@ -2461,7 +2461,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "0df08051c57b",
@@ -2490,7 +2490,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "0a7e933c328f",
@@ -2519,7 +2519,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "3a506648372b",
@@ -2548,7 +2548,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "ba58a05065e4",
@@ -2577,7 +2577,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "54fe2bb80d15",
@@ -2606,7 +2606,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "3384a9189adf",
@@ -2635,7 +2635,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "794fad16fec1",
@@ -2664,7 +2664,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "85db60a405c4",
@@ -2749,7 +2749,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e619cf06711f",
@@ -2779,34 +2779,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-15"
-    },
-    {
-      "id": "8d778afd7fcd",
-      "bank": "BlackRock",
-      "category": "Asset Manager",
-      "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London",
-      "location": "London, Greater London",
-      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "About this role\nQuantitative Master’s Internship Programme\nOur Quantitative Master’s Internship Programme is an immersive eight‑week experience in the UK that offers a clear window into life as a BlackRock Associate. Designed for specialised master’s students in quantitative fields, the programme gives you hands‑on exposure to our work, our people and the impact you can make.\nEligibility:\nStudents enrolled in analytics, computer science, engineering, mathematics or another quantitative‑focused master’s programme and graduating between August 2027 and July 2028, with at least one year of relevant work experience\nWe are looking for the next generation of quantitative investors. We offer a range of opportunities, spanning quantitative research, portfolio management, product strategy and investment technology.\nBlackRock Systematic is one of the largest quantitative investment managers in the world, with over $200bn in assets under management and 35+ years of systematic investing experience. We manage hedge funds, long-only active products and outcome-focused portfolios across a wide range of asset classes, geographies and time horizons.\nWe are constantly evolving to sustain our leadership position in quantitative investing – searching to unlock new opportunities presented by emerging technologies in machine learning and artificial intelligence paired with big(ger) data. We are a pioneer in sustainable investing, a leader in cutting-edge quantitative techniques, and passionate about delivering creative investment solutions for our diverse client base.\nOur team spans 200+ professionals from an array of professional, academic and cultural backgrounds, speaks 25+ different languages and collaborates across our San Francisco, New York and London offices. The team’s curiosity, diversity and ingenuity drive innovation and insight with the goal of delivering investment returns for clients.\nTeams you may be considered for:\nFactors, Sustainability and Solutions (FS2)\nFS2 combines the research and investment expertise across the BlackRock Systematic Investment platform to drive product innovation, product research and client engagement. Products and client solutions range from systematic return-seeking to factor-based, sustainability and outcome-oriented, spanning all asset classes. We constantly identify new product opportunities and develop unique investment models to best serve our clients.\nSystematic Active Equity\nA pioneering quantitative investment team comprised o",
-      "start_date": "2026-09-16",
-      "time_type": "Full time",
-      "duration": "",
-      "requirements": "Ability to write efficient, effective computer code (Python)\nExperience with translating statistical models and algorithms into code\nComfort in working with large datasets\nInquisitive nature, desire to learn and critical thinking\nEffective communication and collaboration skills\nCuriosity, critical thinking, learning agility, and sound judgement in technology-enabled decision making, coupled with an enthusiasm for AI, emerging technologies, and continuous innovation",
-      "source": "workday",
-      "first_seen": "2026-09-15",
-      "is_new": false,
-      "match_score": 53,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: equity, portfolio, fund",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "moderate",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-12"
     },
     {
       "id": "dd407960f54e",
@@ -2863,7 +2835,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "09b65cc29b0d",
@@ -2891,7 +2863,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "03a8c20baadd",
@@ -3006,7 +2978,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "9d8391b790ba",
@@ -3034,7 +3006,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "f27c1058affc",
@@ -3063,7 +3035,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "8826dc5019b5",
@@ -3091,7 +3063,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e47eefd3a9f7",
@@ -3148,7 +3120,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "6452a47abd58",
@@ -3176,7 +3148,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "81b9ebd93b95",
@@ -3204,7 +3176,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "baf2ae4e816e",
@@ -3232,7 +3204,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "48ac1aff9176",
@@ -3288,7 +3260,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "fcb2ac675a49",
@@ -3316,7 +3288,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "f913031e9a5a",
@@ -3372,7 +3344,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "1d446ccf62cd",
@@ -3540,7 +3512,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "8973da24c4b9",
@@ -3567,7 +3539,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "0557df9d2873",
@@ -3595,7 +3567,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "220a790a422a",
@@ -3623,7 +3595,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e075559b8c63",
@@ -3735,7 +3707,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "df964aa5f672",
@@ -3763,7 +3735,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "578d7be20f6b",
@@ -3819,7 +3791,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "cca820f9645e",
@@ -3902,7 +3874,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "50d4b188d0a3",
@@ -3929,7 +3901,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "92f20208170d",
@@ -3956,7 +3928,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "ae90a6b845a0",
@@ -3983,7 +3955,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "ff29e8b1e874",
@@ -4010,7 +3982,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "a0c360ede3da",
@@ -4037,7 +4009,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "51198f437826",
@@ -4202,7 +4174,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "8ea868119967",
@@ -4229,7 +4201,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "966aeee2595b",
@@ -4256,7 +4228,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e8557452bff2",
@@ -4283,7 +4255,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "977c5832be3c",
@@ -4310,34 +4282,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
-    },
-    {
-      "id": "b20221207e5a",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "HR Learning Stage - Janvier 2027 I Paris (M/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
-      "posted_date": "Posted 2 Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-07",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Start: Jan 2027"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "1cee6c365890",
@@ -4367,6 +4312,33 @@
       "last_seen": "2026-11-25"
     },
     {
+      "id": "b20221207e5a",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "HR Learning Stage - Janvier 2027 I Paris (M/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Learning-Intern_JR1002186",
+      "posted_date": "Posted 3 Days Ago",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-07",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Start: Jan 2027"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-27"
+    },
+    {
       "id": "89a24e701172",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4391,7 +4363,35 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
+    },
+    {
+      "id": "97ed5f970108",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Corporate Development (Stratégie - M&A) Stage - Mars 2027  | Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Corporate-Development-Stage---Mars-2027----Paris--H-F-_JR1002088",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-09-03",
+      "is_new": false,
+      "match_score": 40,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage",
+        "Domain: M&A",
+        "Track privilégié: Corporate / Banking"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-27"
     },
     {
       "id": "9856e5ea3dae",
@@ -4449,34 +4449,6 @@
       "last_seen": "2026-11-25"
     },
     {
-      "id": "97ed5f970108",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Corporate Development (Stratégie - M&A) Stage - Mars 2027  | Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Corporate-Development-Stage---Mars-2027----Paris--H-F-_JR1002088",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-09-03",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage",
-        "Domain: M&A",
-        "Track privilégié: Corporate / Banking"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
-    },
-    {
       "id": "f2e6156ac46f",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -4504,34 +4476,6 @@
       "last_seen": "2026-11-25"
     },
     {
-      "id": "6695652583ab",
-      "bank": "Wells Fargo",
-      "category": "Investment Bank",
-      "title": "Technology Internship Program",
-      "location": "CITY OF LONDON,",
-      "url": "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607",
-      "posted_date": "Posted 8 Days Ago",
-      "description": "Wells Fargo is seeking aspiring Software Engineers to join the 2027 Technology Internship Program. Learn more at\nEarly Careers – Wells Fargo Technology\nThe Wells Fargo Technology Internship Program provides participants with a 10-week experience designed to immerse students in real-world engineering, modern software development practices, and enterprise-scale technology at Wells Fargo. The program blends technical execution with business context, emphasizing innovation, velocity, and responsible technology development.\nParticipants will:\n·       Work hands-on with impactful, production-aligned projects\n·       Gain exposure to modern engineering practices and AI-enabled development workflows\n·       Participate in structured training, mentorship, and networking with senior technology leaders\nUpon successful completion, high-performing interns may receive an offer to join the EMEA 2028 Technology Analyst Program.\nIn this role, your responsibilities as a Software Engineering Intern may include:\nDesign, develop, test, and deploy scalable applications, including enhancements, bug fixes, and new services across enterprise platforms\nCollaborate in Agile (Scrum / Kanban) teams to deliver high-quality, secure, and maintainable code\nDevelop platform and operational solutions\nAI-Enabled Engineering & Modern Development Practices:\nLeverage enterprise-approved generative AI tools (e.g., Copilot, Devin, etc.) and AI platforms to accelerate development, including:\nGenerating unit and integration test cases aligned with Wells Fargo QA standards\nAssisting with code development, documentation, and refactoring within approved toolchain boundaries\nSupporting rapid prototyping and solution design exploration within sandbox/non-production environments\nPartner with senior engineers to review, validate, and govern AI-generated code to ensure alignment with enterprise architecture, risk, and security standards\nContribute to AI-augmented development workflows including automated documentation, code review assistance, and developer productivity tooling within approved SDLC processes\nExplore opportunities to integrate AI/ML capabilities into applications (e.g., intelligent automation, predictive insights, natural language interfaces) in alignment with Model Risk Management (MRM) guidelines and regulatory requirements\nApply prompt engineering techniques to improve accuracy, efficiency, and reliability of AI-assisted outputs while adhering to data handling and confidentiality policies",
-      "start_date": "2026-11-04",
-      "time_type": "Full time",
-      "duration": "10 weeks",
-      "requirements": "Data, Platforms, and Architecture:\nBuild and maintain APIs, microservices, and cloud-based applications\nContribute to data engineering efforts, including data modeling, pipeline development, and analytics environments",
-      "source": "workday",
-      "first_seen": "2026-11-04",
-      "is_new": false,
-      "match_score": 40,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk",
-        "Markets (Equities / FICC / Structuration)"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-12"
-    },
-    {
       "id": "37f43abae142",
       "bank": "Morgan Stanley",
       "category": "Investment Bank",
@@ -4546,7 +4490,7 @@
       "requirements": "",
       "source": "oleeo",
       "first_seen": "2026-11-26",
-      "is_new": true,
+      "is_new": false,
       "match_score": 37,
       "match_reasons": [
         "Location: London",
@@ -4556,7 +4500,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "0a65ea33f94c",
@@ -4638,7 +4582,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e96a18ac15c7",
@@ -4665,7 +4609,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "0f2266177bf6",
@@ -4692,7 +4636,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "c5d7eb586f35",
@@ -4719,7 +4663,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "19e298b8bc57",
@@ -4854,34 +4798,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
-    },
-    {
-      "id": "e476717a4bf1",
-      "bank": "Morgan Stanley",
-      "category": "Investment Bank",
-      "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
-      "location": "London",
-      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
-      "posted_date": "",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "oleeo",
-      "first_seen": "2026-09-11",
-      "is_new": false,
-      "match_score": 33,
-      "match_reasons": [
-        "Location: London",
-        "Type: Internship/Stage",
-        "Domain: risk"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "d7edcf65d485",
@@ -4904,6 +4821,33 @@
         "Location: London",
         "Type: Internship/Stage",
         "Domain: strategy"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-27"
+    },
+    {
+      "id": "e476717a4bf1",
+      "bank": "Morgan Stanley",
+      "category": "Investment Bank",
+      "title": "2027 ISG Central Risk Industrial Placement Internship (London)",
+      "location": "London",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/1/opp/22047-2027-ISG-Central-Risk-Industrial-Placement-Internship-London/en-GB",
+      "posted_date": "",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "oleeo",
+      "first_seen": "2026-09-11",
+      "is_new": false,
+      "match_score": 33,
+      "match_reasons": [
+        "Location: London",
+        "Type: Internship/Stage",
+        "Domain: risk"
       ],
       "match_class": "low",
       "excluded": false,
@@ -4935,7 +4879,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "b6c923984536",
@@ -4962,7 +4906,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "eaec3716841c",
@@ -4990,7 +4934,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": true,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "d3aaf8beb0de",
@@ -5018,7 +4962,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "5a6ba218b535",
@@ -5045,7 +4989,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "7ace1a02f5ce",
@@ -5072,7 +5016,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "897e2d7e1981",
@@ -5099,7 +5043,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "7a15baa37efc",
@@ -5152,7 +5096,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "016333067964",
@@ -5178,7 +5122,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "afd7af9c4f3d",
@@ -5335,7 +5279,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "a92510c0711e",
@@ -5362,7 +5306,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "61a8875c151c",
@@ -5388,7 +5332,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "bac21fa1e47f",
@@ -5414,7 +5358,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "ed698f6f6015",
@@ -5440,7 +5384,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "6f7768fd3ca8",
@@ -5466,7 +5410,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "9301267d5533",
@@ -5490,7 +5434,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "9f824c203698",
@@ -5516,7 +5460,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "f656b9b1205d",
@@ -5541,7 +5485,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "00bb36974f42",
@@ -5645,7 +5589,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "d5681db0a3b6",
@@ -5785,7 +5729,7 @@
       "title": "Secondaries & Primaries Data Science Intern - March 2027 | London",
       "location": "London",
       "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---March-2027---London_JR1002355",
-      "posted_date": "Posted Today",
+      "posted_date": "Posted Yesterday",
       "description": "",
       "start_date": "",
       "time_type": "",
@@ -5802,7 +5746,7 @@
       "match_class": "low",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "db20e8e6fe18",
@@ -5828,7 +5772,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "baffd71bede1",
@@ -5854,7 +5798,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": true,
@@ -5887,7 +5831,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": true,
@@ -5920,7 +5864,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "expired": true,
@@ -5952,7 +5896,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "e76b03b36a19",
@@ -5978,7 +5922,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "781dcefbbb09",
@@ -6003,7 +5947,7 @@
       "match_class": "minimal",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "735f878813f3",
@@ -7304,12 +7248,12 @@
     }
   ],
   "stats": {
-    "total_jobs": 202,
-    "new_today": 1,
+    "total_jobs": 200,
+    "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 20,
-    "firms_failed": 12,
-    "firms_empty": 11,
+    "firms_scraped": 22,
+    "firms_failed": 10,
+    "firms_empty": 12,
     "firms_total": 76
   }
 }
