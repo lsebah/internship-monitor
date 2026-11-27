@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-11-27T17:22:15.336298+00:00",
+  "last_updated": "2026-11-27T20:25:57.348465+00:00",
   "scrape_status": {
     "JP Morgan": {
       "status": "success",
       "count": 12,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Goldman Sachs": {
       "status": "success",
       "count": 31,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Morgan Stanley": {
       "status": "success",
       "count": 22,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Citi": {
-      "status": "error",
-      "error": "ScrapeError: Workday Citi unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Bank of America": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Wells Fargo": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Wells Fargo unreachable: HTTP 429",
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Deutsche Bank": {
-      "status": "error",
-      "error": "ScrapeError: Workday Deutsche Bank unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "success",
+      "count": 0,
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Barclays": {
       "status": "error",
       "error": "ScrapeError: Workday Barclays unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "HSBC": {
       "status": "link_only",
@@ -68,22 +68,22 @@
     "Rothschild & Co": {
       "status": "error",
       "error": "ScrapeError: Workday Rothschild & Co unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Lazard": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "BBVA": {
       "status": "error",
       "error": "ScrapeError: Workday BBVA unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Santander": {
       "status": "error",
       "error": "ScrapeError: Workday Santander unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "CaixaBank": {
       "status": "link_only",
@@ -100,12 +100,12 @@
     "Lombard Odier": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Julius Baer": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Edmond de Rothschild": {
       "status": "link_only",
@@ -114,17 +114,17 @@
     "BlackRock": {
       "status": "error",
       "error": "ScrapeError: Workday BlackRock unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Fidelity International": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Fidelity International unreachable: HTTP 429",
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "State Street": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday State Street unreachable: HTTP 429",
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Amundi": {
       "status": "link_only",
@@ -133,21 +133,21 @@
     "Schroders": {
       "status": "success",
       "count": 6,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Invesco": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Invesco unreachable: HTTP 429",
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "PIMCO": {
       "status": "link_only",
       "count": 0
     },
     "Vanguard": {
-      "status": "success",
-      "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "error",
+      "error": "ScrapeError: Workday Vanguard unreachable: HTTP 429",
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Tikehau Capital": {
       "status": "link_only",
@@ -164,7 +164,7 @@
     "Point72": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "LMR Partners": {
       "status": "link_only",
@@ -181,17 +181,17 @@
     "Bridgewater Associates": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Man Group": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Marshall Wace": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Brevan Howard": {
       "status": "link_only",
@@ -208,7 +208,7 @@
     "Blackstone": {
       "status": "error",
       "error": "ScrapeError: Workday Blackstone unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "KKR": {
       "status": "link_only",
@@ -217,21 +217,21 @@
     "Apollo Global Management": {
       "status": "error",
       "error": "ScrapeError: Workday Apollo Global Management unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Carlyle Group": {
       "status": "link_only",
       "count": 0
     },
     "Ardian": {
-      "status": "error",
-      "error": "ScrapeError: Workday Ardian unreachable: HTTP 429",
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "status": "success",
+      "count": 1,
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Apax Partners": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Thoma Bravo": {
       "status": "link_only",
@@ -244,12 +244,12 @@
     "Permira": {
       "status": "success",
       "count": 2,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "EQT": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Eurazeo": {
       "status": "link_only",
@@ -266,7 +266,7 @@
     "TPG": {
       "status": "success",
       "count": 1,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Cinven": {
       "status": "link_only",
@@ -275,7 +275,7 @@
     "Evercore": {
       "status": "success",
       "count": 0,
-      "timestamp": "2026-11-27T17:22:15.336298+00:00"
+      "timestamp": "2026-11-27T20:25:57.348465+00:00"
     },
     "Houlihan Lokey": {
       "status": "link_only",
@@ -1568,7 +1568,7 @@
       "title": "Banking, Investment Banking – Healthcare, Placement Analyst, London – United Kingdom 2027",
       "location": "London  United Kingdom",
       "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Investment-Banking---Healthcare--Placement-Analyst--London---United-Kingdom-2027_261003080",
-      "posted_date": "Posted 29 Days Ago",
+      "posted_date": "Posted 30+ Days Ago",
       "description": "Citi is looking for placement analysts to join the Investment Banking Healthcare team in London, from February 2027.\nWe provide you with the knowledge and skills you need to succeed:\nWe’re committed to teaching you the ropes. During our 3-6 month placement analyst program, which starts in February 2027, you will be assigned to the IB Healthcare team. Successful placement analysts will be considered for a full time position after graduation.\nYour time here will look something like this:\nKeeping up to date on the latest news, developments and trends that are driving equity markets by using the intelligence of Citi’s global equities platform, communicating that information to your clients.\nDevelop an understanding of how companies are viewed and valued by institutional investors through speaking to some of the most important mutual fund and hedge fund managers.\nBuild financial models, assess valuation, and explore transaction opportunities for your clients\nConduct research and analyse industry trends.\nHelp to strengthen your clients’ shareholder base by conducting analysis on potential new investors.\nParticipate in client development by having an active role in building new and existing client relationships, and assisting in the presentation of new ideas to clients.\nWe want to hear from you if:\nYou are studying for a degree that allows for a 3-6-month industrial placement or have graduated.\nExpected to achieve or have achieved a 2:1 (or equivalent) at undergraduate level in any degree discipline.\nYou have an interest in business.\nYou are available to start in February 2027.\nWho we think will be a great fit:\nWe’re looking for motivated individuals, who are eager to grow their careers in Investment Banking. Successful candidates take pride in all aspects of their work and recognize that it is a reflection not just of the firm, but of themselves. We value diversity and so do you. We’ll also be looking for the following:\nCommitment to personal growth and career development including mobility and flexibility. You also have a strong desire to learn, are proactive, building rapport and relationships in team environments.\nDesire to develop a deep understanding of the financial industry.\nIntellectual curiosity and proactive approach to searching for new and creative ideas.\nStrong communication, planning, and organizational skills.\nUnquestioned commitment to integrity and ethical decision-making.\nInterest in business.\nWe will be recruiting on a rolling basis therefore ",
       "start_date": "2026-10-27",
       "time_type": "Full time",
@@ -1589,7 +1589,7 @@
       "match_class": "moderate",
       "excluded": false,
       "level_mismatch": false,
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "3f4fa0dadd17",
@@ -5541,6 +5541,32 @@
       "last_seen": "2026-11-25"
     },
     {
+      "id": "d5681db0a3b6",
+      "bank": "Ardian",
+      "category": "Private Equity",
+      "title": "Legal-Structuration Stage - Juillet 2027 I Paris (H/F)",
+      "location": "Paris",
+      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170",
+      "posted_date": "Posted 30+ Days Ago",
+      "description": "",
+      "start_date": "",
+      "time_type": "",
+      "duration": "",
+      "requirements": "",
+      "source": "workday",
+      "first_seen": "2026-07-10",
+      "is_new": false,
+      "match_score": 30,
+      "match_reasons": [
+        "Location: Paris",
+        "Type: Internship/Stage"
+      ],
+      "match_class": "low",
+      "excluded": false,
+      "level_mismatch": false,
+      "last_seen": "2026-11-27"
+    },
+    {
       "id": "d17d56d6485f",
       "bank": "Ardian",
       "category": "Private Equity",
@@ -5565,32 +5591,6 @@
       "excluded": false,
       "level_mismatch": false,
       "last_seen": "2026-11-27"
-    },
-    {
-      "id": "d5681db0a3b6",
-      "bank": "Ardian",
-      "category": "Private Equity",
-      "title": "Legal-Structuration Stage - Juillet 2027 I Paris (H/F)",
-      "location": "Paris",
-      "url": "https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/Paris/Legal-Structuration-Stage---Juillet-2027-I-Paris--H-F-_JR1002170",
-      "posted_date": "Posted 30+ Days Ago",
-      "description": "",
-      "start_date": "",
-      "time_type": "",
-      "duration": "",
-      "requirements": "",
-      "source": "workday",
-      "first_seen": "2026-07-10",
-      "is_new": false,
-      "match_score": 30,
-      "match_reasons": [
-        "Location: Paris",
-        "Type: Internship/Stage"
-      ],
-      "match_class": "low",
-      "excluded": false,
-      "level_mismatch": false,
-      "last_seen": "2026-11-25"
     },
     {
       "id": "5c24d3d840ba",
@@ -7226,9 +7226,9 @@
     "total_jobs": 199,
     "new_today": 0,
     "high_match": 38,
-    "firms_scraped": 22,
-    "firms_failed": 10,
-    "firms_empty": 14,
+    "firms_scraped": 20,
+    "firms_failed": 12,
+    "firms_empty": 10,
     "firms_total": 76
   }
 }
